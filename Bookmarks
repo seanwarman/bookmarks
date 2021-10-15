@@ -1,5 +1,5 @@
 {
-   "checksum": "7f539c20104509710da3bed8a6233b66",
+   "checksum": "04fa59f40dc5ff52c9f040a88ae97e4e",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2938,13 +2938,6 @@
                "id": "489",
                "name": "Moji",
                "type": "folder"
-            }, {
-               "date_added": "13278763058841786",
-               "guid": "06bbe5c9-2b37-44bc-a3e3-5ec248a5933a",
-               "id": "491",
-               "name": "Temp Mail",
-               "type": "url",
-               "url": "https://temp-mail.org/en/"
             } ],
             "date_added": "13278762986375210",
             "date_modified": "13278763497529054",
@@ -2959,9 +2952,16 @@
             "name": "SMS",
             "type": "url",
             "url": "https://receive-smss.com/"
+         }, {
+            "date_added": "13278763058841786",
+            "guid": "06bbe5c9-2b37-44bc-a3e3-5ec248a5933a",
+            "id": "491",
+            "name": "Temp Mail",
+            "type": "url",
+            "url": "https://temp-mail.org/en/"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13278763086923582",
+         "date_modified": "13278764194746515",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
