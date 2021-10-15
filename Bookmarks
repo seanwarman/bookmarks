@@ -1,0 +1,2990 @@
+{
+   "checksum": "7f539c20104509710da3bed8a6233b66",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13244791723000000",
+                     "guid": "b12b3816-d285-48b5-8ee0-912acbf4ae15",
+                     "id": "42",
+                     "name": "Core Components",
+                     "type": "url",
+                     "url": "https://reactnative.dev/docs/components-and-apis"
+                  }, {
+                     "date_added": "13244793594000000",
+                     "guid": "83dcb690-1e0b-4bff-a25b-b98da3443d23",
+                     "id": "43",
+                     "name": "PressEvent",
+                     "type": "url",
+                     "url": "https://reactnative.dev/docs/pressevent"
+                  }, {
+                     "date_added": "13244834055000000",
+                     "guid": "ffb253c7-45d7-42b4-8a60-1860332d8079",
+                     "id": "44",
+                     "name": "Setting up dev environment",
+                     "type": "url",
+                     "url": "https://reactnative.dev/docs/environment-setup"
+                  }, {
+                     "date_added": "13245933077000000",
+                     "guid": "5cd5983e-246f-4bd5-ad90-37e966f3587c",
+                     "id": "45",
+                     "name": "react-native-router-flux",
+                     "type": "url",
+                     "url": "https://github.com/aksonov/react-native-router-flux"
+                  }, {
+                     "date_added": "13245945529000000",
+                     "guid": "9ac8fac8-8d41-4fb6-872e-d67d49a7529d",
+                     "id": "46",
+                     "name": "react-native-styling-cheat-sheet",
+                     "type": "url",
+                     "url": "https://github.com/vhpoet/react-native-styling-cheat-sheet"
+                  }, {
+                     "date_added": "13246686177000000",
+                     "guid": "fca70b13-3271-4893-b5f5-03004427236c",
+                     "id": "47",
+                     "name": "n4kz/react-native-indicators",
+                     "type": "url",
+                     "url": "https://github.com/n4kz/react-native-indicators"
+                  }, {
+                     "date_added": "13253034079000000",
+                     "guid": "ba312074-2eb6-4ee8-b8ac-2fe0febe02c1",
+                     "id": "48",
+                     "name": "react-native-keyboard-aware-scroll-view",
+                     "type": "url",
+                     "url": "https://github.com/APSL/react-native-keyboard-aware-scroll-view"
+                  }, {
+                     "date_added": "13253034098000000",
+                     "guid": "bc9ecaa1-ff49-4782-bcb3-9a9e7eb795af",
+                     "id": "49",
+                     "name": "Dimensions · React Native",
+                     "type": "url",
+                     "url": "https://reactnative.dev/docs/dimensions"
+                  }, {
+                     "date_added": "13255105850000000",
+                     "guid": "e0efd8f3-e237-4dde-9596-7ebbd5f09d0c",
+                     "id": "50",
+                     "name": "How to Install and Use ADB, the Android Debug Bridge Utility",
+                     "type": "url",
+                     "url": "https://www.howtogeek.com/125769/how-to-install-and-use-abd-the-android-debug-bridge-utility/"
+                  }, {
+                     "date_added": "13255173477000000",
+                     "guid": "d1ba5439-7f4b-43c6-9bdf-ece0670782fc",
+                     "id": "51",
+                     "name": "Running On Device · React Native",
+                     "type": "url",
+                     "url": "https://reactnative.dev/docs/running-on-device"
+                  }, {
+                     "date_added": "13255806519000000",
+                     "guid": "0d74093a-3c58-48b5-9432-d47c1b0d82d1",
+                     "id": "52",
+                     "name": "How do you hide the warnings in React Native iOS simulator? - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/35309385/how-do-you-hide-the-warnings-in-react-native-ios-simulator"
+                  }, {
+                     "date_added": "13259255421000000",
+                     "guid": "8bbe8477-2b2a-4ce2-a66f-556719a25150",
+                     "id": "53",
+                     "name": "javascript - When to use JSX.Element vs ReactNode vs ReactElement? - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/58123398/when-to-use-jsx-element-vs-reactnode-vs-reactelement#58123882"
+                  }, {
+                     "date_added": "13260616769000000",
+                     "guid": "5a6c55dc-da53-40a6-ab84-fb9061c8e716",
+                     "id": "54",
+                     "name": "vhpoet/react-native-styling-cheat-sheet: Most of the React Native styling material in one page",
+                     "type": "url",
+                     "url": "https://github.com/vhpoet/react-native-styling-cheat-sheet#transforms"
+                  }, {
+                     "date_added": "13263713592000000",
+                     "guid": "eac31f19-11e0-4fef-958a-402425396516",
+                     "id": "55",
+                     "name": "gcal/outlook like calendar component for React Native",
+                     "type": "url",
+                     "url": "https://github.com/acro5piano/react-native-big-calendar"
+                  }, {
+                     "date_added": "13267266110000000",
+                     "guid": "5cd018ef-7188-4673-b08a-736ce0619e59",
+                     "id": "56",
+                     "name": "Important adb commands for RN",
+                     "type": "url",
+                     "url": "https://nkaushik.com/react-native/important-adb-commands-for-android-react-native-developer/"
+                  }, {
+                     "date_added": "13267398701000000",
+                     "guid": "7255d079-7529-43cb-b590-e5f2456c7fe0",
+                     "id": "57",
+                     "name": "Layout Props · React Native",
+                     "type": "url",
+                     "url": "https://reactnative.dev/docs/layout-props#aligncontent"
+                  }, {
+                     "date_added": "13267523200000000",
+                     "guid": "94ae14de-0c11-44ad-8fb1-edf8f07c0adc",
+                     "id": "58",
+                     "name": "Animated · React Native",
+                     "type": "url",
+                     "url": "https://reactnative.dev/docs/animated#event"
+                  }, {
+                     "date_added": "13267523213000000",
+                     "guid": "d2f9d6ec-1cf1-4239-9d03-6b281fd41485",
+                     "id": "59",
+                     "name": "Animations · React Native",
+                     "type": "url",
+                     "url": "https://reactnative.dev/docs/animations#tracking-gestures"
+                  }, {
+                     "date_added": "13267525191000000",
+                     "guid": "8d07ce74-8661-4a2b-afb1-01727e836287",
+                     "id": "60",
+                     "name": "All Android Key Events for usage with adb shell",
+                     "type": "url",
+                     "url": "https://gist.github.com/arjunv/2bbcca9a1a1c127749f8dcb6d36fb0bc"
+                  }, {
+                     "date_added": "13267525523000000",
+                     "guid": "59d2650a-a0d5-493d-ae79-e5add0a44758",
+                     "id": "61",
+                     "name": "KeyEvent  |  Android Developers",
+                     "type": "url",
+                     "url": "https://developer.android.com/reference/android/view/KeyEvent.html"
+                  }, {
+                     "date_added": "13267716994000000",
+                     "guid": "60c990ed-f4cc-4927-bdd9-0a8000d0f349",
+                     "id": "62",
+                     "name": "Igor Moura - Using ADB to quickly simulate touch events",
+                     "type": "url",
+                     "url": "https://igor.mp/blog/2018/02/23/using-adb-simulate-touch-events.html"
+                  }, {
+                     "date_added": "13269422996000000",
+                     "guid": "264be3fa-6c88-4bfa-aaa3-97c7bd77cdd0",
+                     "id": "63",
+                     "name": "Looping example",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/42149793/how-to-stop-a-looping-animation-in-react-native"
+                  }, {
+                     "children": [ {
+                        "date_added": "13269511854000000",
+                        "guid": "2c4e05c9-39b6-4acb-8f5f-84f620487a53",
+                        "id": "65",
+                        "name": "getItemLayout in React-Native FlatList - Stack Overflow",
+                        "type": "url",
+                        "url": "https://stackoverflow.com/questions/56416228/getitemlayout-in-react-native-flatlist"
+                     }, {
+                        "date_added": "13269511867000000",
+                        "guid": "22dad535-6c1b-4b40-9a27-9ea8017ca9a9",
+                        "id": "66",
+                        "name": "React Native’s SectionList and getItemLayout | by Jan Söndermann | Medium",
+                        "type": "url",
+                        "url": "https://medium.com/@jsoendermann/sectionlist-and-getitemlayout-2293b0b916fb"
+                     }, {
+                        "date_added": "13269511871000000",
+                        "guid": "c3db1169-2d63-4cea-9327-d86a15299107",
+                        "id": "67",
+                        "name": "react componentwillmount using useeffect Code Example",
+                        "type": "url",
+                        "url": "https://www.codegrepper.com/code-examples/javascript/react+componentwillmount+using+useeffect"
+                     }, {
+                        "date_added": "13269511874000000",
+                        "guid": "37930322-d92e-45f7-a48f-c0fad6d154dc",
+                        "id": "68",
+                        "name": "javascript - Set contentInset and contentOffset in React Native's ScrollView - Stack Overflow",
+                        "type": "url",
+                        "url": "https://stackoverflow.com/questions/46413642/set-contentinset-and-contentoffset-in-react-natives-scrollview"
+                     }, {
+                        "date_added": "13269511879000000",
+                        "guid": "b12f155a-230c-4b7c-b8d8-06c4ed8a78ae",
+                        "id": "69",
+                        "name": "How To Create Custom Pull To Refresh Animations In React Native | by Chan Jing Hong | JavaScript in Plain English",
+                        "type": "url",
+                        "url": "https://javascript.plainenglish.io/react-native-how-to-create-custom-pull-to-refresh-animations-aa0d14329dc0"
+                     }, {
+                        "date_added": "13271257389000000",
+                        "guid": "8ed99efa-e179-49e1-813e-6f23542903b9",
+                        "id": "70",
+                        "name": "Lottie Editor",
+                        "type": "url",
+                        "url": "https://edit.lottiefiles.com/?src=https%3A%2F%2Fassets5.lottiefiles.com%2Fpackages%2Flf20_gnhukhnh.json"
+                     }, {
+                        "date_added": "13271257413000000",
+                        "guid": "80d2c053-3360-4350-8579-0423b2b2b36a",
+                        "id": "71",
+                        "name": "Free Lottie Animation Files, Tools & Plugins - LottieFiles",
+                        "type": "url",
+                        "url": "https://lottiefiles.com/46196-pull-down-scroll-down"
+                     }, {
+                        "date_added": "13271788103000000",
+                        "guid": "d0b2cc1c-dbcd-47f5-a570-70b1e8607d35",
+                        "id": "72",
+                        "name": "simonhoss/react-native-touch-through-view: Component library that allows for scroll views and table views to scroll over interactable content without poor performing size and bounds animations.",
+                        "type": "url",
+                        "url": "https://github.com/simonhoss/react-native-touch-through-view"
+                     }, {
+                        "date_added": "13271788119000000",
+                        "guid": "d1d7716e-9f0e-4f2b-81a4-711dbaeca372",
+                        "id": "73",
+                        "name": "ScrollView inside Pan Responder not scrolling · Issue #11206 · facebook/react-native",
+                        "type": "url",
+                        "url": "https://github.com/facebook/react-native/issues/11206"
+                     } ],
+                     "date_added": "13277233018926804",
+                     "date_modified": "0",
+                     "guid": "e1960690-33c3-475a-9a0b-14335191d853",
+                     "id": "64",
+                     "name": "Refresh Control",
+                     "type": "folder"
+                  }, {
+                     "date_added": "13269614058000000",
+                     "guid": "42fea1b8-c8b2-40d8-a957-7f7539cbc1a0",
+                     "id": "74",
+                     "name": "react native - Malformed calls from JS: field sizes are different - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/55084493/malformed-calls-from-js-field-sizes-are-different"
+                  }, {
+                     "date_added": "13272968612000000",
+                     "guid": "a61feefa-5888-42ae-b6e0-a8ee7e4fa84a",
+                     "id": "75",
+                     "name": "Home | Realm.io",
+                     "type": "url",
+                     "url": "https://realm.io/"
+                  } ],
+                  "date_added": "13277233018924325",
+                  "date_modified": "0",
+                  "guid": "847252ee-0aca-4c38-9a8d-645a7cb08bea",
+                  "id": "41",
+                  "name": "⚛️ React Native",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13244822278000000",
+                     "guid": "e9cedb62-34af-40ed-be3c-ac2bf8ac6f85",
+                     "id": "77",
+                     "name": "Hooks API Reference – React",
+                     "type": "url",
+                     "url": "https://reactjs.org/docs/hooks-reference.html#usememo"
+                  }, {
+                     "date_added": "13245844991000000",
+                     "guid": "d2c60014-78b5-4f84-af52-bfbd9df53119",
+                     "id": "78",
+                     "name": "Building Your Own Hooks – React",
+                     "type": "url",
+                     "url": "https://reactjs.org/docs/hooks-custom.html"
+                  }, {
+                     "date_added": "13246679484000000",
+                     "guid": "5330cdb8-b253-47ad-b642-eac777154adc",
+                     "id": "79",
+                     "name": "useReducer with Logger and Thunk Middlewares, customHook | by Jabir Hussain | Emumba",
+                     "type": "url",
+                     "url": "https://blog.emumba.com/usereducer-with-logger-and-thunk-middlewares-customhook-907e0b87082f"
+                  }, {
+                     "date_added": "13269617039000000",
+                     "guid": "d7358082-b923-4d0e-889f-085b8e8d24b0",
+                     "id": "80",
+                     "name": "Rules of Hooks – React",
+                     "type": "url",
+                     "url": "https://reactjs.org/docs/hooks-rules.html"
+                  } ],
+                  "date_added": "13277233018928050",
+                  "date_modified": "0",
+                  "guid": "cf71b547-749e-467c-95fa-82856b12aced",
+                  "id": "76",
+                  "name": "⚛️ React",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13254575453000000",
+                     "guid": "3a710d75-a1e5-4d11-b3ac-8d6919f43118",
+                     "id": "82",
+                     "name": "javascript - getState in redux-saga? - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/38405700/getstate-in-redux-saga"
+                  }, {
+                     "date_added": "13262697866000000",
+                     "guid": "de42c2c3-56cb-4188-8a8e-d1fbd797bc64",
+                     "id": "83",
+                     "name": "Redux-Saga",
+                     "type": "url",
+                     "url": "https://redux-saga.js.org/docs/api/"
+                  }, {
+                     "date_added": "13264683595000000",
+                     "guid": "aa419898-687d-4278-a32a-91d5d84f87b7",
+                     "id": "84",
+                     "name": "Future Actions | Redux-Saga",
+                     "type": "url",
+                     "url": "https://redux-saga.js.org/docs/advanced/FutureActions/"
+                  }, {
+                     "date_added": "13264683611000000",
+                     "guid": "86b8472b-efc2-492b-a0f5-918d6f17a73f",
+                     "id": "85",
+                     "name": "API Reference | Redux-Saga",
+                     "type": "url",
+                     "url": "https://redux-saga.js.org/docs/api/#forkfn-args"
+                  }, {
+                     "date_added": "13268935704000000",
+                     "guid": "6905771d-278d-444f-934b-8577ada16e34",
+                     "id": "86",
+                     "name": "[RFC] yield restart(task) / task.restart() · Issue #762 · redux-saga/redux-saga",
+                     "type": "url",
+                     "url": "https://github.com/redux-saga/redux-saga/issues/762"
+                  } ],
+                  "date_added": "13277233018928389",
+                  "date_modified": "0",
+                  "guid": "d5ea15ab-9d83-40a1-bebc-06d89609408e",
+                  "id": "81",
+                  "name": "Redux Sagas",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13244903633000000",
+                     "guid": "33927f2f-fccf-4868-b9bc-1bd1c2f2e2ab",
+                     "id": "88",
+                     "name": "Mobile App | Nuclino",
+                     "type": "url",
+                     "url": "https://app.nuclino.com/CarePlanner/Mobile-App"
+                  }, {
+                     "date_added": "13246387949000000",
+                     "guid": "d7377da9-0d93-4db5-87f9-49950b6bd0c0",
+                     "id": "89",
+                     "name": "Git + kubernetes Cheatsheet | Nuclino",
+                     "type": "url",
+                     "url": "https://app.nuclino.com/CarePlanner/QA-Docs/Git-kubernetes-Cheatsheet-143071b3-48d2-44e3-b36f-8fc9a6451fcb"
+                  }, {
+                     "date_added": "13246546048000000",
+                     "guid": "050f78ab-c9bd-45a8-8e6c-de3b1aa40b24",
+                     "id": "90",
+                     "name": "Releases and environments",
+                     "type": "url",
+                     "url": "https://app.nuclino.com/CarePlanner/Mobile-App/Releases-and-environments-456586bf-564a-459c-9a94-55cf9235b4d8"
+                  }, {
+                     "date_added": "13251395524000000",
+                     "guid": "ebe9b21e-f81a-4b1f-809b-9b0c7059f0a6",
+                     "id": "91",
+                     "name": "CarePlanner API Documentation",
+                     "type": "url",
+                     "url": "https://apidocs.pre.care-planner.co.uk/#operation/login"
+                  } ],
+                  "date_added": "13277233018928788",
+                  "date_modified": "0",
+                  "guid": "33fdd730-6432-4fa1-8da6-bb5e82dac190",
+                  "id": "87",
+                  "name": "Care Planner",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13245844939000000",
+                     "guid": "62f5ddc5-9ddc-48cb-8f75-ace0709f18f5",
+                     "id": "93",
+                     "name": "TypeScript 4.0 Cheat Sheet",
+                     "type": "url",
+                     "url": "https://www.sitepen.com/blog/typescript-cheat-sheet/"
+                  }, {
+                     "date_added": "13245844971000000",
+                     "guid": "9e4d1388-2d7d-44b4-9225-87eaaeb313b3",
+                     "id": "94",
+                     "name": "TypeScript for JS Devs",
+                     "type": "url",
+                     "url": "https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html"
+                  }, {
+                     "date_added": "13247309419000000",
+                     "guid": "ded10b00-8683-4e8a-b09c-e23652adb1a2",
+                     "id": "95",
+                     "name": "Function Overloads in TypeScript — Marius Schulz",
+                     "type": "url",
+                     "url": "https://mariusschulz.com/blog/function-overloads-in-typescript"
+                  }, {
+                     "date_added": "13247309432000000",
+                     "guid": "3cbe1eed-7eee-4f23-b47e-d43c9f109556",
+                     "id": "96",
+                     "name": "TypeScript: Handbook - Generics",
+                     "type": "url",
+                     "url": "https://www.typescriptlang.org/docs/handbook/generics.html"
+                  }, {
+                     "date_added": "13245256221000000",
+                     "guid": "1f30349a-27f7-4ef8-807b-18918a6b247e",
+                     "id": "97",
+                     "name": "TypeScript: Playground - An online editor for exploring TypeScript and JavaScript",
+                     "type": "url",
+                     "url": "https://www.typescriptlang.org/play?#code/JYOwLgpgTgZghgYwgAgCrALYQM4DkD2IuArgDanIDeAUMsgMphxRgBcy2YUoA5gNy1kAURAATdp24h+1AL7VQkWIhQBhZtHql8YKoPVRo7A9AF10WbOxp06jZm2QgyFAD4cuvM7ZHinL5HdJL0FZb3p8YigkCU9pQP9ybyFmUgBPACUIOGxCWKkeBOckwQAZOEgsnLyPAqKXbwJIK1reepK6EwAFKHwAN2BRCD8AI3x8UmyQbxNUNIAHHB7+weHjDTnFgG0AXQF5RWh4JGQTKGQIAA9IMWxTjShcOCw9Oi6AC0IIEgwR6BaPl8fn8oLtvKgoHAQNh5vgWABZfBDfIhOiIkDAMBw3jWQR0cpiUigCBdUAo6TeMKCLI8YCEFrBaRgwQAEQgAyQLTObI5EGZB3ARxU90MUB5wBONmQAEkWeSZHQAPL0eXeACC83mADV-nSQKrBGriGB3mtkGMJlN9tQFILlCczk8XlKAKou2UGugAMThEBAzwgnoYUX9WAN8hth3tKEBIG+xF+0FeyHKf1IQeBRlaFLktqUxzUDwu1z9ojujoDydj8cTUABnzjmdBe0EEKhMLhYERyOzCuQ6Mx2OkuNsKahoiJcdJ+t7lO8NL1DLiPGZdHFnPWovXfJbAvzwtmCxQUo9-lrjQDQYA+lewEfQxAAPzhvNCk4a2GKLDgZNu0+MvsLBwdggLwQgSA6U4iT9RxVGg8AZihJByDNC1Jihbw2UmSBRnGdDpn0DYj2wLIAEdiGAQw-EPbYW06B4tB0LkGO0MBdgSVdkCaYDkzeYgRiJBAgypfEcjAF15lECozQA7wdTrPV2Gcc9BGIEB5lIKE41EZ9zTwq1cyjAsoOAGCnWPQQ-zlWdBB9QwHyDegQ0vGy9zfNR4N0K4bjLEyzMrKVqybesgQTEF2PcTi1VEURDGwFpotinBsEw6TFRgAAhSiTV02TBAHLECnYAqhz7HoIBgaAqJKgp4QgE0kWKwhB1q+rPlEecIFpel5Qi5BOLq0QJTgUhuOwXLlyiokcgmgprWoBB6V0DB8AQABrD98C-GDkAAXl-d1rIAciOgAaVtMB4qU7CYFglJcc7R18e7yEe5BZDeuDTPAEdbCCsL-nYXY3roRK4paa7bDB5L2BOkG-vwThFp7OG8ShhBOTA5pYbOtG6AAaQgNJ6DgSqcfh0SwExYgUdx0d8UIWkwBpwNkFR0cPrRmqcX6ygZWOs6GAgM0TvenZ4fKyqoGq5rCt4OqGr8LYjtwRVcCEI7xbRhcev6rW6E5+iQGQyY-C4YgIDerD6rNc3LcIwxNhwMiKKooG+dPAAGU6uJc0XZH1kVNFYlpgcEMbfr4gSJXJ0I3vKTgJKknDY7oeTsEU5BvbkARqCAA"
+                  }, {
+                     "date_added": "13252699670000000",
+                     "guid": "07fd5cb1-47a8-41c8-8ac5-057c2efc9834",
+                     "id": "98",
+                     "name": "typescript-cheatsheets/react: Cheatsheets for experienced React developers getting started with TypeScript",
+                     "type": "url",
+                     "url": "https://github.com/typescript-cheatsheets/react#reacttypescript-cheatsheets"
+                  }, {
+                     "date_added": "13252784235000000",
+                     "guid": "03d03aa9-e0dc-44fe-9585-9e738937b1a9",
+                     "id": "99",
+                     "name": "When to use JSX.Element vs ReactNode vs ReactElement? - SemicolonWorld",
+                     "type": "url",
+                     "url": "https://www.semicolonworld.com/question/72242/when-to-use-jsx-element-vs-reactnode-vs-reactelement"
+                  }, {
+                     "date_added": "13256912026000000",
+                     "guid": "139686e1-8f76-4b87-bf57-57930956cad7",
+                     "id": "100",
+                     "name": "reactjs - Typescript: What is the correct type for a Timeout? - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/60245787/typescript-what-is-the-correct-type-for-a-timeout"
+                  }, {
+                     "date_added": "13257343642000000",
+                     "guid": "69de9390-33ce-4584-9428-5d8802b503e5",
+                     "id": "101",
+                     "name": "TypeScript errors for humans: \"no overload matches this call\" | Laura Chan",
+                     "type": "url",
+                     "url": "https://lwkchan.com/blog/2020-09-20-typescript-errors-for-humans-no-overload-matches-this-call/"
+                  }, {
+                     "date_added": "13265284530000000",
+                     "guid": "066d7a42-4774-41a7-bc85-a67862c19896",
+                     "id": "102",
+                     "name": "Advanced TypeScript Types cheat sheet (with examples)",
+                     "type": "url",
+                     "url": "https://www.ibrahima-ndaw.com/blog/advanced-typescript-cheat-sheet/"
+                  } ],
+                  "date_added": "13277233018929137",
+                  "date_modified": "0",
+                  "guid": "aebc7525-0b1d-4df5-ab20-3795ae13b8b6",
+                  "id": "92",
+                  "name": "Typescript",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13246039251000000",
+                     "guid": "b75855cc-bbea-465b-bc09-168d4c525111",
+                     "id": "104",
+                     "name": "The Practical Guide to Start React Testing Library with TypeScript. | by Toru Eguchi | JavaScript In Plain English | Medium",
+                     "type": "url",
+                     "url": "https://medium.com/javascript-in-plain-english/the-practical-guide-to-start-react-testing-library-with-typescript-d386804a018"
+                  }, {
+                     "date_added": "13246042389000000",
+                     "guid": "37794e29-9e00-465f-935d-6b9ba74ac8b5",
+                     "id": "105",
+                     "name": "Jest CLI Options · Jest",
+                     "type": "url",
+                     "url": "https://jestjs.io/docs/en/cli"
+                  }, {
+                     "date_added": "13246042394000000",
+                     "guid": "b584493b-af59-4622-9470-e954def45ad8",
+                     "id": "106",
+                     "name": "API | React Native Testing Library",
+                     "type": "url",
+                     "url": "https://callstack.github.io/react-native-testing-library/docs/api/#act"
+                  }, {
+                     "date_added": "13245245655000000",
+                     "guid": "d4684d46-ed4e-48a8-8002-2fab531a5505",
+                     "id": "107",
+                     "name": "Jest",
+                     "type": "url",
+                     "url": "https://jestjs.io/docs/en/api"
+                  } ],
+                  "date_added": "13277233018930033",
+                  "date_modified": "0",
+                  "guid": "1a380771-ab9d-49ae-9163-18ba7e38cabb",
+                  "id": "103",
+                  "name": "Jest",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13246629859000000",
+                     "guid": "c95355ce-edfb-42ff-90b8-ac8727ca903a",
+                     "id": "109",
+                     "name": "mquery",
+                     "type": "url",
+                     "url": "https://github.com/aheckmann/mquery/blob/master/README.md#find"
+                  }, {
+                     "date_added": "13248287425000000",
+                     "guid": "496efe07-6d27-41f0-a3d1-e2152828eb53",
+                     "id": "110",
+                     "name": "pouchdb",
+                     "type": "url",
+                     "url": "https://github.com/pouchdb/pouchdb/blob/master/packages/node_modules/pouchdb-find/README.md"
+                  }, {
+                     "date_added": "13244834089000000",
+                     "guid": "8fe1fe15-5e7a-4f38-871d-bcdf0b390805",
+                     "id": "111",
+                     "name": "RxDatabase",
+                     "type": "url",
+                     "url": "https://rxdb.info/rx-database.html#pouchSettings"
+                  } ],
+                  "date_added": "13277233018930388",
+                  "date_modified": "0",
+                  "guid": "0e8b14d4-db2e-4fc8-be32-e2b8cfa0b2f5",
+                  "id": "108",
+                  "name": "Rxdb Query Docs",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13250003926000000",
+                     "guid": "1705f96d-b3b2-46da-bfe2-f086f7e280f5",
+                     "id": "113",
+                     "name": "apollo3-cache-persist - npm",
+                     "type": "url",
+                     "url": "https://www.npmjs.com/package/apollo3-cache-persist"
+                  }, {
+                     "date_added": "13250003959000000",
+                     "guid": "44c62155-aa7b-491d-88f1-43f47f5bf394",
+                     "id": "114",
+                     "name": "react-apollo - npm",
+                     "type": "url",
+                     "url": "https://www.npmjs.com/package/react-apollo"
+                  }, {
+                     "date_added": "13250003965000000",
+                     "guid": "77145344-9b35-4dc0-acbc-4ec38c9b5acb",
+                     "id": "115",
+                     "name": "Migrating to Apollo Client 3.0 - Client (React) - Apollo GraphQL Docs",
+                     "type": "url",
+                     "url": "https://www.apollographql.com/docs/react/migrating/apollo-client-3-migration/"
+                  }, {
+                     "date_added": "13250003976000000",
+                     "guid": "ef3c0a49-9afb-40d6-9864-823445d40262",
+                     "id": "116",
+                     "name": "graphql - difference between @apollo/client , apollo-client and apollo boost - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/64119385/difference-between-apollo-client-apollo-client-and-apollo-boost"
+                  }, {
+                     "date_added": "13246462383000000",
+                     "guid": "346ffe7f-2ded-40ba-9e24-bcaf52718577",
+                     "id": "117",
+                     "name": "Apollo GraphQL Docs",
+                     "type": "url",
+                     "url": "https://www.apollographql.com/docs/"
+                  }, {
+                     "date_added": "13244822265000000",
+                     "guid": "34fd4dc3-c7a6-4641-8f85-b3a92ec8d7a8",
+                     "id": "118",
+                     "name": "Apollo GraphQL | Apollo Data Graph Platform— unify APIs, microservices, and databases into a data graph that you can query with GraphQL",
+                     "type": "url",
+                     "url": "https://www.apollographql.com/"
+                  } ],
+                  "date_added": "13277233018930639",
+                  "date_modified": "0",
+                  "guid": "96174750-79f4-4782-ab6a-9d6a5bee6039",
+                  "id": "112",
+                  "name": "Apollo",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13250269565000000",
+                     "guid": "90d66158-5f79-4248-a377-9eb5d39d0123",
+                     "id": "120",
+                     "name": "git reset vs git revert | Pixelstech.net",
+                     "type": "url",
+                     "url": "https://www.pixelstech.net/article/1549115148-git-reset-vs-git-revert"
+                  }, {
+                     "date_added": "13251402533000000",
+                     "guid": "4e7f9fc1-18a7-4112-95f7-80bbfd3bbeab",
+                     "id": "121",
+                     "name": "git - How do I merge changes to a single file, rather than merging commits? - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/10784523/how-do-i-merge-changes-to-a-single-file-rather-than-merging-commits#11593308"
+                  }, {
+                     "date_added": "13254489818000000",
+                     "guid": "98c8ecbe-6d46-4a24-9b0a-4a7aec017377",
+                     "id": "122",
+                     "name": "git - How to see which files were changed in last commit - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/49853177/how-to-see-which-files-were-changed-in-last-commit"
+                  }, {
+                     "date_added": "13255173293000000",
+                     "guid": "9d1ecdb6-bfc9-4125-b82f-05e765b69621",
+                     "id": "123",
+                     "name": "How To Checkout Git Tags",
+                     "type": "url",
+                     "url": "https://devconnected.com/how-to-checkout-git-tags/"
+                  }, {
+                     "date_added": "13255448776000000",
+                     "guid": "62f705b7-85f6-4a3c-af33-e21751adbf11",
+                     "id": "124",
+                     "name": "Searching issues and pull requests - GitHub Docs",
+                     "type": "url",
+                     "url": "https://docs.github.com/en/github/searching-for-information-on-github/searching-issues-and-pull-requests"
+                  }, {
+                     "date_added": "13255452946000000",
+                     "guid": "c527b196-bf3a-49ae-bc84-078753089f98",
+                     "id": "125",
+                     "name": "How to view git pull requests in a local server, in command line?",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/39997284/how-to-view-git-pull-requests-in-a-local-server-in-command-line"
+                  }, {
+                     "date_added": "13255611739000000",
+                     "guid": "ab46f68e-068e-4152-9236-c25bbf0f5b6d",
+                     "id": "126",
+                     "name": "git - Is it possible to get a list of merges into a branch from the Github website OR API? - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/21623699/is-it-possible-to-get-a-list-of-merges-into-a-branch-from-the-github-website-or"
+                  }, {
+                     "date_added": "13263560862000000",
+                     "guid": "976ae0e4-be4d-4635-8a0e-d41233f1cf70",
+                     "id": "127",
+                     "name": "Oh Shit, Git!?!",
+                     "type": "url",
+                     "url": "https://ohshitgit.com/"
+                  }, {
+                     "date_added": "13265971929000000",
+                     "guid": "06a086d6-bd01-4b66-9b63-a14262b1e98e",
+                     "id": "128",
+                     "name": "Undo git stash pop that results in merge conflict - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/22207256/undo-git-stash-pop-that-results-in-merge-conflict"
+                  }, {
+                     "date_added": "13268734771000000",
+                     "guid": "116d3d25-3d27-4a75-b70c-b0f7bef04c4b",
+                     "id": "129",
+                     "name": "How To List Git Tags – devconnected",
+                     "type": "url",
+                     "url": "https://devconnected.com/how-to-list-git-tags/"
+                  }, {
+                     "date_added": "13271865770000000",
+                     "guid": "afafe182-9a6c-40fd-a0da-ebb29d18fc81",
+                     "id": "130",
+                     "name": "Checkout a branch from a fork - GitHub Help / How to use Git and GitHub - GitHub Support Community",
+                     "type": "url",
+                     "url": "https://github.community/t/checkout-a-branch-from-a-fork/276"
+                  } ],
+                  "date_added": "13277233018931133",
+                  "date_modified": "0",
+                  "guid": "595871cf-4f43-4fba-ab88-9ac8eacaeb28",
+                  "id": "119",
+                  "name": "Git",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13252175565000000",
+                     "guid": "3c4fdd97-2234-40b9-bdb8-53fef04aa5d7",
+                     "id": "132",
+                     "name": "WebdriverIO",
+                     "type": "url",
+                     "url": "https://webdriver.io/docs/api.html"
+                  }, {
+                     "date_added": "13252421385000000",
+                     "guid": "a2ad898d-be3b-477c-a86f-70bc44021fde",
+                     "id": "133",
+                     "name": "Appium Specific · WebdriverIO",
+                     "type": "url",
+                     "url": "https://webdriver.io/docs/api/appium.html"
+                  }, {
+                     "date_added": "13255687950000000",
+                     "guid": "a38adcbf-cac3-46a5-b4eb-d90cb2cd7f4e",
+                     "id": "134",
+                     "name": "Appium Service · WebdriverIO",
+                     "type": "url",
+                     "url": "https://webdriver.io/docs/appium-service.html"
+                  }, {
+                     "date_added": "13255687965000000",
+                     "guid": "f2815664-8703-4a93-a056-2013de613973",
+                     "id": "135",
+                     "name": "Running Tests - Appium",
+                     "type": "url",
+                     "url": "http://appium.io/docs/en/writing-running-appium/running-tests/"
+                  }, {
+                     "date_added": "13255768223000000",
+                     "guid": "7a0082e2-4c9b-46e7-b2fa-d9d678948d5a",
+                     "id": "136",
+                     "name": "Options · WebdriverIO",
+                     "type": "url",
+                     "url": "https://webdriver.io/docs/options.html"
+                  } ],
+                  "date_added": "13277233018931984",
+                  "date_modified": "0",
+                  "guid": "47ea1380-362a-45eb-ad7a-7c02f0f2b330",
+                  "id": "131",
+                  "name": "WebDriver",
+                  "type": "folder"
+               }, {
+                  "date_added": "13244903594000000",
+                  "guid": "bbbd89f5-b028-42eb-aba0-77154e9a518a",
+                  "id": "137",
+                  "name": "aws-rotate-iam-keys",
+                  "type": "url",
+                  "url": "https://github.com/rhyeal/aws-rotate-iam-keys#macos-1"
+               }, {
+                  "date_added": "13245999127000000",
+                  "guid": "1c2d3f42-0cef-4632-88f9-486bfb15d7f3",
+                  "id": "138",
+                  "name": "Full Emoji List, v13.1",
+                  "type": "url",
+                  "url": "https://unicode.org/emoji/charts/full-emoji-list.html"
+               }, {
+                  "date_added": "13244812884000000",
+                  "guid": "8502ef77-3652-4b0f-8db9-a8c5c3fcc56b",
+                  "id": "139",
+                  "name": "Ramda Documentation",
+                  "type": "url",
+                  "url": "https://ramdajs.com/docs/#"
+               }, {
+                  "children": [ {
+                     "date_added": "13254943777000000",
+                     "guid": "f4ade7f9-2f47-4965-afb9-6cc2c8fa6cb0",
+                     "id": "141",
+                     "name": "Gradle: Android Build Variables Done Right",
+                     "type": "url",
+                     "url": "https://rafamatias.medium.com/gradle-android-build-variables-done-right-d0c0e296ee93"
+                  }, {
+                     "date_added": "13255002665000000",
+                     "guid": "a76c1bd9-2da4-4cac-9d8e-75da5d87d3f5",
+                     "id": "142",
+                     "name": "Be Careful With BuildConfig.DEBUG | Digipom",
+                     "type": "url",
+                     "url": "https://www.digipom.com/be-careful-with-buildconfig-debug/"
+                  } ],
+                  "date_added": "13277233018932488",
+                  "date_modified": "0",
+                  "guid": "18816435-904c-451c-af2c-c8617a90ca22",
+                  "id": "140",
+                  "name": "Gradle (Android/Java)",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13255770104000000",
+                     "guid": "9b8e0cac-3620-4a3c-8380-6c349a1f6e5e",
+                     "id": "144",
+                     "name": "Bash store command PID in variable and kill process",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/29340087/bash-store-command-pid-in-variable-and-kill-process"
+                  }, {
+                     "date_added": "13255774128000000",
+                     "guid": "10c83f8c-4f4a-4bf9-a574-4f61e8d71906",
+                     "id": "145",
+                     "name": "shell - How can Bash execute a command in a different directory context? - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/10566532/how-can-bash-execute-a-command-in-a-different-directory-context"
+                  }, {
+                     "date_added": "13255774272000000",
+                     "guid": "756ecbe5-909f-4099-9f0c-bbf8d29b2fc3",
+                     "id": "146",
+                     "name": "Different ways to implement flags",
+                     "type": "url",
+                     "url": "https://jonalmeida.com/posts/2013/05/26/different-ways-to-implement-flags-in-bash/"
+                  }, {
+                     "date_added": "13255774356000000",
+                     "guid": "20337458-99f3-4ded-8289-e0692709199e",
+                     "id": "147",
+                     "name": "shell - How to get arguments with flags in Bash - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/7069682/how-to-get-arguments-with-flags-in-bash"
+                  }, {
+                     "date_added": "13255808003000000",
+                     "guid": "bc887f59-b91c-46da-8eab-fb252f909bc1",
+                     "id": "148",
+                     "name": "How can I check if a directory exists in a Bash shell script? - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/59838/how-can-i-check-if-a-directory-exists-in-a-bash-shell-script"
+                  } ],
+                  "date_added": "13277233018932649",
+                  "date_modified": "0",
+                  "guid": "344f66f7-0121-44a7-b319-677ddc28b274",
+                  "id": "143",
+                  "name": "Bash",
+                  "type": "folder"
+               }, {
+                  "date_added": "13249736385000000",
+                  "guid": "10d79fff-800e-4b5d-af39-f36fb884a4f6",
+                  "id": "149",
+                  "name": "react-native-vector-icons directory",
+                  "type": "url",
+                  "url": "https://oblador.github.io/react-native-vector-icons/"
+               }, {
+                  "date_added": "13263574470000000",
+                  "guid": "b3e32206-351e-4e28-9222-e388916a48dc",
+                  "id": "150",
+                  "name": "reduxjs/reselect",
+                  "type": "url",
+                  "url": "https://github.com/reduxjs/reselect#defaultmemoizefunc-equalitycheck--defaultequalitycheck"
+               }, {
+                  "children": [ {
+                     "date_added": "13263995954000000",
+                     "guid": "653470a8-2984-4601-9b37-feacc8caf5f5",
+                     "id": "152",
+                     "name": "react-native-push-notification-ios/push-notification-ios: React Native Push Notification API for iOS.",
+                     "type": "url",
+                     "url": "https://github.com/react-native-push-notification-ios/push-notification-ios#addnotificationrequest"
+                  }, {
+                     "date_added": "13263995980000000",
+                     "guid": "325f064c-21c4-40a9-8b25-6694899b1656",
+                     "id": "153",
+                     "name": "zo0r/react-native-push-notification: React Native Local and Remote Notifications",
+                     "type": "url",
+                     "url": "https://github.com/zo0r/react-native-push-notification#readme"
+                  } ],
+                  "date_added": "13277233018933178",
+                  "date_modified": "0",
+                  "guid": "2b18fb5e-6c9d-4bb0-8cdc-80954b3e2427",
+                  "id": "151",
+                  "name": "Push Notifications",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13264007600000000",
+                     "guid": "ff2465c9-728b-4e16-89db-edcab72b098e",
+                     "id": "155",
+                     "name": "Analytics | React Native Firebase",
+                     "type": "url",
+                     "url": "https://rnfirebase.io/analytics/usage#main"
+                  }, {
+                     "date_added": "13264007651000000",
+                     "guid": "fa440e82-a249-42b3-b4a7-e7f38ab4fd6f",
+                     "id": "156",
+                     "name": "Firebase Events - Google Sheets",
+                     "type": "url",
+                     "url": "https://docs.google.com/spreadsheets/d/1QEpbmm4LXzE2lp8gjtqjD2c4yghWaK0if_eKetAmnmg/edit#gid=0"
+                  } ],
+                  "date_added": "13277233018933348",
+                  "date_modified": "0",
+                  "guid": "b8304621-7b2d-4e4f-bd27-acda5c861a71",
+                  "id": "154",
+                  "name": "Event Logs",
+                  "type": "folder"
+               }, {
+                  "children": [  ],
+                  "date_added": "13277233018933509",
+                  "date_modified": "13277233018933509",
+                  "guid": "903c0452-a5a2-4ecd-b557-8744c1891ba8",
+                  "id": "157",
+                  "name": "New folder",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13277376750001469",
+                     "guid": "0e550f7c-bebb-4329-8f8e-2e59cd2b7eb8",
+                     "id": "422",
+                     "name": "nuxt.config",
+                     "type": "url",
+                     "url": "https://nuxtjs.org/docs/directory-structure/nuxt-config#nuxtconfigjs"
+                  }, {
+                     "date_added": "13277376799116612",
+                     "guid": "b625e6fa-b61a-4b90-9cbd-96189c01822d",
+                     "id": "423",
+                     "name": "nuxt.config.router",
+                     "type": "url",
+                     "url": "https://nuxtjs.org/docs/configuration-glossary/configuration-router"
+                  } ],
+                  "date_added": "13277376616227316",
+                  "date_modified": "13277381092024451",
+                  "guid": "5b04ed29-7b3f-4c02-8959-bfe33ec255e8",
+                  "id": "421",
+                  "name": "Nuxt",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13277315358032259",
+                     "guid": "0860fab7-5da0-4037-9ecf-a91abca6ec33",
+                     "id": "418",
+                     "name": "Save point heroes tutorial",
+                     "type": "url",
+                     "url": "https://angular.io/tutorial/toh-pt5#remove-dead-code-optional"
+                  } ],
+                  "date_added": "13277315385346017",
+                  "date_modified": "13277391491672844",
+                  "guid": "277cbfb8-c957-4ae2-adba-df4388534ba5",
+                  "id": "419",
+                  "name": "Angular",
+                  "type": "folder"
+               }, {
+                  "date_added": "13277907763759770",
+                  "guid": "79ef3e1e-e662-4c4a-bf6d-471eee4558a5",
+                  "id": "450",
+                  "name": "Vuex",
+                  "type": "url",
+                  "url": "https://vuex.vuejs.org/api/#vuex-store"
+               }, {
+                  "date_added": "13277900867654619",
+                  "guid": "d5cc497c-3b88-4e6d-ae5c-ef10f845b5c8",
+                  "id": "447",
+                  "name": "Nuxt",
+                  "type": "url",
+                  "url": "https://nuxtjs.org/docs/get-started/installation"
+               }, {
+                  "date_added": "13278070616306185",
+                  "guid": "1afc3e85-f079-4cc0-bfc7-b146d3008734",
+                  "id": "456",
+                  "name": "BootstrapVue",
+                  "type": "url",
+                  "url": "https://bootstrap-vue.org/docs/components"
+               }, {
+                  "date_added": "13277381092024451",
+                  "guid": "93491a3a-0284-4564-a76b-2c693aaeef38",
+                  "id": "425",
+                  "name": "Vue",
+                  "type": "url",
+                  "url": "https://vuejs.org/v2/api/#v-on"
+               }, {
+                  "date_added": "13277900887171277",
+                  "guid": "2e61ddfb-907a-41a0-8bcd-185fa1c3fa7e",
+                  "id": "448",
+                  "name": "Angular",
+                  "type": "url",
+                  "url": "https://angular.io/docs"
+               }, {
+                  "date_added": "13277900936832708",
+                  "guid": "e45db45f-8be0-437e-a808-6ced3a27929c",
+                  "id": "449",
+                  "name": "Strapi",
+                  "type": "url",
+                  "url": "https://strapi.io/documentation/developer-docs/latest/developer-resources/global-strapi/api-reference.html"
+               }, {
+                  "date_added": "13277381125250233",
+                  "guid": "bea26ffd-3cc7-4175-a7c8-b87f46135d02",
+                  "id": "427",
+                  "name": "W3",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/tags/default.asp"
+               }, {
+                  "children": [ {
+                     "date_added": "13278584995875011",
+                     "guid": "f27a8045-37c2-449a-8132-3640258cf707",
+                     "id": "474",
+                     "name": "state uri parameter",
+                     "type": "url",
+                     "url": "https://docs.microsoft.com/en-us/azure/active-directory/develop/msal-js-pass-custom-state-authentication-request"
+                  } ],
+                  "date_added": "13278585040980182",
+                  "date_modified": "13278672507745961",
+                  "guid": "32fe4251-ad74-4bc0-8f9d-72d36cf5ab5a",
+                  "id": "475",
+                  "name": "MSAL (Microsoft Auth)",
+                  "type": "folder"
+               } ],
+               "date_added": "13277233018924043",
+               "date_modified": "13278523172522520",
+               "guid": "323cd2bd-568b-4399-a9b0-9acb0a891ca4",
+               "id": "40",
+               "name": "Docs",
+               "type": "folder"
+            }, {
+               "date_added": "13248977592000000",
+               "guid": "e0ceb2ec-69bf-4e04-9339-5fa6e791c6e7",
+               "id": "177",
+               "name": "JsonWireProtocol · SeleniumHQ/selenium Wiki",
+               "type": "url",
+               "url": "https://github.com/SeleniumHQ/selenium/wiki/JsonWireProtocol"
+            }, {
+               "date_added": "13250885613000000",
+               "guid": "c4239e13-0db6-4105-9afb-0cc3988c9070",
+               "id": "178",
+               "name": "Functional Functions",
+               "type": "url",
+               "url": "https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/appendix_a.md"
+            }, {
+               "date_added": "13245512202000000",
+               "guid": "da34c770-3a1d-4dcb-a2d7-7303f005c45a",
+               "id": "179",
+               "name": "Monads in JavaScript — Curiosity driven",
+               "type": "url",
+               "url": "https://curiosity-driven.org/monads-in-javascript"
+            }, {
+               "date_added": "13251395515000000",
+               "guid": "f6ab859e-bf1d-4e10-8e78-a0a15c7e0d54",
+               "id": "180",
+               "name": "Thinking in Ramda: Getting Started",
+               "type": "url",
+               "url": "https://randycoulman.com/blog/2016/05/24/thinking-in-ramda-getting-started//"
+            }, {
+               "children": [ {
+                  "date_added": "13245419168000000",
+                  "guid": "fdc7685a-a7cd-4166-8308-10849d66a76c",
+                  "id": "182",
+                  "name": "coc.nvim wiki",
+                  "type": "url",
+                  "url": "https://github.com/neoclide/coc.nvim/wiki"
+               }, {
+                  "date_added": "13245933058000000",
+                  "guid": "6f834e44-3f42-4dd5-8147-bcefdc6bb3e7",
+                  "id": "183",
+                  "name": "liuchengxu/eleline.vim: Another elegant statusline for vim",
+                  "type": "url",
+                  "url": "https://github.com/liuchengxu/eleline.vim"
+               }, {
+                  "date_added": "13245999137000000",
+                  "guid": "80cfc011-f5e9-4f6f-95e3-af5e96aa5b21",
+                  "id": "184",
+                  "name": "coc config schema",
+                  "type": "url",
+                  "url": "https://github.com/neoclide/coc.nvim/blob/master/data/schema.json#L6"
+               }, {
+                  "date_added": "13246532654000000",
+                  "guid": "7686c002-7a1d-46ee-88c5-ff14ee51a70f",
+                  "id": "185",
+                  "name": "Jumps and Changes",
+                  "type": "url",
+                  "url": "https://vim.fandom.com/wiki/List_changes_to_the_current_file"
+               }, {
+                  "date_added": "13247318980000000",
+                  "guid": "2bf4d5a4-7e86-4f91-bb99-80aa54b0386a",
+                  "id": "186",
+                  "name": "Galooshi/vim-import-js: Vim plugin for ImportJS",
+                  "type": "url",
+                  "url": "https://github.com/Galooshi/vim-import-js"
+               }, {
+                  "date_added": "13249658408000000",
+                  "guid": "3d95a31c-2d33-4707-9687-3f29fe2b0312",
+                  "id": "187",
+                  "name": "VimTricks",
+                  "type": "url",
+                  "url": "https://vimtricks.substack.com/archive?sort=new"
+               }, {
+                  "date_added": "13249664605000000",
+                  "guid": "a2ca50a8-8805-4c7e-86f3-64480da65ca3",
+                  "id": "188",
+                  "name": "vi - Passing argument to vim map - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/26997172/passing-argument-to-vim-map"
+               }, {
+                  "date_added": "13249673859000000",
+                  "guid": "4b097d95-2733-4a6f-8338-c4246ab9f7ed",
+                  "id": "189",
+                  "name": "Modern JavaScript ctags configuration | by Veezus Kreist | Adorable | Medium",
+                  "type": "url",
+                  "url": "https://medium.com/adorableio/modern-javascript-ctags-configuration-199884dbcc1"
+               }, {
+                  "date_added": "13249772427000000",
+                  "guid": "2e5d2e29-d062-41ba-b6be-f200e4f9eb46",
+                  "id": "190",
+                  "name": "vim - How to redirect ex command output into current buffer or file? - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/2573021/how-to-redirect-ex-command-output-into-current-buffer-or-file"
+               }, {
+                  "date_added": "13250003811000000",
+                  "guid": "dc94040e-0562-4a0e-8688-53fa29010d3b",
+                  "id": "191",
+                  "name": "vim - Quickfix list, how to add and remove entries - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/42905008/quickfix-list-how-to-add-and-remove-entries"
+               }, {
+                  "date_added": "13252149541000000",
+                  "guid": "dbf16789-7fa0-4383-8fe2-0b035b71403c",
+                  "id": "192",
+                  "name": "linux - Grey bar on left in vim? - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/4112128/grey-bar-on-left-in-vim"
+               }, {
+                  "date_added": "13255093104000000",
+                  "guid": "c8f3ee9c-1648-4243-8ed0-0ba1a0808875",
+                  "id": "193",
+                  "name": "MattesGroeger/vim-bookmarks: Vim bookmark plugin",
+                  "type": "url",
+                  "url": "https://github.com/MattesGroeger/vim-bookmarks"
+               }, {
+                  "date_added": "13255702162000000",
+                  "guid": "2ee4bf5a-4d54-44f5-b6da-35745632fdd0",
+                  "id": "194",
+                  "name": "How do I open a file from another git branch? Fugitive",
+                  "type": "url",
+                  "url": "https://vi.stackexchange.com/questions/3746/how-do-i-open-a-file-from-another-git-branch"
+               }, {
+                  "date_added": "13255773747000000",
+                  "guid": "4e19fd7f-aa43-4c75-8c92-ab46c6746d87",
+                  "id": "195",
+                  "name": "wellle/visual-split.vim: Vim plugin to control splits with visual selections or text objects",
+                  "type": "url",
+                  "url": "https://github.com/wellle/visual-split.vim"
+               }, {
+                  "date_added": "13255873082000000",
+                  "guid": "b331b8f1-6b60-40cb-ab79-577ac0a9c747",
+                  "id": "196",
+                  "name": "How to Use the Echo Command on Linux",
+                  "type": "url",
+                  "url": "https://www.howtogeek.com/446071/how-to-use-the-echo-command-on-linux/"
+               }, {
+                  "date_added": "13256060831000000",
+                  "guid": "cfd5f173-5ff8-453b-85b3-5113d41221a6",
+                  "id": "197",
+                  "name": "kristijanhusak/vim-js-file-import: Import/require files in javascript and typescript with single button!",
+                  "type": "url",
+                  "url": "https://github.com/kristijanhusak/vim-js-file-import"
+               }, {
+                  "date_added": "13256740352000000",
+                  "guid": "b8f9f62a-3eab-43af-9518-c4ed55e95a83",
+                  "id": "198",
+                  "name": "KabbAmine/vCoolor.vim: Simple color selector/picker plugin for Vim.",
+                  "type": "url",
+                  "url": "https://github.com/KabbAmine/vCoolor.vim"
+               }, {
+                  "date_added": "13256740572000000",
+                  "guid": "2c73edd4-d8da-40a0-951e-d36db10b57ec",
+                  "id": "199",
+                  "name": "lilydjwg/colorizer: A Vim plugin to colorize all text in the form #rrggbb or #rgb.",
+                  "type": "url",
+                  "url": "https://github.com/lilydjwg/colorizer"
+               }, {
+                  "date_added": "13256911241000000",
+                  "guid": "62a8768d-47f3-44cc-ba2e-fcfcf17e1d7f",
+                  "id": "200",
+                  "name": "Tmux and Vim — configurations to be better together | Bugsnag Blog",
+                  "type": "url",
+                  "url": "https://www.bugsnag.com/blog/tmux-and-vim"
+               }, {
+                  "date_added": "13257033780000000",
+                  "guid": "2514c1a2-f007-418c-9c9d-d4ad8c1de934",
+                  "id": "201",
+                  "name": "Errorformat for jest output - Vi and Vim Stack Exchange",
+                  "type": "url",
+                  "url": "https://vi.stackexchange.com/questions/17452/errorformat-for-jest-output"
+               }, {
+                  "date_added": "13257041954000000",
+                  "guid": "e44423c9-eb03-46f2-b800-8a605a1a0af6",
+                  "id": "202",
+                  "name": "Working Productively in Bash's Vi Command Line Editing Mode (with Cheat Sheet)",
+                  "type": "url",
+                  "url": "https://catonmat.net/bash-vi-editing-mode-cheat-sheet"
+               }, {
+                  "date_added": "13257249266000000",
+                  "guid": "6b13613f-5ee6-4b05-82fb-1a1dd1a9764f",
+                  "id": "203",
+                  "name": "Cusom command line completion",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/6937984/is-there-a-way-to-make-use-of-two-custom-complete-functions-in-vimscript"
+               }, {
+                  "date_added": "13257357444000000",
+                  "guid": "a4899026-58e2-454a-bb33-86e0fb9e41d7",
+                  "id": "204",
+                  "name": "macvim - vim redirect output to quickfix - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/18115534/vim-redirect-output-to-quickfix"
+               }, {
+                  "date_added": "13257373547000000",
+                  "guid": "429bcf0b-b373-4689-95ee-66ec6c2eb6ee",
+                  "id": "205",
+                  "name": "vim - How to escape \"\u003CCR>\" in a mapping in vimscript - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/20997661/how-to-escape-cr-in-a-mapping-in-vimscript"
+               }, {
+                  "date_added": "13257379174000000",
+                  "guid": "ef46d248-bcf3-415b-a451-a783b048cb6f",
+                  "id": "206",
+                  "name": "How do I disable the \"Press ENTER or type command to continue\" prompt in Vim? - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/890802/how-do-i-disable-the-press-enter-or-type-command-to-continue-prompt-in-vim"
+               }, {
+                  "date_added": "13257491316000000",
+                  "guid": "ab36ab50-aafc-4058-ac90-87eb81c44d09",
+                  "id": "207",
+                  "name": "performance - How to find what slows down Vim? - Vi and Vim Stack Exchange",
+                  "type": "url",
+                  "url": "https://vi.stackexchange.com/questions/276/how-to-find-what-slows-down-vim"
+               }, {
+                  "date_added": "13257492844000000",
+                  "guid": "f9cff71a-71fb-4d2b-a601-0fdbd164fd4e",
+                  "id": "208",
+                  "name": "vim - Vimscript: Number of listed buffers - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/17931507/vimscript-number-of-listed-buffers"
+               }, {
+                  "date_added": "13257503998000000",
+                  "guid": "e8000a89-0f78-4882-9f34-231122502e70",
+                  "id": "209",
+                  "name": "How to open a file from active buffer into a split window? - Vi and Vim Stack Exchange",
+                  "type": "url",
+                  "url": "https://vi.stackexchange.com/questions/8122/how-to-open-a-file-from-active-buffer-into-a-split-window"
+               }, {
+                  "date_added": "13257507105000000",
+                  "guid": "900dfb78-49bb-4db9-beb2-3e078eabff12",
+                  "id": "210",
+                  "name": "Open a buffer as a vertical split in VIM - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/4571494/open-a-buffer-as-a-vertical-split-in-vim#4571712"
+               }, {
+                  "date_added": "13257737038000000",
+                  "guid": "d388f1b0-ca77-4357-ada8-8be956bac959",
+                  "id": "211",
+                  "name": "Ubuntu + Tmux + Vim color issue - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/35026356/ubuntu-tmux-vim-color-issue"
+               }, {
+                  "date_added": "13260432486000000",
+                  "guid": "e54d9c04-e07c-4512-8064-7f84ef8fd7d3",
+                  "id": "212",
+                  "name": "sainnhe/icursive-nerd-font: Nerd Fonts with Cursive Italic Styles",
+                  "type": "url",
+                  "url": "https://github.com/sainnhe/icursive-nerd-font"
+               }, {
+                  "date_added": "13260432496000000",
+                  "guid": "e6c58869-581a-478a-af4c-57e353659ba0",
+                  "id": "213",
+                  "name": "sonokai vim color scheme, by sainnhe | vimcolorschemes",
+                  "type": "url",
+                  "url": "https://vimcolorschemes.com/sainnhe/sonokai"
+               }, {
+                  "date_added": "13260748530000000",
+                  "guid": "7fb8bc6b-9345-4b9d-a797-3ab9a521b109",
+                  "id": "214",
+                  "name": "airblade/vim-gitgutter: A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.",
+                  "type": "url",
+                  "url": "https://github.com/airblade/vim-gitgutter"
+               }, {
+                  "date_added": "13260876251000000",
+                  "guid": "a4c9f12e-25e9-4b7b-a4d9-8ff7d224136b",
+                  "id": "215",
+                  "name": "ASCII & ANSI Art - The Unix Style",
+                  "type": "url",
+                  "url": "https://nixers.net/Thread-ASCII-ANSI-Art-The-Unix-Style"
+               }, {
+                  "date_added": "13260876363000000",
+                  "guid": "177ad97b-5870-4992-adf7-1f895aea60b5",
+                  "id": "216",
+                  "name": "16colo.rs - ANSI/ASCII art archive",
+                  "type": "url",
+                  "url": "https://16colo.rs/"
+               }, {
+                  "date_added": "13260878817000000",
+                  "guid": "ee994280-6a08-4906-8606-12fa6a499a02",
+                  "id": "217",
+                  "name": "syntax samurai",
+                  "type": "url",
+                  "url": "https://github.com/syntax-samurai"
+               }, {
+                  "date_added": "13260879591000000",
+                  "guid": "787258c3-d00e-4b99-b8d3-ccd6b733b6a4",
+                  "id": "218",
+                  "name": "How to make Vim display colors as indicated by color codes? - Unix & Linux Stack Exchange",
+                  "type": "url",
+                  "url": "https://unix.stackexchange.com/questions/7695/how-to-make-vim-display-colors-as-indicated-by-color-codes"
+               }, {
+                  "date_added": "13260879595000000",
+                  "guid": "e79e4ed4-b509-4da6-877c-19096dda72cb",
+                  "id": "219",
+                  "name": "AnsiEsc.vim - ansi escape sequences concealed, but highlighted as specified (conceal) : vim online",
+                  "type": "url",
+                  "url": "https://www.vim.org/scripts/script.php?script_id=302"
+               }, {
+                  "date_added": "13260879625000000",
+                  "guid": "e21791df-bdb7-44ec-9f8e-4c970e2bac60",
+                  "id": "220",
+                  "name": "Dr Chip's Vim Page",
+                  "type": "url",
+                  "url": "http://www.drchip.org/astronaut/vim/index.html#ANSIESC"
+               }, {
+                  "date_added": "13261092674000000",
+                  "guid": "ccdc969e-eb5b-49a5-97fa-bf761d22278c",
+                  "id": "221",
+                  "name": "Build your own Vim statusline | George Ornbo",
+                  "type": "url",
+                  "url": "https://shapeshed.com/vim-statuslines/"
+               }, {
+                  "date_added": "13261249204000000",
+                  "guid": "51bf4b17-0a4c-4d7f-99eb-5147bad2c87c",
+                  "id": "222",
+                  "name": "Edit multiple files from a list of file names | Vim Tips Wiki | Fandom",
+                  "type": "url",
+                  "url": "https://vim.fandom.com/wiki/Edit_multiple_files_from_a_list_of_file_names"
+               }, {
+                  "date_added": "13261736724000000",
+                  "guid": "87678be0-6b6b-4b88-a96a-2096f8552943",
+                  "id": "223",
+                  "name": "How can I run a function or macro across a folder of files? - Vi and Vim Stack Exchange",
+                  "type": "url",
+                  "url": "https://vi.stackexchange.com/questions/119/how-can-i-run-a-function-or-macro-across-a-folder-of-files"
+               }, {
+                  "date_added": "13262344595000000",
+                  "guid": "98502d17-b3c8-4a62-8ba8-745bebdb7f71",
+                  "id": "224",
+                  "name": "yuki-yano/fzf-preview.vim: The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.",
+                  "type": "url",
+                  "url": "https://github.com/yuki-yano/fzf-preview.vim"
+               }, {
+                  "date_added": "13262948856000000",
+                  "guid": "f7e849b5-7a7c-47b5-828d-a74bedf6bee0",
+                  "id": "225",
+                  "name": "Coc Config Options",
+                  "type": "url",
+                  "url": "https://github.com/neoclide/coc.nvim/blob/master/data/schema.json"
+               }, {
+                  "date_added": "13256060102000000",
+                  "guid": "e2197837-41bf-45b7-b4f5-2b0ea27c86ee",
+                  "id": "226",
+                  "name": "Coc Extensions",
+                  "type": "url",
+                  "url": "https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions"
+               }, {
+                  "date_added": "13270722916000000",
+                  "guid": "6f58f90e-646a-4780-bf3e-47785399807a",
+                  "id": "227",
+                  "name": "How to I insert a return value from a function call into an existing buffer? - Vi and Vim Stack Exchange",
+                  "type": "url",
+                  "url": "https://vi.stackexchange.com/questions/26608/how-to-i-insert-a-return-value-from-a-function-call-into-an-existing-buffer"
+               }, {
+                  "date_added": "13272542954000000",
+                  "guid": "6f4717ad-ca9e-462a-a314-04ced3e3dda6",
+                  "id": "228",
+                  "name": "regex - Can I substitute multiple items in a single regular expression in VIM or Perl? - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/765894/can-i-substitute-multiple-items-in-a-single-regular-expression-in-vim-or-perl"
+               }, {
+                  "date_added": "13273158770000000",
+                  "guid": "dc58aab4-2563-4f3c-8d0a-8aa026bcd4bf",
+                  "id": "229",
+                  "name": "sidorares/node-vim-debugger: node.js step by step debugging from vim",
+                  "type": "url",
+                  "url": "https://github.com/sidorares/node-vim-debugger"
+               }, {
+                  "date_added": "13273761947000000",
+                  "guid": "4131d203-e354-412a-92af-31860f0f5a8e",
+                  "id": "230",
+                  "name": "#vim on libera",
+                  "type": "url",
+                  "url": "https://www.vi-improved.org/"
+               }, {
+                  "date_added": "13273840538000000",
+                  "guid": "5bd97730-1536-4cc6-916b-156895e8e0ed",
+                  "id": "231",
+                  "name": "The Patient Vimmer — Take the owner’s tour",
+                  "type": "url",
+                  "url": "https://romainl.github.io/the-patient-vimmer/1.html"
+               }, {
+                  "date_added": "13277804107253434",
+                  "guid": "2de14387-cf76-4d65-b5df-188d24b2fb4a",
+                  "id": "441",
+                  "name": "Errorformat Playground",
+                  "type": "url",
+                  "url": "https://reviewdog.github.io/errorformat-playground/"
+               }, {
+                  "date_added": "13277809275833562",
+                  "guid": "66f703a0-7131-4778-a19c-681e8f9af90f",
+                  "id": "442",
+                  "name": "external command - How to put the output of a function call into quickfix list? - Vi and Vim Stack Exchange",
+                  "type": "url",
+                  "url": "https://vi.stackexchange.com/questions/24992/how-to-put-the-output-of-a-function-call-into-quickfix-list"
+               }, {
+                  "date_added": "13278748600999947",
+                  "guid": "e28f0ec0-aece-459e-9f63-ba0f960a5ec7",
+                  "id": "479",
+                  "name": "Vim editor ported to WebAssembly",
+                  "type": "url",
+                  "url": "https://github.com/rhysd/vim.wasm"
+               }, {
+                  "date_added": "13278750485190732",
+                  "guid": "f0a29170-7b86-4e3b-8c40-849813fb3164",
+                  "id": "480",
+                  "name": "Abstract syntax trees on Javascript | by Juan Picado | Medium",
+                  "type": "url",
+                  "url": "https://jotadeveloper.medium.com/abstract-syntax-trees-on-javascript-534e33361fc7"
+               }, {
+                  "date_added": "13278751065504277",
+                  "guid": "667b09dc-db7a-40a2-bf88-f2833b5e9ed4",
+                  "id": "481",
+                  "name": "CodeMirror",
+                  "type": "url",
+                  "url": "https://codemirror.net/"
+               }, {
+                  "date_added": "13278752190810034",
+                  "guid": "549ef8ce-a245-4416-be76-50ef6f86adb2",
+                  "id": "482",
+                  "name": "Esprima",
+                  "type": "url",
+                  "url": "https://docs.esprima.org/en/latest/getting-started.html#supported-environments"
+               }, {
+                  "date_added": "13278752429862329",
+                  "guid": "2620e5b4-942b-4906-b6f7-b5d1df9caa5d",
+                  "id": "483",
+                  "name": "rhino 1.7.14-SNAPSHOT API",
+                  "type": "url",
+                  "url": "https://mozilla.github.io/rhino/javadoc/index.html"
+               }, {
+                  "date_added": "13278753342603540",
+                  "guid": "303b1579-a57a-4f8f-bd2d-b1a364ce51dc",
+                  "id": "484",
+                  "name": "javascript - console.log() an object does not log the method added via prototype in node js console. Or how to print the prototypes also? - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/59228638/console-log-an-object-does-not-log-the-method-added-via-prototype-in-node-js-c"
+               }, {
+                  "date_added": "13278757619816815",
+                  "guid": "ac405775-10ab-4fe8-a0ef-9004495b4a30",
+                  "id": "485",
+                  "name": "Abstract syntax tree - Wikipedia",
+                  "type": "url",
+                  "url": "https://en.wikipedia.org/wiki/Abstract_syntax_tree"
+               }, {
+                  "date_added": "13278757638336398",
+                  "guid": "2b17f57c-85e5-4cf0-b1a2-6a338abe23da",
+                  "id": "486",
+                  "name": "AST explorer",
+                  "type": "url",
+                  "url": "https://astexplorer.net/"
+               } ],
+               "date_added": "13277233018935639",
+               "date_modified": "13278762964130108",
+               "guid": "e45d99a2-dae9-4915-9ab5-e39d2e688211",
+               "id": "181",
+               "name": "VIM",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13247568851000000",
+                  "guid": "18d0f2a2-58f2-4d25-8057-ca82d233cd4b",
+                  "id": "233",
+                  "name": "From Vim to Emacs in Fourteen Days - The Chronicle",
+                  "type": "url",
+                  "url": "https://blog.aaronbieber.com/2015/05/24/from-vim-to-emacs-in-fourteen-days.html"
+               }, {
+                  "date_added": "13247642341000000",
+                  "guid": "804419c1-7022-4877-9755-99864512853f",
+                  "id": "234",
+                  "name": "Emacs Lisp Basics",
+                  "type": "url",
+                  "url": "http://ergoemacs.org/emacs/elisp_basics.html"
+               }, {
+                  "date_added": "13247643670000000",
+                  "guid": "a19b9523-5f81-4c75-9fb2-29b3011a4f2d",
+                  "id": "235",
+                  "name": "emacs cheat sheet",
+                  "type": "url",
+                  "url": "http://www.rgrjr.com/emacs/emacs_cheat.html"
+               }, {
+                  "date_added": "13247644502000000",
+                  "guid": "654e89c8-b77c-433c-9ca3-3652d328060a",
+                  "id": "236",
+                  "name": "It's Magit! A Git Porcelain inside Emacs",
+                  "type": "url",
+                  "url": "https://magit.vc/"
+               }, {
+                  "date_added": "13247645380000000",
+                  "guid": "c3fdc6e6-6147-47dc-942b-99cbc0c95636",
+                  "id": "237",
+                  "name": "EmacsWiki: Site Map",
+                  "type": "url",
+                  "url": "https://www.emacswiki.org/emacs/SiteMap"
+               }, {
+                  "date_added": "13247645388000000",
+                  "guid": "8723c5f3-616f-4afb-97ab-acf9adcc7bf0",
+                  "id": "238",
+                  "name": "zakame/emacs-for-javascript: Quick talk+demo+live coding for Manila JavaScript meetup #5",
+                  "type": "url",
+                  "url": "https://github.com/zakame/emacs-for-javascript"
+               }, {
+                  "date_added": "13247783521000000",
+                  "guid": "1b59adb7-4649-4f18-ab43-11031887a476",
+                  "id": "239",
+                  "name": "EmacsWiki: Copy And Paste",
+                  "type": "url",
+                  "url": "https://www.emacswiki.org/emacs/CopyAndPaste"
+               }, {
+                  "date_added": "13247783828000000",
+                  "guid": "af48e452-fbb4-46c7-bb80-5948e5d4e021",
+                  "id": "240",
+                  "name": "linktohack/evil-commentary: Comment stuff out. A port of vim-commentary",
+                  "type": "url",
+                  "url": "https://github.com/linktohack/evil-commentary"
+               }, {
+                  "date_added": "13247783831000000",
+                  "guid": "edfda54d-f9d6-454f-aa0c-281c95a61ea2",
+                  "id": "241",
+                  "name": "emacs-evil/evil-surround: you will be surrounded (surround.vim for evil, the extensible vi layer)",
+                  "type": "url",
+                  "url": "https://github.com/emacs-evil/evil-surround"
+               }, {
+                  "date_added": "13247783835000000",
+                  "guid": "f0770c26-06f1-4e6f-b36e-43bee8627adf",
+                  "id": "242",
+                  "name": "EmacsWiki: Evil",
+                  "type": "url",
+                  "url": "https://www.emacswiki.org/emacs/Evil#toc5"
+               }, {
+                  "date_added": "13247784468000000",
+                  "guid": "5fd40c5d-4177-4307-bf5f-e1e35f6d0059",
+                  "id": "243",
+                  "name": "jwiegley/use-package: A use-package declaration for simplifying your .emacs",
+                  "type": "url",
+                  "url": "https://github.com/jwiegley/use-package"
+               }, {
+                  "date_added": "13247785860000000",
+                  "guid": "ab0f6878-401e-44d0-ae1c-420d63cccfb8",
+                  "id": "244",
+                  "name": "Helm | Emacs incremental completion and selection narrowing framework",
+                  "type": "url",
+                  "url": "https://emacs-helm.github.io/helm/"
+               }, {
+                  "date_added": "13247786866000000",
+                  "guid": "b11b9fb9-d478-48fb-b48b-f4c90acc1bbd",
+                  "id": "245",
+                  "name": "krisajenkins/evil-tabs: Integrating Vim-style tabs for Evil mode users.",
+                  "type": "url",
+                  "url": "https://github.com/krisajenkins/evil-tabs"
+               }, {
+                  "date_added": "13247786910000000",
+                  "guid": "143bfdc2-4c1d-4d2f-91f8-6d0fa391a104",
+                  "id": "246",
+                  "name": "Emacs tips and best plugins to use with evil mode | Nadeem Khedr",
+                  "type": "url",
+                  "url": "https://nadeemkhedr.com/emacs-tips-and-best-plugins-to-use-with-evil-mode/"
+               }, {
+                  "date_added": "13247821955000000",
+                  "guid": "b9fd0130-6a21-465d-ba5a-0d6252ced4fd",
+                  "id": "247",
+                  "name": "felipeochoa/rjsx-mode: A JSX major mode for Emacs",
+                  "type": "url",
+                  "url": "https://github.com/felipeochoa/rjsx-mode/"
+               }, {
+                  "date_added": "13247823441000000",
+                  "guid": "58b9c1c1-ee59-4904-b840-3d69e8a2473b",
+                  "id": "248",
+                  "name": "ScottyB/ac-js2 at 2b56d09a16c1a0ce514cc1b85d64cb1be4502723",
+                  "type": "url",
+                  "url": "https://github.com/ScottyB/ac-js2/tree/2b56d09a16c1a0ce514cc1b85d64cb1be4502723"
+               }, {
+                  "date_added": "13247845765000000",
+                  "guid": "f26e3e21-f98e-4376-99af-74bbcb7dd118",
+                  "id": "249",
+                  "name": "auto-complete/manual.md at master · auto-complete/auto-complete",
+                  "type": "url",
+                  "url": "https://github.com/auto-complete/auto-complete/blob/master/doc/manual.md"
+               }, {
+                  "date_added": "13247846379000000",
+                  "guid": "fd1e058f-2b3d-4b7b-97be-d422465a7d6c",
+                  "id": "250",
+                  "name": "ScottyB/ac-js2: Javascript auto-completion in Emacs using Js2-mode's parser and Skewer-mode.",
+                  "type": "url",
+                  "url": "https://github.com/ScottyB/ac-js2"
+               }, {
+                  "date_added": "13247914999000000",
+                  "guid": "8299a5b3-e526-4793-a6ed-8f3b42e5ea75",
+                  "id": "251",
+                  "name": "How to change indent width? · Issue #10433 · syl20bnr/spacemacs",
+                  "type": "url",
+                  "url": "https://github.com/syl20bnr/spacemacs/issues/10433"
+               }, {
+                  "date_added": "13248176143000000",
+                  "guid": "1fe1ad8c-633b-43ff-8d28-6ad78305a7f5",
+                  "id": "252",
+                  "name": "Emacs Lisp Cheat Sheet - WikEmacs",
+                  "type": "url",
+                  "url": "https://wikemacs.org/wiki/Emacs_Lisp_Cheat_Sheet"
+               }, {
+                  "date_added": "13248195130000000",
+                  "guid": "cd7ac2fe-42fd-466a-b891-9cf518d80b09",
+                  "id": "253",
+                  "name": "Usage :: Projectile",
+                  "type": "url",
+                  "url": "https://docs.projectile.mx/projectile/usage.html#basic-usage"
+               }, {
+                  "date_added": "13248262643000000",
+                  "guid": "468d2f60-9452-41cc-9462-79ab25e6d351",
+                  "id": "254",
+                  "name": "company-mode for Emacs",
+                  "type": "url",
+                  "url": "https://company-mode.github.io/"
+               }, {
+                  "date_added": "13248344827000000",
+                  "guid": "065a3850-26ce-4d7a-a4e6-065c9408ec4c",
+                  "id": "255",
+                  "name": "Useful Emacs Commands",
+                  "type": "url",
+                  "url": "http://irreal.org/emacs-reminders.html"
+               }, {
+                  "date_added": "13248347269000000",
+                  "guid": "6b55a586-4922-4dc8-ab79-3f8a9a81d04f",
+                  "id": "256",
+                  "name": "abo-abo/swiper: Ivy - a generic completion frontend for Emacs, Swiper - isearch with an overview, and more. Oh, man!",
+                  "type": "url",
+                  "url": "https://github.com/abo-abo/swiper"
+               }, {
+                  "date_added": "13248521269000000",
+                  "guid": "422b8ceb-62c5-4585-9089-e93473139244",
+                  "id": "257",
+                  "name": "emacsorphanage/helm-ag: The silver searcher with helm interface",
+                  "type": "url",
+                  "url": "https://github.com/emacsorphanage/helm-ag"
+               }, {
+                  "date_added": "13248909377000000",
+                  "guid": "3b7880b5-4285-4a4b-9f5b-2c9a8496ff3c",
+                  "id": "258",
+                  "name": "How I build my own spacemacs · Samuel Barreto",
+                  "type": "url",
+                  "url": "https://sam217pa.github.io/2016/08/30/how-to-make-your-own-spacemacs/"
+               }, {
+                  "date_added": "13253121547000000",
+                  "guid": "ca7ce205-0c18-4589-a24a-0c2e9bc0a8c2",
+                  "id": "259",
+                  "name": "jcs-elpa/helm-file-preview: Preview the current helm file selection.",
+                  "type": "url",
+                  "url": "https://github.com/jcs-elpa/helm-file-preview"
+               }, {
+                  "date_added": "13254662227000000",
+                  "guid": "a71064fa-1461-46c0-bec9-b682ac9e613f",
+                  "id": "260",
+                  "name": "Flycheck (Linting)",
+                  "type": "url",
+                  "url": "https://www.flycheck.org/en/latest/user/quickstart.html#enable-flycheck"
+               }, {
+                  "date_added": "13254662255000000",
+                  "guid": "15afe6d6-b592-4965-8535-360c06353eae",
+                  "id": "261",
+                  "name": "Spacemacs layers",
+                  "type": "url",
+                  "url": "https://www.spacemacs.org/layers/LAYERS.html"
+               }, {
+                  "date_added": "13254815603000000",
+                  "guid": "c6b2419c-ad41-4088-bf10-1a7a44262b36",
+                  "id": "262",
+                  "name": "akermu/emacs-libvterm: Emacs libvterm integration",
+                  "type": "url",
+                  "url": "https://github.com/akermu/emacs-libvterm"
+               }, {
+                  "date_added": "13254822949000000",
+                  "guid": "31f15ede-f197-4b01-90bc-c30ce93d1d3f",
+                  "id": "263",
+                  "name": "EditorConfig",
+                  "type": "url",
+                  "url": "https://editorconfig.org/"
+               } ],
+               "date_added": "13277233018939136",
+               "date_modified": "0",
+               "guid": "b219706b-65f6-410f-8915-05fb05bf9d0e",
+               "id": "232",
+               "name": "Emacs",
+               "type": "folder"
+            }, {
+               "date_added": "13251311222000000",
+               "guid": "afe13766-c739-44e2-aaf0-5637a6b33cbe",
+               "id": "264",
+               "name": "Help The Persecuted | HTP.org",
+               "type": "url",
+               "url": "https://htp.org/?sc=2012BRAVE"
+            }, {
+               "date_added": "13250620812000000",
+               "guid": "8800b286-5e87-476b-afef-ec2d3b4534f6",
+               "id": "265",
+               "name": "Internet stopped working on Android Emulator (Mac OS) - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/44535500/internet-stopped-working-on-android-emulator-mac-os"
+            }, {
+               "date_added": "13252757364000000",
+               "guid": "8c7423b4-0c4d-44ff-bdcc-ceaad1fbeddf",
+               "id": "266",
+               "name": "An Introduction to the Z Shell - Bindings",
+               "type": "url",
+               "url": "http://zsh.sourceforge.net/Intro/intro_11.html#SEC11"
+            }, {
+               "date_added": "13254836427000000",
+               "guid": "f9226185-7624-4d54-b030-3c3a52bfc609",
+               "id": "267",
+               "name": "ls print full filepath",
+               "type": "url",
+               "url": "https://duckduckgo.com/?q=ls+print+full+filepath&t=brave&ia=web"
+            }, {
+               "date_added": "13254922352000000",
+               "guid": "43ba5885-0d5b-485e-a66f-cd519cdd5498",
+               "id": "268",
+               "name": "cdimascio/dotenv-java: 🗝️ Dotenv is a no-dep, pure Java module that loads environment variables from a .env file",
+               "type": "url",
+               "url": "https://github.com/cdimascio/dotenv-java"
+            }, {
+               "date_added": "13255686447000000",
+               "guid": "2505a7f2-ad02-42a5-93ab-62c190d41d8a",
+               "id": "269",
+               "name": "Combine the output of two commands in bash",
+               "type": "url",
+               "url": "https://unix.stackexchange.com/questions/64736/combine-the-output-of-two-commands-in-bash"
+            }, {
+               "children": [ {
+                  "date_added": "13255766918000000",
+                  "guid": "66a16864-f4a7-4484-b2dc-65398111ab07",
+                  "id": "271",
+                  "name": "Kill Process",
+                  "type": "url",
+                  "url": "https://www.cyberciti.biz/faq/kill-process-in-linux-or-terminate-a-process-in-unix-or-linux-systems/"
+               }, {
+                  "date_added": "13255766944000000",
+                  "guid": "30ec27cb-f767-4f5e-a5b6-00447b4f189e",
+                  "id": "272",
+                  "name": "Show All Running Processes",
+                  "type": "url",
+                  "url": "https://www.cyberciti.biz/faq/show-all-running-processes-in-linux/"
+               }, {
+                  "date_added": "13255766955000000",
+                  "guid": "ec90c522-3933-49c3-aa6b-8532baa75039",
+                  "id": "273",
+                  "name": "Filter output of 'ps aux'",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/35627504/filter-output-of-ps-aux#35628255"
+               }, {
+                  "date_added": "13255773033000000",
+                  "guid": "df0347eb-25cf-4f2e-9cf4-b764c502acd1",
+                  "id": "274",
+                  "name": "The Linux Directory Structure, Explained",
+                  "type": "url",
+                  "url": "https://www.howtogeek.com/117435/htg-explains-the-linux-directory-structure-explained/"
+               }, {
+                  "date_added": "13256124133000000",
+                  "guid": "2015e8a9-6be6-450f-a795-0825da70c8f8",
+                  "id": "275",
+                  "name": "How to Use the sed Command on Linux",
+                  "type": "url",
+                  "url": "https://www.howtogeek.com/666395/how-to-use-the-sed-command-on-linux/"
+               }, {
+                  "date_added": "13256375078000000",
+                  "guid": "7586e67c-e8d6-4864-9738-b73b9d926953",
+                  "id": "276",
+                  "name": "How to Use Linux’s screen Command",
+                  "type": "url",
+                  "url": "https://www.howtogeek.com/662422/how-to-use-linuxs-screen-command/"
+               }, {
+                  "date_added": "13256377139000000",
+                  "guid": "eee15979-15bf-44f6-8317-5d6fa7262720",
+                  "id": "277",
+                  "name": "linux - How to kill a dead screen session? - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/42117584/how-to-kill-a-dead-screen-session"
+               }, {
+                  "date_added": "13256377811000000",
+                  "guid": "a6ec86ac-65b2-4582-b522-0b9a97a50553",
+                  "id": "278",
+                  "name": "How to Use tmux on Linux (and Why It’s Better Than Screen)",
+                  "type": "url",
+                  "url": "https://www.howtogeek.com/671422/how-to-use-tmux-on-linux-and-why-its-better-than-screen/"
+               }, {
+                  "date_added": "13256415013000000",
+                  "guid": "91c89e5b-c81c-4da5-bb0e-66f7f306451f",
+                  "id": "279",
+                  "name": "How to Use the grep Command on Linux",
+                  "type": "url",
+                  "url": "https://www.howtogeek.com/496056/how-to-use-the-grep-command-on-linux/"
+               }, {
+                  "date_added": "13256919427000000",
+                  "guid": "08b9595e-650f-4271-a8c8-dfdbd2a04949",
+                  "id": "280",
+                  "name": "Regular Expressions - sed, a stream editor",
+                  "type": "url",
+                  "url": "https://www.gnu.org/software/sed/manual/html_node/Regular-Expressions.html"
+               }, {
+                  "date_added": "13257036700000000",
+                  "guid": "efd890fd-25cb-4c2f-846b-c6cf961b3e7e",
+                  "id": "281",
+                  "name": "How to Find a Directory in Linux",
+                  "type": "url",
+                  "url": "https://www.muo.com/find-directory-linux/"
+               }, {
+                  "date_added": "13257350313000000",
+                  "guid": "f4b34271-8b7d-40a9-92ad-c5f526d58c34",
+                  "id": "282",
+                  "name": "linux - sed: -i may not be used with stdin on Mac OS X - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/21242932/sed-i-may-not-be-used-with-stdin-on-mac-os-x"
+               }, {
+                  "date_added": "13257350325000000",
+                  "guid": "2fe27cd4-f198-46e3-83e2-28dc360a2f55",
+                  "id": "283",
+                  "name": "How to use Sed command in Linux to update files - Interserver Tips",
+                  "type": "url",
+                  "url": "https://www.interserver.net/tips/kb/sed-command-in-linux/"
+               }, {
+                  "date_added": "13257505954000000",
+                  "guid": "e7d87649-855f-4381-8a80-accbbb1dba19",
+                  "id": "284",
+                  "name": "How to monitor any command output in real-time with watch command on Linux - Hexadix",
+                  "type": "url",
+                  "url": "https://hexadix.com/monitor-command-output-real-time-watch-command-linux/"
+               }, {
+                  "date_added": "13257546989000000",
+                  "guid": "c83b6451-735a-4531-920e-bd76bb1e4d62",
+                  "id": "285",
+                  "name": "command line - How to sed and replace string with a folder path - Ask Ubuntu",
+                  "type": "url",
+                  "url": "https://askubuntu.com/questions/408960/how-to-sed-and-replace-string-with-a-folder-path#408978"
+               }, {
+                  "date_added": "13257549298000000",
+                  "guid": "5558ffdc-90ca-447d-9c2c-543eec29ce8c",
+                  "id": "286",
+                  "name": "How to Use Regex with the `awk` Command – Linux Hint",
+                  "type": "url",
+                  "url": "https://linuxhint.com/regex_awk/"
+               }, {
+                  "date_added": "13257617534000000",
+                  "guid": "804d45a4-f539-48c8-8048-ff02cd49f18b",
+                  "id": "287",
+                  "name": "linux - How to exclude a directory in find . command - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/4210042/how-to-exclude-a-directory-in-find-command"
+               }, {
+                  "date_added": "13261220938000000",
+                  "guid": "504703f8-d44f-4fc8-a946-0d60a9dbf6cb",
+                  "id": "288",
+                  "name": "30+ awk examples for beginners / awk command tutorial in Linux/Unix | GoLinuxCloud",
+                  "type": "url",
+                  "url": "https://www.golinuxcloud.com/awk-examples-with-command-tutorial-unix-linux/#11_Deleting_empty_lines_using_NF"
+               }, {
+                  "date_added": "13261220960000000",
+                  "guid": "290e0d7c-c6ab-4f42-bfdf-c9f225667fbe",
+                  "id": "289",
+                  "name": "keyboard shortcuts - How to remove a zsh keybinding if I don't know what it does? - Unix & Linux Stack Exchange",
+                  "type": "url",
+                  "url": "https://unix.stackexchange.com/questions/285208/how-to-remove-a-zsh-keybinding-if-i-dont-know-what-it-does"
+               }, {
+                  "date_added": "13261183326000000",
+                  "guid": "b6d36539-3f0c-4c90-8976-d7528805a211",
+                  "id": "290",
+                  "name": "linux - Check if argument is a file or directory - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/14656080/check-if-argument-is-a-file-or-directory"
+               }, {
+                  "date_added": "13262449847000000",
+                  "guid": "0065a5b1-6298-4d57-9263-b1a869908503",
+                  "id": "291",
+                  "name": "Meet – kjg-rhkz-frj",
+                  "type": "url",
+                  "url": "https://meet.google.com/kjg-rhkz-frj"
+               }, {
+                  "date_added": "13277899183265549",
+                  "guid": "1588e881-d150-4c74-b9e4-c7358ea87191",
+                  "id": "445",
+                  "name": "linux - shell script to kill the process listening on port 3000?",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/9168392/shell-script-to-kill-the-process-listening-on-port-3000"
+               } ],
+               "date_added": "13277233018941605",
+               "date_modified": "13277900820415187",
+               "guid": "9af5f177-f0c2-498d-a822-792b77101cab",
+               "id": "270",
+               "name": "Linux",
+               "type": "folder"
+            }, {
+               "date_added": "13256033978000000",
+               "guid": "22ff17fb-714a-466a-b3e5-7486f90625dd",
+               "id": "292",
+               "name": "Basic Syntax | Markdown Guide",
+               "type": "url",
+               "url": "https://www.markdownguide.org/basic-syntax/"
+            }, {
+               "children": [ {
+                  "date_added": "13256218502000000",
+                  "guid": "08f0091c-7a56-4f04-b812-c8fb9ef172a6",
+                  "id": "294",
+                  "name": "[if statements] - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/33090357/too-many-arguments-if-statements"
+               }, {
+                  "date_added": "13256218530000000",
+                  "guid": "c75dc2b1-3ed9-4718-9571-276a4d356bb0",
+                  "id": "295",
+                  "name": "linux - Using bg and fg with a given PID - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/60476078/using-bg-and-fg-with-a-given-pid"
+               }, {
+                  "date_added": "13256218537000000",
+                  "guid": "b74b182a-a71d-4644-914a-1561e2a95f00",
+                  "id": "296",
+                  "name": "Bash Background Process Management - LinuxConfig.org",
+                  "type": "url",
+                  "url": "https://linuxconfig.org/bash-background-process-management"
+               }, {
+                  "date_added": "13256218561000000",
+                  "guid": "10b83cb8-dd6f-4571-8c08-374e9e015985",
+                  "id": "297",
+                  "name": "bash - How can I assign the output of a command to a shell variable? - Unix & Linux Stack Exchange",
+                  "type": "url",
+                  "url": "https://unix.stackexchange.com/questions/16024/how-can-i-assign-the-output-of-a-command-to-a-shell-variable"
+               }, {
+                  "date_added": "13256221222000000",
+                  "guid": "3968c075-83e8-4955-90d8-8deb34d3f134",
+                  "id": "298",
+                  "name": "linux - Getting pids from ps -ef |grep keyword - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/8120304/getting-pids-from-ps-ef-grep-keyword"
+               }, {
+                  "date_added": "13256221232000000",
+                  "guid": "9926dd0e-2711-4294-9efa-8cf4be03b796",
+                  "id": "299",
+                  "name": "Five ways to use redirect operators in bash | Enable Sysadmin",
+                  "type": "url",
+                  "url": "https://www.redhat.com/sysadmin/redirect-operators-bash"
+               }, {
+                  "date_added": "13256221835000000",
+                  "guid": "fb895143-4a50-4bb0-9d7f-75011ffcbd41",
+                  "id": "300",
+                  "name": "bash - Consecutive commands - Unix & Linux Stack Exchange",
+                  "type": "url",
+                  "url": "https://unix.stackexchange.com/questions/184493/consecutive-commands"
+               }, {
+                  "date_added": "13256247837000000",
+                  "guid": "601c8d4b-e4ba-43ab-bd10-e993108671ba",
+                  "id": "301",
+                  "name": "wait command",
+                  "type": "url",
+                  "url": "https://unix.stackexchange.com/questions/76717/launch-a-background-process-and-check-when-it-ends"
+               }, {
+                  "date_added": "13256247858000000",
+                  "guid": "dbce4b85-b91e-44b7-9fa3-1582cb8b37d9",
+                  "id": "302",
+                  "name": "How to Symlink a File in Linux",
+                  "type": "url",
+                  "url": "https://www.linuxshelltips.com/symlink-file-in-linux/"
+               }, {
+                  "date_added": "13256369791000000",
+                  "guid": "be154939-87a7-480f-90f4-0ef2630f8177",
+                  "id": "303",
+                  "name": "How to view the output of a running process in another bash session? - Unix & Linux Stack Exchange",
+                  "type": "url",
+                  "url": "https://unix.stackexchange.com/questions/58550/how-to-view-the-output-of-a-running-process-in-another-bash-session"
+               }, {
+                  "date_added": "13256369798000000",
+                  "guid": "4ef434d2-8b56-43fb-9d2e-54945e533261",
+                  "id": "304",
+                  "name": "bash - Testing if a variable is an integer - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/3623662/testing-if-a-variable-is-an-integer"
+               }, {
+                  "date_added": "13256375084000000",
+                  "guid": "d0669e5d-0ccf-44c6-a151-647ac7fde74b",
+                  "id": "305",
+                  "name": "Detach from screen session inside bash script - Unix & Linux Stack Exchange",
+                  "type": "url",
+                  "url": "https://unix.stackexchange.com/questions/382137/detach-from-screen-session-inside-bash-script"
+               }, {
+                  "date_added": "13256377791000000",
+                  "guid": "92b13a3b-9780-4c91-b767-2411de4d49a5",
+                  "id": "306",
+                  "name": "How to Pass Arguments to a Bash Shell Script",
+                  "type": "url",
+                  "url": "https://linuxhandbook.com/bash-arguments/"
+               }, {
+                  "date_added": "13256414997000000",
+                  "guid": "d5c0c57f-a546-4abc-967e-52c597482efc",
+                  "id": "307",
+                  "name": "io redirection - Combine the output of two commands in bash - Unix & Linux Stack Exchange",
+                  "type": "url",
+                  "url": "https://unix.stackexchange.com/questions/64736/combine-the-output-of-two-commands-in-bash#64739"
+               }, {
+                  "date_added": "13256415006000000",
+                  "guid": "f7212722-660e-40ef-8ad3-ab7007d7fa53",
+                  "id": "308",
+                  "name": "How to silence output in a Bash script? - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/2292847/how-to-silence-output-in-a-bash-script"
+               }, {
+                  "date_added": "13256717922000000",
+                  "guid": "71e1dbf3-d703-4714-94eb-f879810bf527",
+                  "id": "309",
+                  "name": "BASH command output to the variable – Linux Hint",
+                  "type": "url",
+                  "url": "https://linuxhint.com/bash_command_output_variable/"
+               }, {
+                  "date_added": "13256720427000000",
+                  "guid": "0a93227f-f48c-463c-b1e9-75739ea0efe6",
+                  "id": "310",
+                  "name": "Regex matching in a Bash if statement - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/18709962/regex-matching-in-a-bash-if-statement"
+               }, {
+                  "date_added": "13256803988000000",
+                  "guid": "ab8e8a8a-e710-4d51-bc89-04187e8f51d3",
+                  "id": "311",
+                  "name": "How to pass multiple arguments in shell script with examples | GoLinuxCloud",
+                  "type": "url",
+                  "url": "https://www.golinuxcloud.com/bash-script-multiple-arguments/"
+               }, {
+                  "date_added": "13257015536000000",
+                  "guid": "52d2b5ca-5c54-45a6-98ec-3f703af3cfca",
+                  "id": "312",
+                  "name": "How to delete and replace last line in the terminal using bash? - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/2388090/how-to-delete-and-replace-last-line-in-the-terminal-using-bash"
+               }, {
+                  "date_added": "13257018943000000",
+                  "guid": "5f774272-a3b3-4b06-8135-374f7bd436c6",
+                  "id": "313",
+                  "name": "replace - Deleting echo line in bash - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/10321230/deleting-echo-line-in-bash"
+               }, {
+                  "date_added": "13257018967000000",
+                  "guid": "0c221af3-4a9a-4a3d-895a-e391fe1b8073",
+                  "id": "314",
+                  "name": "animation - How to make an animated bash shell prompt for the terminal? - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/29448625/how-to-make-an-animated-bash-shell-prompt-for-the-terminal"
+               }, {
+                  "date_added": "13257018974000000",
+                  "guid": "66526aec-3998-456e-9d0c-8d86775c8010",
+                  "id": "315",
+                  "name": "bash - How to change the output color of echo in Linux - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/5947742/how-to-change-the-output-color-of-echo-in-linux"
+               }, {
+                  "date_added": "13257324688000000",
+                  "guid": "508a7c98-a502-4c61-b7fd-ae7afb15e3d2",
+                  "id": "316",
+                  "name": "Bash split string into array using 4 simple methods | GoLinuxCloud",
+                  "type": "url",
+                  "url": "https://www.golinuxcloud.com/bash-split-string-into-array-linux/#Method_1_Bash_split_string_into_array_using_parenthesis"
+               }, {
+                  "date_added": "13257327566000000",
+                  "guid": "e6d76109-df0f-42be-b1b7-dfc8aa41af63",
+                  "id": "317",
+                  "name": "Returning Values from Bash Functions | Linux Journal",
+                  "type": "url",
+                  "url": "https://www.linuxjournal.com/content/return-values-bash-functions"
+               }, {
+                  "date_added": "13257952068000000",
+                  "guid": "de0d5344-1a03-4990-8f26-b11522b54b2b",
+                  "id": "318",
+                  "name": "Always use double quotes for vars",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/29378566/i-just-assigned-a-variable-but-echo-variable-shows-something-else"
+               } ],
+               "date_added": "13277233018943179",
+               "date_modified": "0",
+               "guid": "9eaa7c53-5cfd-4bc5-a85f-e6ddd22d000c",
+               "id": "293",
+               "name": "Bash",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13257114740000000",
+                  "guid": "fd5c6ef6-cb93-48c1-b7e0-75a86ed663e8",
+                  "id": "320",
+                  "name": "How can I move tmux's status bar to the top? - Unix & Linux Stack Exchange",
+                  "type": "url",
+                  "url": "https://unix.stackexchange.com/questions/15316/how-can-i-move-tmuxs-status-bar-to-the-top"
+               }, {
+                  "date_added": "13257115555000000",
+                  "guid": "0b532c12-7227-4ed4-a3ab-304eaef16fcc",
+                  "id": "321",
+                  "name": "tmux: Remapping keys to pane on the left/right/top/down - Unix & Linux Stack Exchange",
+                  "type": "url",
+                  "url": "https://unix.stackexchange.com/questions/66745/tmux-remapping-keys-to-pane-on-the-left-right-top-down"
+               }, {
+                  "date_added": "13257115595000000",
+                  "guid": "cc525dc8-c667-4359-bfaf-b0b8b35566cf",
+                  "id": "322",
+                  "name": "How to split a new window and run a command in this new window using tmux? - Unix & Linux Stack Exchange",
+                  "type": "url",
+                  "url": "https://unix.stackexchange.com/questions/152738/how-to-split-a-new-window-and-run-a-command-in-this-new-window-using-tmux#152740"
+               }, {
+                  "date_added": "13257124234000000",
+                  "guid": "9891e33e-95bb-43bd-a2bb-961fa8bd7a48",
+                  "id": "323",
+                  "name": "Making tmux Pretty and Usable - A Guide to Customizing your tmux.conf",
+                  "type": "url",
+                  "url": "https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/"
+               }, {
+                  "date_added": "13257249320000000",
+                  "guid": "54bab8c9-f1b7-4011-bdc1-d805a72ab4aa",
+                  "id": "324",
+                  "name": "shell - Run command in detached tmux session - Server Fault",
+                  "type": "url",
+                  "url": "https://serverfault.com/questions/339390/run-command-in-detached-tmux-session"
+               }, {
+                  "date_added": "13257321566000000",
+                  "guid": "7977954b-4823-487a-86db-d1fcbe9553f1",
+                  "id": "325",
+                  "name": "Key bindings (copy-mode)",
+                  "type": "url",
+                  "url": "https://github.com/tmux/tmux/commit/76d6d3641f271be1756e41494960d96714e7ee58"
+               }, {
+                  "date_added": "13257343997000000",
+                  "guid": "d843c6b3-6f73-45da-b7c5-53b5debfa610",
+                  "id": "326",
+                  "name": "sdt/tmux-vim: Bash script to enable a persistent vim pane within tmux",
+                  "type": "url",
+                  "url": "https://github.com/sdt/tmux-vim"
+               }, {
+                  "date_added": "13259139880000000",
+                  "guid": "4ade6fca-499b-4142-8551-3911355c155e",
+                  "id": "327",
+                  "name": "tmux shortcuts & cheatsheet",
+                  "type": "url",
+                  "url": "https://gist.github.com/MohamedAlaa/2961058"
+               } ],
+               "date_added": "13277233018945009",
+               "date_modified": "0",
+               "guid": "681c83a4-6f39-4539-834f-e7cf3a015eed",
+               "id": "319",
+               "name": "tmux",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13257927508000000",
+                  "guid": "f02b3d1c-e25f-4267-91c7-cfc89b3df2c1",
+                  "id": "329",
+                  "name": "hristo-vrigazov/bromium: Framework on top of selenium for recording and replaying UI actions",
+                  "type": "url",
+                  "url": "https://github.com/hristo-vrigazov/bromium"
+               }, {
+                  "date_added": "13257927514000000",
+                  "guid": "6a901eeb-0278-4f97-ba8a-122a31b2a0bb",
+                  "id": "330",
+                  "name": "huxley/huxley at master · facebookarchive/huxley",
+                  "type": "url",
+                  "url": "https://github.com/facebookarchive/huxley/tree/master/huxley"
+               }, {
+                  "date_added": "13257927519000000",
+                  "guid": "0b4ce2fb-b003-433c-ad5d-e864ad9f6ec2",
+                  "id": "331",
+                  "name": "facebookarchive/huxley: A testing system for catching visual regressions in Web applications.",
+                  "type": "url",
+                  "url": "https://github.com/facebookarchive/huxley"
+               } ],
+               "date_added": "13277233018945617",
+               "date_modified": "0",
+               "guid": "3e42fcc5-eda4-4841-832d-4bec81dad9bf",
+               "id": "328",
+               "name": "Automation",
+               "type": "folder"
+            }, {
+               "date_added": "13258017113000000",
+               "guid": "c908b82f-df0f-4b68-8554-cbf3063df4a4",
+               "id": "332",
+               "name": "How to Find or Create an RSS Feed for Any Website",
+               "type": "url",
+               "url": "https://www.howtogeek.com/318401/how-to-find-or-create-an-rss-feed-for-any-website/"
+            }, {
+               "date_added": "13259133336000000",
+               "guid": "27416253-5e57-42d6-963c-6a97edfd255c",
+               "id": "333",
+               "name": "chjj/blessed: A high-level terminal interface library for node.js.",
+               "type": "url",
+               "url": "https://github.com/chjj/blessed#windows-compatibility"
+            }, {
+               "children": [ {
+                  "date_added": "13259187918000000",
+                  "guid": "a22511f0-64b7-4c8d-834c-622bd83e2429",
+                  "id": "335",
+                  "name": "Doing a cleanup action just before Node.js exits - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/14031763/doing-a-cleanup-action-just-before-node-js-exits"
+               }, {
+                  "date_added": "13259187936000000",
+                  "guid": "ab83e2de-646a-4f9b-baa9-16c579814e59",
+                  "id": "336",
+                  "name": "function - How to kill spawned process in node.js - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/42662397/how-to-kill-spawned-process-in-node-js#42662570"
+               }, {
+                  "date_added": "13259221351000000",
+                  "guid": "5c305fce-3769-44fb-9dd9-1345dd93bd95",
+                  "id": "337",
+                  "name": "windows - How to kill an open process on node.js? - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/11276249/how-to-kill-an-open-process-on-node-js"
+               }, {
+                  "date_added": "13259225357000000",
+                  "guid": "881364d1-182c-470b-95ea-cfac81322aaf",
+                  "id": "338",
+                  "name": "Node.js | path.resolve() Method - GeeksforGeeks",
+                  "type": "url",
+                  "url": "https://www.geeksforgeeks.org/node-js-path-resolve-method/"
+               }, {
+                  "date_added": "13259233799000000",
+                  "guid": "87997846-f5c9-4d79-9fc2-eb4e192affe1",
+                  "id": "339",
+                  "name": "Difference between process.cwd() and __dirname in Node.js - GeeksforGeeks",
+                  "type": "url",
+                  "url": "https://www.geeksforgeeks.org/difference-between-process-cwd-and-__dirname-in-node-js/"
+               }, {
+                  "date_added": "13259307920000000",
+                  "guid": "767dab31-02fc-475c-a763-ef1880335d5c",
+                  "id": "340",
+                  "name": "node-pty - npm",
+                  "type": "url",
+                  "url": "https://www.npmjs.com/package/node-pty"
+               }, {
+                  "date_added": "13259314135000000",
+                  "guid": "e6e70411-7689-4f7d-9104-10659ed55dd4",
+                  "id": "341",
+                  "name": "Readline",
+                  "type": "url",
+                  "url": "https://nodejs.org/api/readline.html"
+               }, {
+                  "date_added": "13259394436000000",
+                  "guid": "c4aa38bb-e861-4755-9bf9-eb784d573465",
+                  "id": "342",
+                  "name": "node.js - preserve color when executing child_process.spawn - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/7725809/preserve-color-when-executing-child-process-spawn"
+               }, {
+                  "date_added": "13259450639000000",
+                  "guid": "0c02630c-5b2a-4161-8be1-f990bf40c911",
+                  "id": "343",
+                  "name": "PM2 - PM2 API",
+                  "type": "url",
+                  "url": "https://pm2.keymetrics.io/docs/usage/pm2-api/"
+               }, {
+                  "date_added": "13259450646000000",
+                  "guid": "6ee2ed8d-2e30-48bb-964d-644e4ec5ae3a",
+                  "id": "344",
+                  "name": "PM2 - Single Page Doc",
+                  "type": "url",
+                  "url": "https://pm2.keymetrics.io/docs/usage/pm2-doc-single-page/"
+               }, {
+                  "date_added": "13259485626000000",
+                  "guid": "c6337348-bc8f-4c1a-8ac0-e9f38e1f311a",
+                  "id": "345",
+                  "name": "How to hide the cursor in the REPL - MicroPython Forum",
+                  "type": "url",
+                  "url": "https://forum.micropython.org/viewtopic.php?t=5933&p=33948"
+               }, {
+                  "date_added": "13259485634000000",
+                  "guid": "0fe9c978-5239-43d8-b955-512deaea00d3",
+                  "id": "346",
+                  "name": "Readline - node",
+                  "type": "url",
+                  "url": "https://node.readthedocs.io/en/latest/api/readline/"
+               }, {
+                  "date_added": "13259486222000000",
+                  "guid": "cf44b1ff-0b9a-41ed-962e-60745a0833d4",
+                  "id": "347",
+                  "name": "node.js - Is there a way to erase the last line of output? - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/32938213/is-there-a-way-to-erase-the-last-line-of-output"
+               } ],
+               "date_added": "13277233018946010",
+               "date_modified": "0",
+               "guid": "5993555c-3bb7-4ced-811f-93d04162d034",
+               "id": "334",
+               "name": "Node",
+               "type": "folder"
+            }, {
+               "date_added": "13259407997000000",
+               "guid": "e116cd59-a8ca-4334-b5fa-881b089c2ff3",
+               "id": "348",
+               "name": "Reset NVRAM or PRAM on your Mac - Apple Support",
+               "type": "url",
+               "url": "https://support.apple.com/en-us/HT204063"
+            }, {
+               "date_added": "13259535648000000",
+               "guid": "5e50444a-b91c-4017-84f0-92078b048286",
+               "id": "349",
+               "name": "ʕ•́ᴥ•̀ʔっ♡ Cute and cool text symbols to copy paste",
+               "type": "url",
+               "url": "https://text-symbols.com/"
+            }, {
+               "date_added": "13259764749000000",
+               "guid": "3fd58d45-1e73-4519-8b5b-d04746f7f6a7",
+               "id": "350",
+               "name": "MacroDroid - Device Automation – Apps on Google Play",
+               "type": "url",
+               "url": "https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid"
+            }, {
+               "date_added": "13261476180000000",
+               "guid": "5dc1a34c-7ae2-4f7a-9ff8-64f648f23d63",
+               "id": "351",
+               "name": "ECMA-262 - Ecma International",
+               "type": "url",
+               "url": "https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"
+            }, {
+               "date_added": "13261548140000000",
+               "guid": "eebd6498-ae08-41b1-b837-f0384a615e7d",
+               "id": "352",
+               "name": "Lufflands Caravan Park, Holsworthy - Updated 2021 prices - Pitchup®",
+               "type": "url",
+               "url": "https://www.pitchup.com/campsites/England/South_West/Devon/Holsworthy/lufflands-caravan-park/?adults=4&arrive=2021-06-28&child_ages=4%2C0&depart=2021-07-02&type=6&type=7"
+            }, {
+               "date_added": "13261548152000000",
+               "guid": "d2cffa62-cc62-4494-ac78-940550dff617",
+               "id": "353",
+               "name": "Lynmouth Holiday Retreat, Lynton - Updated 2021 prices - Pitchup®",
+               "type": "url",
+               "url": "https://www.pitchup.com/campsites/England/South_West/Devon/Lynton/lynmouth-holiday-retreat/?adults=4&arrive=2021-06-28&child_ages=4%2C0&depart=2021-07-02&type=6&type=7"
+            }, {
+               "date_added": "13264075752000000",
+               "guid": "c152672b-67fc-42e4-b41b-d2bf54a8d240",
+               "id": "354",
+               "name": "datetime - How can I convert milliseconds to \"hhmmss\" format using javascript? - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/29816872/how-can-i-convert-milliseconds-to-hhmmss-format-using-javascript"
+            }, {
+               "date_added": "13264794046000000",
+               "guid": "0d7b3ae2-7fdd-4149-b3f2-2550f0337cd3",
+               "id": "355",
+               "name": "gRPC",
+               "type": "url",
+               "url": "https://grpc.io/"
+            }, {
+               "children": [ {
+                  "date_added": "13265732806000000",
+                  "guid": "c4a17978-eea0-4673-a94f-a4c8e59a81ee",
+                  "id": "357",
+                  "name": "Find Android Device ID and Change It",
+                  "type": "url",
+                  "url": "https://www.gtricks.com/android/2-ways-to-find-android-device-id-and-change-it/"
+               } ],
+               "date_added": "13277233018947509",
+               "date_modified": "0",
+               "guid": "d6408590-4639-4ffd-9ce5-b5f29eba3adb",
+               "id": "356",
+               "name": "Android",
+               "type": "folder"
+            }, {
+               "date_added": "13265738202000000",
+               "guid": "8ac1469c-d934-4759-999a-af279a01df4d",
+               "id": "358",
+               "name": "dylanaraps/pywal: 🎨 Generate and change color-schemes on the fly.",
+               "type": "url",
+               "url": "https://github.com/dylanaraps/pywal"
+            }, {
+               "children": [ {
+                  "date_added": "13269361093000000",
+                  "guid": "c9f551e8-c708-4496-8398-b806676101ae",
+                  "id": "360",
+                  "name": "iOS Simulator from the Command Line | RY 's Blog",
+                  "type": "url",
+                  "url": "https://suelan.github.io/2020/02/05/iOS-Simulator-from-the-Command-Line/"
+               } ],
+               "date_added": "13277233018947647",
+               "date_modified": "0",
+               "guid": "bee42014-b76b-410a-867c-6b2bfa61d256",
+               "id": "359",
+               "name": "IOS Sim",
+               "type": "folder"
+            }, {
+               "date_added": "13270619060000000",
+               "guid": "58c9f4fa-9d89-4216-99b8-07048d1a6d92",
+               "id": "361",
+               "name": "How to implement “cacheable” pagination of frequently changing content | by Nikita Kozlov | We’ve moved to freeCodeCamp.org/news | Medium",
+               "type": "url",
+               "url": "https://medium.com/free-code-camp/how-to-implement-cacheable-pagination-of-frequently-changing-content-c8ddc8269e81"
+            }, {
+               "date_added": "13271004272000000",
+               "guid": "499a97bb-0a35-4166-8887-833baea03945",
+               "id": "362",
+               "name": "Compare | Nokia phones shop",
+               "type": "url",
+               "url": "https://www.nokia.com/phones/en_gb/compare?phones=nokia-6300-4g"
+            }, {
+               "date_added": "13271498162000000",
+               "guid": "f9adab61-5524-4994-9103-17e305abb3d3",
+               "id": "363",
+               "name": "Creating a GIF from QuickTime Screen Recording in macOS",
+               "type": "url",
+               "url": "https://www.braytonstafford.com/creating-a-gif-from-quicktime-screen-recording/"
+            }, {
+               "children": [ {
+                  "date_added": "13271776347000000",
+                  "guid": "bcd296e3-0538-4238-8e21-48087f65c28f",
+                  "id": "365",
+                  "name": "ctags — Universal Ctags 0.3.0 documentation",
+                  "type": "url",
+                  "url": "https://docs.ctags.io/en/latest/man/ctags.1.html"
+               }, {
+                  "date_added": "13271776367000000",
+                  "guid": "d0078cf3-7e0c-42d3-8e0b-b960c1f2b891",
+                  "id": "366",
+                  "name": "IDE · GitLab",
+                  "type": "url",
+                  "url": "https://gitlab.com/-/ide/project/tarunsharma20/dotfiles/edit/master/-/ctags/.ctags"
+               }, {
+                  "date_added": "13271776382000000",
+                  "guid": "adf6c45b-899a-4203-bb2e-827ffe6ffa64",
+                  "id": "367",
+                  "name": "Silver Searcher (Ctags replacement%3F)",
+                  "type": "url",
+                  "url": "https://www.stuffthatstough.com/archive/Silver%20Searcher%20(Ctags%20replacement%3F)"
+               } ],
+               "date_added": "13277233018947960",
+               "date_modified": "0",
+               "guid": "98367989-24be-4ec7-b0a9-90458c33f4a3",
+               "id": "364",
+               "name": "Ctags",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13255015769000000",
+                  "guid": "f33e0371-da3b-49a4-a230-f3edcf3606be",
+                  "id": "170",
+                  "name": "Mobile Interaction Design Course",
+                  "type": "url",
+                  "url": "https://www.coursera.org/learn/mobile-interaction-design"
+               }, {
+                  "date_added": "13255015798000000",
+                  "guid": "2f5a3b5b-72b4-49ca-a204-259a171c8dd2",
+                  "id": "171",
+                  "name": "UX Principles and Processes - Online Course",
+                  "type": "url",
+                  "url": "https://www.futurelearn.com/courses/introduction-to-user-experience-principles-and-processes"
+               }, {
+                  "date_added": "13255015877000000",
+                  "guid": "136c52e0-532d-4bd7-b398-44779da9bf6e",
+                  "id": "172",
+                  "name": "Introduction - Ant Design",
+                  "type": "url",
+                  "url": "https://ant.design/docs/spec/introduce"
+               }, {
+                  "children": [ {
+                     "date_added": "13256033928000000",
+                     "guid": "ae17ac65-f2b3-40bf-9033-c5adb0b2e8e0",
+                     "id": "174",
+                     "name": "Contrast - Ant Design",
+                     "type": "url",
+                     "url": "https://ant.design/docs/spec/contrast"
+                  } ],
+                  "date_added": "13277233018934970",
+                  "date_modified": "0",
+                  "guid": "143c83d7-c1e4-4687-80f3-6305780d52e9",
+                  "id": "173",
+                  "name": "Visual Design Principles",
+                  "type": "folder"
+               }, {
+                  "date_added": "13263708455000000",
+                  "guid": "0c407980-edd3-42c9-91bf-76a52fa292fd",
+                  "id": "175",
+                  "name": "React Native Example for Android and iOS",
+                  "type": "url",
+                  "url": "https://reactnativeexample.com/"
+               } ],
+               "date_added": "13277233018934535",
+               "date_modified": "0",
+               "guid": "5efb9f86-30f2-40f7-accc-e7ee5fa4ab35",
+               "id": "169",
+               "name": "UX",
+               "type": "folder"
+            }, {
+               "date_added": "13257984769000000",
+               "guid": "3ef3be6c-194f-4d87-abc8-d3f6bc73b3dc",
+               "id": "368",
+               "name": "DevDocs",
+               "type": "url",
+               "url": "https://devdocs.io/offline"
+            }, {
+               "children": [ {
+                  "date_added": "13263389780000000",
+                  "guid": "866364fd-badb-427d-bcb8-540d72a5cb06",
+                  "id": "371",
+                  "name": "w0rp/vim-speech: Vim Speech Recognition Experiments",
+                  "type": "url",
+                  "url": "https://github.com/w0rp/vim-speech"
+               }, {
+                  "date_added": "13263389787000000",
+                  "guid": "021fa43e-9383-40a3-aba0-cee6cfd82bcc",
+                  "id": "372",
+                  "name": "Speech - Speech to text and text to speech via google speech api : vim online",
+                  "type": "url",
+                  "url": "https://www.vim.org/scripts/script.php?script_id=3762"
+               }, {
+                  "date_added": "13263389836000000",
+                  "guid": "c0ab3263-b288-40f9-818c-2bdabf51d64c",
+                  "id": "373",
+                  "name": "equalsraf/vim-speechdispatch: Interact with speech dispatcher from Vim",
+                  "type": "url",
+                  "url": "https://github.com/equalsraf/vim-speechdispatch"
+               }, {
+                  "date_added": "13263389904000000",
+                  "guid": "ce71e1ec-48fd-49e5-b5e1-b2eb3c46a49d",
+                  "id": "374",
+                  "name": "English mnemonics to Vim's shortcuts - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/7409134/english-mnemonics-to-vims-shortcuts"
+               }, {
+                  "date_added": "13263389944000000",
+                  "guid": "110d0e11-9972-449f-8445-ec2eca75d67d",
+                  "id": "375",
+                  "name": "Vim Mnemonic Devices - programmer ∩ ml engineer ∩ mentor",
+                  "type": "url",
+                  "url": "https://avishaan.com/vim/vim-mnemonics/"
+               }, {
+                  "date_added": "13263390078000000",
+                  "guid": "01a052ce-c963-4e3a-a753-8eb7f4e47c75",
+                  "id": "376",
+                  "name": "AshleyF/VimSpeak: Speak to your editor.",
+                  "type": "url",
+                  "url": "https://github.com/AshleyF/VimSpeak"
+               }, {
+                  "date_added": "13263390900000000",
+                  "guid": "36d6c889-141a-4871-8935-f9e2ec9bac1d",
+                  "id": "377",
+                  "name": "VimSpeak Demo - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=TEBMlXRjhZY"
+               }, {
+                  "date_added": "13263545162000000",
+                  "guid": "06a079ad-6ff3-47ff-ad9a-3762a1fccb9a",
+                  "id": "378",
+                  "name": "Learning F# | The F# Software Foundation",
+                  "type": "url",
+                  "url": "https://fsharp.org/learn/"
+               }, {
+                  "date_added": "13263545168000000",
+                  "guid": "0049f5ac-0579-4ffa-b20d-aaa5c3773b9f",
+                  "id": "379",
+                  "name": "Download .NET Core 3.1 SDK (v3.1.408) - macOS x64 Installer",
+                  "type": "url",
+                  "url": "https://dotnet.microsoft.com/download/dotnet/thank-you/sdk-3.1.408-macos-x64-installer"
+               }, {
+                  "date_added": "13263545178000000",
+                  "guid": "0cc6d17e-e21e-402d-b4f4-5972d5aee716",
+                  "id": "380",
+                  "name": "macos - Building F# .fsproj on Mac (Mono) - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/8218099/building-f-fsproj-on-mac-mono"
+               }, {
+                  "date_added": "13263545192000000",
+                  "guid": "83463242-abf7-4dbe-a1e3-87e5f0a3be7a",
+                  "id": "381",
+                  "name": "Mono Basics | Mono",
+                  "type": "url",
+                  "url": "https://www.mono-project.com/docs/getting-started/mono-basics/"
+               }, {
+                  "date_added": "13263545198000000",
+                  "guid": "cf99bb47-7b87-4299-885b-6c1b2875c7ca",
+                  "id": "382",
+                  "name": "VimSpeak Demo - VimGolf using only voice - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=qy84TYvXJbk"
+               } ],
+               "date_added": "13277233018949013",
+               "date_modified": "0",
+               "guid": "f7481c55-59c1-4436-b5a7-83e3e5fe5d3c",
+               "id": "370",
+               "name": "Vim Speech",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13266701487000000",
+                  "guid": "c3acf656-90f6-4d0e-add3-9a86b71d2514",
+                  "id": "384",
+                  "name": "Carousel Images RN",
+                  "type": "url",
+                  "url": "https://github.com/meliorence/react-native-snap-carousel"
+               }, {
+                  "children": [ {
+                     "date_added": "13264380144000000",
+                     "guid": "ebc82de0-58b8-467c-8ce1-7adfe3ee32a3",
+                     "id": "386",
+                     "name": "ListObjectsV2 - Amazon Simple Storage Service",
+                     "type": "url",
+                     "url": "https://docs.aws.amazon.com/AmazonS3/latest/API/API_ListObjectsV2.html"
+                  }, {
+                     "date_added": "13264384083000000",
+                     "guid": "d97cc5a9-73f7-4fba-8766-413dc4bc9294",
+                     "id": "387",
+                     "name": "amplify-js/packages/amazon-cognito-identity-js at master · aws-amplify/amplify-js",
+                     "type": "url",
+                     "url": "https://github.com/aws-amplify/amplify-js/tree/master/packages/amazon-cognito-identity-js"
+                  }, {
+                     "date_added": "13264384131000000",
+                     "guid": "81ba2298-c9b5-49f5-9a59-0155a531eb27",
+                     "id": "388",
+                     "name": "Best practices for managing AWS access keys - AWS General Reference",
+                     "type": "url",
+                     "url": "https://docs.aws.amazon.com/general/latest/gr/aws-access-keys-best-practices.html"
+                  }, {
+                     "date_added": "13264384136000000",
+                     "guid": "031d09c0-ef44-450d-b029-4b63994d52b7",
+                     "id": "389",
+                     "name": "Authenticating Requests: Using the Authorization Header (AWS Signature Version 4) - Amazon Simple Storage Service",
+                     "type": "url",
+                     "url": "https://docs.aws.amazon.com/AmazonS3/latest/API/sigv4-auth-using-authorization-header.html"
+                  }, {
+                     "date_added": "13264384146000000",
+                     "guid": "63019c1a-3eb3-4427-8486-50fa617f4032",
+                     "id": "390",
+                     "name": "Signature Calculations for the Authorization Header: Transferring Payload in a Single Chunk (AWS Signature Version 4) - Amazon Simple Storage Service",
+                     "type": "url",
+                     "url": "https://docs.aws.amazon.com/AmazonS3/latest/API/sig-v4-header-based-auth.html"
+                  }, {
+                     "date_added": "13265549449000000",
+                     "guid": "6f081862-d0ec-41d2-a844-b538590e3100",
+                     "id": "391",
+                     "name": "Accessing Your User Pools using the Amazon Cognito Identity SDK for JavaScript | Front-End Web & Mobile",
+                     "type": "url",
+                     "url": "https://aws.amazon.com/blogs/mobile/accessing-your-user-pools-using-the-amazon-cognito-identity-sdk-for-javascript/"
+                  }, {
+                     "date_added": "13265549564000000",
+                     "guid": "f44312d5-0e20-47bf-8e17-5de248df3f56",
+                     "id": "392",
+                     "name": "Using Tokens with User Pools - Amazon Cognito",
+                     "type": "url",
+                     "url": "https://docs.aws.amazon.com/cognito/latest/developerguide/amazon-cognito-user-pools-using-tokens-with-identity-providers.html"
+                  }, {
+                     "date_added": "13265578604000000",
+                     "guid": "74c6616f-aec0-4332-9c26-0037ebd9b982",
+                     "id": "393",
+                     "name": "Cognito refresh token - Invalid Token response · Issue #2253 · aws/aws-sdk-java",
+                     "type": "url",
+                     "url": "https://github.com/aws/aws-sdk-java/issues/2253"
+                  }, {
+                     "date_added": "13265589296000000",
+                     "guid": "7c920755-1bf7-494e-81fc-2bbe1d808e16",
+                     "id": "394",
+                     "name": "Token is not from a supported provider of this identity pool · Issue #42 · furaiev/amazon-cognito-identity-dart-2",
+                     "type": "url",
+                     "url": "https://github.com/furaiev/amazon-cognito-identity-dart-2/issues/42"
+                  }, {
+                     "date_added": "13266690392000000",
+                     "guid": "8eec1729-9065-48ac-b8c0-95999fe91412",
+                     "id": "395",
+                     "name": "Class: AWS.S3",
+                     "type": "url",
+                     "url": "https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/S3.html#getObject-property"
+                  }, {
+                     "date_added": "13266701440000000",
+                     "guid": "83688b75-3328-455e-adf5-70454c1ac27a",
+                     "id": "396",
+                     "name": "Swiper component for React Native with previews",
+                     "type": "url",
+                     "url": "https://reactnativeexample.com/swiper-component-for-react-native-with-previews-2/"
+                  } ],
+                  "date_added": "13277233018950508",
+                  "date_modified": "0",
+                  "guid": "971fe31a-189b-448c-a6a9-e60403cc5495",
+                  "id": "385",
+                  "name": "AWS",
+                  "type": "folder"
+               }, {
+                  "date_added": "13266710092000000",
+                  "guid": "a426ed63-c1a7-4797-b68f-4d8bc35ed4ad",
+                  "id": "397",
+                  "name": "Class: AWS.S3 — AWS SDK for JavaScript",
+                  "type": "url",
+                  "url": "https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/S3.html#listObjectsV2-property"
+               }, {
+                  "children": [ {
+                     "date_added": "13266712856000000",
+                     "guid": "0d0d4548-ea64-46a9-91db-097e6f46fff6",
+                     "id": "399",
+                     "name": "React Navigation | React Navigation",
+                     "type": "url",
+                     "url": "https://reactnavigation.org/"
+                  }, {
+                     "date_added": "13267311376000000",
+                     "guid": "1cfddeed-f7ae-44fb-858f-7f12ebd7166f",
+                     "id": "400",
+                     "name": "Top Tab Navigator API",
+                     "type": "url",
+                     "url": "https://reactnavigation.org/docs/material-top-tab-navigator/"
+                  }, {
+                     "date_added": "13267311423000000",
+                     "guid": "0cb82289-313d-4486-91ff-e67ec7c136dc",
+                     "id": "401",
+                     "name": "Screen | React Navigation",
+                     "type": "url",
+                     "url": "https://reactnavigation.org/docs/screen/"
+                  } ],
+                  "date_added": "13277233018951491",
+                  "date_modified": "0",
+                  "guid": "95a79ed3-2304-4b47-b7a0-c942ad35399f",
+                  "id": "398",
+                  "name": "React Navigation",
+                  "type": "folder"
+               } ],
+               "date_added": "13277233018950192",
+               "date_modified": "0",
+               "guid": "aea6e9a2-fa6a-4d93-bc41-abdf1a6182e0",
+               "id": "383",
+               "name": "Familybox",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13276271057000000",
+                  "guid": "a4fc40b1-7c73-4920-86c6-c447be882050",
+                  "id": "410",
+                  "name": "SOLID",
+                  "type": "url",
+                  "url": "https://en.wikipedia.org/wiki/SOLID"
+               }, {
+                  "date_added": "13276271111000000",
+                  "guid": "f7523bf5-fb5b-417f-af80-3aea12ba541a",
+                  "id": "411",
+                  "name": "Shift Left Testing",
+                  "type": "url",
+                  "url": "https://www.bmc.com/blogs/what-is-shift-left-shift-left-testing-explained/"
+               }, {
+                  "date_added": "13276271128000000",
+                  "guid": "18129ab9-5568-419b-bd96-84afba2bdd42",
+                  "id": "412",
+                  "name": "Acceptance Criteria",
+                  "type": "url",
+                  "url": "https://existek.com/blog/what-are-acceptance-criteria/"
+               }, {
+                  "date_added": "13276271138000000",
+                  "guid": "e7043581-d3fa-4b64-afeb-75bcf4d3f314",
+                  "id": "413",
+                  "name": "Wideband delphi",
+                  "type": "url",
+                  "url": "https://en.wikipedia.org/wiki/Wideband_delphi"
+               }, {
+                  "date_added": "13276271182000000",
+                  "guid": "7197393b-f36d-40cf-8a32-4809a772d528",
+                  "id": "414",
+                  "name": "The Spotify Model",
+                  "type": "url",
+                  "url": "https://www.atlassian.com/agile/agile-at-scale/spotify"
+               }, {
+                  "date_added": "13276271192000000",
+                  "guid": "b665fdfa-f049-454b-ad65-87930a0e36d7",
+                  "id": "415",
+                  "name": "The Spotify Model",
+                  "type": "url",
+                  "url": "https://agilescrumgroup.co.uk/the-spotify-model/"
+               } ],
+               "date_added": "13277233018952818",
+               "date_modified": "0",
+               "guid": "c047ff62-29da-4fd6-ae08-508881db69d1",
+               "id": "409",
+               "name": "Programming Principles",
+               "type": "folder"
+            }, {
+               "date_added": "13262356769000000",
+               "guid": "2c0ee6a2-4f10-464c-9140-20e3e73b802e",
+               "id": "369",
+               "name": "working from home expenses",
+               "type": "url",
+               "url": "https://www.access.service.gov.uk/login/signin/creds"
+            }, {
+               "children": [ {
+                  "date_added": "13277994718695702",
+                  "guid": "e711ea73-e9d7-4900-98e5-30ce26f579cc",
+                  "id": "453",
+                  "name": "Sorting UK Dates",
+                  "type": "url",
+                  "url": "https://codereview.stackexchange.com/questions/184248/sorting-dates-in-this-format-dd-mm-yyyy/184259#184259?newreg=f15451c1babe4c8788518a2760cd5c87"
+               } ],
+               "date_added": "13277994758015976",
+               "date_modified": "13278070616306185",
+               "guid": "9e2369be-0a81-40f3-af10-6d71a604f9ac",
+               "id": "454",
+               "name": "Patterns",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13277479131291274",
+                  "guid": "d5a91002-39ea-4729-93b0-68e9e1369361",
+                  "id": "436",
+                  "name": "Function (functions out of strings)",
+                  "type": "url",
+                  "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function"
+               }, {
+                  "date_added": "13277479172133261",
+                  "guid": "ad9f79fa-98df-429c-bbc1-1580c3956ade",
+                  "id": "438",
+                  "name": "Using templates and slots",
+                  "type": "url",
+                  "url": "https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots"
+               } ],
+               "date_added": "13277479163145362",
+               "date_modified": "13277484675904809",
+               "guid": "995ec6a5-bb7f-4d9b-9cdd-9c3768f74737",
+               "id": "437",
+               "name": "Best MDN Pages",
+               "type": "folder"
+            } ],
+            "date_added": "13277233018935107",
+            "date_modified": "13278523138095566",
+            "guid": "460e0d6f-fc4c-459a-9e3a-7fe9169d4a93",
+            "id": "176",
+            "name": "General",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13277391238096658",
+               "guid": "138aec51-298d-4187-95b8-2caa94ff8c77",
+               "id": "429",
+               "name": "ClearReview",
+               "type": "url",
+               "url": "https://app.clearreview.com/webapp/#/feedback/ffd6f4ec-0c3c-4841-962e-b66946439908"
+            }, {
+               "date_added": "13277391596475612",
+               "guid": "3166a65a-2a96-4f31-8df9-00051d47a73f",
+               "id": "432",
+               "name": "Ozone",
+               "type": "url",
+               "url": "https://ozone.nomensa.com/"
+            }, {
+               "date_added": "13277391696813842",
+               "guid": "396184a9-7e99-44a1-bf8c-444c394ce23e",
+               "id": "433",
+               "name": "PeopleHR",
+               "type": "url",
+               "url": "https://nomensa.peoplehr.net/Pages/LeftSegment/Dashboard.aspx"
+            }, {
+               "date_added": "13277484675904809",
+               "guid": "582d03a0-99c6-435c-ab4a-17ea23b93302",
+               "id": "439",
+               "name": "Float",
+               "type": "url",
+               "url": "https://nomensa.float.com/"
+            }, {
+               "date_added": "13277812119961109",
+               "guid": "998d03b4-1090-41a0-8731-0f222808caf0",
+               "id": "444",
+               "name": "Timesheets",
+               "type": "url",
+               "url": "https://nomensa.my.workfront.com/timesheets/own"
+            }, {
+               "date_added": "13278412100308364",
+               "guid": "68144a45-6dbe-4682-b94c-8a299d285dc1",
+               "id": "467",
+               "name": "Desk Planner",
+               "type": "url",
+               "url": "https://miro.com/app/board/o9J_lxvkIBY=/"
+            } ],
+            "date_added": "13277391252046200",
+            "date_modified": "13278519990073780",
+            "guid": "b128240a-69fb-4c2d-b0cc-82705c20bc88",
+            "id": "430",
+            "name": "HR",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13278174515659905",
+               "guid": "4dd2d9c3-b64b-4dc6-a162-de46b720f75f",
+               "id": "464",
+               "name": "Jira (DBW)",
+               "type": "url",
+               "url": "https://nomensa.atlassian.net/secure/RapidBoard.jspa?rapidView=23"
+            }, {
+               "children": [ {
+                  "date_added": "13278156673251583",
+                  "guid": "e1a33c3a-ae31-4310-ad3f-9d84ccd66f18",
+                  "id": "457",
+                  "name": "DevOps",
+                  "type": "url",
+                  "url": "https://dev.azure.com/DBoW/Nomensa"
+               }, {
+                  "date_added": "13278156764583305",
+                  "guid": "2c84b57a-6c5a-41cb-abf8-f611f8011615",
+                  "id": "460",
+                  "name": "Resource groups",
+                  "type": "url",
+                  "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceGroups"
+               }, {
+                  "date_added": "13278159933826981",
+                  "guid": "75e6f4ae-8606-4b66-aede-d3fca5ca3568",
+                  "id": "462",
+                  "name": "SbwPortalDeploy",
+                  "type": "url",
+                  "url": "https://dev.azure.com/DBoW/Nomensa/_git/SbwPortalDeploy"
+               }, {
+                  "date_added": "13278182732210528",
+                  "guid": "38730227-ce59-4546-9211-29046eda3e19",
+                  "id": "465",
+                  "name": "Dynamics 365",
+                  "type": "url",
+                  "url": "https://dbowcmsdev.crm11.dynamics.com/main.aspx?appid=fb1420ee-7a06-41b0-9f22-db6b86337786&cmdbar=true&forceUCI=1&pagetype=entitylist&etn=incident&viewid=d3118a3a-72bd-eb11-bacc-0022481a9da7&viewType=1039"
+               }, {
+                  "date_added": "13278519990073780",
+                  "guid": "a7ba7a35-4411-4dee-ba1c-86c8266cf7fc",
+                  "id": "469",
+                  "name": "Config for MSAL Auth",
+                  "type": "url",
+                  "url": "https://github.com/AzureAD/microsoft-authentication-library-for-js/blob/dev/lib/msal-browser/docs/configuration.md"
+               }, {
+                  "date_added": "13278523057857263",
+                  "guid": "7fb06092-6696-4f58-995c-9faa791068b4",
+                  "id": "470",
+                  "name": "DBW",
+                  "type": "url",
+                  "url": "https://portal.azure.com/#@developmentbankwales.onmicrosoft.com/resource/subscriptions/f6000e40-b1bd-4221-9dde-46d873d0bfd9/resourceGroups/RG-BOW-UKS-DEV-Linux-QA-DEV/providers/Microsoft.Web/sites/web-app-sbwportal-qdev/appServices"
+               }, {
+                  "date_added": "13278676776708733",
+                  "guid": "b1a771eb-19e1-4022-b841-e3bc9341efd2",
+                  "id": "477",
+                  "name": "B2C Tenants",
+                  "type": "url",
+                  "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.AzureActiveDirectory%2Fb2cDirectories"
+               } ],
+               "date_added": "13278156700052525",
+               "date_modified": "13278748600999947",
+               "guid": "1ea18671-8cd1-44a8-83fe-beaaa937c566",
+               "id": "458",
+               "name": "Azure (DBW)",
+               "type": "folder"
+            }, {
+               "date_added": "13278523172522520",
+               "guid": "9b8eedba-e69a-462d-bb06-ff1d2703ccc4",
+               "id": "472",
+               "name": "Q Dev",
+               "type": "url",
+               "url": "https://web-app-sbwportal-qdev.azurewebsites.net/"
+            }, {
+               "date_added": "13278523220828208",
+               "guid": "a939563d-7c8a-4283-aa3c-20da86e58cd2",
+               "id": "473",
+               "name": "Q Dev - b2c",
+               "type": "url",
+               "url": "https://portal.azure.com/#blade/Microsoft_Azure_Storage/ContainerMenuBlade/overview/storageAccountId/%2Fsubscriptions%2Ff6000e40-b1bd-4221-9dde-46d873d0bfd9%2FresourceGroups%2FRG-BOW-UKS-DEV-QADEV%2Fproviders%2FMicrosoft.Storage%2FstorageAccounts%2Fsaqadbwd365b2c/path/b2c-clientlibs/etag/%220x8D90A5F363544B1%22/defaultEncryptionScope/%24account-encryption-key/denyEncryptionScopeOverride//defaultId//publicAccessVal/Blob"
+            } ],
+            "date_added": "13278523099009541",
+            "date_modified": "13278672540897890",
+            "guid": "66944d1e-0cb0-48a1-99ce-575ad338b9f4",
+            "id": "471",
+            "name": "DBW",
+            "type": "folder"
+         }, {
+            "date_added": "13277233072668110",
+            "guid": "fdb20198-a69c-4a6a-abf8-127365a15314",
+            "id": "416",
+            "name": "GitLab",
+            "type": "url",
+            "url": "https://gitlab.nomensa.com/#"
+         }, {
+            "date_added": "13277469297776725",
+            "guid": "13e72aae-4e8c-4aa8-8c61-b9b6233507fa",
+            "id": "435",
+            "name": "Jira",
+            "type": "url",
+            "url": "https://nomensa.atlassian.net/jira/projects"
+         }, {
+            "date_added": "13277911970444568",
+            "guid": "a15d04e5-b4a0-4e28-81a4-320a055ebe64",
+            "id": "451",
+            "name": "Outlook",
+            "type": "url",
+            "url": "https://outlook.office365.com/mail/inbox"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13278762964130108",
+                  "guid": "e7d3cbd2-95bd-4d07-902e-a198c49caad2",
+                  "id": "487",
+                  "name": "Phone",
+                  "type": "url",
+                  "url": "https://receive-smss.com/sms/447901614024/"
+               }, {
+                  "date_added": "13278762990906940",
+                  "guid": "93b60b95-54ba-4f91-8be4-1b3889d54d58",
+                  "id": "490",
+                  "name": "email",
+                  "type": "url",
+                  "url": "https://temp-mail.org/en/view/61694677185388069024c416"
+               } ],
+               "date_added": "13278762986375774",
+               "date_modified": "13278763058841786",
+               "guid": "87d4516c-cdae-4dcf-acff-d74a71684420",
+               "id": "489",
+               "name": "Moji",
+               "type": "folder"
+            }, {
+               "date_added": "13278763058841786",
+               "guid": "06bbe5c9-2b37-44bc-a3e3-5ec248a5933a",
+               "id": "491",
+               "name": "Temp Mail",
+               "type": "url",
+               "url": "https://temp-mail.org/en/"
+            } ],
+            "date_added": "13278762986375210",
+            "date_modified": "13278763497529054",
+            "guid": "c76f3d80-9dc6-43b0-bde6-ece826b1b1bf",
+            "id": "488",
+            "name": "Users",
+            "type": "folder"
+         }, {
+            "date_added": "13278763086923582",
+            "guid": "809357c2-289f-4d48-b929-6de76a57ab81",
+            "id": "492",
+            "name": "SMS",
+            "type": "url",
+            "url": "https://receive-smss.com/"
+         } ],
+         "date_added": "13277229767710742",
+         "date_modified": "13278763086923582",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13277229767710764",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other Bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13277229767710767",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
