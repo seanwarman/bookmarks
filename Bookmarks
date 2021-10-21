@@ -1,5 +1,5 @@
 {
-   "checksum": "2a77bcee10e49be9acd455546b416dba",
+   "checksum": "c70b973444096ad1b1e5face9d68ab1f",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3109,9 +3109,16 @@
             "id": "507",
             "name": "UCAS App",
             "type": "folder"
+         }, {
+            "date_added": "13279281468744523",
+            "guid": "38487957-7c10-4d9c-9f69-4ba7e85d365b",
+            "id": "518",
+            "name": "Getting Started | Building Search UI | Guide | Algolia Documentation",
+            "type": "url",
+            "url": "https://www.algolia.com/doc/guides/building-search-ui/getting-started/vue/"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13279276728533982",
+         "date_modified": "13279281468744523",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
