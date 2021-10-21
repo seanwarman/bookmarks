@@ -1,9 +1,59 @@
 {
-   "checksum": "01ad074d531be4df8bb440d062361406",
+   "checksum": "39c77ea513a592e5bad451eeae2d410a",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "children": [ {
+               "children": [ {
+                  "date_added": "13278784935708562",
+                  "guid": "3670b793-f086-405c-80e6-fb083f39ebd1",
+                  "id": "494",
+                  "name": "Docker Cheatsheet",
+                  "type": "url",
+                  "url": "https://gist.github.com/adamveld12/4815792fadf119ef41bd"
+               }, {
+                  "date_added": "13278799000764499",
+                  "guid": "d947f8a0-e809-42b3-90c7-b0f05319d003",
+                  "id": "496",
+                  "name": "Docker For Beginners",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=i7ABlHngi1Q"
+               }, {
+                  "date_added": "13279024097764866",
+                  "guid": "add75474-7e4c-4720-b10a-695fcfc4d098",
+                  "id": "503",
+                  "name": "How to set user passwords using passwd without a prompt? - Ask Ubuntu",
+                  "type": "url",
+                  "url": "https://askubuntu.com/questions/80444/how-to-set-user-passwords-using-passwd-without-a-prompt"
+               }, {
+                  "date_added": "13279024110555077",
+                  "guid": "77e8a3e2-fee5-4913-b3af-e36ff3abb4b3",
+                  "id": "504",
+                  "name": "How to Create Users in Linux Using the 'useradd' Command",
+                  "type": "url",
+                  "url": "https://www.lifewire.com/create-users-useradd-command-3572157"
+               }, {
+                  "date_added": "13279028926321758",
+                  "guid": "b2f1f61c-d6cf-4ce1-ac51-614d1a4e185f",
+                  "id": "505",
+                  "name": "Edit files in a Docker container (\"remote\") from Sublime Text on local machine using SFTP - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/46083648/edit-files-in-a-docker-container-remote-from-sublime-text-on-local-machine-u"
+               }, {
+                  "date_added": "13279108938178951",
+                  "guid": "9500eff0-5842-48e7-a5ca-320a4f4cb983",
+                  "id": "512",
+                  "name": "Multi container apps | Docker Documentation",
+                  "type": "url",
+                  "url": "https://docs.docker.com/get-started/07_multi_container/"
+               } ],
+               "date_added": "13278784964023663",
+               "date_modified": "13279108942123796",
+               "guid": "e97006df-f6c7-4f18-ae65-77f3ba8bf191",
+               "id": "495",
+               "name": "Docker",
+               "type": "folder"
+            }, {
                "children": [ {
                   "children": [ {
                      "date_added": "13244791723000000",
@@ -1340,9 +1390,65 @@
                   "name": "external command - How to put the output of a function call into quickfix list? - Vi and Vim Stack Exchange",
                   "type": "url",
                   "url": "https://vi.stackexchange.com/questions/24992/how-to-put-the-output-of-a-function-call-into-quickfix-list"
+               }, {
+                  "date_added": "13278748600999947",
+                  "guid": "e28f0ec0-aece-459e-9f63-ba0f960a5ec7",
+                  "id": "479",
+                  "name": "Vim editor ported to WebAssembly",
+                  "type": "url",
+                  "url": "https://github.com/rhysd/vim.wasm"
+               }, {
+                  "date_added": "13278750485190732",
+                  "guid": "f0a29170-7b86-4e3b-8c40-849813fb3164",
+                  "id": "480",
+                  "name": "Abstract syntax trees on Javascript | by Juan Picado | Medium",
+                  "type": "url",
+                  "url": "https://jotadeveloper.medium.com/abstract-syntax-trees-on-javascript-534e33361fc7"
+               }, {
+                  "date_added": "13278751065504277",
+                  "guid": "667b09dc-db7a-40a2-bf88-f2833b5e9ed4",
+                  "id": "481",
+                  "name": "CodeMirror",
+                  "type": "url",
+                  "url": "https://codemirror.net/"
+               }, {
+                  "date_added": "13278752190810034",
+                  "guid": "549ef8ce-a245-4416-be76-50ef6f86adb2",
+                  "id": "482",
+                  "name": "Esprima",
+                  "type": "url",
+                  "url": "https://docs.esprima.org/en/latest/getting-started.html#supported-environments"
+               }, {
+                  "date_added": "13278752429862329",
+                  "guid": "2620e5b4-942b-4906-b6f7-b5d1df9caa5d",
+                  "id": "483",
+                  "name": "rhino 1.7.14-SNAPSHOT API",
+                  "type": "url",
+                  "url": "https://mozilla.github.io/rhino/javadoc/index.html"
+               }, {
+                  "date_added": "13278753342603540",
+                  "guid": "303b1579-a57a-4f8f-bd2d-b1a364ce51dc",
+                  "id": "484",
+                  "name": "javascript - console.log() an object does not log the method added via prototype in node js console. Or how to print the prototypes also? - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/59228638/console-log-an-object-does-not-log-the-method-added-via-prototype-in-node-js-c"
+               }, {
+                  "date_added": "13278757619816815",
+                  "guid": "ac405775-10ab-4fe8-a0ef-9004495b4a30",
+                  "id": "485",
+                  "name": "Abstract syntax tree - Wikipedia",
+                  "type": "url",
+                  "url": "https://en.wikipedia.org/wiki/Abstract_syntax_tree"
+               }, {
+                  "date_added": "13278757638336398",
+                  "guid": "2b17f57c-85e5-4cf0-b1a2-6a338abe23da",
+                  "id": "486",
+                  "name": "AST explorer",
+                  "type": "url",
+                  "url": "https://astexplorer.net/"
                } ],
                "date_added": "13277233018935639",
-               "date_modified": "13277812119961109",
+               "date_modified": "13278762964130108",
                "guid": "e45d99a2-dae9-4915-9ab5-e39d2e688211",
                "id": "181",
                "name": "VIM",
@@ -2695,9 +2801,38 @@
                "id": "437",
                "name": "Best MDN Pages",
                "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13278917407324434",
+                  "guid": "f31c7d0c-9472-4fee-a9d8-52a6bdf497f4",
+                  "id": "498",
+                  "name": "Nerdishly",
+                  "type": "url",
+                  "url": "https://nerdishly.com/"
+               }, {
+                  "date_added": "13279012468168799",
+                  "guid": "69ae19c9-cbe1-4083-8508-8da08494581f",
+                  "id": "500",
+                  "name": "“[T]hat sort of buffoonery is sometimes tragic in the extreme.” | Nerdishly",
+                  "type": "url",
+                  "url": "https://nerdishly.com/2021/05/06/that-sort-of-buffoonery-is-sometimes-tragic-in-the-extreme/"
+               } ],
+               "date_added": "13278917427484055",
+               "date_modified": "13279012475379381",
+               "guid": "5bd1ea32-0de5-49cd-acc7-5d841b13054f",
+               "id": "499",
+               "name": "Nice Sites",
+               "type": "folder"
+            }, {
+               "date_added": "13279012475379381",
+               "guid": "26524dd2-bd9f-4e67-98f9-bd60be2e4b75",
+               "id": "501",
+               "name": "Babbling Books: The Brothers Karamazov and Buffoonery",
+               "type": "url",
+               "url": "https://briansbabblingbooks.blogspot.com/2013/07/the-brothers-karamazov-and-buffoonery.html"
             } ],
             "date_added": "13277233018935107",
-            "date_modified": "13278523138095566",
+            "date_modified": "13279024097764866",
             "guid": "460e0d6f-fc4c-459a-9e3a-7fe9169d4a93",
             "id": "176",
             "name": "General",
@@ -2812,7 +2947,7 @@
                   "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.AzureActiveDirectory%2Fb2cDirectories"
                } ],
                "date_added": "13278156700052525",
-               "date_modified": "13278676776708733",
+               "date_modified": "13278748600999947",
                "guid": "1ea18671-8cd1-44a8-83fe-beaaa937c566",
                "id": "458",
                "name": "Azure (DBW)",
@@ -2859,9 +2994,96 @@
             "name": "Outlook",
             "type": "url",
             "url": "https://outlook.office365.com/mail/inbox"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13278762964130108",
+                  "guid": "e7d3cbd2-95bd-4d07-902e-a198c49caad2",
+                  "id": "487",
+                  "name": "Phone",
+                  "type": "url",
+                  "url": "https://receive-smss.com/sms/447901614024/"
+               }, {
+                  "date_added": "13278762990906940",
+                  "guid": "93b60b95-54ba-4f91-8be4-1b3889d54d58",
+                  "id": "490",
+                  "name": "email",
+                  "type": "url",
+                  "url": "https://temp-mail.org/en/view/61694677185388069024c416"
+               } ],
+               "date_added": "13278762986375774",
+               "date_modified": "13278763058841786",
+               "guid": "87d4516c-cdae-4dcf-acff-d74a71684420",
+               "id": "489",
+               "name": "Moji",
+               "type": "folder"
+            } ],
+            "date_added": "13278762986375210",
+            "date_modified": "13278763497529054",
+            "guid": "c76f3d80-9dc6-43b0-bde6-ece826b1b1bf",
+            "id": "488",
+            "name": "Users",
+            "type": "folder"
+         }, {
+            "date_added": "13278763058841786",
+            "guid": "06bbe5c9-2b37-44bc-a3e3-5ec248a5933a",
+            "id": "491",
+            "name": "Temp Mail",
+            "type": "url",
+            "url": "https://temp-mail.org/en/"
+         }, {
+            "date_added": "13278763086923582",
+            "guid": "809357c2-289f-4d48-b929-6de76a57ab81",
+            "id": "492",
+            "name": "SMS",
+            "type": "url",
+            "url": "https://receive-smss.com/"
+         }, {
+            "children": [ {
+               "date_added": "13279045215030849",
+               "guid": "ee31d83c-3433-461b-a757-0f12bc5cd796",
+               "id": "506",
+               "name": "UCAS Search Results for Students",
+               "type": "url",
+               "url": "https://www.ucas.com/explore/career-path/2.3?assessmentId=357af2bd7766489783d86f48a8f00503"
+            }, {
+               "date_added": "13279045263849489",
+               "guid": "dcaf174b-2985-42aa-8934-3e04bd6cca98",
+               "id": "508",
+               "name": "Bark.com - Leads",
+               "type": "url",
+               "url": "https://www.bark.com/sellers/dashboard/"
+            }, {
+               "date_added": "13279045270776772",
+               "guid": "7a615b25-fa81-45b2-8725-0f7fdc7d6ec3",
+               "id": "509",
+               "name": "Madgex - Job Board Enterprise",
+               "type": "url",
+               "url": "https://www.madgex.com/job-board-software"
+            }, {
+               "date_added": "13279045282567947",
+               "guid": "1a46b3eb-5e91-45c5-80a1-be574ec349d6",
+               "id": "510",
+               "name": "Apprenticeship resources used by UCAS",
+               "type": "url",
+               "url": "https://amazingapprenticeships.com/resources/"
+            }, {
+               "date_added": "13279045321694775",
+               "guid": "79cbd32d-b07d-4781-804b-dc05990031db",
+               "id": "511",
+               "name": "UX Journey",
+               "type": "url",
+               "url": "https://miro.com/app/board/o9J_lz8ZcdQ=/"
+            } ],
+            "date_added": "13279045261712992",
+            "date_modified": "13279108938178951",
+            "guid": "31bf1308-e3b4-4fda-bbc7-14d6bc1269f9",
+            "id": "507",
+            "name": "UCAS App",
+            "type": "folder"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13278523120842227",
+         "date_modified": "13278784935708562",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
