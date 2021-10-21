@@ -1,5 +1,5 @@
 {
-   "checksum": "cfc4707771a6b131f4332d9c339597df",
+   "checksum": "11270e76ec1c956ffe1f1ea5438cce8d",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3117,9 +3117,16 @@
                "name": "Vue Walkthru",
                "type": "url",
                "url": "https://www.algolia.com/doc/guides/building-search-ui/getting-started/vue/"
+            }, {
+               "date_added": "13279282910979995",
+               "guid": "35f1e21a-56ec-47df-be9b-79bc7b56baaa",
+               "id": "520",
+               "name": "Algolia Build 101 - Data Formats for Relevant Search-yHyXEEbA0yA",
+               "type": "url",
+               "url": "https://play.vidyard.com/qxNqBfwv5pJ4EKLz6FYhQw?utm_medium=page_link&utm_source=dashboard&autoplay=2"
             } ],
             "date_added": "13279281489974097",
-            "date_modified": "13279281489974657",
+            "date_modified": "13279282910979995",
             "guid": "e37a5ad1-238d-4889-843b-6d7fbf6d17c7",
             "id": "519",
             "name": "Algolia",
