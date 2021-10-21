@@ -1,5 +1,5 @@
 {
-   "checksum": "528a3be313466b58e049adc3c853d6ac",
+   "checksum": "937941638fd52d61c5a70c3409594d8c",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3009,13 +3009,6 @@
             "type": "url",
             "url": "https://nomensa.atlassian.net/jira/projects"
          }, {
-            "date_added": "13277911970444568",
-            "guid": "a15d04e5-b4a0-4e28-81a4-320a055ebe64",
-            "id": "451",
-            "name": "Outlook",
-            "type": "url",
-            "url": "https://outlook.office365.com/mail/inbox"
-         }, {
             "children": [ {
                "children": [ {
                   "date_added": "13278762964130108",
@@ -3045,6 +3038,13 @@
             "id": "488",
             "name": "Users",
             "type": "folder"
+         }, {
+            "date_added": "13277911970444568",
+            "guid": "a15d04e5-b4a0-4e28-81a4-320a055ebe64",
+            "id": "451",
+            "name": "Outlook",
+            "type": "url",
+            "url": "https://outlook.office365.com/mail/inbox"
          }, {
             "date_added": "13278763058841786",
             "guid": "06bbe5c9-2b37-44bc-a3e3-5ec248a5933a",
@@ -3111,7 +3111,7 @@
             "type": "folder"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13279264838649337",
+         "date_modified": "13279265067393760",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
