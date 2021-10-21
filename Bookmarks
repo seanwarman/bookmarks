@@ -1,5 +1,5 @@
 {
-   "checksum": "11270e76ec1c956ffe1f1ea5438cce8d",
+   "checksum": "20b59ad2753ee7b1359438f1b0682a9d",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3124,9 +3124,16 @@
                "name": "Algolia Build 101 - Data Formats for Relevant Search-yHyXEEbA0yA",
                "type": "url",
                "url": "https://play.vidyard.com/qxNqBfwv5pJ4EKLz6FYhQw?utm_medium=page_link&utm_source=dashboard&autoplay=2"
+            }, {
+               "date_added": "13279285490271899",
+               "guid": "2f97659f-dd1e-45ab-9990-554dcc3cbfa4",
+               "id": "521",
+               "name": "Format and Structure Your Data | Sending and Managing Data | Guide | Algolia Documentation",
+               "type": "url",
+               "url": "https://www.algolia.com/doc/guides/sending-and-managing-data/prepare-your-data/"
             } ],
             "date_added": "13279281489974097",
-            "date_modified": "13279282910979995",
+            "date_modified": "13279285490271899",
             "guid": "e37a5ad1-238d-4889-843b-6d7fbf6d17c7",
             "id": "519",
             "name": "Algolia",
