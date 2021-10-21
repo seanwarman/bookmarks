@@ -1,5 +1,5 @@
 {
-   "checksum": "c70b973444096ad1b1e5face9d68ab1f",
+   "checksum": "cfc4707771a6b131f4332d9c339597df",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3110,12 +3110,20 @@
             "name": "UCAS App",
             "type": "folder"
          }, {
-            "date_added": "13279281468744523",
-            "guid": "38487957-7c10-4d9c-9f69-4ba7e85d365b",
-            "id": "518",
-            "name": "Getting Started | Building Search UI | Guide | Algolia Documentation",
-            "type": "url",
-            "url": "https://www.algolia.com/doc/guides/building-search-ui/getting-started/vue/"
+            "children": [ {
+               "date_added": "13279281468744523",
+               "guid": "38487957-7c10-4d9c-9f69-4ba7e85d365b",
+               "id": "518",
+               "name": "Vue Walkthru",
+               "type": "url",
+               "url": "https://www.algolia.com/doc/guides/building-search-ui/getting-started/vue/"
+            } ],
+            "date_added": "13279281489974097",
+            "date_modified": "13279281489974657",
+            "guid": "e37a5ad1-238d-4889-843b-6d7fbf6d17c7",
+            "id": "519",
+            "name": "Algolia",
+            "type": "folder"
          } ],
          "date_added": "13277229767710742",
          "date_modified": "13279281468744523",
