@@ -1,5 +1,5 @@
 {
-   "checksum": "4eb353ff3ce64f3432836aa6284c14a2",
+   "checksum": "36e5d1f6efd9b60a98c724f96f613ec8",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3110,13 +3110,6 @@
                "name": "UX Journey",
                "type": "url",
                "url": "https://miro.com/app/board/o9J_lz8ZcdQ=/"
-            }, {
-               "date_added": "13279219317063448",
-               "guid": "49179d6d-8749-4cb1-a4da-b0703c948260",
-               "id": "516",
-               "name": "Algolia",
-               "type": "url",
-               "url": "https://www.algolia.com/"
             }, {
                "date_added": "13279359723416702",
                "guid": "b9fb03ff-58d9-4577-8160-91cbe8615540",
