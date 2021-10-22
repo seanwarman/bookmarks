@@ -1,5 +1,5 @@
 {
-   "checksum": "b6e7ef84905276370459793d07a65fb5",
+   "checksum": "4eb353ff3ce64f3432836aa6284c14a2",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2852,12 +2852,20 @@
                "type": "url",
                "url": "https://www.startuppacks.com/how-to/google/where-are-google-chrome-bookmarks-stored/"
             }, {
-               "date_added": "13279367300763270",
-               "guid": "af63d941-dd43-4532-aeab-8ad7178154d4",
-               "id": "523",
-               "name": "Guillaume Du Fay - Wikipedia",
-               "type": "url",
-               "url": "https://en.wikipedia.org/wiki/Guillaume_Du_Fay"
+               "children": [ {
+                  "date_added": "13279367300763270",
+                  "guid": "af63d941-dd43-4532-aeab-8ad7178154d4",
+                  "id": "523",
+                  "name": "Guillaume Du Fay - Wikipedia",
+                  "type": "url",
+                  "url": "https://en.wikipedia.org/wiki/Guillaume_Du_Fay"
+               } ],
+               "date_added": "13279367324498217",
+               "date_modified": "13279367324498281",
+               "guid": "9738f5a8-00bd-4fad-b829-c57cf435e0d7",
+               "id": "524",
+               "name": "Bard Core",
+               "type": "folder"
             } ],
             "date_added": "13277233018935107",
             "date_modified": "13279367304393777",
