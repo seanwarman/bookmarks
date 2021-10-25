@@ -1,5 +1,5 @@
 {
-   "checksum": "444c5945bc7879ac6fe3bb5b4f2e376a",
+   "checksum": "65f3cfb66053aca4d6a4ef71f66fa0b3",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2895,9 +2895,16 @@
                   "name": "estree/estree: The ESTree Spec",
                   "type": "url",
                   "url": "https://github.com/estree/estree"
+               }, {
+                  "date_added": "13279626402485512",
+                  "guid": "2ad382b5-86fe-4e88-9ba2-0d5865320aba",
+                  "id": "535",
+                  "name": "Esprima: Editing Autocomplete",
+                  "type": "url",
+                  "url": "https://esprima.org/demo/autocomplete.html"
                } ],
                "date_added": "13279626394881991",
-               "date_modified": "13279626394882119",
+               "date_modified": "13279626402485512",
                "guid": "68fd089e-8e22-44b6-aff4-c6688001ed38",
                "id": "534",
                "name": "Abstract Syntax Trees",
