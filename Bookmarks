@@ -1,5 +1,5 @@
 {
-   "checksum": "4216f77f0e26a5d4d6e405431575b4ed",
+   "checksum": "7875723c5b8a80dab3397c6c48d47d15",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -32,9 +32,16 @@
                   "name": "AST explorer",
                   "type": "url",
                   "url": "https://astexplorer.net/"
+               }, {
+                  "date_added": "13279381251843112",
+                  "guid": "29a69231-c924-4504-ad08-914e107b4bc7",
+                  "id": "526",
+                  "name": "ncm2/ncm2: Slim, Fast and Hackable Completion Framework for Neovim",
+                  "type": "url",
+                  "url": "https://github.com/ncm2/ncm2"
                } ],
                "date_added": "13279626394881991",
-               "date_modified": "13279626426913672",
+               "date_modified": "13279626462841826",
                "guid": "68fd089e-8e22-44b6-aff4-c6688001ed38",
                "id": "534",
                "name": "Abstract Syntax Trees",
@@ -2902,13 +2909,6 @@
                "id": "524",
                "name": "Bard Core",
                "type": "folder"
-            }, {
-               "date_added": "13279381251843112",
-               "guid": "29a69231-c924-4504-ad08-914e107b4bc7",
-               "id": "526",
-               "name": "ncm2/ncm2: Slim, Fast and Hackable Completion Framework for Neovim",
-               "type": "url",
-               "url": "https://github.com/ncm2/ncm2"
             }, {
                "date_added": "13279395445652355",
                "guid": "4a0047af-a5cf-47f4-98d9-e7fed9a76d06",
