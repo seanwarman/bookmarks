@@ -1,5 +1,5 @@
 {
-   "checksum": "65f3cfb66053aca4d6a4ef71f66fa0b3",
+   "checksum": "6fbc1e64b40fbffd0a13c31920aaeb3c",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2902,9 +2902,16 @@
                   "name": "Esprima: Editing Autocomplete",
                   "type": "url",
                   "url": "https://esprima.org/demo/autocomplete.html"
+               }, {
+                  "date_added": "13279626408853890",
+                  "guid": "f17325af-8c2c-4739-9ee3-9a5c90838c43",
+                  "id": "536",
+                  "name": "acornjs/acorn: A small, fast, JavaScript-based JavaScript parser",
+                  "type": "url",
+                  "url": "https://github.com/acornjs/acorn"
                } ],
                "date_added": "13279626394881991",
-               "date_modified": "13279626402485512",
+               "date_modified": "13279626408853890",
                "guid": "68fd089e-8e22-44b6-aff4-c6688001ed38",
                "id": "534",
                "name": "Abstract Syntax Trees",
