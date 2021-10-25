@@ -1,5 +1,5 @@
 {
-   "checksum": "7875723c5b8a80dab3397c6c48d47d15",
+   "checksum": "dafd7e18996fb3ccbf0e3ecc7788ad51",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1440,48 +1440,6 @@
                   "name": "Vim editor ported to WebAssembly",
                   "type": "url",
                   "url": "https://github.com/rhysd/vim.wasm"
-               }, {
-                  "date_added": "13278750485190732",
-                  "guid": "f0a29170-7b86-4e3b-8c40-849813fb3164",
-                  "id": "480",
-                  "name": "Abstract syntax trees on Javascript | by Juan Picado | Medium",
-                  "type": "url",
-                  "url": "https://jotadeveloper.medium.com/abstract-syntax-trees-on-javascript-534e33361fc7"
-               }, {
-                  "date_added": "13278751065504277",
-                  "guid": "667b09dc-db7a-40a2-bf88-f2833b5e9ed4",
-                  "id": "481",
-                  "name": "CodeMirror",
-                  "type": "url",
-                  "url": "https://codemirror.net/"
-               }, {
-                  "date_added": "13278752190810034",
-                  "guid": "549ef8ce-a245-4416-be76-50ef6f86adb2",
-                  "id": "482",
-                  "name": "Esprima",
-                  "type": "url",
-                  "url": "https://docs.esprima.org/en/latest/getting-started.html#supported-environments"
-               }, {
-                  "date_added": "13278752429862329",
-                  "guid": "2620e5b4-942b-4906-b6f7-b5d1df9caa5d",
-                  "id": "483",
-                  "name": "rhino 1.7.14-SNAPSHOT API",
-                  "type": "url",
-                  "url": "https://mozilla.github.io/rhino/javadoc/index.html"
-               }, {
-                  "date_added": "13278753342603540",
-                  "guid": "303b1579-a57a-4f8f-bd2d-b1a364ce51dc",
-                  "id": "484",
-                  "name": "javascript - console.log() an object does not log the method added via prototype in node js console. Or how to print the prototypes also? - Stack Overflow",
-                  "type": "url",
-                  "url": "https://stackoverflow.com/questions/59228638/console-log-an-object-does-not-log-the-method-added-via-prototype-in-node-js-c"
-               }, {
-                  "date_added": "13278757619816815",
-                  "guid": "ac405775-10ab-4fe8-a0ef-9004495b4a30",
-                  "id": "485",
-                  "name": "Abstract syntax tree - Wikipedia",
-                  "type": "url",
-                  "url": "https://en.wikipedia.org/wiki/Abstract_syntax_tree"
                } ],
                "date_added": "13277233018935639",
                "date_modified": "13278762964130108",
