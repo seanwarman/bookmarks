@@ -1,5 +1,5 @@
 {
-   "checksum": "36e5d1f6efd9b60a98c724f96f613ec8",
+   "checksum": "1f98ce59acab8cf7c95cd5c0f047fd42",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2866,9 +2866,23 @@
                "id": "524",
                "name": "Bard Core",
                "type": "folder"
+            }, {
+               "date_added": "13279381251843112",
+               "guid": "29a69231-c924-4504-ad08-914e107b4bc7",
+               "id": "526",
+               "name": "ncm2/ncm2: Slim, Fast and Hackable Completion Framework for Neovim",
+               "type": "url",
+               "url": "https://github.com/ncm2/ncm2"
+            }, {
+               "date_added": "13279395445652355",
+               "guid": "4a0047af-a5cf-47f4-98d9-e7fed9a76d06",
+               "id": "527",
+               "name": "UML | Unified Modeling Language",
+               "type": "url",
+               "url": "https://www.uml.org/what-is-uml.htm"
             } ],
             "date_added": "13277233018935107",
-            "date_modified": "13279367304393777",
+            "date_modified": "13279395462761850",
             "guid": "460e0d6f-fc4c-459a-9e3a-7fe9169d4a93",
             "id": "176",
             "name": "General",
@@ -3146,9 +3160,23 @@
                "id": "519",
                "name": "Algolia",
                "type": "folder"
+            }, {
+               "date_added": "13279395462761850",
+               "guid": "9fcea34d-4ee4-497d-9e33-76389a81e998",
+               "id": "528",
+               "name": "Full requirements for Tender response.xlsx",
+               "type": "url",
+               "url": "https://nomensa-my.sharepoint.com/:x:/p/lbenney/EdVe6Fl4r_FDrVzqIBat0UwBOFijggegyml75sDSPZD5Lw?email=swarman%40nomensa.com&e=4%3AFbrjbv&at=9"
+            }, {
+               "date_added": "13279395468515872",
+               "guid": "0e80f007-0f78-42f5-bdc1-2342c98f26e9",
+               "id": "529",
+               "name": "Features - Apache Solr",
+               "type": "url",
+               "url": "https://solr.apache.org/features.html"
             } ],
             "date_added": "13279045261712992",
-            "date_modified": "13279370465072802",
+            "date_modified": "13279395468515872",
             "guid": "31bf1308-e3b4-4fda-bbc7-14d6bc1269f9",
             "id": "507",
             "name": "UCAS App",

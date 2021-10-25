@@ -1,5 +1,5 @@
 {
-   "checksum": "1f98ce59acab8cf7c95cd5c0f047fd42",
+   "checksum": "ea781490b823d56e0451a5ba2c025f7b",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2772,9 +2772,16 @@
                   "name": "Sorting UK Dates",
                   "type": "url",
                   "url": "https://codereview.stackexchange.com/questions/184248/sorting-dates-in-this-format-dd-mm-yyyy/184259#184259?newreg=f15451c1babe4c8788518a2760cd5c87"
+               }, {
+                  "date_added": "13279619448176097",
+                  "guid": "603ca9fd-4f34-4028-b533-41685d444bbf",
+                  "id": "532",
+                  "name": "JavaScript Design Patterns - Dofactory",
+                  "type": "url",
+                  "url": "https://www.dofactory.com/javascript/design-patterns/"
                } ],
                "date_added": "13277994758015976",
-               "date_modified": "13278070616306185",
+               "date_modified": "13279619456591083",
                "guid": "9e2369be-0a81-40f3-af10-6d71a604f9ac",
                "id": "454",
                "name": "Patterns",
@@ -3174,9 +3181,16 @@
                "name": "Features - Apache Solr",
                "type": "url",
                "url": "https://solr.apache.org/features.html"
+            }, {
+               "date_added": "13279619440032403",
+               "guid": "708908c1-c342-4bc9-b41f-a1e920b52de4",
+               "id": "531",
+               "name": "JavaScript Visitor Design Pattern - Dofactory",
+               "type": "url",
+               "url": "https://www.dofactory.com/javascript/design-patterns/visitor"
             } ],
             "date_added": "13279045261712992",
-            "date_modified": "13279395468515872",
+            "date_modified": "13279619448176097",
             "guid": "31bf1308-e3b4-4fda-bbc7-14d6bc1269f9",
             "id": "507",
             "name": "UCAS App",
