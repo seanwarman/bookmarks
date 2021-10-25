@@ -1,5 +1,5 @@
 {
-   "checksum": "dafd7e18996fb3ccbf0e3ecc7788ad51",
+   "checksum": "defac0b2392a8725e602a959d9f5ee1b",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -33,6 +33,48 @@
                   "type": "url",
                   "url": "https://astexplorer.net/"
                }, {
+                  "date_added": "13279626518338176",
+                  "guid": "af8af058-d40a-49a1-8f15-bac931ad72db",
+                  "id": "537",
+                  "name": "Abstract syntax trees on Javascript | by Juan Picado | Medium",
+                  "type": "url",
+                  "url": "https://jotadeveloper.medium.com/abstract-syntax-trees-on-javascript-534e33361fc7"
+               }, {
+                  "date_added": "13279626518338394",
+                  "guid": "d1c22495-ca50-44d4-8bd7-de14bd827779",
+                  "id": "538",
+                  "name": "CodeMirror",
+                  "type": "url",
+                  "url": "https://codemirror.net/"
+               }, {
+                  "date_added": "13279626518338461",
+                  "guid": "5a2af198-b08a-4ed3-9fa7-0483b59c63d4",
+                  "id": "539",
+                  "name": "Esprima",
+                  "type": "url",
+                  "url": "https://docs.esprima.org/en/latest/getting-started.html#supported-environments"
+               }, {
+                  "date_added": "13279626518338531",
+                  "guid": "ec7cdd6d-63c4-4aeb-a40a-ae4467fc1b49",
+                  "id": "540",
+                  "name": "rhino 1.7.14-SNAPSHOT API",
+                  "type": "url",
+                  "url": "https://mozilla.github.io/rhino/javadoc/index.html"
+               }, {
+                  "date_added": "13279626518338676",
+                  "guid": "731cb5e0-a374-4381-a00e-69573a3dd00a",
+                  "id": "541",
+                  "name": "javascript - console.log() an object does not log the method added via prototype in node js console. Or how to print the prototypes also? - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/59228638/console-log-an-object-does-not-log-the-method-added-via-prototype-in-node-js-c"
+               }, {
+                  "date_added": "13279626518338859",
+                  "guid": "23923152-83d8-4e0f-8c95-4590739acdfe",
+                  "id": "542",
+                  "name": "Abstract syntax tree - Wikipedia",
+                  "type": "url",
+                  "url": "https://en.wikipedia.org/wiki/Abstract_syntax_tree"
+               }, {
                   "date_added": "13279381251843112",
                   "guid": "29a69231-c924-4504-ad08-914e107b4bc7",
                   "id": "526",
@@ -41,7 +83,7 @@
                   "url": "https://github.com/ncm2/ncm2"
                } ],
                "date_added": "13279626394881991",
-               "date_modified": "13279626462841826",
+               "date_modified": "13279626518338859",
                "guid": "68fd089e-8e22-44b6-aff4-c6688001ed38",
                "id": "534",
                "name": "Abstract Syntax Trees",
