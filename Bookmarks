@@ -1,5 +1,5 @@
 {
-   "checksum": "6fbc1e64b40fbffd0a13c31920aaeb3c",
+   "checksum": "24ae2c9961808b41e9e8544c2b5a64c5",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1439,13 +1439,6 @@
                   "name": "Abstract syntax tree - Wikipedia",
                   "type": "url",
                   "url": "https://en.wikipedia.org/wiki/Abstract_syntax_tree"
-               }, {
-                  "date_added": "13278757638336398",
-                  "guid": "2b17f57c-85e5-4cf0-b1a2-6a338abe23da",
-                  "id": "486",
-                  "name": "AST explorer",
-                  "type": "url",
-                  "url": "https://astexplorer.net/"
                } ],
                "date_added": "13277233018935639",
                "date_modified": "13278762964130108",
@@ -2909,9 +2902,16 @@
                   "name": "acornjs/acorn: A small, fast, JavaScript-based JavaScript parser",
                   "type": "url",
                   "url": "https://github.com/acornjs/acorn"
+               }, {
+                  "date_added": "13278757638336398",
+                  "guid": "2b17f57c-85e5-4cf0-b1a2-6a338abe23da",
+                  "id": "486",
+                  "name": "AST explorer",
+                  "type": "url",
+                  "url": "https://astexplorer.net/"
                } ],
                "date_added": "13279626394881991",
-               "date_modified": "13279626408853890",
+               "date_modified": "13279626426913672",
                "guid": "68fd089e-8e22-44b6-aff4-c6688001ed38",
                "id": "534",
                "name": "Abstract Syntax Trees",
