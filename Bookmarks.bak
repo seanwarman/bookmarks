@@ -1,9 +1,94 @@
 {
-   "checksum": "1f98ce59acab8cf7c95cd5c0f047fd42",
+   "checksum": "7975410d1f9b4072d9eea01fded7e2b2",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "children": [ {
+               "children": [ {
+                  "date_added": "13279626373451538",
+                  "guid": "73846c63-d4a0-4f1c-97e3-6ebbe2eb1625",
+                  "id": "533",
+                  "name": "estree/estree: The ESTree Spec",
+                  "type": "url",
+                  "url": "https://github.com/estree/estree"
+               }, {
+                  "date_added": "13279626402485512",
+                  "guid": "2ad382b5-86fe-4e88-9ba2-0d5865320aba",
+                  "id": "535",
+                  "name": "Esprima: Editing Autocomplete",
+                  "type": "url",
+                  "url": "https://esprima.org/demo/autocomplete.html"
+               }, {
+                  "date_added": "13279626408853890",
+                  "guid": "f17325af-8c2c-4739-9ee3-9a5c90838c43",
+                  "id": "536",
+                  "name": "acornjs/acorn: A small, fast, JavaScript-based JavaScript parser",
+                  "type": "url",
+                  "url": "https://github.com/acornjs/acorn"
+               }, {
+                  "date_added": "13278757638336398",
+                  "guid": "2b17f57c-85e5-4cf0-b1a2-6a338abe23da",
+                  "id": "486",
+                  "name": "AST explorer",
+                  "type": "url",
+                  "url": "https://astexplorer.net/"
+               }, {
+                  "date_added": "13279381251843112",
+                  "guid": "29a69231-c924-4504-ad08-914e107b4bc7",
+                  "id": "526",
+                  "name": "ncm2/ncm2: Slim, Fast and Hackable Completion Framework for Neovim",
+                  "type": "url",
+                  "url": "https://github.com/ncm2/ncm2"
+               }, {
+                  "date_added": "13279626518338176",
+                  "guid": "af8af058-d40a-49a1-8f15-bac931ad72db",
+                  "id": "537",
+                  "name": "Abstract syntax trees on Javascript | by Juan Picado | Medium",
+                  "type": "url",
+                  "url": "https://jotadeveloper.medium.com/abstract-syntax-trees-on-javascript-534e33361fc7"
+               }, {
+                  "date_added": "13279626518338394",
+                  "guid": "d1c22495-ca50-44d4-8bd7-de14bd827779",
+                  "id": "538",
+                  "name": "CodeMirror",
+                  "type": "url",
+                  "url": "https://codemirror.net/"
+               }, {
+                  "date_added": "13279626518338461",
+                  "guid": "5a2af198-b08a-4ed3-9fa7-0483b59c63d4",
+                  "id": "539",
+                  "name": "Esprima",
+                  "type": "url",
+                  "url": "https://docs.esprima.org/en/latest/getting-started.html#supported-environments"
+               }, {
+                  "date_added": "13279626518338531",
+                  "guid": "ec7cdd6d-63c4-4aeb-a40a-ae4467fc1b49",
+                  "id": "540",
+                  "name": "rhino 1.7.14-SNAPSHOT API",
+                  "type": "url",
+                  "url": "https://mozilla.github.io/rhino/javadoc/index.html"
+               }, {
+                  "date_added": "13279626518338676",
+                  "guid": "731cb5e0-a374-4381-a00e-69573a3dd00a",
+                  "id": "541",
+                  "name": "javascript - console.log() an object does not log the method added via prototype in node js console. Or how to print the prototypes also? - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/59228638/console-log-an-object-does-not-log-the-method-added-via-prototype-in-node-js-c"
+               }, {
+                  "date_added": "13279626518338859",
+                  "guid": "23923152-83d8-4e0f-8c95-4590739acdfe",
+                  "id": "542",
+                  "name": "Abstract syntax tree - Wikipedia",
+                  "type": "url",
+                  "url": "https://en.wikipedia.org/wiki/Abstract_syntax_tree"
+               } ],
+               "date_added": "13279626394881991",
+               "date_modified": "13279710384806285",
+               "guid": "68fd089e-8e22-44b6-aff4-c6688001ed38",
+               "id": "534",
+               "name": "Abstract Syntax Trees",
+               "type": "folder"
+            }, {
                "children": [ {
                   "date_added": "13278784935708562",
                   "guid": "3670b793-f086-405c-80e6-fb083f39ebd1",
@@ -1397,55 +1482,6 @@
                   "name": "Vim editor ported to WebAssembly",
                   "type": "url",
                   "url": "https://github.com/rhysd/vim.wasm"
-               }, {
-                  "date_added": "13278750485190732",
-                  "guid": "f0a29170-7b86-4e3b-8c40-849813fb3164",
-                  "id": "480",
-                  "name": "Abstract syntax trees on Javascript | by Juan Picado | Medium",
-                  "type": "url",
-                  "url": "https://jotadeveloper.medium.com/abstract-syntax-trees-on-javascript-534e33361fc7"
-               }, {
-                  "date_added": "13278751065504277",
-                  "guid": "667b09dc-db7a-40a2-bf88-f2833b5e9ed4",
-                  "id": "481",
-                  "name": "CodeMirror",
-                  "type": "url",
-                  "url": "https://codemirror.net/"
-               }, {
-                  "date_added": "13278752190810034",
-                  "guid": "549ef8ce-a245-4416-be76-50ef6f86adb2",
-                  "id": "482",
-                  "name": "Esprima",
-                  "type": "url",
-                  "url": "https://docs.esprima.org/en/latest/getting-started.html#supported-environments"
-               }, {
-                  "date_added": "13278752429862329",
-                  "guid": "2620e5b4-942b-4906-b6f7-b5d1df9caa5d",
-                  "id": "483",
-                  "name": "rhino 1.7.14-SNAPSHOT API",
-                  "type": "url",
-                  "url": "https://mozilla.github.io/rhino/javadoc/index.html"
-               }, {
-                  "date_added": "13278753342603540",
-                  "guid": "303b1579-a57a-4f8f-bd2d-b1a364ce51dc",
-                  "id": "484",
-                  "name": "javascript - console.log() an object does not log the method added via prototype in node js console. Or how to print the prototypes also? - Stack Overflow",
-                  "type": "url",
-                  "url": "https://stackoverflow.com/questions/59228638/console-log-an-object-does-not-log-the-method-added-via-prototype-in-node-js-c"
-               }, {
-                  "date_added": "13278757619816815",
-                  "guid": "ac405775-10ab-4fe8-a0ef-9004495b4a30",
-                  "id": "485",
-                  "name": "Abstract syntax tree - Wikipedia",
-                  "type": "url",
-                  "url": "https://en.wikipedia.org/wiki/Abstract_syntax_tree"
-               }, {
-                  "date_added": "13278757638336398",
-                  "guid": "2b17f57c-85e5-4cf0-b1a2-6a338abe23da",
-                  "id": "486",
-                  "name": "AST explorer",
-                  "type": "url",
-                  "url": "https://astexplorer.net/"
                } ],
                "date_added": "13277233018935639",
                "date_modified": "13278762964130108",
@@ -2772,9 +2808,16 @@
                   "name": "Sorting UK Dates",
                   "type": "url",
                   "url": "https://codereview.stackexchange.com/questions/184248/sorting-dates-in-this-format-dd-mm-yyyy/184259#184259?newreg=f15451c1babe4c8788518a2760cd5c87"
+               }, {
+                  "date_added": "13279619448176097",
+                  "guid": "603ca9fd-4f34-4028-b533-41685d444bbf",
+                  "id": "532",
+                  "name": "JavaScript Design Patterns - Dofactory",
+                  "type": "url",
+                  "url": "https://www.dofactory.com/javascript/design-patterns/"
                } ],
                "date_added": "13277994758015976",
-               "date_modified": "13278070616306185",
+               "date_modified": "13279626373451538",
                "guid": "9e2369be-0a81-40f3-af10-6d71a604f9ac",
                "id": "454",
                "name": "Patterns",
@@ -2867,13 +2910,6 @@
                "name": "Bard Core",
                "type": "folder"
             }, {
-               "date_added": "13279381251843112",
-               "guid": "29a69231-c924-4504-ad08-914e107b4bc7",
-               "id": "526",
-               "name": "ncm2/ncm2: Slim, Fast and Hackable Completion Framework for Neovim",
-               "type": "url",
-               "url": "https://github.com/ncm2/ncm2"
-            }, {
                "date_added": "13279395445652355",
                "guid": "4a0047af-a5cf-47f4-98d9-e7fed9a76d06",
                "id": "527",
@@ -2882,7 +2918,7 @@
                "url": "https://www.uml.org/what-is-uml.htm"
             } ],
             "date_added": "13277233018935107",
-            "date_modified": "13279395462761850",
+            "date_modified": "13279626448895078",
             "guid": "460e0d6f-fc4c-459a-9e3a-7fe9169d4a93",
             "id": "176",
             "name": "General",
@@ -3174,9 +3210,23 @@
                "name": "Features - Apache Solr",
                "type": "url",
                "url": "https://solr.apache.org/features.html"
+            }, {
+               "date_added": "13279619440032403",
+               "guid": "708908c1-c342-4bc9-b41f-a1e920b52de4",
+               "id": "531",
+               "name": "JavaScript Visitor Design Pattern - Dofactory",
+               "type": "url",
+               "url": "https://www.dofactory.com/javascript/design-patterns/visitor"
+            }, {
+               "date_added": "13279710384806285",
+               "guid": "0a4cf4d3-48eb-47d5-8617-793c3342c3a2",
+               "id": "543",
+               "name": "Wireframe",
+               "type": "url",
+               "url": "https://x0vnx6.axshare.com/#id=0yimiy&p=apprenticeships"
             } ],
             "date_added": "13279045261712992",
-            "date_modified": "13279395468515872",
+            "date_modified": "13279710392692199",
             "guid": "31bf1308-e3b4-4fda-bbc7-14d6bc1269f9",
             "id": "507",
             "name": "UCAS App",
