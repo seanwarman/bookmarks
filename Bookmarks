@@ -1,5 +1,5 @@
 {
-   "checksum": "58af0fa02b08e89a885fb95e1c65f68c",
+   "checksum": "a6864addc592204254594f2e575ecaa8",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2959,13 +2959,6 @@
                "name": "Timesheets",
                "type": "url",
                "url": "https://nomensa.my.workfront.com/timesheets/own"
-            }, {
-               "date_added": "13278412100308364",
-               "guid": "68144a45-6dbe-4682-b94c-8a299d285dc1",
-               "id": "467",
-               "name": "Desk Planner",
-               "type": "url",
-               "url": "https://miro.com/app/board/o9J_lxvkIBY=/"
             } ],
             "date_added": "13277391252046200",
             "date_modified": "13278519990073780",
