@@ -1,5 +1,5 @@
 {
-   "checksum": "a82607cd129fbc9134783685e6874e7a",
+   "checksum": "0baa3c2602ca04ffdb166f2059d756d9",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1743,9 +1743,16 @@
                   "name": "EditorConfig",
                   "type": "url",
                   "url": "https://editorconfig.org/"
+               }, {
+                  "date_added": "13280678912105906",
+                  "guid": "d85b4f58-7b81-4207-9f59-2da88bca0fc4",
+                  "id": "551",
+                  "name": "Why Emacs? - (think)",
+                  "type": "url",
+                  "url": "https://batsov.com/articles/2011/11/19/why-emacs/"
                } ],
                "date_added": "13277233018939136",
-               "date_modified": "0",
+               "date_modified": "13280678919822397",
                "guid": "b219706b-65f6-410f-8915-05fb05bf9d0e",
                "id": "232",
                "name": "Emacs",
@@ -3096,7 +3103,7 @@
                "url": "https://nomensa-my.sharepoint.com/personal/lbenney_nomensa_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Flbenney%5Fnomensa%5Fcom%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files%2FUCAS%20Systems%20and%20Integrations%2D%20Apprenticeships%2Epdf&parent=%2Fpersonal%2Flbenney%5Fnomensa%5Fcom%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files"
             } ],
             "date_added": "13279045261712992",
-            "date_modified": "13280429687397850",
+            "date_modified": "13280678912105906",
             "guid": "31bf1308-e3b4-4fda-bbc7-14d6bc1269f9",
             "id": "507",
             "name": "UCAS",
