@@ -1,5 +1,5 @@
 {
-   "checksum": "323ae14560b18ee29c21d223bafcc4b2",
+   "checksum": "1bc522c3453adbd26ce82b68688607cd",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3229,36 +3229,6 @@
             "name": "Outlook",
             "type": "url",
             "url": "https://outlook.office365.com/mail/inbox"
-         }, {
-            "children": [ {
-               "children": [ {
-                  "date_added": "13278762964130108",
-                  "guid": "e7d3cbd2-95bd-4d07-902e-a198c49caad2",
-                  "id": "487",
-                  "name": "Phone",
-                  "type": "url",
-                  "url": "https://receive-smss.com/sms/447901614024/"
-               }, {
-                  "date_added": "13278762990906940",
-                  "guid": "93b60b95-54ba-4f91-8be4-1b3889d54d58",
-                  "id": "490",
-                  "name": "email",
-                  "type": "url",
-                  "url": "https://temp-mail.org/en/view/61694677185388069024c416"
-               } ],
-               "date_added": "13278762986375774",
-               "date_modified": "13278763058841786",
-               "guid": "87d4516c-cdae-4dcf-acff-d74a71684420",
-               "id": "489",
-               "name": "Moji",
-               "type": "folder"
-            } ],
-            "date_added": "13278762986375210",
-            "date_modified": "13278763497529054",
-            "guid": "c76f3d80-9dc6-43b0-bde6-ece826b1b1bf",
-            "id": "488",
-            "name": "Users",
-            "type": "folder"
          }, {
             "date_added": "13278763058841786",
             "guid": "06bbe5c9-2b37-44bc-a3e3-5ec248a5933a",
