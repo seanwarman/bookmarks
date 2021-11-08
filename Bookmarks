@@ -1,5 +1,5 @@
 {
-   "checksum": "dc8ed40837745a4b3877477ec0644330",
+   "checksum": "b47fd7c06516064c654e1a846af590af",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3274,9 +3274,16 @@
                "name": "AngularJS",
                "type": "url",
                "url": "https://code.angularjs.org/1.3.6/docs/tutorial/step_07"
+            }, {
+               "date_added": "13280850490652295",
+               "guid": "b1623614-7a20-420d-8ce4-76f267909961",
+               "id": "556",
+               "name": "Migrating between Redux and Vuex (Part 1) | by abhishek gupta | js@imaginea | Medium",
+               "type": "url",
+               "url": "https://medium.com/js-imaginea/migrating-between-redux-and-vuex-part-1-4f7d2f12d08c"
             } ],
             "date_added": "13280842248769479",
-            "date_modified": "13280842299802733",
+            "date_modified": "13280850490652295",
             "guid": "8f069b22-9a27-4f9e-9329-9da954a87656",
             "id": "553",
             "name": "TRD-002",
