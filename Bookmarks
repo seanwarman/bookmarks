@@ -1,5 +1,5 @@
 {
-   "checksum": "82ac14377e597a277e9bcede659d4f8f",
+   "checksum": "268d50fc8ad51fa44b4b05657e6ed168",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1778,9 +1778,16 @@
                   "name": "kuanyui/moe-theme.el: A customizable colorful eye-candy theme for Emacser. Moe, moe, kyun!",
                   "type": "url",
                   "url": "https://github.com/kuanyui/moe-theme.el"
+               }, {
+                  "date_added": "13280882876140909",
+                  "guid": "216e28ca-d8f8-4d46-b0d3-709c50c6d9dc",
+                  "id": "563",
+                  "name": "Configuration - Prelude: A sleek, modern, simple and powerful Emacs experience for everyone",
+                  "type": "url",
+                  "url": "https://prelude.emacsredux.com/en/latest/configuration/#color-themes"
                } ],
                "date_added": "13277233018939136",
-               "date_modified": "13280882261589888",
+               "date_modified": "13280882876140909",
                "guid": "b219706b-65f6-410f-8915-05fb05bf9d0e",
                "id": "232",
                "name": "Emacs",
