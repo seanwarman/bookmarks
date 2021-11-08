@@ -1,5 +1,5 @@
 {
-   "checksum": "c668592d9cf370c34c68d6294dca96c0",
+   "checksum": "323ae14560b18ee29c21d223bafcc4b2",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1003,9 +1003,16 @@
                      "name": "Migrating between Redux and Vuex (Part 1) | by abhishek gupta | js@imaginea | Medium",
                      "type": "url",
                      "url": "https://medium.com/js-imaginea/migrating-between-redux-and-vuex-part-1-4f7d2f12d08c"
+                  }, {
+                     "date_added": "13280850542855708",
+                     "guid": "a47e00d2-4491-4bb2-a06a-943d5eae81fc",
+                     "id": "557",
+                     "name": "Actions | Vuex",
+                     "type": "url",
+                     "url": "https://vuex.vuejs.org/guide/actions.html#dispatching-actions"
                   } ],
                   "date_added": "13277376616227316",
-                  "date_modified": "13280850533143004",
+                  "date_modified": "13280850542855708",
                   "guid": "5b04ed29-7b3f-4c02-8959-bfe33ec255e8",
                   "id": "421",
                   "name": "Nuxt",
