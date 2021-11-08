@@ -1,5 +1,5 @@
 {
-   "checksum": "b47fd7c06516064c654e1a846af590af",
+   "checksum": "c668592d9cf370c34c68d6294dca96c0",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -996,9 +996,16 @@
                      "name": "nuxt.config.router",
                      "type": "url",
                      "url": "https://nuxtjs.org/docs/configuration-glossary/configuration-router"
+                  }, {
+                     "date_added": "13280850490652295",
+                     "guid": "b1623614-7a20-420d-8ce4-76f267909961",
+                     "id": "556",
+                     "name": "Migrating between Redux and Vuex (Part 1) | by abhishek gupta | js@imaginea | Medium",
+                     "type": "url",
+                     "url": "https://medium.com/js-imaginea/migrating-between-redux-and-vuex-part-1-4f7d2f12d08c"
                   } ],
                   "date_added": "13277376616227316",
-                  "date_modified": "13277381092024451",
+                  "date_modified": "13280850533143004",
                   "guid": "5b04ed29-7b3f-4c02-8959-bfe33ec255e8",
                   "id": "421",
                   "name": "Nuxt",
@@ -3281,13 +3288,6 @@
             "id": "553",
             "name": "TRD-002",
             "type": "folder"
-         }, {
-            "date_added": "13280850490652295",
-            "guid": "b1623614-7a20-420d-8ce4-76f267909961",
-            "id": "556",
-            "name": "Migrating between Redux and Vuex (Part 1) | by abhishek gupta | js@imaginea | Medium",
-            "type": "url",
-            "url": "https://medium.com/js-imaginea/migrating-between-redux-and-vuex-part-1-4f7d2f12d08c"
          } ],
          "date_added": "13277229767710742",
          "date_modified": "13280850497377735",
