@@ -1,5 +1,5 @@
 {
-   "checksum": "64aaae6ef3cce6b6105e388b38d0c1eb",
+   "checksum": "eeecf11023a6ae6d05fed16059e5f1a2",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1764,9 +1764,16 @@
                   "name": "Why Emacs? - (think)",
                   "type": "url",
                   "url": "https://batsov.com/articles/2011/11/19/why-emacs/"
+               }, {
+                  "date_added": "13280877009376631",
+                  "guid": "baabf2d3-5abb-4e88-9139-ac3c34525d66",
+                  "id": "559",
+                  "name": "(Emacs) Keyboard Shortcuts for Editing Text Fields in OS X",
+                  "type": "url",
+                  "url": "https://jblevins.org/log/kbd"
                } ],
                "date_added": "13277233018939136",
-               "date_modified": "13280678919822397",
+               "date_modified": "13280877132160325",
                "guid": "b219706b-65f6-410f-8915-05fb05bf9d0e",
                "id": "232",
                "name": "Emacs",
@@ -3265,9 +3272,23 @@
             "name": "SMS",
             "type": "url",
             "url": "https://receive-smss.com/"
+         }, {
+            "date_added": "13280870901785442",
+            "guid": "5f6bf65c-3967-4097-b5dd-1cd366e326dd",
+            "id": "558",
+            "name": "edclub",
+            "type": "url",
+            "url": "https://www.typingclub.com/sportal/program-3/2938.play"
+         }, {
+            "date_added": "13280877132160325",
+            "guid": "be56d57f-5c83-4d8c-a140-353dfde7efce",
+            "id": "560",
+            "name": "Marvel Movies In Order",
+            "type": "url",
+            "url": "https://editorial.rottentomatoes.com/guide/marvel-movies-in-order/"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13280857938559228",
+         "date_modified": "13280877169066509",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
