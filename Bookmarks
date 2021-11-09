@@ -1,5 +1,5 @@
 {
-   "checksum": "04f837eac35b7a076b96c18f410bc2f3",
+   "checksum": "55d46003d71b0fdd11e3879ce02ebceb",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1785,13 +1785,6 @@
                   "name": "Configuration - Prelude: A sleek, modern, simple and powerful Emacs experience for everyone",
                   "type": "url",
                   "url": "https://prelude.emacsredux.com/en/latest/configuration/#color-themes"
-               }, {
-                  "date_added": "13280959658127859",
-                  "guid": "e06a7196-2aa9-4d0b-b493-dff254da69d8",
-                  "id": "565",
-                  "name": "vimrc - Sending command to different tmux pane from vim - Vi and Vim Stack Exchange",
-                  "type": "url",
-                  "url": "https://vi.stackexchange.com/questions/17296/sending-command-to-different-tmux-pane-from-vim"
                } ],
                "date_added": "13277233018939136",
                "date_modified": "13280959658127859",
@@ -3302,9 +3295,16 @@
          "type": "folder"
       },
       "other": {
-         "children": [  ],
+         "children": [ {
+            "date_added": "13280959658127859",
+            "guid": "e06a7196-2aa9-4d0b-b493-dff254da69d8",
+            "id": "565",
+            "name": "vimrc - Sending command to different tmux pane from vim - Vi and Vim Stack Exchange",
+            "type": "url",
+            "url": "https://vi.stackexchange.com/questions/17296/sending-command-to-different-tmux-pane-from-vim"
+         } ],
          "date_added": "13277229767710764",
-         "date_modified": "0",
+         "date_modified": "13280959663596575",
          "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
          "id": "2",
          "name": "Other Bookmarks",
