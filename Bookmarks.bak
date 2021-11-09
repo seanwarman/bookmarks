@@ -1,5 +1,5 @@
 {
-   "checksum": "eeecf11023a6ae6d05fed16059e5f1a2",
+   "checksum": "268d50fc8ad51fa44b4b05657e6ed168",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1771,9 +1771,23 @@
                   "name": "(Emacs) Keyboard Shortcuts for Editing Text Fields in OS X",
                   "type": "url",
                   "url": "https://jblevins.org/log/kbd"
+               }, {
+                  "date_added": "13280882258874174",
+                  "guid": "a4c3612c-3e67-4c4e-867f-165e47612704",
+                  "id": "562",
+                  "name": "kuanyui/moe-theme.el: A customizable colorful eye-candy theme for Emacser. Moe, moe, kyun!",
+                  "type": "url",
+                  "url": "https://github.com/kuanyui/moe-theme.el"
+               }, {
+                  "date_added": "13280882876140909",
+                  "guid": "216e28ca-d8f8-4d46-b0d3-709c50c6d9dc",
+                  "id": "563",
+                  "name": "Configuration - Prelude: A sleek, modern, simple and powerful Emacs experience for everyone",
+                  "type": "url",
+                  "url": "https://prelude.emacsredux.com/en/latest/configuration/#color-themes"
                } ],
                "date_added": "13277233018939136",
-               "date_modified": "13280877132160325",
+               "date_modified": "13280882876140909",
                "guid": "b219706b-65f6-410f-8915-05fb05bf9d0e",
                "id": "232",
                "name": "Emacs",
@@ -3288,7 +3302,7 @@
             "url": "https://editorial.rottentomatoes.com/guide/marvel-movies-in-order/"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13280877169066509",
+         "date_modified": "13280882258874174",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",

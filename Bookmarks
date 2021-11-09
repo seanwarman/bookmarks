@@ -1,5 +1,5 @@
 {
-   "checksum": "268d50fc8ad51fa44b4b05657e6ed168",
+   "checksum": "4bdaf7341275cf2d07b12c5679cb5b4c",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2420,20 +2420,6 @@
                "name": "ECMA-262 - Ecma International",
                "type": "url",
                "url": "https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"
-            }, {
-               "date_added": "13261548140000000",
-               "guid": "eebd6498-ae08-41b1-b837-f0384a615e7d",
-               "id": "352",
-               "name": "Lufflands Caravan Park, Holsworthy - Updated 2021 prices - Pitchup®",
-               "type": "url",
-               "url": "https://www.pitchup.com/campsites/England/South_West/Devon/Holsworthy/lufflands-caravan-park/?adults=4&arrive=2021-06-28&child_ages=4%2C0&depart=2021-07-02&type=6&type=7"
-            }, {
-               "date_added": "13261548152000000",
-               "guid": "d2cffa62-cc62-4494-ac78-940550dff617",
-               "id": "353",
-               "name": "Lynmouth Holiday Retreat, Lynton - Updated 2021 prices - Pitchup®",
-               "type": "url",
-               "url": "https://www.pitchup.com/campsites/England/South_West/Devon/Lynton/lynmouth-holiday-retreat/?adults=4&arrive=2021-06-28&child_ages=4%2C0&depart=2021-07-02&type=6&type=7"
             }, {
                "date_added": "13264075752000000",
                "guid": "c152672b-67fc-42e4-b41b-d2bf54a8d240",
