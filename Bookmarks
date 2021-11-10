@@ -1,5 +1,5 @@
 {
-   "checksum": "b2147e342be19fb050726d6ef2b2f77d",
+   "checksum": "f192bfea159f0bd2a4dbc61b2ee2bf5c",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3321,9 +3321,16 @@
             "name": "STCWD: Metamodern Play w/ John Vervaeke, Daniel Görtz, Sarah Perry, and Laurence Currie-Clark - YouTube",
             "type": "url",
             "url": "https://www.youtube.com/watch?v=iAeVE5D4tqU"
+         }, {
+            "date_added": "13281039684780305",
+            "guid": "67ea771c-cf24-4f5a-b056-132ddae65bb3",
+            "id": "573",
+            "name": "sshd - How to restart ssh service on macOS? - Super User",
+            "type": "url",
+            "url": "https://superuser.com/questions/1488060/how-to-restart-ssh-service-on-macos"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13281032674876474",
+         "date_modified": "13281039684780305",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
