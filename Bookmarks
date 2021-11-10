@@ -1,5 +1,5 @@
 {
-   "checksum": "f192bfea159f0bd2a4dbc61b2ee2bf5c",
+   "checksum": "e2af5d2148657341279b1f900d7d2a10",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2972,6 +2972,21 @@
                "name": "UML | Unified Modeling Language",
                "type": "url",
                "url": "https://www.uml.org/what-is-uml.htm"
+            }, {
+               "children": [ {
+                  "date_added": "13281039684780305",
+                  "guid": "67ea771c-cf24-4f5a-b056-132ddae65bb3",
+                  "id": "573",
+                  "name": "sshd - How to restart ssh service on macOS? - Super User",
+                  "type": "url",
+                  "url": "https://superuser.com/questions/1488060/how-to-restart-ssh-service-on-macos"
+               } ],
+               "date_added": "13281039702244135",
+               "date_modified": "13281039702244227",
+               "guid": "4ae988c1-65ca-46c0-bd0a-ab23cb3ff1df",
+               "id": "574",
+               "name": "Macos",
+               "type": "folder"
             } ],
             "date_added": "13277233018935107",
             "date_modified": "13280214583234119",
@@ -3321,13 +3336,6 @@
             "name": "STCWD: Metamodern Play w/ John Vervaeke, Daniel Görtz, Sarah Perry, and Laurence Currie-Clark - YouTube",
             "type": "url",
             "url": "https://www.youtube.com/watch?v=iAeVE5D4tqU"
-         }, {
-            "date_added": "13281039684780305",
-            "guid": "67ea771c-cf24-4f5a-b056-132ddae65bb3",
-            "id": "573",
-            "name": "sshd - How to restart ssh service on macOS? - Super User",
-            "type": "url",
-            "url": "https://superuser.com/questions/1488060/how-to-restart-ssh-service-on-macos"
          } ],
          "date_added": "13277229767710742",
          "date_modified": "13281039684780305",
