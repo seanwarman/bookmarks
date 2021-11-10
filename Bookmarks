@@ -1,5 +1,5 @@
 {
-   "checksum": "e2af5d2148657341279b1f900d7d2a10",
+   "checksum": "3304acc16926b7be8acdb356c795873b",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2980,9 +2980,16 @@
                   "name": "sshd - How to restart ssh service on macOS? - Super User",
                   "type": "url",
                   "url": "https://superuser.com/questions/1488060/how-to-restart-ssh-service-on-macos"
+               }, {
+                  "date_added": "13281039907240757",
+                  "guid": "d035f34e-c586-4d2d-84e0-96e093cd8c8d",
+                  "id": "575",
+                  "name": "4 Ways to Find Your IP Address on a Mac - wikiHow",
+                  "type": "url",
+                  "url": "https://www.wikihow.com/Find-Your-IP-Address-on-a-Mac"
                } ],
                "date_added": "13281039702244135",
-               "date_modified": "13281039702244227",
+               "date_modified": "13281039907240757",
                "guid": "4ae988c1-65ca-46c0-bd0a-ab23cb3ff1df",
                "id": "574",
                "name": "Macos",
