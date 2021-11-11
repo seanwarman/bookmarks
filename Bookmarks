@@ -1,5 +1,5 @@
 {
-   "checksum": "72c355e55d6969278fc58bb6a9f0f4f8",
+   "checksum": "d7a9e7c37375a50ac607c3b58cbb0e6a",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3218,6 +3218,13 @@
                "url": "https://web-app-sbwportal-qdev.azurewebsites.net/"
             }, {
                "children": [ {
+                  "date_added": "13278676776708733",
+                  "guid": "b1a771eb-19e1-4022-b841-e3bc9341efd2",
+                  "id": "477",
+                  "name": "B2C Tenants",
+                  "type": "url",
+                  "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.AzureActiveDirectory%2Fb2cDirectories"
+               }, {
                   "date_added": "13278156673251583",
                   "guid": "e1a33c3a-ae31-4310-ad3f-9d84ccd66f18",
                   "id": "457",
@@ -3259,16 +3266,9 @@
                   "name": "DBW",
                   "type": "url",
                   "url": "https://portal.azure.com/#@developmentbankwales.onmicrosoft.com/resource/subscriptions/f6000e40-b1bd-4221-9dde-46d873d0bfd9/resourceGroups/RG-BOW-UKS-DEV-Linux-QA-DEV/providers/Microsoft.Web/sites/web-app-sbwportal-qdev/appServices"
-               }, {
-                  "date_added": "13278676776708733",
-                  "guid": "b1a771eb-19e1-4022-b841-e3bc9341efd2",
-                  "id": "477",
-                  "name": "B2C Tenants",
-                  "type": "url",
-                  "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.AzureActiveDirectory%2Fb2cDirectories"
                } ],
                "date_added": "13278156700052525",
-               "date_modified": "13281103821842079",
+               "date_modified": "13281103843321552",
                "guid": "1ea18671-8cd1-44a8-83fe-beaaa937c566",
                "id": "458",
                "name": "Azure (DBW)",
