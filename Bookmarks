@@ -1,5 +1,5 @@
 {
-   "checksum": "9e31dea567a64f8df0b7189495c14b19",
+   "checksum": "4761cab84205f533f8dc8b1b50bce190",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3252,13 +3252,6 @@
                   "name": "DBW",
                   "type": "url",
                   "url": "https://portal.azure.com/#@developmentbankwales.onmicrosoft.com/resource/subscriptions/f6000e40-b1bd-4221-9dde-46d873d0bfd9/resourceGroups/RG-BOW-UKS-DEV-Linux-QA-DEV/providers/Microsoft.Web/sites/web-app-sbwportal-qdev/appServices"
-               }, {
-                  "date_added": "13278676776708733",
-                  "guid": "b1a771eb-19e1-4022-b841-e3bc9341efd2",
-                  "id": "477",
-                  "name": "B2C Tenants",
-                  "type": "url",
-                  "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.AzureActiveDirectory%2Fb2cDirectories"
                } ],
                "date_added": "13278156700052525",
                "date_modified": "13278748600999947",
@@ -3280,9 +3273,16 @@
                "name": "Q Dev - b2c",
                "type": "url",
                "url": "https://portal.azure.com/#blade/Microsoft_Azure_Storage/ContainerMenuBlade/overview/storageAccountId/%2Fsubscriptions%2Ff6000e40-b1bd-4221-9dde-46d873d0bfd9%2FresourceGroups%2FRG-BOW-UKS-DEV-QADEV%2Fproviders%2FMicrosoft.Storage%2FstorageAccounts%2Fsaqadbwd365b2c/path/b2c-clientlibs/etag/%220x8D90A5F363544B1%22/defaultEncryptionScope/%24account-encryption-key/denyEncryptionScopeOverride//defaultId//publicAccessVal/Blob"
+            }, {
+               "date_added": "13278676776708733",
+               "guid": "b1a771eb-19e1-4022-b841-e3bc9341efd2",
+               "id": "477",
+               "name": "B2C Tenants",
+               "type": "url",
+               "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.AzureActiveDirectory%2Fb2cDirectories"
             } ],
             "date_added": "13278523099009541",
-            "date_modified": "13278672540897890",
+            "date_modified": "13281103813821958",
             "guid": "66944d1e-0cb0-48a1-99ce-575ad338b9f4",
             "id": "471",
             "name": "DBW",
