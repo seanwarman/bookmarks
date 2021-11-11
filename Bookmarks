@@ -1,5 +1,5 @@
 {
-   "checksum": "9f6579a55a70bf4c8c16a37ae1c61f26",
+   "checksum": "c4276dc0f7bd247b14233430547a11f2",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3267,9 +3267,16 @@
                   "name": "Filtered Tickets",
                   "type": "url",
                   "url": "https://nomensa.atlassian.net/issues/?jql=project%20%3D%20DBW%20AND%20status%20in%20(Blocked%2C%20%22In%20Development%22%2C%20Open%2C%20%22Ready%20for%20peer%20review%22)%20AND%20assignee%20in%20(currentUser())%20ORDER%20BY%20status%20DESC%2C%20created%20DESC"
+               }, {
+                  "date_added": "13281112101009299",
+                  "guid": "794bcd5c-658b-4f03-9a15-cdea4e9d3503",
+                  "id": "586",
+                  "name": "Issue navigator - Nomensa Jira",
+                  "type": "url",
+                  "url": "https://nomensa.atlassian.net/browse/DBW-1082?jql=project%20%3D%20DBW%20AND%20status%20in%20(Blocked%2C%20%22In%20Development%22%2C%20Open%2C%20%22Ready%20for%20peer%20review%22)%20AND%20assignee%20in%20(currentUser())%20ORDER%20BY%20status%20DESC%2C%20created%20DESC"
                } ],
                "date_added": "13278156700052525",
-               "date_modified": "13281112021969819",
+               "date_modified": "13281112101009299",
                "guid": "1ea18671-8cd1-44a8-83fe-beaaa937c566",
                "id": "458",
                "name": "Azure (DBW)",
