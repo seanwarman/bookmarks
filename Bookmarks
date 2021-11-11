@@ -1,5 +1,5 @@
 {
-   "checksum": "d4d874254a8ff39cde4e20279652afbd",
+   "checksum": "934786d2f3bddd06358652a770aa1b57",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3253,20 +3253,6 @@
                   "name": "B2C Tenants",
                   "type": "url",
                   "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.AzureActiveDirectory%2Fb2cDirectories"
-               }, {
-                  "date_added": "13278519990073780",
-                  "guid": "a7ba7a35-4411-4dee-ba1c-86c8266cf7fc",
-                  "id": "469",
-                  "name": "Config for MSAL Auth",
-                  "type": "url",
-                  "url": "https://github.com/AzureAD/microsoft-authentication-library-for-js/blob/dev/lib/msal-browser/docs/configuration.md"
-               }, {
-                  "date_added": "13278523057857263",
-                  "guid": "7fb06092-6696-4f58-995c-9faa791068b4",
-                  "id": "470",
-                  "name": "DBW",
-                  "type": "url",
-                  "url": "https://portal.azure.com/#@developmentbankwales.onmicrosoft.com/resource/subscriptions/f6000e40-b1bd-4221-9dde-46d873d0bfd9/resourceGroups/RG-BOW-UKS-DEV-Linux-QA-DEV/providers/Microsoft.Web/sites/web-app-sbwportal-qdev/appServices"
                } ],
                "date_added": "13278156700052525",
                "date_modified": "13281103843321552",
