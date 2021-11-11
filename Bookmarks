@@ -1,5 +1,5 @@
 {
-   "checksum": "8dd48b94aa0335eb789ef338b1212b6b",
+   "checksum": "e2a4d2c28113634f8f8e6742bb864490",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3217,9 +3217,16 @@
                   "name": "dev",
                   "type": "url",
                   "url": "https://web-app-sbwportal-dev.azurewebsites.net/"
+               }, {
+                  "date_added": "13281104001378677",
+                  "guid": "c202f396-f86c-4870-9346-6c8a6c7c87f8",
+                  "id": "582",
+                  "name": "qa",
+                  "type": "url",
+                  "url": "https://web-app-sbwportal-qa.azurewebsites.net/"
                } ],
                "date_added": "13281103986595176",
-               "date_modified": "13281103994683752",
+               "date_modified": "13281104001378677",
                "guid": "ccd52352-6d47-45dd-8686-15a5e0abebe5",
                "id": "580",
                "name": "Environments",
