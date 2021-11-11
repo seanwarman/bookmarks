@@ -1,5 +1,5 @@
 {
-   "checksum": "c4276dc0f7bd247b14233430547a11f2",
+   "checksum": "1a3e88aa8b5139dbd2e2119cbb5a0788",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3271,7 +3271,7 @@
                   "date_added": "13281112101009299",
                   "guid": "794bcd5c-658b-4f03-9a15-cdea4e9d3503",
                   "id": "586",
-                  "name": "Issue navigator - Nomensa Jira",
+                  "name": "My Issues Filter",
                   "type": "url",
                   "url": "https://nomensa.atlassian.net/browse/DBW-1082?jql=project%20%3D%20DBW%20AND%20status%20in%20(Blocked%2C%20%22In%20Development%22%2C%20Open%2C%20%22Ready%20for%20peer%20review%22)%20AND%20assignee%20in%20(currentUser())%20ORDER%20BY%20status%20DESC%2C%20created%20DESC"
                } ],
