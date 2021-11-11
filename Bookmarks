@@ -1,5 +1,5 @@
 {
-   "checksum": "6915b86aed3efc3a944f5b0c10dd8276",
+   "checksum": "54106c6a28036bba14ba29edf0a65340",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3238,13 +3238,6 @@
                   "name": "uat",
                   "type": "url",
                   "url": "https://web-app-sbwportal-test.azurewebsites.net/"
-               }, {
-                  "date_added": "13281104752884869",
-                  "guid": "4c4a0647-c1cb-4dca-abac-00ee73154b8a",
-                  "id": "584",
-                  "name": "Resource groups - Microsoft Azure",
-                  "type": "url",
-                  "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceGroups"
                } ],
                "date_added": "13281103986595176",
                "date_modified": "13281104752884869",
@@ -3260,9 +3253,16 @@
                   "name": "B2C Tenants",
                   "type": "url",
                   "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.AzureActiveDirectory%2Fb2cDirectories"
+               }, {
+                  "date_added": "13281104752884869",
+                  "guid": "4c4a0647-c1cb-4dca-abac-00ee73154b8a",
+                  "id": "584",
+                  "name": "Resource groups",
+                  "type": "url",
+                  "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceGroups"
                } ],
                "date_added": "13278156700052525",
-               "date_modified": "13281103843321552",
+               "date_modified": "13281104766642535",
                "guid": "1ea18671-8cd1-44a8-83fe-beaaa937c566",
                "id": "458",
                "name": "Azure (DBW)",
