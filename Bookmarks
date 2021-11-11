@@ -1,5 +1,5 @@
 {
-   "checksum": "270e011b7b0cfcc13457f0c13f562835",
+   "checksum": "72c355e55d6969278fc58bb6a9f0f4f8",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3216,13 +3216,6 @@
                "name": "Q Dev",
                "type": "url",
                "url": "https://web-app-sbwportal-qdev.azurewebsites.net/"
-            }, {
-               "date_added": "13278523220828208",
-               "guid": "a939563d-7c8a-4283-aa3c-20da86e58cd2",
-               "id": "473",
-               "name": "Q Dev - b2c",
-               "type": "url",
-               "url": "https://portal.azure.com/#blade/Microsoft_Azure_Storage/ContainerMenuBlade/overview/storageAccountId/%2Fsubscriptions%2Ff6000e40-b1bd-4221-9dde-46d873d0bfd9%2FresourceGroups%2FRG-BOW-UKS-DEV-QADEV%2Fproviders%2FMicrosoft.Storage%2FstorageAccounts%2Fsaqadbwd365b2c/path/b2c-clientlibs/etag/%220x8D90A5F363544B1%22/defaultEncryptionScope/%24account-encryption-key/denyEncryptionScopeOverride//defaultId//publicAccessVal/Blob"
             }, {
                "children": [ {
                   "date_added": "13278156673251583",
