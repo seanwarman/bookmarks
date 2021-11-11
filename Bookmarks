@@ -1,5 +1,5 @@
 {
-   "checksum": "099b433d5c7ca41fa6b186c474fe6fde",
+   "checksum": "6915b86aed3efc3a944f5b0c10dd8276",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3238,9 +3238,16 @@
                   "name": "uat",
                   "type": "url",
                   "url": "https://web-app-sbwportal-test.azurewebsites.net/"
+               }, {
+                  "date_added": "13281104752884869",
+                  "guid": "4c4a0647-c1cb-4dca-abac-00ee73154b8a",
+                  "id": "584",
+                  "name": "Resource groups - Microsoft Azure",
+                  "type": "url",
+                  "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceGroups"
                } ],
                "date_added": "13281103986595176",
-               "date_modified": "13281104172049913",
+               "date_modified": "13281104752884869",
                "guid": "ccd52352-6d47-45dd-8686-15a5e0abebe5",
                "id": "580",
                "name": "Environments",
