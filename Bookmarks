@@ -1,5 +1,5 @@
 {
-   "checksum": "853f4f3a8a48332d7347338e81558a20",
+   "checksum": "eaef6120eaf057a780b63fe39d382e8a",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3246,13 +3246,6 @@
                   "name": "B2C Tenants",
                   "type": "url",
                   "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.AzureActiveDirectory%2Fb2cDirectories"
-               }, {
-                  "date_added": "13278156764583305",
-                  "guid": "2c84b57a-6c5a-41cb-abf8-f611f8011615",
-                  "id": "460",
-                  "name": "Resource groups",
-                  "type": "url",
-                  "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceGroups"
                }, {
                   "date_added": "13278182732210528",
                   "guid": "38730227-ce59-4546-9211-29046eda3e19",
