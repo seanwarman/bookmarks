@@ -1,5 +1,5 @@
 {
-   "checksum": "1a3e88aa8b5139dbd2e2119cbb5a0788",
+   "checksum": "01c1b4c4575a043f8346284d744d71ae",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3260,13 +3260,6 @@
                   "name": "Resource groups",
                   "type": "url",
                   "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceGroups"
-               }, {
-                  "date_added": "13281112021969819",
-                  "guid": "b6f1af9f-cfda-4709-a755-43e14d8af4bf",
-                  "id": "585",
-                  "name": "Filtered Tickets",
-                  "type": "url",
-                  "url": "https://nomensa.atlassian.net/issues/?jql=project%20%3D%20DBW%20AND%20status%20in%20(Blocked%2C%20%22In%20Development%22%2C%20Open%2C%20%22Ready%20for%20peer%20review%22)%20AND%20assignee%20in%20(currentUser())%20ORDER%20BY%20status%20DESC%2C%20created%20DESC"
                }, {
                   "date_added": "13281112101009299",
                   "guid": "794bcd5c-658b-4f03-9a15-cdea4e9d3503",
