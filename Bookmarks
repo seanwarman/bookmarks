@@ -1,5 +1,5 @@
 {
-   "checksum": "52a81084eac72f772c964c79b521130b",
+   "checksum": "9f6579a55a70bf4c8c16a37ae1c61f26",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3264,7 +3264,7 @@
                   "date_added": "13281112021969819",
                   "guid": "b6f1af9f-cfda-4709-a755-43e14d8af4bf",
                   "id": "585",
-                  "name": "Issue navigator - Nomensa Jira",
+                  "name": "Filtered Tickets",
                   "type": "url",
                   "url": "https://nomensa.atlassian.net/issues/?jql=project%20%3D%20DBW%20AND%20status%20in%20(Blocked%2C%20%22In%20Development%22%2C%20Open%2C%20%22Ready%20for%20peer%20review%22)%20AND%20assignee%20in%20(currentUser())%20ORDER%20BY%20status%20DESC%2C%20created%20DESC"
                } ],
