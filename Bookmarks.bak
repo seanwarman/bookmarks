@@ -1,5 +1,5 @@
 {
-   "checksum": "5c3bf1bf0be3e10f216ea55643789432",
+   "checksum": "492d4afde1f3e4671171cd3e1be83ec0",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2019,7 +2019,7 @@
                   "url": "https://askubuntu.com/questions/413650/how-to-connect-to-another-computer-through-the-internet-using-ssh"
                } ],
                "date_added": "13277233018941605",
-               "date_modified": "13281001768374288",
+               "date_modified": "13281032669596787",
                "guid": "9af5f177-f0c2-498d-a822-792b77101cab",
                "id": "270",
                "name": "Linux",
@@ -2972,6 +2972,28 @@
                "name": "UML | Unified Modeling Language",
                "type": "url",
                "url": "https://www.uml.org/what-is-uml.htm"
+            }, {
+               "children": [ {
+                  "date_added": "13281039684780305",
+                  "guid": "67ea771c-cf24-4f5a-b056-132ddae65bb3",
+                  "id": "573",
+                  "name": "sshd - How to restart ssh service on macOS? - Super User",
+                  "type": "url",
+                  "url": "https://superuser.com/questions/1488060/how-to-restart-ssh-service-on-macos"
+               }, {
+                  "date_added": "13281039907240757",
+                  "guid": "d035f34e-c586-4d2d-84e0-96e093cd8c8d",
+                  "id": "575",
+                  "name": "4 Ways to Find Your IP Address on a Mac - wikiHow",
+                  "type": "url",
+                  "url": "https://www.wikihow.com/Find-Your-IP-Address-on-a-Mac"
+               } ],
+               "date_added": "13281039702244135",
+               "date_modified": "13281052451715249",
+               "guid": "4ae988c1-65ca-46c0-bd0a-ab23cb3ff1df",
+               "id": "574",
+               "name": "Macos",
+               "type": "folder"
             } ],
             "date_added": "13277233018935107",
             "date_modified": "13280214583234119",
@@ -3314,9 +3336,30 @@
             "name": "edclub",
             "type": "url",
             "url": "https://www.typingclub.com/sportal/program-3/137.play"
+         }, {
+            "date_added": "13281032669596787",
+            "guid": "a8f7d07f-4cc6-4060-9795-dcd24c5f2414",
+            "id": "572",
+            "name": "STCWD: Metamodern Play w/ John Vervaeke, Daniel Görtz, Sarah Perry, and Laurence Currie-Clark - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=iAeVE5D4tqU"
+         }, {
+            "date_added": "13281052451715249",
+            "guid": "bdf40d22-b618-48af-9f81-6be3b7220fbe",
+            "id": "576",
+            "name": "edclub",
+            "type": "url",
+            "url": "https://www.typingclub.com/sportal/program-3/148.play"
+         }, {
+            "date_added": "13281052465268020",
+            "guid": "82e5675f-88b2-4cab-9512-fcdbe5fd2e13",
+            "id": "577",
+            "name": "AngularJS: Tutorial: 0 - Bootstrapping",
+            "type": "url",
+            "url": "https://code.angularjs.org/1.3.6/docs/tutorial/step_00"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13281001755612032",
+         "date_modified": "13281052465268020",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
