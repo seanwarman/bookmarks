@@ -1,5 +1,5 @@
 {
-   "checksum": "9e31dea567a64f8df0b7189495c14b19",
+   "checksum": "ce8b50d8c07c0d1e2f5de4d45d81318e",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3210,6 +3210,71 @@
                "type": "url",
                "url": "https://nomensa.atlassian.net/secure/RapidBoard.jspa?rapidView=23"
             }, {
+               "date_added": "13278182732210528",
+               "guid": "38730227-ce59-4546-9211-29046eda3e19",
+               "id": "465",
+               "name": "Dynamics 365",
+               "type": "url",
+               "url": "https://dbowcmsdev.crm11.dynamics.com/main.aspx?appid=fb1420ee-7a06-41b0-9f22-db6b86337786&cmdbar=true&forceUCI=1&pagetype=entitylist&etn=incident&viewid=d3118a3a-72bd-eb11-bacc-0022481a9da7&viewType=1039"
+            }, {
+               "children": [ {
+                  "date_added": "13281103989048990",
+                  "guid": "89d7b9fd-8af4-4988-a649-e268bb45f692",
+                  "id": "581",
+                  "name": "dev",
+                  "type": "url",
+                  "url": "https://web-app-sbwportal-dev.azurewebsites.net/"
+               }, {
+                  "date_added": "13281104001378677",
+                  "guid": "c202f396-f86c-4870-9346-6c8a6c7c87f8",
+                  "id": "582",
+                  "name": "qa",
+                  "type": "url",
+                  "url": "https://web-app-sbwportal-qa.azurewebsites.net/"
+               }, {
+                  "date_added": "13281104166572136",
+                  "guid": "2ba270b1-53f6-446a-8dce-115375f50a30",
+                  "id": "583",
+                  "name": "uat",
+                  "type": "url",
+                  "url": "https://web-app-sbwportal-test.azurewebsites.net/"
+               } ],
+               "date_added": "13281103986595176",
+               "date_modified": "13281104752884869",
+               "guid": "ccd52352-6d47-45dd-8686-15a5e0abebe5",
+               "id": "580",
+               "name": "Environments",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13278676776708733",
+                  "guid": "b1a771eb-19e1-4022-b841-e3bc9341efd2",
+                  "id": "477",
+                  "name": "B2C Tenants",
+                  "type": "url",
+                  "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.AzureActiveDirectory%2Fb2cDirectories"
+               }, {
+                  "date_added": "13281104752884869",
+                  "guid": "4c4a0647-c1cb-4dca-abac-00ee73154b8a",
+                  "id": "584",
+                  "name": "Resource groups",
+                  "type": "url",
+                  "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceGroups"
+               }, {
+                  "date_added": "13281112101009299",
+                  "guid": "794bcd5c-658b-4f03-9a15-cdea4e9d3503",
+                  "id": "586",
+                  "name": "My Issues Filter",
+                  "type": "url",
+                  "url": "https://nomensa.atlassian.net/browse/DBW-1082?jql=project%20%3D%20DBW%20AND%20status%20in%20(Blocked%2C%20%22In%20Development%22%2C%20Open%2C%20%22Ready%20for%20peer%20review%22)%20AND%20assignee%20in%20(currentUser())%20ORDER%20BY%20status%20DESC%2C%20created%20DESC"
+               } ],
+               "date_added": "13278156700052525",
+               "date_modified": "13281177593770441",
+               "guid": "1ea18671-8cd1-44a8-83fe-beaaa937c566",
+               "id": "458",
+               "name": "Azure (DBW)",
+               "type": "folder"
+            }, {
                "children": [ {
                   "date_added": "13278156673251583",
                   "guid": "e1a33c3a-ae31-4310-ad3f-9d84ccd66f18",
@@ -3218,71 +3283,22 @@
                   "type": "url",
                   "url": "https://dev.azure.com/DBoW/Nomensa"
                }, {
-                  "date_added": "13278156764583305",
-                  "guid": "2c84b57a-6c5a-41cb-abf8-f611f8011615",
-                  "id": "460",
-                  "name": "Resource groups",
-                  "type": "url",
-                  "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceGroups"
-               }, {
                   "date_added": "13278159933826981",
                   "guid": "75e6f4ae-8606-4b66-aede-d3fca5ca3568",
                   "id": "462",
                   "name": "SbwPortalDeploy",
                   "type": "url",
                   "url": "https://dev.azure.com/DBoW/Nomensa/_git/SbwPortalDeploy"
-               }, {
-                  "date_added": "13278182732210528",
-                  "guid": "38730227-ce59-4546-9211-29046eda3e19",
-                  "id": "465",
-                  "name": "Dynamics 365",
-                  "type": "url",
-                  "url": "https://dbowcmsdev.crm11.dynamics.com/main.aspx?appid=fb1420ee-7a06-41b0-9f22-db6b86337786&cmdbar=true&forceUCI=1&pagetype=entitylist&etn=incident&viewid=d3118a3a-72bd-eb11-bacc-0022481a9da7&viewType=1039"
-               }, {
-                  "date_added": "13278519990073780",
-                  "guid": "a7ba7a35-4411-4dee-ba1c-86c8266cf7fc",
-                  "id": "469",
-                  "name": "Config for MSAL Auth",
-                  "type": "url",
-                  "url": "https://github.com/AzureAD/microsoft-authentication-library-for-js/blob/dev/lib/msal-browser/docs/configuration.md"
-               }, {
-                  "date_added": "13278523057857263",
-                  "guid": "7fb06092-6696-4f58-995c-9faa791068b4",
-                  "id": "470",
-                  "name": "DBW",
-                  "type": "url",
-                  "url": "https://portal.azure.com/#@developmentbankwales.onmicrosoft.com/resource/subscriptions/f6000e40-b1bd-4221-9dde-46d873d0bfd9/resourceGroups/RG-BOW-UKS-DEV-Linux-QA-DEV/providers/Microsoft.Web/sites/web-app-sbwportal-qdev/appServices"
-               }, {
-                  "date_added": "13278676776708733",
-                  "guid": "b1a771eb-19e1-4022-b841-e3bc9341efd2",
-                  "id": "477",
-                  "name": "B2C Tenants",
-                  "type": "url",
-                  "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.AzureActiveDirectory%2Fb2cDirectories"
                } ],
-               "date_added": "13278156700052525",
-               "date_modified": "13278748600999947",
-               "guid": "1ea18671-8cd1-44a8-83fe-beaaa937c566",
-               "id": "458",
-               "name": "Azure (DBW)",
+               "date_added": "13281103865477609",
+               "date_modified": "13281103874016602",
+               "guid": "2fb6d8e5-47e3-4722-9d8c-4c2ec6283f95",
+               "id": "579",
+               "name": "Repo",
                "type": "folder"
-            }, {
-               "date_added": "13278523172522520",
-               "guid": "9b8eedba-e69a-462d-bb06-ff1d2703ccc4",
-               "id": "472",
-               "name": "Q Dev",
-               "type": "url",
-               "url": "https://web-app-sbwportal-qdev.azurewebsites.net/"
-            }, {
-               "date_added": "13278523220828208",
-               "guid": "a939563d-7c8a-4283-aa3c-20da86e58cd2",
-               "id": "473",
-               "name": "Q Dev - b2c",
-               "type": "url",
-               "url": "https://portal.azure.com/#blade/Microsoft_Azure_Storage/ContainerMenuBlade/overview/storageAccountId/%2Fsubscriptions%2Ff6000e40-b1bd-4221-9dde-46d873d0bfd9%2FresourceGroups%2FRG-BOW-UKS-DEV-QADEV%2Fproviders%2FMicrosoft.Storage%2FstorageAccounts%2Fsaqadbwd365b2c/path/b2c-clientlibs/etag/%220x8D90A5F363544B1%22/defaultEncryptionScope/%24account-encryption-key/denyEncryptionScopeOverride//defaultId//publicAccessVal/Blob"
             } ],
             "date_added": "13278523099009541",
-            "date_modified": "13278672540897890",
+            "date_modified": "13281104166572136",
             "guid": "66944d1e-0cb0-48a1-99ce-575ad338b9f4",
             "id": "471",
             "name": "DBW",
@@ -3337,22 +3353,22 @@
             "type": "url",
             "url": "https://www.youtube.com/watch?v=iAeVE5D4tqU"
          }, {
-            "date_added": "13281052451715249",
-            "guid": "bdf40d22-b618-48af-9f81-6be3b7220fbe",
-            "id": "576",
-            "name": "edclub",
-            "type": "url",
-            "url": "https://www.typingclub.com/sportal/program-3/148.play"
-         }, {
             "date_added": "13281052465268020",
             "guid": "82e5675f-88b2-4cab-9512-fcdbe5fd2e13",
             "id": "577",
             "name": "AngularJS: Tutorial: 0 - Bootstrapping",
             "type": "url",
             "url": "https://code.angularjs.org/1.3.6/docs/tutorial/step_00"
+         }, {
+            "date_added": "13281177593770441",
+            "guid": "165de1f9-10da-4db1-b8f1-01f009d2cb65",
+            "id": "587",
+            "name": "edclub",
+            "type": "url",
+            "url": "https://www.typingclub.com/sportal/program-3/207.play"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13281052465268020",
+         "date_modified": "13281177599521651",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
