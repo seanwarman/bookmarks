@@ -1,5 +1,5 @@
 {
-   "checksum": "ce8b50d8c07c0d1e2f5de4d45d81318e",
+   "checksum": "2f72a6fa7ae906c9e93b194e616690aa",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3296,9 +3296,16 @@
                "id": "579",
                "name": "Repo",
                "type": "folder"
+            }, {
+               "date_added": "13281199523197996",
+               "guid": "494a7c29-c4c9-414a-914b-82bb795df532",
+               "id": "589",
+               "name": "Parsley - The ultimate documentation",
+               "type": "url",
+               "url": "https://parsleyjs.org/doc/index.html#validators"
             } ],
             "date_added": "13278523099009541",
-            "date_modified": "13281104166572136",
+            "date_modified": "13281199526235290",
             "guid": "66944d1e-0cb0-48a1-99ce-575ad338b9f4",
             "id": "471",
             "name": "DBW",
@@ -3368,7 +3375,7 @@
             "url": "https://www.typingclub.com/sportal/program-3/207.play"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13281177599521651",
+         "date_modified": "13281199523197996",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
