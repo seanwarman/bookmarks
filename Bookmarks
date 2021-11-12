@@ -1,5 +1,5 @@
 {
-   "checksum": "01c1b4c4575a043f8346284d744d71ae",
+   "checksum": "1b5c0be1bd2d1dbf190d58b06fdb3202",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3267,9 +3267,16 @@
                   "name": "My Issues Filter",
                   "type": "url",
                   "url": "https://nomensa.atlassian.net/browse/DBW-1082?jql=project%20%3D%20DBW%20AND%20status%20in%20(Blocked%2C%20%22In%20Development%22%2C%20Open%2C%20%22Ready%20for%20peer%20review%22)%20AND%20assignee%20in%20(currentUser())%20ORDER%20BY%20status%20DESC%2C%20created%20DESC"
+               }, {
+                  "date_added": "13281177593770441",
+                  "guid": "165de1f9-10da-4db1-b8f1-01f009d2cb65",
+                  "id": "587",
+                  "name": "edclub",
+                  "type": "url",
+                  "url": "https://www.typingclub.com/sportal/program-3/207.play"
                } ],
                "date_added": "13278156700052525",
-               "date_modified": "13281112101009299",
+               "date_modified": "13281177593770441",
                "guid": "1ea18671-8cd1-44a8-83fe-beaaa937c566",
                "id": "458",
                "name": "Azure (DBW)",
@@ -3352,13 +3359,6 @@
             "name": "STCWD: Metamodern Play w/ John Vervaeke, Daniel Görtz, Sarah Perry, and Laurence Currie-Clark - YouTube",
             "type": "url",
             "url": "https://www.youtube.com/watch?v=iAeVE5D4tqU"
-         }, {
-            "date_added": "13281052451715249",
-            "guid": "bdf40d22-b618-48af-9f81-6be3b7220fbe",
-            "id": "576",
-            "name": "edclub",
-            "type": "url",
-            "url": "https://www.typingclub.com/sportal/program-3/148.play"
          }, {
             "date_added": "13281052465268020",
             "guid": "82e5675f-88b2-4cab-9512-fcdbe5fd2e13",
