@@ -1,5 +1,5 @@
 {
-   "checksum": "2f72a6fa7ae906c9e93b194e616690aa",
+   "checksum": "25019b562e21b8d25f07ca2e92883c47",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3194,9 +3194,16 @@
                "name": "AngularJS",
                "type": "url",
                "url": "https://code.angularjs.org/1.3.6/docs/tutorial/step_07"
+            }, {
+               "date_added": "13281052465268020",
+               "guid": "82e5675f-88b2-4cab-9512-fcdbe5fd2e13",
+               "id": "577",
+               "name": "AngularJS: Tutorial: 0 - Bootstrapping",
+               "type": "url",
+               "url": "https://code.angularjs.org/1.3.6/docs/tutorial/step_00"
             } ],
             "date_added": "13280842248769479",
-            "date_modified": "13280850490652295",
+            "date_modified": "13281208807380305",
             "guid": "8f069b22-9a27-4f9e-9329-9da954a87656",
             "id": "553",
             "name": "TRD-002",
@@ -3359,13 +3366,6 @@
             "name": "STCWD: Metamodern Play w/ John Vervaeke, Daniel Görtz, Sarah Perry, and Laurence Currie-Clark - YouTube",
             "type": "url",
             "url": "https://www.youtube.com/watch?v=iAeVE5D4tqU"
-         }, {
-            "date_added": "13281052465268020",
-            "guid": "82e5675f-88b2-4cab-9512-fcdbe5fd2e13",
-            "id": "577",
-            "name": "AngularJS: Tutorial: 0 - Bootstrapping",
-            "type": "url",
-            "url": "https://code.angularjs.org/1.3.6/docs/tutorial/step_00"
          }, {
             "date_added": "13281177593770441",
             "guid": "165de1f9-10da-4db1-b8f1-01f009d2cb65",
