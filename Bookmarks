@@ -1,5 +1,5 @@
 {
-   "checksum": "f68fcf57101a21c2f0e36b97623a2b29",
+   "checksum": "16d094f08b11a07bea49a8cbb88db16c",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3022,9 +3022,16 @@
                "name": "edclub",
                "type": "url",
                "url": "https://www.typingclub.com/sportal/program-3/2975.play"
+            }, {
+               "date_added": "13281314403749625",
+               "guid": "7c15e3de-3c07-4d1c-a54a-6e6c46eeff34",
+               "id": "593",
+               "name": "edclub",
+               "type": "url",
+               "url": "https://www.typingclub.com/sportal/program-3/8813.play"
             } ],
             "date_added": "13277233018935107",
-            "date_modified": "13281314165853102",
+            "date_modified": "13281314403749625",
             "guid": "460e0d6f-fc4c-459a-9e3a-7fe9169d4a93",
             "id": "176",
             "name": "General",
