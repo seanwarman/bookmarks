@@ -1,5 +1,5 @@
 {
-   "checksum": "9e0147d83ff4e25bb580010e2d6f771f",
+   "checksum": "221e9dfefb5d4d22db2217585c26fa01",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3227,14 +3227,6 @@
             "guid": "31bf1308-e3b4-4fda-bbc7-14d6bc1269f9",
             "id": "507",
             "name": "UCAS",
-            "type": "folder"
-         }, {
-            "children": [  ],
-            "date_added": "13280842248769479",
-            "date_modified": "13281554811454854",
-            "guid": "8f069b22-9a27-4f9e-9329-9da954a87656",
-            "id": "553",
-            "name": "TRD-002",
             "type": "folder"
          }, {
             "children": [ {
