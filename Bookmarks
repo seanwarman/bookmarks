@@ -1,5 +1,5 @@
 {
-   "checksum": "3b9196192e284ee25521329a35abe747",
+   "checksum": "ccaf041ff8ad13f324f70a61b3d7fb08",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3395,9 +3395,16 @@
                "id": "603",
                "name": "Docs",
                "type": "folder"
+            }, {
+               "date_added": "13281621947684349",
+               "guid": "e275dd19-57c0-47aa-aa40-bb166499746b",
+               "id": "604",
+               "name": "🎌 Flags — List of Emoji Flags to Copy and Paste",
+               "type": "url",
+               "url": "https://emojipedia.org/flags/"
             } ],
             "date_added": "13278523099009541",
-            "date_modified": "13281613375295814",
+            "date_modified": "13281621947684349",
             "guid": "66944d1e-0cb0-48a1-99ce-575ad338b9f4",
             "id": "471",
             "name": "DBW",
