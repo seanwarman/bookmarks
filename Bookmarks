@@ -1,5 +1,5 @@
 {
-   "checksum": "416041cc09bd03eb69705f67c9906ffc",
+   "checksum": "33e6217e828a58fa1e7f9614d4319561",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3290,7 +3290,7 @@
                   "date_added": "13281699562417037",
                   "guid": "f81c2858-2cea-4ef1-821d-fd2622ff11d6",
                   "id": "612",
-                  "name": "Customer Support | Check Your Service | Virgin Media Ireland",
+                  "name": "Customer Support",
                   "type": "url",
                   "url": "https://www.virginmedia.ie/customer-support/"
                } ],
