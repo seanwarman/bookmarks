@@ -1,5 +1,5 @@
 {
-   "checksum": "38b4a3b7e5392e1a7e820f8b3569e168",
+   "checksum": "6c7d5aa24e857331128758777c079916",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3387,9 +3387,16 @@
                   "name": "SafeNote | Encrypt and send files and notes with a link that automatically destruct after being read.",
                   "type": "url",
                   "url": "https://safenote.co/hidden"
+               }, {
+                  "date_added": "13281707540008533",
+                  "guid": "dce8aebd-7e28-4bb9-bb61-d336b57cbcb5",
+                  "id": "626",
+                  "name": "SafeNote | Encrypt and send files and notes with a link that automatically destruct after being read.",
+                  "type": "url",
+                  "url": "https://safenote.co/open?reference=61962d21bf1b67@09529813"
                } ],
                "date_added": "13281705153069436",
-               "date_modified": "13281707391150412",
+               "date_modified": "13281707540008533",
                "guid": "b17560e5-a1fd-48cf-965a-e27902f1f98b",
                "id": "623",
                "name": "VPN",
