@@ -1,5 +1,5 @@
 {
-   "checksum": "b38f6252e31ff535a8bea7d8d6bb3a57",
+   "checksum": "a2a27608e4eed9926750b9d1a2d04a11",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3373,9 +3373,16 @@
                   "name": "Install Check Point VPN software client.pdf",
                   "type": "url",
                   "url": "https://ssp.upcbroadband.com/help/05_Liberty%20Connectra%20VPN%20-%20Install%20Check%20Point%20VPN%20software%20client.pdf"
+               }, {
+                  "date_added": "13281707195620092",
+                  "guid": "4858a0ab-0e8c-4485-bba0-389a61cf27b3",
+                  "id": "624",
+                  "name": "E84.70 Endpoint Security VPN Clients for macOS - Disc Image (DMG)",
+                  "type": "url",
+                  "url": "https://supportcenter.checkpoint.com/supportcenter/portal/user/anon/page/default.psml/media-type/html?action=portlets.DCFileAction&eventSubmit_doGetdcdetails=&fileid=114592"
                } ],
                "date_added": "13281705153069436",
-               "date_modified": "13281705153069556",
+               "date_modified": "13281707195620092",
                "guid": "b17560e5-a1fd-48cf-965a-e27902f1f98b",
                "id": "623",
                "name": "VPN",
