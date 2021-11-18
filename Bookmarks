@@ -1,5 +1,5 @@
 {
-   "checksum": "624d235ddceaaa878612dff65f358a85",
+   "checksum": "0e21d0a0f63745ce6de9b9f3fc589900",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3437,13 +3437,6 @@
             "name": "Jira",
             "type": "url",
             "url": "https://nomensa.atlassian.net/jira/projects"
-         }, {
-            "date_added": "13277911970444568",
-            "guid": "a15d04e5-b4a0-4e28-81a4-320a055ebe64",
-            "id": "451",
-            "name": "Outlook",
-            "type": "url",
-            "url": "https://outlook.office365.com/mail/inbox"
          }, {
             "date_added": "13281177593770441",
             "guid": "165de1f9-10da-4db1-b8f1-01f009d2cb65",
