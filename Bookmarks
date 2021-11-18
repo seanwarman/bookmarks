@@ -1,5 +1,5 @@
 {
-   "checksum": "a2a27608e4eed9926750b9d1a2d04a11",
+   "checksum": "38b4a3b7e5392e1a7e820f8b3569e168",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3380,9 +3380,16 @@
                   "name": "E84.70 Endpoint Security VPN Clients for macOS - Disc Image (DMG)",
                   "type": "url",
                   "url": "https://supportcenter.checkpoint.com/supportcenter/portal/user/anon/page/default.psml/media-type/html?action=portlets.DCFileAction&eventSubmit_doGetdcdetails=&fileid=114592"
+               }, {
+                  "date_added": "13281707391150412",
+                  "guid": "f6f2c040-868e-46fa-8403-76b96aa801d5",
+                  "id": "625",
+                  "name": "SafeNote | Encrypt and send files and notes with a link that automatically destruct after being read.",
+                  "type": "url",
+                  "url": "https://safenote.co/hidden"
                } ],
                "date_added": "13281705153069436",
-               "date_modified": "13281707195620092",
+               "date_modified": "13281707391150412",
                "guid": "b17560e5-a1fd-48cf-965a-e27902f1f98b",
                "id": "623",
                "name": "VPN",
