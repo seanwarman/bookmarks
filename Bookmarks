@@ -1,5 +1,5 @@
 {
-   "checksum": "471cf4b669a235f2a783382f2f7e5bd5",
+   "checksum": "ecfb330b7ccfb18040d052af51ef9481",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3255,12 +3255,19 @@
                   "date_added": "13281724154293525",
                   "guid": "c8589a64-b6b6-45da-b4db-5da7c22a6314",
                   "id": "634",
-                  "name": "jquery_lazyload - Libraries - cdnjs - The #1 free and open source CDN built to make life easier for developers",
+                  "name": "jquery_lazyload",
                   "type": "url",
                   "url": "https://cdnjs.com/libraries/jquery_lazyload"
+               }, {
+                  "date_added": "13281724163103327",
+                  "guid": "857e204d-b4ad-415a-925d-fe7ddb51566f",
+                  "id": "635",
+                  "name": "jquery.lazyload - Libraries - cdnjs - The #1 free and open source CDN built to make life easier for developers",
+                  "type": "url",
+                  "url": "https://cdnjs.com/libraries/jquery.lazyload"
                } ],
                "date_added": "13281717452743452",
-               "date_modified": "13281724154293525",
+               "date_modified": "13281724163103327",
                "guid": "bd7fd539-fcda-401d-8f9d-da85a6d9c2d5",
                "id": "632",
                "name": "Lazy Loading",
