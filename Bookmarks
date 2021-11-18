@@ -1,5 +1,5 @@
 {
-   "checksum": "ecfb330b7ccfb18040d052af51ef9481",
+   "checksum": "140e0e05406d33259c61fc16cc44b4ed",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3262,7 +3262,7 @@
                   "date_added": "13281724163103327",
                   "guid": "857e204d-b4ad-415a-925d-fe7ddb51566f",
                   "id": "635",
-                  "name": "jquery.lazyload - Libraries - cdnjs - The #1 free and open source CDN built to make life easier for developers",
+                  "name": "jquery.lazyload",
                   "type": "url",
                   "url": "https://cdnjs.com/libraries/jquery.lazyload"
                } ],
