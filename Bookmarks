@@ -1,5 +1,5 @@
 {
-   "checksum": "3c5e6b386203383dcd13516987b9f408",
+   "checksum": "14d00755a01d968a7f001f3675278e14",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3276,7 +3276,7 @@
                   "date_added": "13281699536437878",
                   "guid": "20a0e668-d329-4284-8e71-ce79005b9912",
                   "id": "610",
-                  "name": "Packages",
+                  "name": "Broadband",
                   "type": "url",
                   "url": "https://www.virginmedia.ie/broadband/buy-a-broadband-package"
                }, {
