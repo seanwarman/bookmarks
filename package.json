@@ -7,7 +7,7 @@
     "start": "pm2 start bookmarks-daemon.js",
     "monit": "pm2 monit",
     "ps": "pm2 list",
-    "kill-daemon": "pm2 stop bookmarks-daemon && pm2 delete bookmarks-daemon"
+    "stop": "pm2 stop bookmarks-daemon && pm2 delete bookmarks-daemon"
   },
   "dependencies": {
     "pm2": "^5.1.2"
