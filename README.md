@@ -1,7 +1,7 @@
 # Bookmarks Updater
-Add this project into your bookmarks folder that contains *Bookmarks* and *Bookmarks.bak*.
+Add this project into the bookmarks folder that contains *Bookmarks* and *Bookmarks.bak*.
 
-Usually found under a dir called Default if you're using Chrome.
+It's usually found under a dir called Default if you're using Chrome.
 
 Do `yarn start` to start the pm2 daemon and it'll watch that folder for changes using git status.
 
