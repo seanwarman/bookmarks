@@ -1,0 +1,15 @@
+{
+  "name": "node-daemon",
+  "version": "1.0.0",
+  "main": "bookmarks-daemon.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "pm2 start bookmarks-daemon.js",
+    "monit": "pm2 monit",
+    "ps": "pm2 list",
+    "stop": "pm2 stop index && pm2 delete index"
+  },
+  "dependencies": {
+    "pm2": "^5.1.2"
+  }
+}
