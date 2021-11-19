@@ -1,5 +1,5 @@
 {
-   "checksum": "339fcff838eaed15947ca62092bfa871",
+   "checksum": "c3df3b9f5108aafb7800a1431045282b",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3272,9 +3272,16 @@
                   "name": "Lazy Load Remastered",
                   "type": "url",
                   "url": "https://appelsiini.net/projects/lazyload/?utm_source=cdnjs&utm_medium=cdnjs_link&utm_campaign=cdnjs_library"
+               }, {
+                  "date_added": "13281794547306105",
+                  "guid": "c1d02924-f16e-4621-bc9b-8b419c71208b",
+                  "id": "638",
+                  "name": "Responsive images - Learn web development | MDN",
+                  "type": "url",
+                  "url": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images"
                } ],
                "date_added": "13281717452743452",
-               "date_modified": "13281789157889834",
+               "date_modified": "13281794547306105",
                "guid": "bd7fd539-fcda-401d-8f9d-da85a6d9c2d5",
                "id": "632",
                "name": "Lazy Loading",
