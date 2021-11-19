@@ -28,7 +28,7 @@ function run(stdin) {
       throw 'No output'
     }
 
-    await run('git commit -am "updated"')
+    await run(`git commit -am "Auto update: ${ Date() }"`)
     await run('git push -u origin master')
 
   } catch (error) {
