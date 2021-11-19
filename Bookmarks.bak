@@ -1,5 +1,5 @@
 {
-   "checksum": "140e0e05406d33259c61fc16cc44b4ed",
+   "checksum": "add3d7d397f57704268cc634ffdbd9e1",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3265,9 +3265,16 @@
                   "name": "jquery.lazyload",
                   "type": "url",
                   "url": "https://cdnjs.com/libraries/jquery.lazyload"
+               }, {
+                  "date_added": "13281789157889834",
+                  "guid": "91069fb3-1874-4a77-95f1-89b80def4406",
+                  "id": "637",
+                  "name": "Lazy Load Remastered",
+                  "type": "url",
+                  "url": "https://appelsiini.net/projects/lazyload/?utm_source=cdnjs&utm_medium=cdnjs_link&utm_campaign=cdnjs_library"
                } ],
                "date_added": "13281717452743452",
-               "date_modified": "13281724163103327",
+               "date_modified": "13281794547306105",
                "guid": "bd7fd539-fcda-401d-8f9d-da85a6d9c2d5",
                "id": "632",
                "name": "Lazy Loading",
@@ -3308,9 +3315,16 @@
                   "name": "Adobe Experience Manager - What CMS?",
                   "type": "url",
                   "url": "https://whatcms.org/c/Adobe-Experience-Manager"
+               }, {
+                  "date_added": "13281794547306105",
+                  "guid": "c1d02924-f16e-4621-bc9b-8b419c71208b",
+                  "id": "638",
+                  "name": "Responsive images - Learn web development | MDN",
+                  "type": "url",
+                  "url": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images"
                } ],
                "date_added": "13281714664912911",
-               "date_modified": "13281714675340178",
+               "date_modified": "13281794553527397",
                "guid": "efe16d92-a8ec-4229-88c6-e22c1fc51e3e",
                "id": "628",
                "name": "Docs",
@@ -3461,7 +3475,7 @@
                "type": "folder"
             } ],
             "date_added": "13281554809024232",
-            "date_modified": "13281717455133995",
+            "date_modified": "13281794551312103",
             "guid": "73dca30c-53fb-4177-9e6d-25dcde21eee6",
             "id": "598",
             "name": "VIE",
