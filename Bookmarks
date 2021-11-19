@@ -1,5 +1,5 @@
 {
-   "checksum": "140e0e05406d33259c61fc16cc44b4ed",
+   "checksum": "339fcff838eaed15947ca62092bfa871",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3265,9 +3265,16 @@
                   "name": "jquery.lazyload",
                   "type": "url",
                   "url": "https://cdnjs.com/libraries/jquery.lazyload"
+               }, {
+                  "date_added": "13281789157889834",
+                  "guid": "91069fb3-1874-4a77-95f1-89b80def4406",
+                  "id": "637",
+                  "name": "Lazy Load Remastered",
+                  "type": "url",
+                  "url": "https://appelsiini.net/projects/lazyload/?utm_source=cdnjs&utm_medium=cdnjs_link&utm_campaign=cdnjs_library"
                } ],
                "date_added": "13281717452743452",
-               "date_modified": "13281724163103327",
+               "date_modified": "13281789157889834",
                "guid": "bd7fd539-fcda-401d-8f9d-da85a6d9c2d5",
                "id": "632",
                "name": "Lazy Loading",
