@@ -1,7 +1,7 @@
 const { spawn } = require('child_process');
 
-function run(stdin) {
-  const [command, ...args] = stdin.split(' ')
+function run(...stdin) {
+  const [command, ...args] = stdin;
   const proc = spawn(command, args)
 
   return new Promise((res, rej) => {
@@ -22,14 +22,14 @@ function run(stdin) {
 (async function worker() {
 
   try {
-    const out = await run('git status -s')
+    const out = await run('git', 'status', '-s')
 
     if (out.length === 0) {
       throw 'No output'
     }
 
-    await run(`git commit -am "Auto update ${ Date() }"`)
-    await run('git push -u origin master')
+    await run('git', 'commit', '-am', `"Auto update ${ Date() }"`)
+    await run('git', 'push', '-u', 'origin', 'master')
 
   } catch (error) {
     console.log(error)
