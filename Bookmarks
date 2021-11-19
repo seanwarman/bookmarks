@@ -1,5 +1,5 @@
 {
-   "checksum": "7257c0c45ef3a9496e6b1c999aa17459",
+   "checksum": "9848ee5f002fdfe9cf9c61a966b7ebd0",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3654,22 +3654,22 @@
             "type": "url",
             "url": "https://nomensa.atlassian.net/jira/projects"
          }, {
-            "date_added": "13281177593770441",
-            "guid": "165de1f9-10da-4db1-b8f1-01f009d2cb65",
-            "id": "587",
-            "name": "edclub",
-            "type": "url",
-            "url": "https://www.typingclub.com/sportal/program-3/207.play"
-         }, {
             "date_added": "13281697892133481",
             "guid": "79c53517-1be9-463c-a285-4c6f85fc5d2c",
             "id": "606",
             "name": "keybr",
             "type": "url",
             "url": "https://www.keybr.com/"
+         }, {
+            "date_added": "13281177593770441",
+            "guid": "165de1f9-10da-4db1-b8f1-01f009d2cb65",
+            "id": "587",
+            "name": "edclub",
+            "type": "url",
+            "url": "https://www.typingclub.com/sportal/program-3/207.play"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13281825553921892",
+         "date_modified": "13281826117785079",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
