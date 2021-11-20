@@ -1,5 +1,5 @@
 {
-   "checksum": "4e462814a0c34127eee03f88664f75e9",
+   "checksum": "d9b7afb0094052243748a1c957563003",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3667,9 +3667,16 @@
             "name": "edclub",
             "type": "url",
             "url": "https://www.typingclub.com/sportal/program-3/211.play"
+         }, {
+            "date_added": "13281921662338364",
+            "guid": "7f7c7bb8-ce23-47eb-b697-65fa4c723d10",
+            "id": "644",
+            "name": "edclub",
+            "type": "url",
+            "url": "https://www.typingclub.com/sportal/program-3/2979.play"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13281915246558281",
+         "date_modified": "13281921662338364",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
