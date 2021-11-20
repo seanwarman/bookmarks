@@ -1,5 +1,5 @@
 {
-   "checksum": "3f963e5024b619c57e816ff629581b8d",
+   "checksum": "4e462814a0c34127eee03f88664f75e9",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3660,9 +3660,16 @@
             "name": "keybr",
             "type": "url",
             "url": "https://www.keybr.com/"
+         }, {
+            "date_added": "13281915246558281",
+            "guid": "6e0fbf72-1012-4506-b426-6e2b5e3904c8",
+            "id": "643",
+            "name": "edclub",
+            "type": "url",
+            "url": "https://www.typingclub.com/sportal/program-3/211.play"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13281915235086513",
+         "date_modified": "13281915246558281",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
