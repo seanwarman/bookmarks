@@ -1,5 +1,5 @@
 {
-   "checksum": "52374e8fe4ea11d6b1b805648cfbaa8b",
+   "checksum": "16cbcaa3d3fb2937443fbd42e67d3dc3",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3674,9 +3674,16 @@
             "name": "Sign in to your account",
             "type": "url",
             "url": "https://login.microsoftonline.com/common/oauth2/authorize?response_type=token&client_id=5e3ce6c0-2b1f-4285-8d4b-75ee78787346&resource=https%3A%2F%2Fapi.spaces.skype.com&redirect_uri=https%3A%2F%2Fteams.microsoft.com%2FmeetingOptions%2F&state=f82529bd-41c5-440c-8ee5-79515e3cb45d%7Chttps%3A%2F%2Fapi.spaces.skype.com&client-request-id=fe17409c-44cf-4572-b066-3de559c2bd63&x-client-SKU=Js&x-client-Ver=1.0.18&prompt=select_account&login_hint=swarman%40nomensa.com&domain_hint=nomensa.com"
+         }, {
+            "date_added": "13282047935088666",
+            "guid": "a96c0158-ae32-461b-9fe4-0ad730e501af",
+            "id": "652",
+            "name": "Join conversation",
+            "type": "url",
+            "url": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_MzVmODhmNTAtNmJmNy00Nzc4LTgyOTMtNmUyZmZjNTdjNjgy%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522ebea4ad6-fbbf-43bd-8449-c56e26692c35%2522%252c%2522Oid%2522%253a%2522c857cd6e-fae6-4b1a-b702-53f732c5ddcb%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=187d5563-c66b-4073-9e35-4634811c7ccc&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13282047912481565",
+         "date_modified": "13282047935088666",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
