@@ -1,5 +1,5 @@
 {
-   "checksum": "d5d49876831c60112bdb183565f0bf04",
+   "checksum": "92640971631959a89d6241013f09efd0",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3233,7 +3233,7 @@
                "date_added": "13282052704636969",
                "guid": "a0bbc441-3d24-4f68-b0d9-26171a527e71",
                "id": "656",
-               "name": "Jira",
+               "name": "Jira (VIE-088)",
                "type": "url",
                "url": "https://nomensa.atlassian.net/jira/software/c/projects/VPO/boards/36"
             }, {
