@@ -1,5 +1,5 @@
 {
-   "checksum": "6f07b4b49030d6fc1caf879c058fbf35",
+   "checksum": "3a176176730f7596a20f69505304359b",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3505,7 +3505,7 @@
                "date_added": "13282052704636969",
                "guid": "a0bbc441-3d24-4f68-b0d9-26171a527e71",
                "id": "656",
-               "name": "VIE-088 Performance Optimisation - Agile Board - Nomensa Jira",
+               "name": "Jira",
                "type": "url",
                "url": "https://nomensa.atlassian.net/jira/software/c/projects/VPO/boards/36"
             } ],
