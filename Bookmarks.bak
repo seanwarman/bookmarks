@@ -1,5 +1,5 @@
 {
-   "checksum": "54364900ceab2f876e7901dc6bb61325",
+   "checksum": "dc0c1a91fa004ccec6c453f43a404bd7",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3230,6 +3230,20 @@
             "type": "folder"
          }, {
             "children": [ {
+               "date_added": "13282052704636969",
+               "guid": "a0bbc441-3d24-4f68-b0d9-26171a527e71",
+               "id": "656",
+               "name": "Jira (VIE-088)",
+               "type": "url",
+               "url": "https://nomensa.atlassian.net/jira/software/c/projects/VPO/boards/36"
+            }, {
+               "date_added": "13282047935088666",
+               "guid": "a96c0158-ae32-461b-9fe4-0ad730e501af",
+               "id": "652",
+               "name": "Standup",
+               "type": "url",
+               "url": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_MzVmODhmNTAtNmJmNy00Nzc4LTgyOTMtNmUyZmZjNTdjNjgy%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522ebea4ad6-fbbf-43bd-8449-c56e26692c35%2522%252c%2522Oid%2522%253a%2522c857cd6e-fae6-4b1a-b702-53f732c5ddcb%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=187d5563-c66b-4073-9e35-4634811c7ccc&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true"
+            }, {
                "date_added": "13281714741587638",
                "guid": "f698e536-376a-4ca9-a90c-b1ff8e828dc4",
                "id": "631",
@@ -3488,13 +3502,6 @@
                "type": "url",
                "url": "https://finder.eircode.ie/#/result"
             }, {
-               "date_added": "13282047935088666",
-               "guid": "a96c0158-ae32-461b-9fe4-0ad730e501af",
-               "id": "652",
-               "name": "Standup",
-               "type": "url",
-               "url": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_MzVmODhmNTAtNmJmNy00Nzc4LTgyOTMtNmUyZmZjNTdjNjgy%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522ebea4ad6-fbbf-43bd-8449-c56e26692c35%2522%252c%2522Oid%2522%253a%2522c857cd6e-fae6-4b1a-b702-53f732c5ddcb%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=187d5563-c66b-4073-9e35-4634811c7ccc&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true"
-            }, {
                "date_added": "13282049954573484",
                "guid": "77e3566b-6917-4c34-8d75-61ab146f2aa7",
                "id": "654",
@@ -3503,7 +3510,7 @@
                "url": "https://dev.azure.com/DBoW/Nomensa/_git/dbw-development/pullrequest/482?_a=files"
             } ],
             "date_added": "13281554809024232",
-            "date_modified": "13282049954573484",
+            "date_modified": "13282052748709478",
             "guid": "73dca30c-53fb-4177-9e6d-25dcde21eee6",
             "id": "598",
             "name": "VIE",
@@ -3667,13 +3674,6 @@
             "name": "GitLab",
             "type": "url",
             "url": "https://gitlab.nomensa.com/#"
-         }, {
-            "date_added": "13277469297776725",
-            "guid": "13e72aae-4e8c-4aa8-8c61-b9b6233507fa",
-            "id": "435",
-            "name": "Jira",
-            "type": "url",
-            "url": "https://nomensa.atlassian.net/jira/projects"
          }, {
             "date_added": "13281697892133481",
             "guid": "79c53517-1be9-463c-a285-4c6f85fc5d2c",
