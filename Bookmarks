@@ -1,5 +1,5 @@
 {
-   "checksum": "92640971631959a89d6241013f09efd0",
+   "checksum": "2698b1b68627fa5916fa54d3e89d02cb",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3674,13 +3674,6 @@
             "name": "GitLab",
             "type": "url",
             "url": "https://gitlab.nomensa.com/#"
-         }, {
-            "date_added": "13277469297776725",
-            "guid": "13e72aae-4e8c-4aa8-8c61-b9b6233507fa",
-            "id": "435",
-            "name": "Jira",
-            "type": "url",
-            "url": "https://nomensa.atlassian.net/jira/projects"
          }, {
             "date_added": "13281697892133481",
             "guid": "79c53517-1be9-463c-a285-4c6f85fc5d2c",
