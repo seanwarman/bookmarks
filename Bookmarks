@@ -1,5 +1,5 @@
 {
-   "checksum": "39299cd057176c4fe8570e7c21ce3ac7",
+   "checksum": "3487b27ad2bdf17a40e3ca2814304333",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3515,9 +3515,16 @@
                "name": "Settings – Passwords",
                "type": "url",
                "url": "chrome://settings/passwords?search=password"
+            }, {
+               "date_added": "13282078435899206",
+               "guid": "7a2febad-6abd-4e8d-9286-c51ab6c7a116",
+               "id": "660",
+               "name": "JCR queries",
+               "type": "url",
+               "url": "https://gist.github.com/floriankraft/8b3720464318cd5cd9e2"
             } ],
             "date_added": "13281554809024232",
-            "date_modified": "13282068803042920",
+            "date_modified": "13282078445430375",
             "guid": "73dca30c-53fb-4177-9e6d-25dcde21eee6",
             "id": "598",
             "name": "VIE",
@@ -3667,13 +3674,6 @@
                "name": "Afternoon Standup",
                "type": "url",
                "url": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_YTFkM2RhZDQtN2FjNy00MzlmLWJmN2ItZTk1ZjI3NWRhMmJl%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522ebea4ad6-fbbf-43bd-8449-c56e26692c35%2522%252c%2522Oid%2522%253a%25220ae01af5-4c97-4787-b89f-7794acc3159a%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=db50b671-de86-4eb5-b7c0-7890c2794334&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true"
-            }, {
-               "date_added": "13282078435899206",
-               "guid": "7a2febad-6abd-4e8d-9286-c51ab6c7a116",
-               "id": "660",
-               "name": "Some useful JCR queries (XPATH, SQL2) for AEM/CQ development.",
-               "type": "url",
-               "url": "https://gist.github.com/floriankraft/8b3720464318cd5cd9e2"
             } ],
             "date_added": "13278523099009541",
             "date_modified": "13282078435899206",
