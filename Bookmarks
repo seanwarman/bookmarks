@@ -1,5 +1,5 @@
 {
-   "checksum": "55e601fff667473598e34090a842e54d",
+   "checksum": "fffa89a8c30d9cec81b5802e451103d8",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3515,9 +3515,16 @@
                "name": "Settings – Passwords",
                "type": "url",
                "url": "chrome://settings/passwords?search=password"
+            }, {
+               "date_added": "13282068803042920",
+               "guid": "9ca5a96a-4166-4be1-ac99-88f87435406a",
+               "id": "659",
+               "name": "Join conversation",
+               "type": "url",
+               "url": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_YTFkM2RhZDQtN2FjNy00MzlmLWJmN2ItZTk1ZjI3NWRhMmJl%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522ebea4ad6-fbbf-43bd-8449-c56e26692c35%2522%252c%2522Oid%2522%253a%25220ae01af5-4c97-4787-b89f-7794acc3159a%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=db50b671-de86-4eb5-b7c0-7890c2794334&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true"
             } ],
             "date_added": "13281554809024232",
-            "date_modified": "13282062251688161",
+            "date_modified": "13282068803042920",
             "guid": "73dca30c-53fb-4177-9e6d-25dcde21eee6",
             "id": "598",
             "name": "VIE",
