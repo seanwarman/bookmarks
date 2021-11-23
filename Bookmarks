@@ -1,5 +1,5 @@
 {
-   "checksum": "3487b27ad2bdf17a40e3ca2814304333",
+   "checksum": "2a755840fc09af7cd3b2b3bc6aacb0d2",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3522,9 +3522,16 @@
                "name": "JCR queries",
                "type": "url",
                "url": "https://gist.github.com/floriankraft/8b3720464318cd5cd9e2"
+            }, {
+               "date_added": "13282120150264451",
+               "guid": "c877ef3f-b13e-4838-9191-3e0a58de0699",
+               "id": "661",
+               "name": "edclub",
+               "type": "url",
+               "url": "https://www.typingclub.com/sportal/program-3/2992.play"
             } ],
             "date_added": "13281554809024232",
-            "date_modified": "13282078445430375",
+            "date_modified": "13282120150264451",
             "guid": "73dca30c-53fb-4177-9e6d-25dcde21eee6",
             "id": "598",
             "name": "VIE",
