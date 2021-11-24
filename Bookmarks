@@ -1,5 +1,5 @@
 {
-   "checksum": "fc19d1a027dd7dc91c103be50243cbbe",
+   "checksum": "6990d37737dc76deb674d61fbf096040",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3065,9 +3065,16 @@
                   "name": "Xterm.js",
                   "type": "url",
                   "url": "https://xtermjs.org/"
+               }, {
+                  "date_added": "13282209018156821",
+                  "guid": "2ccd57c5-57c9-407b-8fc3-8b09f830df59",
+                  "id": "668",
+                  "name": "edclub",
+                  "type": "url",
+                  "url": "https://www.typingclub.com/sportal/program-3/269.play"
                } ],
                "date_added": "13282207235083986",
-               "date_modified": "13282207245264022",
+               "date_modified": "13282209018156821",
                "guid": "6eba4529-0dc6-4b91-98fd-126ee5d34dae",
                "id": "667",
                "name": "Terminal",
