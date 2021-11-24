@@ -1,5 +1,5 @@
 {
-   "checksum": "a0e4c3c58e33822fb2dc705f262ec610",
+   "checksum": "80d9b193309cf27bd3302a101e740bbe",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3495,13 +3495,6 @@
                "name": "Pull request 482: bugfix/dbw-1056-update-linking-entities-on-DA-submission-for-status-update - Repos",
                "type": "url",
                "url": "https://dev.azure.com/DBoW/Nomensa/_git/dbw-development/pullrequest/482?_a=files"
-            }, {
-               "date_added": "13282062251688161",
-               "guid": "c220d93d-5c10-45f4-abd4-0b8af86ec47d",
-               "id": "658",
-               "name": "Settings – Passwords",
-               "type": "url",
-               "url": "chrome://settings/passwords?search=password"
             }, {
                "date_added": "13282078435899206",
                "guid": "7a2febad-6abd-4e8d-9286-c51ab6c7a116",
