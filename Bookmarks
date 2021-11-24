@@ -1,5 +1,5 @@
 {
-   "checksum": "4863356b8022081b53cd71bfe8339bcc",
+   "checksum": "78306d9524e5fd033608dc681394ef62",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3008,13 +3008,6 @@
                "name": "Marvel Movies In Order",
                "type": "url",
                "url": "https://editorial.rottentomatoes.com/guide/marvel-movies-in-order/"
-            }, {
-               "date_added": "13281308711129875",
-               "guid": "04877dc2-eac0-4bd3-aeb3-d035f64225fa",
-               "id": "590",
-               "name": "edclub",
-               "type": "url",
-               "url": "https://www.typingclub.com/sportal/program-3/210.play"
             }, {
                "date_added": "13281314029733286",
                "guid": "56add824-b649-4d25-8cb6-4556192b6684",
