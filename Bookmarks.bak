@@ -1,5 +1,5 @@
 {
-   "checksum": "dc0c1a91fa004ccec6c453f43a404bd7",
+   "checksum": "318f6ed141bcb0fcee10a44d4164b8a0",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3508,9 +3508,23 @@
                "name": "Pull request 482: bugfix/dbw-1056-update-linking-entities-on-DA-submission-for-status-update - Repos",
                "type": "url",
                "url": "https://dev.azure.com/DBoW/Nomensa/_git/dbw-development/pullrequest/482?_a=files"
+            }, {
+               "date_added": "13282062251688161",
+               "guid": "c220d93d-5c10-45f4-abd4-0b8af86ec47d",
+               "id": "658",
+               "name": "Settings – Passwords",
+               "type": "url",
+               "url": "chrome://settings/passwords?search=password"
+            }, {
+               "date_added": "13282078435899206",
+               "guid": "7a2febad-6abd-4e8d-9286-c51ab6c7a116",
+               "id": "660",
+               "name": "JCR queries",
+               "type": "url",
+               "url": "https://gist.github.com/floriankraft/8b3720464318cd5cd9e2"
             } ],
             "date_added": "13281554809024232",
-            "date_modified": "13282052748709478",
+            "date_modified": "13282120150264451",
             "guid": "73dca30c-53fb-4177-9e6d-25dcde21eee6",
             "id": "598",
             "name": "VIE",
@@ -3523,6 +3537,13 @@
                "name": "Standup",
                "type": "url",
                "url": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_ZGMxYjI4OGYtNzAwOC00ZTFmLWFkYTQtM2E4MmExMzgyZjYx%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522ebea4ad6-fbbf-43bd-8449-c56e26692c35%2522%252c%2522Oid%2522%253a%252251a4bccb-f13d-4152-aa08-0812f422e279%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=6a7ef85e-035d-446a-8a4b-11fd4ca4861f&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true"
+            }, {
+               "date_added": "13282068803042920",
+               "guid": "9ca5a96a-4166-4be1-ac99-88f87435406a",
+               "id": "659",
+               "name": "Afternoon Standup",
+               "type": "url",
+               "url": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_YTFkM2RhZDQtN2FjNy00MzlmLWJmN2ItZTk1ZjI3NWRhMmJl%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522ebea4ad6-fbbf-43bd-8449-c56e26692c35%2522%252c%2522Oid%2522%253a%25220ae01af5-4c97-4787-b89f-7794acc3159a%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=db50b671-de86-4eb5-b7c0-7890c2794334&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true"
             }, {
                "date_added": "13278174515659905",
                "guid": "4dd2d9c3-b64b-4dc6-a162-de46b720f75f",
@@ -3655,7 +3676,7 @@
                "url": "https://receive-smss.com/"
             } ],
             "date_added": "13278523099009541",
-            "date_modified": "13281699312955978",
+            "date_modified": "13282131661127823",
             "guid": "66944d1e-0cb0-48a1-99ce-575ad338b9f4",
             "id": "471",
             "name": "DBW",
@@ -3682,22 +3703,15 @@
             "type": "url",
             "url": "https://www.keybr.com/"
          }, {
-            "date_added": "13282043795985509",
-            "guid": "89cc4035-3320-41ab-a948-2e771fbaba57",
-            "id": "649",
+            "date_added": "13282120940813211",
+            "guid": "6d6516af-06bb-476c-943c-2cffa2f6166f",
+            "id": "662",
             "name": "edclub",
             "type": "url",
-            "url": "https://www.typingclub.com/sportal/program-3/8814.play"
-         }, {
-            "date_added": "13282047912481565",
-            "guid": "4add4524-a875-4dfd-84c9-704a8d5e123c",
-            "id": "651",
-            "name": "Sign in to your account",
-            "type": "url",
-            "url": "https://login.microsoftonline.com/common/oauth2/authorize?response_type=token&client_id=5e3ce6c0-2b1f-4285-8d4b-75ee78787346&resource=https%3A%2F%2Fapi.spaces.skype.com&redirect_uri=https%3A%2F%2Fteams.microsoft.com%2FmeetingOptions%2F&state=f82529bd-41c5-440c-8ee5-79515e3cb45d%7Chttps%3A%2F%2Fapi.spaces.skype.com&client-request-id=fe17409c-44cf-4572-b066-3de559c2bd63&x-client-SKU=Js&x-client-Ver=1.0.18&prompt=select_account&login_hint=swarman%40nomensa.com&domain_hint=nomensa.com"
+            "url": "https://www.typingclub.com/sportal/program-3/253.play"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13282047935088666",
+         "date_modified": "13282120940813211",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
