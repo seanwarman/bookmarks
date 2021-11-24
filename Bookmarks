@@ -1,5 +1,5 @@
 {
-   "checksum": "dcc6f5d688c83e8b1e75b80c845a6f0f",
+   "checksum": "e94aa20f63dd6a56bbcf492c898a36f3",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -145,9 +145,16 @@
                   "name": "BusyBox",
                   "type": "url",
                   "url": "https://www.busybox.net/about.html"
+               }, {
+                  "date_added": "13282206958175637",
+                  "guid": "e2b5487e-baf3-43be-844b-79c64a905751",
+                  "id": "665",
+                  "name": "Xterm.js",
+                  "type": "url",
+                  "url": "https://xtermjs.org/"
                } ],
                "date_added": "13278784964023663",
-               "date_modified": "13282206951367968",
+               "date_modified": "13282206958175637",
                "guid": "e97006df-f6c7-4f18-ae65-77f3ba8bf191",
                "id": "495",
                "name": "Docker",
