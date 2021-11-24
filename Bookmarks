@@ -1,5 +1,5 @@
 {
-   "checksum": "6c26ec3bae9e2306bd05cf84bec39919",
+   "checksum": "09a755f2085ccc10d5171dcde5272b41",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2031,13 +2031,6 @@
                   "name": "Xterm.js",
                   "type": "url",
                   "url": "https://xtermjs.org/"
-               }, {
-                  "date_added": "13282207224340589",
-                  "guid": "20805966-d954-4863-a7a4-0a50c560acc9",
-                  "id": "666",
-                  "name": "Hyper™",
-                  "type": "url",
-                  "url": "https://hyper.is/#installation"
                } ],
                "date_added": "13277233018941605",
                "date_modified": "13282207224340589",
@@ -3064,6 +3057,21 @@
                "name": "edclub",
                "type": "url",
                "url": "https://www.typingclub.com/sportal/program-3/217.play"
+            }, {
+               "children": [ {
+                  "date_added": "13282207224340589",
+                  "guid": "20805966-d954-4863-a7a4-0a50c560acc9",
+                  "id": "666",
+                  "name": "Hyper™",
+                  "type": "url",
+                  "url": "https://hyper.is/#installation"
+               } ],
+               "date_added": "13282207235083986",
+               "date_modified": "13282207235084083",
+               "guid": "6eba4529-0dc6-4b91-98fd-126ee5d34dae",
+               "id": "667",
+               "name": "Terminal",
+               "type": "folder"
             } ],
             "date_added": "13277233018935107",
             "date_modified": "13281481781143227",
