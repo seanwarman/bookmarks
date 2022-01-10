@@ -1,5 +1,5 @@
 {
-   "checksum": "14d039ddb8a2215fc96d290fec8856eb",
+   "checksum": "05e74857d6cf061ee6b125e5406fef9c",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4387,12 +4387,19 @@
                "date_added": "13286295902435431",
                "guid": "41e82405-fb0a-440c-8ea0-27ce9354373a",
                "id": "799",
-               "name": "GitHub - mrdoob/three.js: JavaScript 3D Library.",
+               "name": "ThreeJS",
                "type": "url",
                "url": "https://github.com/mrdoob/three.js"
+            }, {
+               "date_added": "13286295912473584",
+               "guid": "8603d44f-67e2-42c7-957d-32a387b9d4df",
+               "id": "800",
+               "name": "Angular - Lifecycle hooks",
+               "type": "url",
+               "url": "https://angular.io/guide/lifecycle-hooks"
             } ],
             "date_added": "13286282270269148",
-            "date_modified": "13286295902435431",
+            "date_modified": "13286295912473584",
             "guid": "9b4e0d8f-ea34-4633-b2e2-7882e6dde03e",
             "id": "796",
             "name": "BLU-013",
