@@ -1,5 +1,5 @@
 {
-   "checksum": "713e2240f7ffc00f601e5b21e263a2bb",
+   "checksum": "e852ce761be8c5d6fc1ab1a703e1b7df",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4376,9 +4376,16 @@
                "name": "Repo",
                "type": "url",
                "url": "https://gitlab.nomensa.com/angular/charcoal-blue"
+            }, {
+               "date_added": "13286290836681641",
+               "guid": "b361cf9a-e21e-4586-a0e9-061a6954d7e7",
+               "id": "798",
+               "name": "ROOM DESIGN GUIDE - WEBSITE - CONTENT INVENTORY - Google Sheets",
+               "type": "url",
+               "url": "https://docs.google.com/spreadsheets/d/13SMe-_BUjoWIB6P4pb8WktB_nKW02cY9rKlzrKs1aLc/edit#gid=423183913"
             } ],
             "date_added": "13286282270269148",
-            "date_modified": "13286282284065119",
+            "date_modified": "13286290836681641",
             "guid": "9b4e0d8f-ea34-4633-b2e2-7882e6dde03e",
             "id": "796",
             "name": "BLU-013",
