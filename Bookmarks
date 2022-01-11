@@ -1,5 +1,5 @@
 {
-   "checksum": "a37fbbe787ceb1e9f4533c621395bead",
+   "checksum": "99018b9b78f8af823e9adce68d6c8db1",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3141,7 +3141,7 @@
             "date_modified": "13286366570380488",
             "guid": "460e0d6f-fc4c-459a-9e3a-7fe9169d4a93",
             "id": "176",
-            "name": "General",
+            "name": "Personal",
             "type": "folder"
          }, {
             "children": [ {
