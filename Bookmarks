@@ -1,5 +1,5 @@
 {
-   "checksum": "7528d065b6222ce8ca58d01cce9b280e",
+   "checksum": "5df42c8b5d01dcd98bdd8c92d8565059",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4422,7 +4422,7 @@
                "date_added": "13286374444293022",
                "guid": "6087c9a8-3a04-46ce-879e-a6906234bb2a",
                "id": "807",
-               "name": "Charcoal Blue - Development board - Agile Board - Nomensa Jira",
+               "name": "Jira",
                "type": "url",
                "url": "https://nomensa.atlassian.net/jira/software/c/projects/CB/boards/41"
             } ],
