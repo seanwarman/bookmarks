@@ -1,5 +1,5 @@
 {
-   "checksum": "5602f3ab598bfc5023f88a3c2d6eebe4",
+   "checksum": "caeac0582eb506f758bc6ed834ca2a61",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4159,9 +4159,16 @@
                "name": "Seans Tech Discovery Notes.docx",
                "type": "url",
                "url": "https://nomensa.sharepoint.com/:w:/r/sites/File-Share-Clients/_layouts/15/Doc.aspx?sourcedoc=%7BB06DAF43-F65C-4BF7-8DC2-E65E846B890A%7D&file=Seans%20Tech%20Discovery%20Notes.docx&action=default&mobileredirect=true"
+            }, {
+               "date_added": "13286463090888698",
+               "guid": "f09b6f76-bd6a-4169-9511-e5b46008b4bb",
+               "id": "812",
+               "name": "VIE-091_Lean-Tech-Discovery-2022-01-12.pptx",
+               "type": "url",
+               "url": "https://nomensa-my.sharepoint.com/:p:/p/orouse/Ea-M3iBPGvJFrxfJPbrpCjEBnsWm-fdb8NpRVXQKp4WnTA?email=swarman%40nomensa.com&e=4%3ASHYMgZ&at=9"
             } ],
             "date_added": "13286463028480507",
-            "date_modified": "13286463046866784",
+            "date_modified": "13286463090888698",
             "guid": "25f59296-54d0-4de2-9beb-0d21ae788b25",
             "id": "810",
             "name": "VIE-091",
