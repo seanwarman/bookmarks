@@ -1,5 +1,5 @@
 {
-   "checksum": "545e16d16d8fe46ae04fff48ed95a59b",
+   "checksum": "c6421f4ee9bef4d14d3702ab645e1d72",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4490,9 +4490,16 @@
             "id": "804",
             "name": "General",
             "type": "folder"
+         }, {
+            "date_added": "13286463042005065",
+            "guid": "c7a0e8a8-77bf-48b3-86d3-ccb6458f6d14",
+            "id": "811",
+            "name": "Seans Tech Discovery Notes.docx",
+            "type": "url",
+            "url": "https://nomensa.sharepoint.com/:w:/r/sites/File-Share-Clients/_layouts/15/Doc.aspx?sourcedoc=%7BB06DAF43-F65C-4BF7-8DC2-E65E846B890A%7D&file=Seans%20Tech%20Discovery%20Notes.docx&action=default&mobileredirect=true"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13286463036445488",
+         "date_modified": "13286463042005065",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
