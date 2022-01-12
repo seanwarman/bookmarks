@@ -1,5 +1,5 @@
 {
-   "checksum": "250082b811fa31b87ef04a5fdb0f695c",
+   "checksum": "c5eda0453d40a364466ed80d5c4a0e45",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4482,9 +4482,17 @@
             "id": "804",
             "name": "General",
             "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13286463028480507",
+            "date_modified": "13286463028480507",
+            "guid": "25f59296-54d0-4de2-9beb-0d21ae788b25",
+            "id": "810",
+            "name": "VIE-091",
+            "type": "folder"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13286366775444798",
+         "date_modified": "13286463028481323",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
