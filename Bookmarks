@@ -1,5 +1,5 @@
 {
-   "checksum": "577aba8131de41bffbfe3cccb1706de2",
+   "checksum": "5ebfa69b1fee3d714d3d5258dace2a85",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4470,13 +4470,6 @@
             "type": "folder"
          }, {
             "children": [ {
-               "date_added": "13286305565161742",
-               "guid": "ba041d5e-be6a-4f75-94f2-d1983ceb0aaf",
-               "id": "801",
-               "name": "SharePoint Client Docs",
-               "type": "url",
-               "url": "https://nomensa.sharepoint.com/sites/File-Share-Clients?xsdata=MDN8MDF8fDI4MmM4YWQ1NWY0ZTQxZjlhYTYyMDllMGZlNjk4YWY3fGViZWE0YWQ2ZmJiZjQzYmQ4NDQ5YzU2ZTI2NjkyYzM1fDF8MHw2Mzc3NzQyODczNjk4ODA2Nzl8R29vZHxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeWZRPT0%3D&sdata=V1MyVXBsK3NDcDlSMzhwY1RPOVJTTVR5N096dk51QmZ4VElBKzlzRStJbz0%3D&ovuser=ebea4ad6-fbbf-43bd-8449-c56e26692c35%2Cswarman%40nomensa.com&OR=Teams-HL&CT=1641831944293"
-            }, {
                "date_added": "13283022834881593",
                "guid": "f2deb38f-cb08-4898-84fe-84f228c0282e",
                "id": "707",
