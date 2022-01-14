@@ -1,5 +1,5 @@
 {
-   "checksum": "47c66ccc723188e638827a3f18baadd8",
+   "checksum": "3a568b9282a26271c7f7ed84e3b7eb9b",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4508,7 +4508,7 @@
                "date_added": "13286633022814262",
                "guid": "5e5f43b2-a1de-4a3f-9069-3e742bf1a382",
                "id": "819",
-               "name": "AEM Sign In",
+               "name": "AEM UAT",
                "type": "url",
                "url": "http://172.16.42.14:4502/libs/granite/core/content/login.html?resource=%2Fsiteadmin&%24%24login%24%24=%24%24login%24%24&j_reason=unknown&j_reason_code=unknown#/content/www-virginmedia-ie"
             } ],
