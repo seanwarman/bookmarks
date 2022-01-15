@@ -1,5 +1,5 @@
 {
-   "checksum": "5ff5ca0fe4f156af2c495c0268c67ba7",
+   "checksum": "92e50233ed12501e6c718c53be14ea67",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3158,9 +3158,16 @@
                   "name": "Cut, Copy and Paste in JavaScript with the Clipboard API - SitePoint",
                   "type": "url",
                   "url": "https://www.sitepoint.com/clipboard-api/"
+               }, {
+                  "date_added": "13286758949165590",
+                  "guid": "900db1d2-1bd6-48c0-96ff-fd49fd4a680e",
+                  "id": "825",
+                  "name": "Element: paste event - Web APIs | MDN",
+                  "type": "url",
+                  "url": "https://developer.mozilla.org/en-US/docs/Web/API/Element/paste_event"
                } ],
                "date_added": "13286758943816002",
-               "date_modified": "13286758943816187",
+               "date_modified": "13286758949165590",
                "guid": "1c66fce5-e23e-4d68-b97c-b820b18895ec",
                "id": "824",
                "name": "file-server",
