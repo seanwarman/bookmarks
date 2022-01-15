@@ -1,5 +1,5 @@
 {
-   "checksum": "3e83d315b2d16ad6fd9462e34139ec26",
+   "checksum": "5ff5ca0fe4f156af2c495c0268c67ba7",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3151,12 +3151,20 @@
                "type": "url",
                "url": "https://dom111.github.io/image-to-ansi/"
             }, {
-               "date_added": "13286758926638532",
-               "guid": "86fd4e4f-c217-403d-8039-10e9fcca1c19",
-               "id": "823",
-               "name": "Cut, Copy and Paste in JavaScript with the Clipboard API - SitePoint",
-               "type": "url",
-               "url": "https://www.sitepoint.com/clipboard-api/"
+               "children": [ {
+                  "date_added": "13286758926638532",
+                  "guid": "86fd4e4f-c217-403d-8039-10e9fcca1c19",
+                  "id": "823",
+                  "name": "Cut, Copy and Paste in JavaScript with the Clipboard API - SitePoint",
+                  "type": "url",
+                  "url": "https://www.sitepoint.com/clipboard-api/"
+               } ],
+               "date_added": "13286758943816002",
+               "date_modified": "13286758943816187",
+               "guid": "1c66fce5-e23e-4d68-b97c-b820b18895ec",
+               "id": "824",
+               "name": "file-server",
+               "type": "folder"
             } ],
             "date_added": "13277233018935107",
             "date_modified": "13286758926638532",
