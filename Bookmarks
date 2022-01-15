@@ -1,5 +1,5 @@
 {
-   "checksum": "92e50233ed12501e6c718c53be14ea67",
+   "checksum": "14ba178e28ad29911147b4bcd3f48eed",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3165,9 +3165,16 @@
                   "name": "Element: paste event - Web APIs | MDN",
                   "type": "url",
                   "url": "https://developer.mozilla.org/en-US/docs/Web/API/Element/paste_event"
+               }, {
+                  "date_added": "13286758954588160",
+                  "guid": "32f157af-6ea8-4d00-bee9-cb00a64a8c34",
+                  "id": "826",
+                  "name": "xterm.js/xterm.d.ts at 70babeacb62fe05264d64324ca1f4436997efa1b · xtermjs/xterm.js · GitHub",
+                  "type": "url",
+                  "url": "https://github.com/xtermjs/xterm.js/blob/70babeacb62fe05264d64324ca1f4436997efa1b/typings/xterm.d.ts"
                } ],
                "date_added": "13286758943816002",
-               "date_modified": "13286758949165590",
+               "date_modified": "13286758954588160",
                "guid": "1c66fce5-e23e-4d68-b97c-b820b18895ec",
                "id": "824",
                "name": "file-server",
