@@ -1,5 +1,5 @@
 {
-   "checksum": "e8942cdb5802554e92548fcd9d5e3e30",
+   "checksum": "3ee42afd9c9122fa2ba1e170786e0732",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3194,9 +3194,16 @@
                   "name": "GIT: How to push code to repository on remote ssh server - Lintel Technologies Blog",
                   "type": "url",
                   "url": "https://howto.lintel.in/git-how-to-push-code-to-repository-on-remote-ssh-server/"
+               }, {
+                  "date_added": "13287132689344823",
+                  "guid": "08e1fd7f-2453-4fcd-8043-d98e90b0d448",
+                  "id": "831",
+                  "name": "Git - GitLab",
+                  "type": "url",
+                  "url": "https://git-scm.com/book/en/v2/Git-on-the-Server-GitLab"
                } ],
                "date_added": "13287132683092568",
-               "date_modified": "13287132685244096",
+               "date_modified": "13287132689344823",
                "guid": "f785add0-569c-4599-bb82-6aa65e458185",
                "id": "829",
                "name": "git",
