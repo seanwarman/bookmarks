@@ -1,5 +1,5 @@
 {
-   "checksum": "ec0f09483c50e2c8fbd2778ef645cdaf",
+   "checksum": "47cc619bb9ec821aad63a29e214a199f",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4468,9 +4468,16 @@
                "name": "gcloud Quickstart",
                "type": "url",
                "url": "https://cloud.google.com/sdk/docs/quickstart"
+            }, {
+               "date_added": "13287132658673077",
+               "guid": "60774e33-eb73-4319-8d62-546655df5e40",
+               "id": "828",
+               "name": "How to push your code to your remote web server with Git",
+               "type": "url",
+               "url": "https://bobbelderbos.com/2012/03/push-code-remote-web-server-git/"
             } ],
             "date_added": "13286282270269148",
-            "date_modified": "13287068426218371",
+            "date_modified": "13287132658673077",
             "guid": "9b4e0d8f-ea34-4633-b2e2-7882e6dde03e",
             "id": "796",
             "name": "BLU-013",
