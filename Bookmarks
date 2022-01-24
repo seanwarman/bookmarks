@@ -1,5 +1,5 @@
 {
-   "checksum": "3ee42afd9c9122fa2ba1e170786e0732",
+   "checksum": "c2e999696a759b2aec6d09006d95677c",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4562,13 +4562,6 @@
                "name": "VIE-091 notes and questions, Online Whiteboard for Visual Collaboration",
                "type": "url",
                "url": "https://miro.com/app/board/uXjVOXDwnMc=/"
-            }, {
-               "date_added": "13286579119461321",
-               "guid": "29ba3dd6-44b6-4168-bc41-6fd271fa3616",
-               "id": "818",
-               "name": "node-pty/node-pty.d.ts at main · microsoft/node-pty · GitHub",
-               "type": "url",
-               "url": "https://github.com/microsoft/node-pty/blob/main/typings/node-pty.d.ts"
             }, {
                "date_added": "13286633022814262",
                "guid": "5e5f43b2-a1de-4a3f-9069-3e742bf1a382",

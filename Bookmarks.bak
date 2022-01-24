@@ -1,5 +1,5 @@
 {
-   "checksum": "3e56ae92ede0cd6d4be5802f2dd2d11e",
+   "checksum": "3ee42afd9c9122fa2ba1e170786e0732",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3150,9 +3150,67 @@
                "name": "Image to ANSI",
                "type": "url",
                "url": "https://dom111.github.io/image-to-ansi/"
+            }, {
+               "children": [ {
+                  "date_added": "13286758926638532",
+                  "guid": "86fd4e4f-c217-403d-8039-10e9fcca1c19",
+                  "id": "823",
+                  "name": "Cut, Copy and Paste in JavaScript with the Clipboard API - SitePoint",
+                  "type": "url",
+                  "url": "https://www.sitepoint.com/clipboard-api/"
+               }, {
+                  "date_added": "13286758949165590",
+                  "guid": "900db1d2-1bd6-48c0-96ff-fd49fd4a680e",
+                  "id": "825",
+                  "name": "Element: paste event - Web APIs | MDN",
+                  "type": "url",
+                  "url": "https://developer.mozilla.org/en-US/docs/Web/API/Element/paste_event"
+               }, {
+                  "date_added": "13286758954588160",
+                  "guid": "32f157af-6ea8-4d00-bee9-cb00a64a8c34",
+                  "id": "826",
+                  "name": "xterm.js/xterm.d.ts at 70babeacb62fe05264d64324ca1f4436997efa1b · xtermjs/xterm.js · GitHub",
+                  "type": "url",
+                  "url": "https://github.com/xtermjs/xterm.js/blob/70babeacb62fe05264d64324ca1f4436997efa1b/typings/xterm.d.ts"
+               } ],
+               "date_added": "13286758943816002",
+               "date_modified": "13287068414347291",
+               "guid": "1c66fce5-e23e-4d68-b97c-b820b18895ec",
+               "id": "824",
+               "name": "file-server",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13287132658673077",
+                  "guid": "60774e33-eb73-4319-8d62-546655df5e40",
+                  "id": "828",
+                  "name": "How to push your code to your remote web server with Git",
+                  "type": "url",
+                  "url": "https://bobbelderbos.com/2012/03/push-code-remote-web-server-git/"
+               }, {
+                  "date_added": "13287132685244096",
+                  "guid": "6e713632-bd97-4dc0-9b4d-6d06c573ae9c",
+                  "id": "830",
+                  "name": "GIT: How to push code to repository on remote ssh server - Lintel Technologies Blog",
+                  "type": "url",
+                  "url": "https://howto.lintel.in/git-how-to-push-code-to-repository-on-remote-ssh-server/"
+               }, {
+                  "date_added": "13287132689344823",
+                  "guid": "08e1fd7f-2453-4fcd-8043-d98e90b0d448",
+                  "id": "831",
+                  "name": "Git - GitLab",
+                  "type": "url",
+                  "url": "https://git-scm.com/book/en/v2/Git-on-the-Server-GitLab"
+               } ],
+               "date_added": "13287132683092568",
+               "date_modified": "13287132689344823",
+               "guid": "f785add0-569c-4599-bb82-6aa65e458185",
+               "id": "829",
+               "name": "git",
+               "type": "folder"
             } ],
             "date_added": "13277233018935107",
-            "date_modified": "13286677161407425",
+            "date_modified": "13287132668825684",
             "guid": "460e0d6f-fc4c-459a-9e3a-7fe9169d4a93",
             "id": "176",
             "name": "Personal",
@@ -4432,9 +4490,16 @@
                "name": "three.js editor",
                "type": "url",
                "url": "https://threejs.org/editor/"
+            }, {
+               "date_added": "13287068414347291",
+               "guid": "d8d8fa1c-b604-497d-9b4c-4bc0048947b1",
+               "id": "827",
+               "name": "gcloud Quickstart",
+               "type": "url",
+               "url": "https://cloud.google.com/sdk/docs/quickstart"
             } ],
             "date_added": "13286282270269148",
-            "date_modified": "13286386203581737",
+            "date_modified": "13287132658673077",
             "guid": "9b4e0d8f-ea34-4633-b2e2-7882e6dde03e",
             "id": "796",
             "name": "BLU-013",
