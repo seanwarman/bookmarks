@@ -1,5 +1,5 @@
 {
-   "checksum": "eb9e66466c90fca78f2531e07a014acb",
+   "checksum": "403a4464cde2a17ad1159d384cf107be",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4590,16 +4590,23 @@
                "name": "AEM Live",
                "type": "url",
                "url": "http://172.16.45.2:4502/libs/granite/core/content/login.html?resource=%2F&$$login$$=%24%24login%24%24&j_reason=unknown&j_reason_code=unknown"
+            }, {
+               "date_added": "13287854771676752",
+               "guid": "161b2dc5-e6db-4aad-8c30-b14e8900f449",
+               "id": "836",
+               "name": "adobe/aem-headless-client-nodejs: AEM Headless Client for Node.js",
+               "type": "url",
+               "url": "https://github.com/adobe/aem-headless-client-nodejs"
             } ],
             "date_added": "13286561705252969",
-            "date_modified": "13286677157840133",
+            "date_modified": "13287854777669797",
             "guid": "c0c345ea-1c9f-425f-8560-becaf4408afb",
             "id": "816",
             "name": "VIE-091",
             "type": "folder"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13287573856507111",
+         "date_modified": "13287854771676752",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
