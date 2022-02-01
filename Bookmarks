@@ -1,5 +1,5 @@
 {
-   "checksum": "0dec7702f3e0fc9bcf96584ca77c0606",
+   "checksum": "20fa120b5aced78343dc5a4c4a1149b0",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4619,9 +4619,16 @@
                "name": "CQ5 WCM | Business",
                "type": "url",
                "url": "http://172.16.42.14:4502/siteadmin#/content/www-virginmedia-ie/en/business"
+            }, {
+               "date_added": "13288191257608466",
+               "guid": "0db811ed-a801-4141-bf4c-f9a9b53f9cef",
+               "id": "840",
+               "name": "CRXDE Lite",
+               "type": "url",
+               "url": "http://172.16.42.14:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business"
             } ],
             "date_added": "13288191241122479",
-            "date_modified": "13288191249078590",
+            "date_modified": "13288191257608466",
             "guid": "9b3f4914-b517-4bc0-999a-86f3a735266c",
             "id": "838",
             "name": "VIE-079a",
