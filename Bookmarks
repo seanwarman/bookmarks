@@ -1,5 +1,5 @@
 {
-   "checksum": "f6ae41e1b4b4731b661ea4afcb81c6a1",
+   "checksum": "e023903ad451f92f583611353b1e07ce",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3429,7 +3429,7 @@
                      "date_added": "13283952946059363",
                      "guid": "457bc267-c562-4c63-9d9c-18242fd699a2",
                      "id": "772",
-                     "name": "Designs",
+                     "name": "Miro Designs",
                      "type": "url",
                      "url": "https://miro.com/app/board/uXjVOd_fOz0=/"
                   }, {
