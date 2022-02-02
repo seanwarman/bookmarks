@@ -1,5 +1,5 @@
 {
-   "checksum": "4fc38555159980dc8b20747054ce23e0",
+   "checksum": "b08fe929d7002556c36ec6e3a665c0f4",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4501,7 +4501,7 @@
                "date_added": "13288289134243540",
                "guid": "33ba7f5f-9736-4c45-8e20-e4cf814ae169",
                "id": "845",
-               "name": "AEM Node Types | Adobe Experience Manager",
+               "name": "AEM Node Types",
                "type": "url",
                "url": "https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/full-stack/node-types.html%3Flang%3Den"
             } ],
