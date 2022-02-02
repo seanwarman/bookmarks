@@ -1,5 +1,5 @@
 {
-   "checksum": "030acd84825ee729957536fabdf1bb00",
+   "checksum": "08cd796a7d78eb29a3d58a97e9f6dac5",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4508,7 +4508,7 @@
                "date_added": "13288289165354307",
                "guid": "a4546e4b-ce92-41a6-94e4-0750cdb2b9ab",
                "id": "846",
-               "name": "Apache Jackrabbit – Welcome to Apache Jackrabbit",
+               "name": "Apache Jackrabbit (JCR)",
                "type": "url",
                "url": "https://jackrabbit.apache.org/jcr/index.html"
             } ],
