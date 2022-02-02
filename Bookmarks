@@ -1,5 +1,5 @@
 {
-   "checksum": "b08fe929d7002556c36ec6e3a665c0f4",
+   "checksum": "030acd84825ee729957536fabdf1bb00",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4504,9 +4504,16 @@
                "name": "AEM Node Types",
                "type": "url",
                "url": "https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/full-stack/node-types.html%3Flang%3Den"
+            }, {
+               "date_added": "13288289165354307",
+               "guid": "a4546e4b-ce92-41a6-94e4-0750cdb2b9ab",
+               "id": "846",
+               "name": "Apache Jackrabbit – Welcome to Apache Jackrabbit",
+               "type": "url",
+               "url": "https://jackrabbit.apache.org/jcr/index.html"
             } ],
             "date_added": "13282237997722966",
-            "date_modified": "13288289134243540",
+            "date_modified": "13288289165354307",
             "guid": "5a7736bc-1238-494a-b0dc-d164b3ca0a01",
             "id": "673",
             "name": "AEM",
