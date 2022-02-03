@@ -1,5 +1,5 @@
 {
-   "checksum": "d25dd875bbf44e488d7d7292412934c4",
+   "checksum": "19207e799ed4d11d93bf72d125ff89f8",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4540,9 +4540,16 @@
                   "name": "Architecture (overview)",
                   "type": "url",
                   "url": "https://sling.apache.org/documentation/the-sling-engine/architecture.html#sling-api-1"
+               }, {
+                  "date_added": "13288368091118729",
+                  "guid": "9ff75f9c-6f5d-46fb-a10c-4623b0421cb9",
+                  "id": "855",
+                  "name": "Apache Sling :: Servlets and Scripts",
+                  "type": "url",
+                  "url": "https://sling.apache.org/documentation/the-sling-engine/servlets.html"
                } ],
                "date_added": "13288368078004658",
-               "date_modified": "13288368078004784",
+               "date_modified": "13288368091118729",
                "guid": "e31662c3-eb9e-4111-a378-d5c4fd2fb362",
                "id": "854",
                "name": "Sling",
