@@ -1,5 +1,5 @@
 {
-   "checksum": "bc676c4c05dd7aa192dc35513853d323",
+   "checksum": "ddf93fac4aead8913a2ec4e40cf58b1d",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4554,9 +4554,16 @@
                   "name": "JCR Spec v2.0",
                   "type": "url",
                   "url": "https://www.adobe.io/experience-manager/reference-materials/spec/jcr/2.0/3_Repository_Model.html#3.1.7-Node-Types"
+               }, {
+                  "date_added": "13288368249621664",
+                  "guid": "989494c6-0f4b-42ae-b29a-4a145e10ccf3",
+                  "id": "857",
+                  "name": "Apache Sling :: URL decomposition",
+                  "type": "url",
+                  "url": "https://sling.apache.org/documentation/the-sling-engine/url-decomposition.html"
                } ],
                "date_added": "13288368078004658",
-               "date_modified": "13288368204662946",
+               "date_modified": "13288368249621664",
                "guid": "e31662c3-eb9e-4111-a378-d5c4fd2fb362",
                "id": "854",
                "name": "Sling",
