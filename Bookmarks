@@ -1,5 +1,5 @@
 {
-   "checksum": "19207e799ed4d11d93bf72d125ff89f8",
+   "checksum": "6354500e4c6d344e6215b7120659f1f1",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4544,7 +4544,7 @@
                   "date_added": "13288368091118729",
                   "guid": "9ff75f9c-6f5d-46fb-a10c-4623b0421cb9",
                   "id": "855",
-                  "name": "Apache Sling :: Servlets and Scripts",
+                  "name": "1 Servlets and Scripts",
                   "type": "url",
                   "url": "https://sling.apache.org/documentation/the-sling-engine/servlets.html"
                } ],
