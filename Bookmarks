@@ -1,5 +1,5 @@
 {
-   "checksum": "ddf93fac4aead8913a2ec4e40cf58b1d",
+   "checksum": "bfce73185426b855ebced92c69ec6f8a",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4558,7 +4558,7 @@
                   "date_added": "13288368249621664",
                   "guid": "989494c6-0f4b-42ae-b29a-4a145e10ccf3",
                   "id": "857",
-                  "name": "Apache Sling :: URL decomposition",
+                  "name": "3 URL decomposition",
                   "type": "url",
                   "url": "https://sling.apache.org/documentation/the-sling-engine/url-decomposition.html"
                } ],
