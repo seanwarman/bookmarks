@@ -1,5 +1,5 @@
 {
-   "checksum": "6354500e4c6d344e6215b7120659f1f1",
+   "checksum": "d222d5843aa74467ae56a24df701c45b",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4547,9 +4547,16 @@
                   "name": "1 Servlets and Scripts",
                   "type": "url",
                   "url": "https://sling.apache.org/documentation/the-sling-engine/servlets.html"
+               }, {
+                  "date_added": "13288368109633459",
+                  "guid": "dc937ea5-62f1-4f4e-8185-a713aa261eab",
+                  "id": "856",
+                  "name": "2 Resources",
+                  "type": "url",
+                  "url": "https://sling.apache.org/documentation/the-sling-engine/resources.html"
                } ],
                "date_added": "13288368078004658",
-               "date_modified": "13288368091118729",
+               "date_modified": "13288368109633459",
                "guid": "e31662c3-eb9e-4111-a378-d5c4fd2fb362",
                "id": "854",
                "name": "Sling",
