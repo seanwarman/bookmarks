@@ -1,5 +1,5 @@
 {
-   "checksum": "17b6a9bedc80b5d6f07a95622a9f92d2",
+   "checksum": "bc676c4c05dd7aa192dc35513853d323",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4442,13 +4442,6 @@
                "name": "Troubleshooting",
                "type": "folder"
             }, {
-               "date_added": "13282246774327864",
-               "guid": "d6408f37-c0a1-40b2-a822-50f53dfa235d",
-               "id": "676",
-               "name": "JCR Spec v2.0",
-               "type": "url",
-               "url": "https://www.adobe.io/experience-manager/reference-materials/spec/jcr/2.0/3_Repository_Model.html#3.1.7-Node-Types"
-            }, {
                "date_added": "13282290835269508",
                "guid": "48297fea-3b63-4f0f-aabd-5aada7450c8e",
                "id": "677",
@@ -4554,9 +4547,16 @@
                   "name": "JCR queries",
                   "type": "url",
                   "url": "https://gist.github.com/floriankraft/8b3720464318cd5cd9e2"
+               }, {
+                  "date_added": "13282246774327864",
+                  "guid": "d6408f37-c0a1-40b2-a822-50f53dfa235d",
+                  "id": "676",
+                  "name": "JCR Spec v2.0",
+                  "type": "url",
+                  "url": "https://www.adobe.io/experience-manager/reference-materials/spec/jcr/2.0/3_Repository_Model.html#3.1.7-Node-Types"
                } ],
                "date_added": "13288368078004658",
-               "date_modified": "13288368200230908",
+               "date_modified": "13288368204662946",
                "guid": "e31662c3-eb9e-4111-a378-d5c4fd2fb362",
                "id": "854",
                "name": "Sling",
