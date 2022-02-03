@@ -1,5 +1,5 @@
 {
-   "checksum": "5a847caf88d1945401f7136a3b31762a",
+   "checksum": "d25dd875bbf44e488d7d7292412934c4",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4533,12 +4533,20 @@
                "type": "url",
                "url": "https://aem.redquark.org/"
             }, {
-               "date_added": "13288368056612390",
-               "guid": "7d2648ef-9ecf-4eac-93d9-01b5905dcdfd",
-               "id": "853",
-               "name": "Apache Sling :: Architecture",
-               "type": "url",
-               "url": "https://sling.apache.org/documentation/the-sling-engine/architecture.html#sling-api-1"
+               "children": [ {
+                  "date_added": "13288368056612390",
+                  "guid": "7d2648ef-9ecf-4eac-93d9-01b5905dcdfd",
+                  "id": "853",
+                  "name": "Architecture (overview)",
+                  "type": "url",
+                  "url": "https://sling.apache.org/documentation/the-sling-engine/architecture.html#sling-api-1"
+               } ],
+               "date_added": "13288368078004658",
+               "date_modified": "13288368078004784",
+               "guid": "e31662c3-eb9e-4111-a378-d5c4fd2fb362",
+               "id": "854",
+               "name": "Sling",
+               "type": "folder"
             } ],
             "date_added": "13282237997722966",
             "date_modified": "13288368056612390",
