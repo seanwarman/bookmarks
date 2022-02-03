@@ -1,5 +1,5 @@
 {
-   "checksum": "4ae0e33f259f2ca5e292a27040f488fa",
+   "checksum": "5ea12455d97ca00b7dd54a55127cc883",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4679,7 +4679,7 @@
                "date_added": "13288356101135703",
                "guid": "4574010b-b3d8-40a4-b9ef-eb4ee86bf5f1",
                "id": "848",
-               "name": "VIE-079a Designs, Online Whiteboard for Visual Collaboration",
+               "name": "Miro Designs",
                "type": "url",
                "url": "https://miro.com/app/board/uXjVOd_fOz0=/?invite_link_id=548902899814"
             } ],
