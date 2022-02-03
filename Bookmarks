@@ -1,5 +1,5 @@
 {
-   "checksum": "17779cce9cb378969b3ad52dd6b4906f",
+   "checksum": "2d83a11bb333afdb7fd6317e04ca909c",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4518,9 +4518,16 @@
                "name": "sling-cheatsheet",
                "type": "url",
                "url": "https://experienceleague.adobe.com/docs/experience-manager-65/assets/sling-cheatsheet-01.png?lang=en"
+            }, {
+               "date_added": "13288361435406467",
+               "guid": "ae9580d6-06b6-4426-9c31-0499a16f0acd",
+               "id": "851",
+               "name": "sling-cheatsheet-02",
+               "type": "url",
+               "url": "https://experienceleague.adobe.com/docs/experience-manager-65/assets/sling-cheatsheet-02.png?lang=en"
             } ],
             "date_added": "13282237997722966",
-            "date_modified": "13288361429241310",
+            "date_modified": "13288361435406467",
             "guid": "5a7736bc-1238-494a-b0dc-d164b3ca0a01",
             "id": "673",
             "name": "AEM",
