@@ -1,5 +1,5 @@
 {
-   "checksum": "23cc8d51fbdcf437beebb693b282dc2d",
+   "checksum": "5a847caf88d1945401f7136a3b31762a",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4532,9 +4532,16 @@
                "name": "AEM Ninja",
                "type": "url",
                "url": "https://aem.redquark.org/"
+            }, {
+               "date_added": "13288368056612390",
+               "guid": "7d2648ef-9ecf-4eac-93d9-01b5905dcdfd",
+               "id": "853",
+               "name": "Apache Sling :: Architecture",
+               "type": "url",
+               "url": "https://sling.apache.org/documentation/the-sling-engine/architecture.html#sling-api-1"
             } ],
             "date_added": "13282237997722966",
-            "date_modified": "13288363275927748",
+            "date_modified": "13288368056612390",
             "guid": "5a7736bc-1238-494a-b0dc-d164b3ca0a01",
             "id": "673",
             "name": "AEM",
