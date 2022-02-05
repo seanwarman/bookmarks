@@ -1,5 +1,5 @@
 {
-   "checksum": "3fbe5822e9ace3f6a9c1908c9e2478d8",
+   "checksum": "1ccca5558ffd51ad558fa5b43b0b18e8",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -993,14 +993,6 @@
                   "guid": "b8304621-7b2d-4e4f-bd27-acda5c861a71",
                   "id": "154",
                   "name": "Event Logs",
-                  "type": "folder"
-               }, {
-                  "children": [  ],
-                  "date_added": "13277233018933509",
-                  "date_modified": "13277233018933509",
-                  "guid": "903c0452-a5a2-4ecd-b557-8744c1891ba8",
-                  "id": "157",
-                  "name": "New folder",
                   "type": "folder"
                }, {
                   "children": [ {
