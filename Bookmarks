@@ -1,5 +1,5 @@
 {
-   "checksum": "1d12b8750aa10c3be8203e3e8fed08f8",
+   "checksum": "d10dbd17829717959418f6bcfabeaf35",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4759,9 +4759,16 @@
                "name": "Deepcrawl",
                "type": "url",
                "url": "https://analyze.deepcrawl.com/accounts/40192/projects/376668/crawls/4200910?type=dashboard"
+            }, {
+               "date_added": "13288708535589582",
+               "guid": "972a0131-e4a7-4d60-9334-af6d4b9d3ca2",
+               "id": "862",
+               "name": "Canonical Tags: A Simple Guide for Beginners",
+               "type": "url",
+               "url": "https://ahrefs.com/blog/canonical-tags/"
             } ],
             "date_added": "13288191241122479",
-            "date_modified": "13288702380211639",
+            "date_modified": "13288708535589582",
             "guid": "9b3f4914-b517-4bc0-999a-86f3a735266c",
             "id": "838",
             "name": "VIE-079a",
