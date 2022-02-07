@@ -1,5 +1,5 @@
 {
-   "checksum": "d10dbd17829717959418f6bcfabeaf35",
+   "checksum": "68a3d582263e75bb808b942147e9a541",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4763,7 +4763,7 @@
                "date_added": "13288708535589582",
                "guid": "972a0131-e4a7-4d60-9334-af6d4b9d3ca2",
                "id": "862",
-               "name": "Canonical Tags: A Simple Guide for Beginners",
+               "name": "Canonical Tags",
                "type": "url",
                "url": "https://ahrefs.com/blog/canonical-tags/"
             } ],
