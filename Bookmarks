@@ -1,5 +1,5 @@
 {
-   "checksum": "16c9a67123aa86d9d34a82d4da364979",
+   "checksum": "f3cee1c7ecb10cecfdcf1ae77387aa17",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4798,7 +4798,7 @@
                "date_added": "13289069955931316",
                "guid": "869313a5-dae9-4dbc-ad7d-5476721bafbf",
                "id": "867",
-               "name": "Sean Warman / virgin-media-ireland · GitLab",
+               "name": "Gitlab",
                "type": "url",
                "url": "https://gitlab.nomensa.com/swarman/virgin-media-ireland"
             } ],
