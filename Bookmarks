@@ -1,5 +1,5 @@
 {
-   "checksum": "6102858e8d3873ce5c158a52f72b8d69",
+   "checksum": "fa2e33229f1ce6f1065150f76065f8f6",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3225,7 +3225,7 @@
                "date_added": "13289326180909989",
                "guid": "2f329289-739a-48c6-87b0-3fa4b7533982",
                "id": "871",
-               "name": "CQ5 WCM | business",
+               "name": "AEM Nomensa Dir",
                "type": "url",
                "url": "http://172.16.45.2:4502/siteadmin#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business"
             } ],
