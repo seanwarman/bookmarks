@@ -1,5 +1,5 @@
 {
-   "checksum": "df3d5c4215e423209ddf60b8de7ee70b",
+   "checksum": "85e00a9cff1c69961cf86455fb930e01",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4805,7 +4805,7 @@
                "date_added": "13289302602665541",
                "guid": "08f499a8-8d81-48a2-92a5-3c430cc154fd",
                "id": "869",
-               "name": "[VIE-097] Issue navigator - Nomensa Jira",
+               "name": "VIE-079 Search List",
                "type": "url",
                "url": "https://nomensa.atlassian.net/issues/?filter=10058&jql=project%20%3D%20%22VIE-079a%20Business%20Site%20optimisation%22%20AND%20status%20!%3D%20Done%20ORDER%20BY%20cf%5B10014%5D%20ASC%2C%20key%20DESC"
             } ],
