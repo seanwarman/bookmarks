@@ -1,5 +1,5 @@
 {
-   "checksum": "85e00a9cff1c69961cf86455fb930e01",
+   "checksum": "e4670da33c0f045ae7ce5208ee2900ec",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4808,9 +4808,16 @@
                "name": "VIE-079 Search List",
                "type": "url",
                "url": "https://nomensa.atlassian.net/issues/?filter=10058&jql=project%20%3D%20%22VIE-079a%20Business%20Site%20optimisation%22%20AND%20status%20!%3D%20Done%20ORDER%20BY%20cf%5B10014%5D%20ASC%2C%20key%20DESC"
+            }, {
+               "date_added": "13289311904732732",
+               "guid": "31aa8071-6d2d-43a1-bcaf-6f65a024e121",
+               "id": "870",
+               "name": "NodeJS: Circuit breaker pattern. Overview | by Vladimir Topolev | Geek Culture | Medium",
+               "type": "url",
+               "url": "https://medium.com/geekculture/nodejs-circuit-breaker-pattern-ed6b31896a57"
             } ],
             "date_added": "13288191241122479",
-            "date_modified": "13289302602665541",
+            "date_modified": "13289311904732732",
             "guid": "9b3f4914-b517-4bc0-999a-86f3a735266c",
             "id": "838",
             "name": "VIE-079a",
