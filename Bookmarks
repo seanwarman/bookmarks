@@ -1,5 +1,5 @@
 {
-   "checksum": "f3cee1c7ecb10cecfdcf1ae77387aa17",
+   "checksum": "df3d5c4215e423209ddf60b8de7ee70b",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4801,9 +4801,16 @@
                "name": "Gitlab",
                "type": "url",
                "url": "https://gitlab.nomensa.com/swarman/virgin-media-ireland"
+            }, {
+               "date_added": "13289302602665541",
+               "guid": "08f499a8-8d81-48a2-92a5-3c430cc154fd",
+               "id": "869",
+               "name": "[VIE-097] Issue navigator - Nomensa Jira",
+               "type": "url",
+               "url": "https://nomensa.atlassian.net/issues/?filter=10058&jql=project%20%3D%20%22VIE-079a%20Business%20Site%20optimisation%22%20AND%20status%20!%3D%20Done%20ORDER%20BY%20cf%5B10014%5D%20ASC%2C%20key%20DESC"
             } ],
             "date_added": "13288191241122479",
-            "date_modified": "13289069955931316",
+            "date_modified": "13289302602665541",
             "guid": "9b3f4914-b517-4bc0-999a-86f3a735266c",
             "id": "838",
             "name": "VIE-079a",
