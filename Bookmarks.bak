@@ -1,5 +1,5 @@
 {
-   "checksum": "08bfe5efd9a4aecd574a901d2d879b79",
+   "checksum": "fce7011a1c2afa1024b08e8fc770c77b",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4822,9 +4822,16 @@
                "name": "VIE-079 Search List",
                "type": "url",
                "url": "https://nomensa.atlassian.net/issues/?filter=10058&jql=project%20%3D%20%22VIE-079a%20Business%20Site%20optimisation%22%20AND%20status%20!%3D%20Done%20ORDER%20BY%20cf%5B10014%5D%20ASC%2C%20key%20DESC"
+            }, {
+               "date_added": "13289573107735962",
+               "guid": "6484c9c6-442e-4e28-900c-8dc88a961899",
+               "id": "874",
+               "name": "SVG Path Editor · aydos.com",
+               "type": "url",
+               "url": "https://aydos.com/svgedit/"
             } ],
             "date_added": "13288191241122479",
-            "date_modified": "13289409696519503",
+            "date_modified": "13289573107735962",
             "guid": "9b3f4914-b517-4bc0-999a-86f3a735266c",
             "id": "838",
             "name": "VIE-079a",
