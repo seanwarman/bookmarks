@@ -1,5 +1,5 @@
 {
-   "checksum": "fce7011a1c2afa1024b08e8fc770c77b",
+   "checksum": "d99b4ded2658db4c283aec33043d1c53",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4581,9 +4581,16 @@
                "id": "854",
                "name": "Sling",
                "type": "folder"
+            }, {
+               "date_added": "13289578116189955",
+               "guid": "e9b233ed-a812-44b1-8c98-b2be813d2867",
+               "id": "876",
+               "name": "Getting Started with HTL | Adobe Experience Manager",
+               "type": "url",
+               "url": "https://experienceleague.adobe.com/docs/experience-manager-htl/using/getting-started/getting-started.html?lang=en"
             } ],
             "date_added": "13282237997722966",
-            "date_modified": "13288368056612390",
+            "date_modified": "13289578122267151",
             "guid": "5a7736bc-1238-494a-b0dc-d164b3ca0a01",
             "id": "673",
             "name": "AEM",
@@ -4831,7 +4838,7 @@
                "url": "https://aydos.com/svgedit/"
             } ],
             "date_added": "13288191241122479",
-            "date_modified": "13289573107735962",
+            "date_modified": "13289578116189955",
             "guid": "9b3f4914-b517-4bc0-999a-86f3a735266c",
             "id": "838",
             "name": "VIE-079a",
