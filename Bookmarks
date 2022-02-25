@@ -1,5 +1,5 @@
 {
-   "checksum": "658ca690bbfc79f227af39778bd2f15f",
+   "checksum": "2b7ac688fa9f700a967bf9c75ba369b0",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4592,7 +4592,7 @@
                "date_added": "13290276957341670",
                "guid": "3885c733-956c-4b68-9045-a70b3b88132e",
                "id": "878",
-               "name": "documents …pspot.com – Bucket details – Cloud Storage – gweb-room-design – Google Cloud Platform",
+               "name": "Files Storage (for download section)",
                "type": "url",
                "url": "https://console.cloud.google.com/storage/browser/gweb-room-design.appspot.com/documents;tab=objects?authuser=1&project=gweb-room-design&pageState=(%22StorageObjectListTable%22:(%22f%22:%22%255B%255D%22))&prefix=&forceOnObjectsSortingFiltering=false"
             } ],
