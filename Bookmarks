@@ -1,5 +1,5 @@
 {
-   "checksum": "d31dc6f65e88c7292c001e1d8e181b15",
+   "checksum": "86ca19c2eeab2f1605c1d523179148a4",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4861,7 +4861,7 @@
                "date_added": "13290702371017428",
                "guid": "7b0c021b-0a94-4a3f-b0b5-91024229b316",
                "id": "882",
-               "name": "CQ5 WCM | template-sections",
+               "name": "Template Sections",
                "type": "url",
                "url": "http://172.16.45.2:4502/siteadmin#/content/www-virginmedia-ie/en/business/template-sections"
             } ],
