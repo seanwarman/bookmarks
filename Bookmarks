@@ -1,5 +1,5 @@
 {
-   "checksum": "1ee036918ec8cdbf9e0a032275dde92a",
+   "checksum": "79ee2d7e77a5e3dd5dbb4a64c6991ddf",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4871,9 +4871,17 @@
             "id": "838",
             "name": "VIE-079a",
             "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13290702618683634",
+            "date_modified": "13290702618683634",
+            "guid": "bf9788c1-3da7-4cbc-b8ca-728183549178",
+            "id": "883",
+            "name": "VIE-079 AEM",
+            "type": "folder"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13287854771676752",
+         "date_modified": "13290702618684011",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
