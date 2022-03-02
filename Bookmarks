@@ -1,5 +1,5 @@
 {
-   "checksum": "06368fb06c369e5a27fc539214748d37",
+   "checksum": "1ee036918ec8cdbf9e0a032275dde92a",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4600,7 +4600,7 @@
             "date_modified": "13290702519137802",
             "guid": "7df3fb9e-1a64-4253-a2c4-d80b0d0ab5a8",
             "id": "769",
-            "name": "Past Projects",
+            "name": "Projects",
             "type": "folder"
          }, {
             "children": [ {
