@@ -1,5 +1,5 @@
 {
-   "checksum": "a4997f9e9b8374d344e073f2de83394f",
+   "checksum": "78d744777f9d3aa03757a49be448c064",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4891,7 +4891,7 @@
                "date_added": "13290702702310580",
                "guid": "76dc767e-91e1-422e-aed4-2ffc7a1491d5",
                "id": "886",
-               "name": "CRXDE Lite",
+               "name": "Templates",
                "type": "url",
                "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/templates"
             } ],
