@@ -1,5 +1,5 @@
 {
-   "checksum": "95c8f85b0b958f77abdb2f59128482a7",
+   "checksum": "b89c260be2b7a0f43823e71684030315",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4317,9 +4317,173 @@
                "id": "471",
                "name": "DBW",
                "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13282237951599843",
+                     "guid": "941700ee-359a-454a-b5ec-c8fd62f2e7c3",
+                     "id": "672",
+                     "name": "Loading getting stuck",
+                     "type": "url",
+                     "url": "https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-6-4-quickstart-jar-file-not-working/td-p/317691"
+                  }, {
+                     "date_added": "13282238005363963",
+                     "guid": "3533c965-e7bf-4760-ade4-23142000ee4b",
+                     "id": "675",
+                     "name": "How do I uninstall Java on my Mac?",
+                     "type": "url",
+                     "url": "https://java.com/en/download/help/mac_uninstall_java.html"
+                  } ],
+                  "date_added": "13282237997723516",
+                  "date_modified": "13282246774327864",
+                  "guid": "26679972-5b4a-4e53-9e49-c5e32d93d4ab",
+                  "id": "674",
+                  "name": "Troubleshooting",
+                  "type": "folder"
+               }, {
+                  "date_added": "13282290835269508",
+                  "guid": "48297fea-3b63-4f0f-aabd-5aada7450c8e",
+                  "id": "677",
+                  "name": "CRXDE Lite",
+                  "type": "url",
+                  "url": "http://localhost:5402/crx/de/index.jsp#/content/screens/we-retail/channels/dual-slideshow-channel/right/jcr%3Acontent"
+               }, {
+                  "date_added": "13282325716997520",
+                  "guid": "7517c0a3-199a-4f19-89a4-a7a870ec750b",
+                  "id": "678",
+                  "name": "Using CRXDE Lite",
+                  "type": "url",
+                  "url": "https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/developer-tools/crxde.html?lang=en"
+               }, {
+                  "date_added": "13282328711531842",
+                  "guid": "11073c45-0886-42b5-8d7c-10867936f279",
+                  "id": "679",
+                  "name": "The Bulk Editor",
+                  "type": "url",
+                  "url": "https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/bulk-editor.html?lang=en"
+               }, {
+                  "date_added": "13282736836428437",
+                  "guid": "4d1cfa1e-fe9d-49bf-8bc5-c02c517893a9",
+                  "id": "694",
+                  "name": "Making multiple edits using AEM's Bulk Editor - Tips and Tricks",
+                  "type": "url",
+                  "url": "https://www.dlighthouse.co/2018/11/using-aem-bulk-editor.html"
+               }, {
+                  "date_added": "13288363275927748",
+                  "guid": "21906104-bb08-48ec-92c3-a3afe33103ec",
+                  "id": "852",
+                  "name": "AEM Ninja",
+                  "type": "url",
+                  "url": "https://aem.redquark.org/"
+               }, {
+                  "children": [ {
+                     "date_added": "13288368056612390",
+                     "guid": "7d2648ef-9ecf-4eac-93d9-01b5905dcdfd",
+                     "id": "853",
+                     "name": "Architecture (overview)",
+                     "type": "url",
+                     "url": "https://sling.apache.org/documentation/the-sling-engine/architecture.html#sling-api-1"
+                  }, {
+                     "date_added": "13288368091118729",
+                     "guid": "9ff75f9c-6f5d-46fb-a10c-4623b0421cb9",
+                     "id": "855",
+                     "name": "1 Servlets and Scripts",
+                     "type": "url",
+                     "url": "https://sling.apache.org/documentation/the-sling-engine/servlets.html"
+                  }, {
+                     "date_added": "13288368109633459",
+                     "guid": "dc937ea5-62f1-4f4e-8185-a713aa261eab",
+                     "id": "856",
+                     "name": "2 Resources",
+                     "type": "url",
+                     "url": "https://sling.apache.org/documentation/the-sling-engine/resources.html"
+                  }, {
+                     "date_added": "13288368249621664",
+                     "guid": "989494c6-0f4b-42ae-b29a-4a145e10ccf3",
+                     "id": "857",
+                     "name": "3 URL decomposition",
+                     "type": "url",
+                     "url": "https://sling.apache.org/documentation/the-sling-engine/url-decomposition.html"
+                  }, {
+                     "date_added": "13288361423098346",
+                     "guid": "7d0d08d8-1ced-47f5-98c3-75390adb8e51",
+                     "id": "850",
+                     "name": "sling-cheatsheet",
+                     "type": "url",
+                     "url": "https://experienceleague.adobe.com/docs/experience-manager-65/assets/sling-cheatsheet-01.png?lang=en"
+                  }, {
+                     "date_added": "13288288191259796",
+                     "guid": "0b000f9b-6716-4002-86b5-99b35079704f",
+                     "id": "844",
+                     "name": "Sling Node Types",
+                     "type": "url",
+                     "url": "https://cwiki.apache.org/confluence/display/SLING/Sling+Node+Types"
+                  }, {
+                     "date_added": "13288361435406467",
+                     "guid": "ae9580d6-06b6-4426-9c31-0499a16f0acd",
+                     "id": "851",
+                     "name": "sling-cheatsheet-02",
+                     "type": "url",
+                     "url": "https://experienceleague.adobe.com/docs/experience-manager-65/assets/sling-cheatsheet-02.png?lang=en"
+                  }, {
+                     "date_added": "13288289134243540",
+                     "guid": "33ba7f5f-9736-4c45-8e20-e4cf814ae169",
+                     "id": "845",
+                     "name": "AEM Node Types",
+                     "type": "url",
+                     "url": "https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/full-stack/node-types.html%3Flang%3Den"
+                  }, {
+                     "date_added": "13282397321972698",
+                     "guid": "9d22ee4b-3ca1-43ce-97cf-123d5630631c",
+                     "id": "684",
+                     "name": "cq Node Types",
+                     "type": "url",
+                     "url": "https://experienceleague.adobe.com/docs/experience-manager-64/developing/platform/custom-nodetypes.html?lang=en"
+                  }, {
+                     "date_added": "13288289165354307",
+                     "guid": "a4546e4b-ce92-41a6-94e4-0750cdb2b9ab",
+                     "id": "846",
+                     "name": "Apache Jackrabbit (JCR)",
+                     "type": "url",
+                     "url": "https://jackrabbit.apache.org/jcr/index.html"
+                  }, {
+                     "date_added": "13282078435899206",
+                     "guid": "7a2febad-6abd-4e8d-9286-c51ab6c7a116",
+                     "id": "660",
+                     "name": "JCR queries",
+                     "type": "url",
+                     "url": "https://gist.github.com/floriankraft/8b3720464318cd5cd9e2"
+                  }, {
+                     "date_added": "13282246774327864",
+                     "guid": "d6408f37-c0a1-40b2-a822-50f53dfa235d",
+                     "id": "676",
+                     "name": "JCR Spec v2.0",
+                     "type": "url",
+                     "url": "https://www.adobe.io/experience-manager/reference-materials/spec/jcr/2.0/3_Repository_Model.html#3.1.7-Node-Types"
+                  } ],
+                  "date_added": "13288368078004658",
+                  "date_modified": "13288368544243309",
+                  "guid": "e31662c3-eb9e-4111-a378-d5c4fd2fb362",
+                  "id": "854",
+                  "name": "Sling",
+                  "type": "folder"
+               }, {
+                  "date_added": "13289578116189955",
+                  "guid": "e9b233ed-a812-44b1-8c98-b2be813d2867",
+                  "id": "876",
+                  "name": "Getting Started with HTL | Adobe Experience Manager",
+                  "type": "url",
+                  "url": "https://experienceleague.adobe.com/docs/experience-manager-htl/using/getting-started/getting-started.html?lang=en"
+               } ],
+               "date_added": "13282237997722966",
+               "date_modified": "13290276957341670",
+               "guid": "5a7736bc-1238-494a-b0dc-d164b3ca0a01",
+               "id": "673",
+               "name": "AEM",
+               "type": "folder"
             } ],
             "date_added": "13283944001594182",
-            "date_modified": "13288449380201200",
+            "date_modified": "13290702511885226",
             "guid": "7df3fb9e-1a64-4253-a2c4-d80b0d0ab5a8",
             "id": "769",
             "name": "Past Projects",
@@ -4430,170 +4594,6 @@
             "guid": "e3e8d46f-da21-4a9c-b5ef-9d8dbd748676",
             "id": "804",
             "name": "General",
-            "type": "folder"
-         }, {
-            "children": [ {
-               "children": [ {
-                  "date_added": "13282237951599843",
-                  "guid": "941700ee-359a-454a-b5ec-c8fd62f2e7c3",
-                  "id": "672",
-                  "name": "Loading getting stuck",
-                  "type": "url",
-                  "url": "https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-6-4-quickstart-jar-file-not-working/td-p/317691"
-               }, {
-                  "date_added": "13282238005363963",
-                  "guid": "3533c965-e7bf-4760-ade4-23142000ee4b",
-                  "id": "675",
-                  "name": "How do I uninstall Java on my Mac?",
-                  "type": "url",
-                  "url": "https://java.com/en/download/help/mac_uninstall_java.html"
-               } ],
-               "date_added": "13282237997723516",
-               "date_modified": "13282246774327864",
-               "guid": "26679972-5b4a-4e53-9e49-c5e32d93d4ab",
-               "id": "674",
-               "name": "Troubleshooting",
-               "type": "folder"
-            }, {
-               "date_added": "13282290835269508",
-               "guid": "48297fea-3b63-4f0f-aabd-5aada7450c8e",
-               "id": "677",
-               "name": "CRXDE Lite",
-               "type": "url",
-               "url": "http://localhost:5402/crx/de/index.jsp#/content/screens/we-retail/channels/dual-slideshow-channel/right/jcr%3Acontent"
-            }, {
-               "date_added": "13282325716997520",
-               "guid": "7517c0a3-199a-4f19-89a4-a7a870ec750b",
-               "id": "678",
-               "name": "Using CRXDE Lite",
-               "type": "url",
-               "url": "https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/developer-tools/crxde.html?lang=en"
-            }, {
-               "date_added": "13282328711531842",
-               "guid": "11073c45-0886-42b5-8d7c-10867936f279",
-               "id": "679",
-               "name": "The Bulk Editor",
-               "type": "url",
-               "url": "https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/bulk-editor.html?lang=en"
-            }, {
-               "date_added": "13282736836428437",
-               "guid": "4d1cfa1e-fe9d-49bf-8bc5-c02c517893a9",
-               "id": "694",
-               "name": "Making multiple edits using AEM's Bulk Editor - Tips and Tricks",
-               "type": "url",
-               "url": "https://www.dlighthouse.co/2018/11/using-aem-bulk-editor.html"
-            }, {
-               "date_added": "13288363275927748",
-               "guid": "21906104-bb08-48ec-92c3-a3afe33103ec",
-               "id": "852",
-               "name": "AEM Ninja",
-               "type": "url",
-               "url": "https://aem.redquark.org/"
-            }, {
-               "children": [ {
-                  "date_added": "13288368056612390",
-                  "guid": "7d2648ef-9ecf-4eac-93d9-01b5905dcdfd",
-                  "id": "853",
-                  "name": "Architecture (overview)",
-                  "type": "url",
-                  "url": "https://sling.apache.org/documentation/the-sling-engine/architecture.html#sling-api-1"
-               }, {
-                  "date_added": "13288368091118729",
-                  "guid": "9ff75f9c-6f5d-46fb-a10c-4623b0421cb9",
-                  "id": "855",
-                  "name": "1 Servlets and Scripts",
-                  "type": "url",
-                  "url": "https://sling.apache.org/documentation/the-sling-engine/servlets.html"
-               }, {
-                  "date_added": "13288368109633459",
-                  "guid": "dc937ea5-62f1-4f4e-8185-a713aa261eab",
-                  "id": "856",
-                  "name": "2 Resources",
-                  "type": "url",
-                  "url": "https://sling.apache.org/documentation/the-sling-engine/resources.html"
-               }, {
-                  "date_added": "13288368249621664",
-                  "guid": "989494c6-0f4b-42ae-b29a-4a145e10ccf3",
-                  "id": "857",
-                  "name": "3 URL decomposition",
-                  "type": "url",
-                  "url": "https://sling.apache.org/documentation/the-sling-engine/url-decomposition.html"
-               }, {
-                  "date_added": "13288361423098346",
-                  "guid": "7d0d08d8-1ced-47f5-98c3-75390adb8e51",
-                  "id": "850",
-                  "name": "sling-cheatsheet",
-                  "type": "url",
-                  "url": "https://experienceleague.adobe.com/docs/experience-manager-65/assets/sling-cheatsheet-01.png?lang=en"
-               }, {
-                  "date_added": "13288288191259796",
-                  "guid": "0b000f9b-6716-4002-86b5-99b35079704f",
-                  "id": "844",
-                  "name": "Sling Node Types",
-                  "type": "url",
-                  "url": "https://cwiki.apache.org/confluence/display/SLING/Sling+Node+Types"
-               }, {
-                  "date_added": "13288361435406467",
-                  "guid": "ae9580d6-06b6-4426-9c31-0499a16f0acd",
-                  "id": "851",
-                  "name": "sling-cheatsheet-02",
-                  "type": "url",
-                  "url": "https://experienceleague.adobe.com/docs/experience-manager-65/assets/sling-cheatsheet-02.png?lang=en"
-               }, {
-                  "date_added": "13288289134243540",
-                  "guid": "33ba7f5f-9736-4c45-8e20-e4cf814ae169",
-                  "id": "845",
-                  "name": "AEM Node Types",
-                  "type": "url",
-                  "url": "https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/full-stack/node-types.html%3Flang%3Den"
-               }, {
-                  "date_added": "13282397321972698",
-                  "guid": "9d22ee4b-3ca1-43ce-97cf-123d5630631c",
-                  "id": "684",
-                  "name": "cq Node Types",
-                  "type": "url",
-                  "url": "https://experienceleague.adobe.com/docs/experience-manager-64/developing/platform/custom-nodetypes.html?lang=en"
-               }, {
-                  "date_added": "13288289165354307",
-                  "guid": "a4546e4b-ce92-41a6-94e4-0750cdb2b9ab",
-                  "id": "846",
-                  "name": "Apache Jackrabbit (JCR)",
-                  "type": "url",
-                  "url": "https://jackrabbit.apache.org/jcr/index.html"
-               }, {
-                  "date_added": "13282078435899206",
-                  "guid": "7a2febad-6abd-4e8d-9286-c51ab6c7a116",
-                  "id": "660",
-                  "name": "JCR queries",
-                  "type": "url",
-                  "url": "https://gist.github.com/floriankraft/8b3720464318cd5cd9e2"
-               }, {
-                  "date_added": "13282246774327864",
-                  "guid": "d6408f37-c0a1-40b2-a822-50f53dfa235d",
-                  "id": "676",
-                  "name": "JCR Spec v2.0",
-                  "type": "url",
-                  "url": "https://www.adobe.io/experience-manager/reference-materials/spec/jcr/2.0/3_Repository_Model.html#3.1.7-Node-Types"
-               } ],
-               "date_added": "13288368078004658",
-               "date_modified": "13288368544243309",
-               "guid": "e31662c3-eb9e-4111-a378-d5c4fd2fb362",
-               "id": "854",
-               "name": "Sling",
-               "type": "folder"
-            }, {
-               "date_added": "13289578116189955",
-               "guid": "e9b233ed-a812-44b1-8c98-b2be813d2867",
-               "id": "876",
-               "name": "Getting Started with HTL | Adobe Experience Manager",
-               "type": "url",
-               "url": "https://experienceleague.adobe.com/docs/experience-manager-htl/using/getting-started/getting-started.html?lang=en"
-            } ],
-            "date_added": "13282237997722966",
-            "date_modified": "13290276957341670",
-            "guid": "5a7736bc-1238-494a-b0dc-d164b3ca0a01",
-            "id": "673",
-            "name": "AEM",
             "type": "folder"
          }, {
             "children": [ {
