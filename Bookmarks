@@ -1,5 +1,5 @@
 {
-   "checksum": "03ac69739004e0c4f7a89ff1cb1528c3",
+   "checksum": "19017284fbcb97be5c62782e635885d6",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4872,13 +4872,6 @@
                "name": "Template Sections",
                "type": "url",
                "url": "http://172.16.45.2:4502/siteadmin#/content/www-virginmedia-ie/en/business/template-sections"
-            }, {
-               "date_added": "13290702655420910",
-               "guid": "4f903f79-ab54-45cc-8d37-03589222b404",
-               "id": "885",
-               "name": "CRXDE Lite",
-               "type": "url",
-               "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/template-sections"
             } ],
             "date_added": "13290702618683634",
             "date_modified": "13290702655420910",
@@ -4887,9 +4880,16 @@
             "name": "VIE-079 AEM",
             "type": "folder"
          }, {
-            "children": [  ],
+            "children": [ {
+               "date_added": "13290702655420910",
+               "guid": "4f903f79-ab54-45cc-8d37-03589222b404",
+               "id": "885",
+               "name": "Template Sections",
+               "type": "url",
+               "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/template-sections"
+            } ],
             "date_added": "13290702628461546",
-            "date_modified": "13290702628461546",
+            "date_modified": "13290702665925562",
             "guid": "d26eb654-7db1-4388-86b0-a5e9c8514a51",
             "id": "884",
             "name": "VIE-079 CRXDE",
