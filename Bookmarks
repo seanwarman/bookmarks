@@ -1,5 +1,5 @@
 {
-   "checksum": "cb6611e556953cfa3ba6c771a055d20f",
+   "checksum": "03b77e68cef5a2a98e5a95e316eea97f",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4915,9 +4915,16 @@
             "name": "small-business/testing",
             "type": "url",
             "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/small-business"
+         }, {
+            "date_added": "13290780692162311",
+            "guid": "d957aa05-fc59-407a-a19f-053f5ccf7ac3",
+            "id": "889",
+            "name": "CRXDE Lite",
+            "type": "url",
+            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/small-business"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13290780679399617",
+         "date_modified": "13290780692162311",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
