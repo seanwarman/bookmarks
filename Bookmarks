@@ -1,5 +1,5 @@
 {
-   "checksum": "8593f3ccda6ea5f7de2540cd6a75ef05",
+   "checksum": "90f102355812a3913a9e10ded8cf2ab6",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4908,20 +4908,6 @@
             "id": "884",
             "name": "VIE-079 CRXDE",
             "type": "folder"
-         }, {
-            "date_added": "13290780692162311",
-            "guid": "d957aa05-fc59-407a-a19f-053f5ccf7ac3",
-            "id": "889",
-            "name": "small-business",
-            "type": "url",
-            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/small-business"
-         }, {
-            "date_added": "13290780662855485",
-            "guid": "0b336c2f-0aac-4e15-ad8b-5c00390dbe06",
-            "id": "888",
-            "name": "small-business/testing",
-            "type": "url",
-            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/small-business"
          } ],
          "date_added": "13277229767710742",
          "date_modified": "13290780705068295",
