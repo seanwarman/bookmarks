@@ -1,5 +1,5 @@
 {
-   "checksum": "276e4ea3aff5f37b5afd58f5dded4ba3",
+   "checksum": "90f102355812a3913a9e10ded8cf2ab6",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4907,14 +4907,6 @@
             "guid": "d26eb654-7db1-4388-86b0-a5e9c8514a51",
             "id": "884",
             "name": "VIE-079 CRXDE",
-            "type": "folder"
-         }, {
-            "children": [  ],
-            "date_added": "13291116556193092",
-            "date_modified": "13291116556193498",
-            "guid": "a5366dc5-6018-4e90-9c12-98a1b25ebd62",
-            "id": "890",
-            "name": "VIE Resources",
             "type": "folder"
          } ],
          "date_added": "13277229767710742",
