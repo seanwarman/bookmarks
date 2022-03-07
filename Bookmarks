@@ -1,5 +1,5 @@
 {
-   "checksum": "56d52b8be36545110baea1ccaf576f7e",
+   "checksum": "49dbc86580a4f9ca0a7503d98f5efa88",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4909,12 +4909,20 @@
             "name": "VIE-079 CRXDE",
             "type": "folder"
          }, {
-            "date_added": "13291116540715550",
-            "guid": "cfbdf08e-3a3f-4d1e-bbed-fafa8c9e0aab",
-            "id": "889",
-            "name": "New Tab",
-            "type": "url",
-            "url": "chrome://newtab/"
+            "children": [ {
+               "date_added": "13291116540715550",
+               "guid": "cfbdf08e-3a3f-4d1e-bbed-fafa8c9e0aab",
+               "id": "889",
+               "name": "New Tab",
+               "type": "url",
+               "url": "chrome://newtab/"
+            } ],
+            "date_added": "13291116556193092",
+            "date_modified": "13291116556193498",
+            "guid": "a5366dc5-6018-4e90-9c12-98a1b25ebd62",
+            "id": "890",
+            "name": "AEM Resources",
+            "type": "folder"
          } ],
          "date_added": "13277229767710742",
          "date_modified": "13291116540715550",
