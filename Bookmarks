@@ -1,5 +1,5 @@
 {
-   "checksum": "90f102355812a3913a9e10ded8cf2ab6",
+   "checksum": "8dad0457a37e54d32e6156a41884b557",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4908,9 +4908,16 @@
             "id": "884",
             "name": "VIE-079 CRXDE",
             "type": "folder"
+         }, {
+            "date_added": "13291130426724282",
+            "guid": "f7d6d51d-3f2a-48dd-91ff-3a1a3b23cd02",
+            "id": "891",
+            "name": "CRXDE Lite",
+            "type": "url",
+            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/templates/template-2/jcr%3Acontent/background_fullwidth"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13291116540715550",
+         "date_modified": "13291130426724282",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
