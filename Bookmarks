@@ -1,5 +1,5 @@
 {
-   "checksum": "49dbc86580a4f9ca0a7503d98f5efa88",
+   "checksum": "2960a8188a5b1759647948b071852f6d",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4921,7 +4921,7 @@
             "date_modified": "13291116556193498",
             "guid": "a5366dc5-6018-4e90-9c12-98a1b25ebd62",
             "id": "890",
-            "name": "AEM Resources",
+            "name": "VIE Resources",
             "type": "folder"
          } ],
          "date_added": "13277229767710742",
