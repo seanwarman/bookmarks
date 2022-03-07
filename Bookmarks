@@ -1,5 +1,5 @@
 {
-   "checksum": "2960a8188a5b1759647948b071852f6d",
+   "checksum": "276e4ea3aff5f37b5afd58f5dded4ba3",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4909,14 +4909,7 @@
             "name": "VIE-079 CRXDE",
             "type": "folder"
          }, {
-            "children": [ {
-               "date_added": "13291116540715550",
-               "guid": "cfbdf08e-3a3f-4d1e-bbed-fafa8c9e0aab",
-               "id": "889",
-               "name": "New Tab",
-               "type": "url",
-               "url": "chrome://newtab/"
-            } ],
+            "children": [  ],
             "date_added": "13291116556193092",
             "date_modified": "13291116556193498",
             "guid": "a5366dc5-6018-4e90-9c12-98a1b25ebd62",
