@@ -1,5 +1,5 @@
 {
-   "checksum": "957f9df490b4317bddb788352ae1b806",
+   "checksum": "ad4f20756d35ba3aa800c7869f96e7ed",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4944,20 +4944,6 @@
             "name": "Desk Planner",
             "type": "url",
             "url": "https://miro.com/app/board/uXjVODzW0vE=/"
-         }, {
-            "date_added": "13293113064043487",
-            "guid": "0a91c194-0913-4b75-a9f1-f6e85d7de074",
-            "id": "915",
-            "name": "T3",
-            "type": "url",
-            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/templates/template-3/jcr%3Acontent/background_fullwidth"
-         }, {
-            "date_added": "13293113068127067",
-            "guid": "df1d44fa-bd5f-49e8-a130-79cbfaff9d01",
-            "id": "916",
-            "name": "T3 css",
-            "type": "url",
-            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/templates/template-3/jcr%3Acontent/styles.css"
          } ],
          "date_added": "13277229767710742",
          "date_modified": "13293113616145037",
