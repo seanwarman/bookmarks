@@ -1,5 +1,5 @@
 {
-   "checksum": "ad4f20756d35ba3aa800c7869f96e7ed",
+   "checksum": "41a37bd416fc430738ab83be354e5f22",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4603,9 +4603,16 @@
                   "name": "Internal Training Topics",
                   "type": "url",
                   "url": "https://nomensa-my.sharepoint.com/personal/swarman_nomensa_com/Lists/Internal%20Training%20Topics/AllItems.aspx?env=WebViewList&origin=createList"
+               }, {
+                  "date_added": "13293101057801969",
+                  "guid": "950e09f7-102d-4472-b65b-4a0976d7dd6d",
+                  "id": "900",
+                  "name": "CRXDE Lite",
+                  "type": "url",
+                  "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/templates/template-3/jcr%3Acontent/background_fullwidth"
                } ],
                "date_added": "13292956493090387",
-               "date_modified": "13292956493090467",
+               "date_modified": "13293101057801969",
                "guid": "008586c7-4c8d-4758-afe5-267641a71599",
                "id": "898",
                "name": "Clear Review",
