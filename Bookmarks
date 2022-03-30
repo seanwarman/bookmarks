@@ -1,5 +1,5 @@
 {
-   "checksum": "eaf77e1445bae3ccdcedde9e2f6eb3fe",
+   "checksum": "6271fdd4624848b74d560469da28a066",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4955,7 +4955,7 @@
             "date_added": "13293104981550943",
             "guid": "058b78bb-4273-48f4-b5ca-64bac94c39c3",
             "id": "905",
-            "name": "CRXDE Lite",
+            "name": "T4b Styles",
             "type": "url",
             "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/templates/template-4b/jcr%3Acontent/template-4b-styles.css"
          } ],
