@@ -1,5 +1,5 @@
 {
-   "checksum": "7f900148d1ef22c8c5104d947d995d77",
+   "checksum": "d756f1984533a433057c37e4df366b9d",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4958,20 +4958,6 @@
             "name": "T3 Styles",
             "type": "url",
             "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/templates/template-3/jcr%3Acontent/styles.css"
-         }, {
-            "date_added": "13293101342172869",
-            "guid": "f95bd6b6-fcc9-4e75-a403-d407e9434f05",
-            "id": "902",
-            "name": "T2 Background",
-            "type": "url",
-            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/templates/template-2/jcr%3Acontent/background_fullwidth"
-         }, {
-            "date_added": "13293101351372795",
-            "guid": "4c0e9fe6-49ca-4361-aa28-74fb631633cc",
-            "id": "903",
-            "name": "T2 Styles",
-            "type": "url",
-            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/templates/template-2/jcr%3Acontent/styles.css"
          } ],
          "date_added": "13277229767710742",
          "date_modified": "13293101351372795",
