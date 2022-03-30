@@ -1,5 +1,5 @@
 {
-   "checksum": "6fb57897f109891e7ca2d9e499fd567b",
+   "checksum": "208d9487a7d9eeb21b29d74571aad368",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4945,13 +4945,6 @@
             "type": "url",
             "url": "https://miro.com/app/board/uXjVODzW0vE=/"
          }, {
-            "date_added": "13293101057801969",
-            "guid": "950e09f7-102d-4472-b65b-4a0976d7dd6d",
-            "id": "900",
-            "name": "T3 background",
-            "type": "url",
-            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/templates/template-3/jcr%3Acontent/background_fullwidth"
-         }, {
             "date_added": "13293101072260782",
             "guid": "f62a2801-7077-4e4e-8cb7-8dc8f97b2a69",
             "id": "901",
@@ -4962,7 +4955,7 @@
             "date_added": "13293104967170883",
             "guid": "f863aae5-a9b2-4031-896a-74c4e90f72f6",
             "id": "904",
-            "name": "CRXDE Lite",
+            "name": "T4b",
             "type": "url",
             "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/templates/template-4b/jcr%3Acontent/background_fullwidth"
          } ],
