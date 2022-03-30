@@ -1,5 +1,5 @@
 {
-   "checksum": "3f6c6866e072a21e3e3bce7aa0006f5a",
+   "checksum": "34f7d358a26f0e6a2f5ba20ebd54a380",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4948,7 +4948,7 @@
             "date_added": "13293111530565199",
             "guid": "3c3754fb-e4af-4d20-9a44-d368be8c13c2",
             "id": "908",
-            "name": "CRXDE Lite",
+            "name": "gallery->templated",
             "type": "url",
             "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/mobile/gallery/jcr%3Acontent/background_fullwidth/templatesection/section_content/nested_columns/parsys-0/templated"
          } ],
