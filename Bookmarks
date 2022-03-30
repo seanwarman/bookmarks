@@ -1,5 +1,5 @@
 {
-   "checksum": "51d773e9d09d73580bbdb0dbe6528dde",
+   "checksum": "7b5c2058a0a230810f935049605a5687",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4944,13 +4944,6 @@
             "name": "Desk Planner",
             "type": "url",
             "url": "https://miro.com/app/board/uXjVODzW0vE=/"
-         }, {
-            "date_added": "13293111530565199",
-            "guid": "3c3754fb-e4af-4d20-9a44-d368be8c13c2",
-            "id": "908",
-            "name": "gallery->templated",
-            "type": "url",
-            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/mobile/gallery/jcr%3Acontent/background_fullwidth/templatesection/section_content/nested_columns/parsys-0/templated"
          }, {
             "date_added": "13293111758169844",
             "guid": "a090c7dc-1f93-4a77-9875-1ca00e7b1dee",
