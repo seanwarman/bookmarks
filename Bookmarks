@@ -1,5 +1,5 @@
 {
-   "checksum": "90c9c00741738d1c257be5050d5cd7b5",
+   "checksum": "bb9fbbf7ddd949e3e28210ea1dc13ce4",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4944,27 +4944,6 @@
             "name": "Desk Planner",
             "type": "url",
             "url": "https://miro.com/app/board/uXjVODzW0vE=/"
-         }, {
-            "date_added": "13293112027226274",
-            "guid": "9b1b5973-0ed0-4e8f-9466-a6a6035737e7",
-            "id": "910",
-            "name": "mobile-phones",
-            "type": "url",
-            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/mobile-phones"
-         }, {
-            "date_added": "13293112058380040",
-            "guid": "e5d9d88c-28bd-4762-8ae0-ebb2074e021b",
-            "id": "911",
-            "name": "T4b",
-            "type": "url",
-            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/templates/template-4b/jcr%3Acontent/background_fullwidth"
-         }, {
-            "date_added": "13293112067758895",
-            "guid": "b5f310a2-4034-433d-b20b-ddbbf93d37bf",
-            "id": "912",
-            "name": "T4b Styles",
-            "type": "url",
-            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/templates/template-4b/jcr%3Acontent/template-4b-styles.css"
          }, {
             "date_added": "13293113033840318",
             "guid": "6ab1fef8-0403-40c7-acb9-3a65dbcac0d4",
