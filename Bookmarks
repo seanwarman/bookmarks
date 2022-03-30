@@ -1,5 +1,5 @@
 {
-   "checksum": "75f35ee38fcfa580f5725fb814af3ac8",
+   "checksum": "957f9df490b4317bddb788352ae1b806",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4958,20 +4958,6 @@
             "name": "T3 css",
             "type": "url",
             "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/templates/template-3/jcr%3Acontent/styles.css"
-         }, {
-            "date_added": "13293113611780812",
-            "guid": "32f639f2-03c5-40af-90aa-82e3877ad6e3",
-            "id": "917",
-            "name": "T2",
-            "type": "url",
-            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/templates/template-2/jcr%3Acontent/background_fullwidth"
-         }, {
-            "date_added": "13293113616145037",
-            "guid": "13b9300c-cd7e-4464-8872-aac6bb673804",
-            "id": "918",
-            "name": "T2 css",
-            "type": "url",
-            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/templates/template-2/jcr%3Acontent/styles.css"
          } ],
          "date_added": "13277229767710742",
          "date_modified": "13293113616145037",
