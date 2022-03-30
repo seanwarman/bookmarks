@@ -1,5 +1,5 @@
 {
-   "checksum": "885717cba8c426d8bade060b3555259c",
+   "checksum": "51d773e9d09d73580bbdb0dbe6528dde",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4955,7 +4955,7 @@
             "date_added": "13293111758169844",
             "guid": "a090c7dc-1f93-4a77-9875-1ca00e7b1dee",
             "id": "909",
-            "name": "gallery->phone item templated",
+            "name": "gallery->phone",
             "type": "url",
             "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/mobile/gallery/jcr%3Acontent/background_fullwidth/templatesection/section_content/nested_columns/parsys-1/grouping/grouped"
          } ],
