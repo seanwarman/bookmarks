@@ -1,5 +1,5 @@
 {
-   "checksum": "e2706534222d422cbb8e5df7723c5212",
+   "checksum": "dd4969c7be2fcfd6f9d75f8d34624dc5",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4965,9 +4965,16 @@
             "name": "T7",
             "type": "url",
             "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/templates/template-7/jcr%3Acontent/background_fullwidth"
+         }, {
+            "date_added": "13293635841979578",
+            "guid": "7e69913c-d431-455b-b3ce-329a77c795e4",
+            "id": "925",
+            "name": "CRXDE Lite",
+            "type": "url",
+            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/templates/template-7/jcr%3Acontent/template-7-styles.css"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13293635836605371",
+         "date_modified": "13293635841979578",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
