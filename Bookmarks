@@ -1,5 +1,5 @@
 {
-   "checksum": "37cc2d8f35e364853a610629b1f4be78",
+   "checksum": "c47b21c87bc498bf81ead28a4c6aaf26",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4872,13 +4872,6 @@
                "name": "Task planning",
                "type": "url",
                "url": "https://miro.com/app/board/uXjVOM8J-Pg=/"
-            }, {
-               "date_added": "13293720781908615",
-               "guid": "c5a43a4d-105e-4387-af37-1bfd050be101",
-               "id": "928",
-               "name": "CRXDE Lite",
-               "type": "url",
-               "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/templates/template-11/jcr%3Acontent/background_fullwidth"
             } ],
             "date_added": "13288191241122479",
             "date_modified": "13293720781908615",
@@ -4966,22 +4959,15 @@
             "type": "url",
             "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/voom-collection/jcr%3Acontent/background_fullwidth/templatesection_1793140671/section_content/recursivereference"
          }, {
-            "date_added": "13293635829659491",
-            "guid": "ca8f8a12-0330-4628-9899-d90288dc91b9",
-            "id": "924",
-            "name": "T7",
+            "date_added": "13293720781908615",
+            "guid": "c5a43a4d-105e-4387-af37-1bfd050be101",
+            "id": "928",
+            "name": "T11",
             "type": "url",
-            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/templates/template-7/jcr%3Acontent/background_fullwidth"
-         }, {
-            "date_added": "13293635841979578",
-            "guid": "7e69913c-d431-455b-b3ce-329a77c795e4",
-            "id": "925",
-            "name": "T7 css",
-            "type": "url",
-            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/templates/template-7/jcr%3Acontent/template-7-styles.css"
+            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/templates/template-11/jcr%3Acontent/background_fullwidth"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13293708596090911",
+         "date_modified": "13293720787665122",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
