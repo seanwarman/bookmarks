@@ -1,5 +1,5 @@
 {
-   "checksum": "714429967d1566ec6ca336ab3852e7a6",
+   "checksum": "b841384f7f89e8ac692b917f0df826ca",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4983,7 +4983,7 @@
             "date_added": "13293814782578727",
             "guid": "9b62396d-43dd-41b2-b7ff-a33484fb07e7",
             "id": "947",
-            "name": "CRXDE Lite",
+            "name": "SD-WAN",
             "type": "url",
             "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/sd-wan"
          } ],
