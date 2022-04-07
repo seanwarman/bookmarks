@@ -1,5 +1,5 @@
 {
-   "checksum": "8b43f2190842864e3da3b588fd57a2b3",
+   "checksum": "8edcbf8aa65317a5f834e122dfb26333",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -9,13 +9,6 @@
             "name": "T4b",
             "type": "url",
             "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/templates/template-4b/jcr%3Acontent/background_fullwidth"
-         }, {
-            "date_added": "13293795656376521",
-            "guid": "e593ca99-57be-439f-9b36-9bd506eab294",
-            "id": "944",
-            "name": "T10 CSS",
-            "type": "url",
-            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/templates/template-10/jcr%3Acontent/style.css"
          }, {
             "children": [ {
                "date_added": "13283466922507986",
