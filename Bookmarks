@@ -1,5 +1,5 @@
 {
-   "checksum": "15fd7c3ff9b53480a1f93e4c9c67cf6e",
+   "checksum": "2588877d73acf15f00d366f8734ca0fa",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4488,9 +4488,16 @@
                      "name": "Oak SQL-2 Query Grammar",
                      "type": "url",
                      "url": "https://jackrabbit.apache.org/oak/docs/query/grammar-sql2.html#name"
+                  }, {
+                     "date_added": "13293811090755702",
+                     "guid": "eb966920-7f17-4356-9c16-26f4f2432364",
+                     "id": "946",
+                     "name": "CRXDE Lite",
+                     "type": "url",
+                     "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/templates/template-4b/jcr%3Acontent/background_fullwidth"
                   } ],
                   "date_added": "13288368078004658",
-                  "date_modified": "13293802658036611",
+                  "date_modified": "13293811090755702",
                   "guid": "e31662c3-eb9e-4111-a378-d5c4fd2fb362",
                   "id": "854",
                   "name": "Sling",
