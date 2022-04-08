@@ -1,5 +1,5 @@
 {
-   "checksum": "5ca05d732d9ebb43b56f3eba0626e496",
+   "checksum": "4e41c2c2e7992678894bf534d8dddf19",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4940,7 +4940,7 @@
                "date_added": "13293898867350138",
                "guid": "3076a0f2-edd5-4634-9219-8a710b0674c6",
                "id": "953",
-               "name": "AEM Assets | icons",
+               "name": "Dam icons",
                "type": "url",
                "url": "http://172.16.45.2:4502/damadmin#/content/dam/www-virginmedia-ie/img/Business/icons"
             } ],
