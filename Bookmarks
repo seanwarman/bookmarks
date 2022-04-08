@@ -1,5 +1,5 @@
 {
-   "checksum": "585792ecbe17cac3c9a230ace55e13a1",
+   "checksum": "b5d4f8153731013481c9c794b0c07027",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4986,9 +4986,16 @@
                "name": "Business Cards",
                "type": "url",
                "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/voice-services/business-phone-lines/jcr%3Acontent/background_fullwidth/grey-carousel/section_content/extendedslider"
+            }, {
+               "date_added": "13293903145769496",
+               "guid": "54a787a3-56de-421b-b550-7f29ffb64462",
+               "id": "955",
+               "name": "CRXDE Lite",
+               "type": "url",
+               "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/internet-data-services/dedicated-internet-access/jcr%3Acontent/background_fullwidth"
             } ],
             "date_added": "13290702628461546",
-            "date_modified": "13293902857951894",
+            "date_modified": "13293903145769496",
             "guid": "d26eb654-7db1-4388-86b0-a5e9c8514a51",
             "id": "884",
             "name": "VIE-079 CRXDE",
