@@ -1,5 +1,5 @@
 {
-   "checksum": "52eed6a3357b1807302fed7f59c2ee7c",
+   "checksum": "98c1f6e874e7feda94a3e40f756f2e88",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4997,7 +4997,7 @@
             "date_added": "13293892381765668",
             "guid": "a08977fa-dd1c-4aaa-ab02-47fb2b61b1d0",
             "id": "949",
-            "name": "CRXDE Lite",
+            "name": "Business SMS",
             "type": "url",
             "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/voice-services/business-sms/jcr%3Acontent/background_fullwidth"
          } ],
