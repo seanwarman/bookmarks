@@ -1,5 +1,5 @@
 {
-   "checksum": "b5d4f8153731013481c9c794b0c07027",
+   "checksum": "3d42c82b24c77d68a3b3457b696b03af",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4990,7 +4990,7 @@
                "date_added": "13293903145769496",
                "guid": "54a787a3-56de-421b-b550-7f29ffb64462",
                "id": "955",
-               "name": "CRXDE Lite",
+               "name": "dedicated-internet-access",
                "type": "url",
                "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/internet-data-services/dedicated-internet-access/jcr%3Acontent/background_fullwidth"
             } ],
