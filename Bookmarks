@@ -1,5 +1,5 @@
 {
-   "checksum": "4e41c2c2e7992678894bf534d8dddf19",
+   "checksum": "a3e20437276ba44e5d206ff8ad8238c3",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4943,9 +4943,16 @@
                "name": "Dam icons",
                "type": "url",
                "url": "http://172.16.45.2:4502/damadmin#/content/dam/www-virginmedia-ie/img/Business/icons"
+            }, {
+               "date_added": "13293902842012539",
+               "guid": "d0cd0bbd-0ca0-42dd-aa5c-3a83d9d2e5b0",
+               "id": "954",
+               "name": "CRXDE Lite",
+               "type": "url",
+               "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/voice-services/business-phone-lines/jcr%3Acontent/background_fullwidth/grey-carousel/section_content/extendedslider"
             } ],
             "date_added": "13290702618683634",
-            "date_modified": "13293898867350138",
+            "date_modified": "13293902842012539",
             "guid": "bf9788c1-3da7-4cbc-b8ca-728183549178",
             "id": "883",
             "name": "VIE-079 AEM",
