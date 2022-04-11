@@ -1,5 +1,5 @@
 {
-   "checksum": "c41b7bd7fe179d0cec85a6793d35478c",
+   "checksum": "be7b0880709e6319928ef4d6939f8523",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -9,13 +9,6 @@
             "name": "T11",
             "type": "url",
             "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/templates/template-11"
-         }, {
-            "date_added": "13293814782578727",
-            "guid": "9b62396d-43dd-41b2-b7ff-a33484fb07e7",
-            "id": "947",
-            "name": "SD-WAN",
-            "type": "url",
-            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/sd-wan"
          }, {
             "children": [ {
                "date_added": "13283466922507986",
@@ -5007,13 +5000,6 @@
             "name": "CRXDE Lite",
             "type": "url",
             "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/voom-collection/jcr%3Acontent/background_fullwidth/templatesection_1793140671/section_content/recursivereference"
-         }, {
-            "date_added": "13293904823568923",
-            "guid": "2059db24-c901-46fd-85f7-ed4dff83d556",
-            "id": "956",
-            "name": "ip-transit",
-            "type": "url",
-            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/internet-data-services/ip-transit/jcr%3Acontent/background_fullwidth"
          } ],
          "date_added": "13277229767710742",
          "date_modified": "13294137951445935",
