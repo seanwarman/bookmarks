@@ -1,15 +1,8 @@
 {
-   "checksum": "5cd62449aa2c434f1536604d6e5c1160",
+   "checksum": "b0ddadcb87fa7809338cb7fe9dcb7d4d",
    "roots": {
       "bookmark_bar": {
          "children": [ {
-            "date_added": "13293811090755702",
-            "guid": "eb966920-7f17-4356-9c16-26f4f2432364",
-            "id": "946",
-            "name": "T4b",
-            "type": "url",
-            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/templates/template-4b/jcr%3Acontent/background_fullwidth"
-         }, {
             "date_added": "13294137946082665",
             "guid": "e4a352d7-ddb1-47fd-a849-f1edc0ce6fc2",
             "id": "958",
