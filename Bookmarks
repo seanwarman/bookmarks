@@ -1,5 +1,5 @@
 {
-   "checksum": "a391f8af3c301cfd31276ec298b640cd",
+   "checksum": "4a9ef73bf848373664244987e15675b6",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5004,7 +5004,7 @@
             "date_added": "13294138136476965",
             "guid": "479effbf-7109-4cbc-b27f-c7ea15abd4ed",
             "id": "959",
-            "name": "CRXDE Lite",
+            "name": "accessibility",
             "type": "url",
             "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/accessibility"
          } ],
