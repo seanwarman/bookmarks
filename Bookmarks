@@ -1,5 +1,5 @@
 {
-   "checksum": "a2f901dcdf965e8b9c56be720a4d9d7b",
+   "checksum": "51771cd348362a909db3e290aded63f5",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4900,9 +4900,16 @@
                "name": "VIE-79 Deployment",
                "type": "url",
                "url": "https://nomensa-my.sharepoint.com/personal/swarman_nomensa_com/_layouts/15/doc.aspx?sourcedoc={646f2361-ee93-424f-bd84-eed4c08208b4}&action=edit"
+            }, {
+               "date_added": "13294336015696099",
+               "guid": "662cb3e3-d33d-4064-8062-49751a7e598d",
+               "id": "961",
+               "name": "CRXDE Lite",
+               "type": "url",
+               "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/downloads/business-growth-with-facebook-downloads"
             } ],
             "date_added": "13288191241122479",
-            "date_modified": "13294335880229052",
+            "date_modified": "13294336015696099",
             "guid": "9b3f4914-b517-4bc0-999a-86f3a735266c",
             "id": "838",
             "name": "VIE-079a",
