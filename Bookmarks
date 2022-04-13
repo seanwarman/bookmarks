@@ -1,5 +1,5 @@
 {
-   "checksum": "51771cd348362a909db3e290aded63f5",
+   "checksum": "47e96302061af7db59cdb89e6ff08e76",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4900,13 +4900,6 @@
                "name": "VIE-79 Deployment",
                "type": "url",
                "url": "https://nomensa-my.sharepoint.com/personal/swarman_nomensa_com/_layouts/15/doc.aspx?sourcedoc={646f2361-ee93-424f-bd84-eed4c08208b4}&action=edit"
-            }, {
-               "date_added": "13294336015696099",
-               "guid": "662cb3e3-d33d-4064-8062-49751a7e598d",
-               "id": "961",
-               "name": "CRXDE Lite",
-               "type": "url",
-               "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/downloads/business-growth-with-facebook-downloads"
             } ],
             "date_added": "13288191241122479",
             "date_modified": "13294336015696099",
@@ -4993,9 +4986,16 @@
                "name": "Business Cards",
                "type": "url",
                "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/voice-services/business-phone-lines/jcr%3Acontent/background_fullwidth/grey-carousel/section_content/extendedslider"
+            }, {
+               "date_added": "13294336015696099",
+               "guid": "662cb3e3-d33d-4064-8062-49751a7e598d",
+               "id": "961",
+               "name": "Downloads",
+               "type": "url",
+               "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/downloads/business-growth-with-facebook-downloads"
             } ],
             "date_added": "13290702628461546",
-            "date_modified": "13293903145769496",
+            "date_modified": "13294336026250318",
             "guid": "d26eb654-7db1-4388-86b0-a5e9c8514a51",
             "id": "884",
             "name": "VIE-079 CRXDE",
