@@ -1,5 +1,5 @@
 {
-   "checksum": "28543bb81f0505bc1bb7586001683e23",
+   "checksum": "a018140a8cc7e50ff99abc7b537fba9a",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5035,9 +5035,16 @@
             "name": "route",
             "type": "url",
             "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/medium-business/sectors/Copy%20of%20hospitality"
+         }, {
+            "date_added": "13294937487025519",
+            "guid": "414a78a6-b7b2-4d94-b0fc-fda89f7d21df",
+            "id": "972",
+            "name": "CRXDE Lite",
+            "type": "url",
+            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/the-hub/Copy%20of%20podcasts1"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13294937454576707",
+         "date_modified": "13294937487025519",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
