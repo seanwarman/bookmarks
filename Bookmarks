@@ -1,5 +1,5 @@
 {
-   "checksum": "abe8d6adddcbbc2ea8b1863b8f5ee9dc",
+   "checksum": "79190596ce68b3c5c2615ce731572142",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4943,13 +4943,6 @@
                "name": "Dam icons",
                "type": "url",
                "url": "http://172.16.45.2:4502/damadmin#/content/dam/www-virginmedia-ie/img/Business/icons"
-            }, {
-               "date_added": "13294917396501408",
-               "guid": "61a8b941-8629-472f-96c4-217242d8752e",
-               "id": "969",
-               "name": "CRXDE Lite",
-               "type": "url",
-               "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/content-fragment-test/jcr%3Acontent/background_fullwidth/templated/data"
             } ],
             "date_added": "13290702618683634",
             "date_modified": "13294917396501408",
@@ -5028,9 +5021,16 @@
             "name": "CRXDE Lite",
             "type": "url",
             "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/voom-collection/jcr%3Acontent/background_fullwidth/templatesection_1793140671/section_content/recursivereference"
+         }, {
+            "date_added": "13294917396501408",
+            "guid": "61a8b941-8629-472f-96c4-217242d8752e",
+            "id": "969",
+            "name": "template data",
+            "type": "url",
+            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/content-fragment-test/jcr%3Acontent/background_fullwidth/templated/data"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13294403899265435",
+         "date_modified": "13294917412092628",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
