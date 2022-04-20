@@ -1,5 +1,5 @@
 {
-   "checksum": "0adb0bb38f602c8d3648e162a0a53745",
+   "checksum": "123d8573feecc9ea68d13355b7271022",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5042,9 +5042,16 @@
             "name": "target",
             "type": "url",
             "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/the-hub/Copy%20of%20podcasts1"
+         }, {
+            "date_added": "13294937545359783",
+            "guid": "a309f464-1977-4540-9e53-dd18e815f36b",
+            "id": "973",
+            "name": "CRXDE Lite",
+            "type": "url",
+            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/Copy%20of%20podcasts1"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13294937487025519",
+         "date_modified": "13294937545359783",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
