@@ -1,5 +1,5 @@
 {
-   "checksum": "caf1973703511b0c4ec7c05107325ace",
+   "checksum": "abe8d6adddcbbc2ea8b1863b8f5ee9dc",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4943,9 +4943,16 @@
                "name": "Dam icons",
                "type": "url",
                "url": "http://172.16.45.2:4502/damadmin#/content/dam/www-virginmedia-ie/img/Business/icons"
+            }, {
+               "date_added": "13294917396501408",
+               "guid": "61a8b941-8629-472f-96c4-217242d8752e",
+               "id": "969",
+               "name": "CRXDE Lite",
+               "type": "url",
+               "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/content-fragment-test/jcr%3Acontent/background_fullwidth/templated/data"
             } ],
             "date_added": "13290702618683634",
-            "date_modified": "13294838229140308",
+            "date_modified": "13294917396501408",
             "guid": "bf9788c1-3da7-4cbc-b8ca-728183549178",
             "id": "883",
             "name": "VIE-079 AEM",
