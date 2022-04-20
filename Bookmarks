@@ -1,5 +1,5 @@
 {
-   "checksum": "a018140a8cc7e50ff99abc7b537fba9a",
+   "checksum": "0adb0bb38f602c8d3648e162a0a53745",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5039,7 +5039,7 @@
             "date_added": "13294937487025519",
             "guid": "414a78a6-b7b2-4d94-b0fc-fda89f7d21df",
             "id": "972",
-            "name": "CRXDE Lite",
+            "name": "target",
             "type": "url",
             "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/the-hub/Copy%20of%20podcasts1"
          } ],
