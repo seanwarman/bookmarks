@@ -1,5 +1,5 @@
 {
-   "checksum": "37d1df08ea52deb76f8f376a8bec7738",
+   "checksum": "6f00d3bf5568397e7b236de329a0cf2d",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4986,13 +4986,6 @@
                "name": "Business Cards",
                "type": "url",
                "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/template-sections/grey-carousel-with-content/jcr%3Acontent/background_fullwidth/grey-carousel/section_content/extendedslider"
-            }, {
-               "date_added": "13294773576737763",
-               "guid": "1f46486e-dbbf-4880-81a6-0bfdd5fc04e8",
-               "id": "966",
-               "name": "Vue SSR Example",
-               "type": "url",
-               "url": "http://localhost:3000/"
             } ],
             "date_added": "13290702628461546",
             "date_modified": "13294838211918995",
