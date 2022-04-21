@@ -1,5 +1,5 @@
 {
-   "checksum": "b322f178fd2f2d77fd8171ac475ce51a",
+   "checksum": "2172e406e48fad252b2ffca8e494de55",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4474,9 +4474,16 @@
                      "name": "Chapter 10. Querying and Searching using JCR",
                      "type": "url",
                      "url": "https://docs.jboss.org/jbossdna/0.7/manuals/reference/html/jcr-query-and-search.html#jcr-sql2-query-language"
+                  }, {
+                     "date_added": "13295023088510568",
+                     "guid": "20920500-91df-4abf-99cd-14bf948db538",
+                     "id": "978",
+                     "name": "JSR-000283 Content Repository for Java Technology 2.0 Final Release",
+                     "type": "url",
+                     "url": "https://download.oracle.com/otndocs/jcp/content_repository-2.0-fr-oth-JSpec/"
                   } ],
                   "date_added": "13288368078004658",
-                  "date_modified": "13295023085367740",
+                  "date_modified": "13295023088510568",
                   "guid": "e31662c3-eb9e-4111-a378-d5c4fd2fb362",
                   "id": "854",
                   "name": "Sling",
