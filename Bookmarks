@@ -1,5 +1,5 @@
 {
-   "checksum": "390083573c00e46d60586ff7665fbb18",
+   "checksum": "118349828e24feb4f8ca7baa2d604321",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5078,9 +5078,16 @@
                "name": "Storybook Tutorial",
                "type": "url",
                "url": "https://storybook.js.org/tutorials/intro-to-storybook/vue/en/simple-component/"
+            }, {
+               "date_added": "13295106517644507",
+               "guid": "5c91ed3d-f38b-4baf-8a98-9f0b5e66522c",
+               "id": "987",
+               "name": "Review • Chromatic docs",
+               "type": "url",
+               "url": "https://www.chromatic.com/docs/review"
             } ],
             "date_added": "13295010279012681",
-            "date_modified": "13295106504521565",
+            "date_modified": "13295106517644507",
             "guid": "7dd5d895-6782-4ed8-9063-2b8990eecb6a",
             "id": "975",
             "name": "TRD-002",
