@@ -1,5 +1,5 @@
 {
-   "checksum": "d6e4ddfc68359ad9527eaad261f61349",
+   "checksum": "ebb8bdc0a40353c2362cf9cb3ca317fb",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5071,9 +5071,16 @@
                "name": "Storybook",
                "type": "url",
                "url": "https://storybook.js.org/showcase/"
+            }, {
+               "date_added": "13295106504521565",
+               "guid": "256e3c88-3bce-43c3-b1d3-6d217cf87fbc",
+               "id": "986",
+               "name": "Build a simple component | Storybook Tutorials",
+               "type": "url",
+               "url": "https://storybook.js.org/tutorials/intro-to-storybook/vue/en/simple-component/"
             } ],
             "date_added": "13295010279012681",
-            "date_modified": "13295104831805930",
+            "date_modified": "13295106504521565",
             "guid": "7dd5d895-6782-4ed8-9063-2b8990eecb6a",
             "id": "975",
             "name": "TRD-002",
