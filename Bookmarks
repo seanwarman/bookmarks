@@ -1,5 +1,5 @@
 {
-   "checksum": "11806ee4aa303a1b78025355e6362506",
+   "checksum": "5120ce1607330e3a137b570cfe31acab",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5117,7 +5117,7 @@
                "date_added": "13295135671696467",
                "guid": "e8998350-f8cb-45f7-afbb-3c3e2da78deb",
                "id": "993",
-               "name": "ipfs/ipfs-companion: Browser extension that simplifies access to IPFS resources on the web",
+               "name": "",
                "type": "url",
                "url": "https://github.com/ipfs/ipfs-companion"
             } ],
