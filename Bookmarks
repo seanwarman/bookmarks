@@ -1,5 +1,5 @@
 {
-   "checksum": "ebb8bdc0a40353c2362cf9cb3ca317fb",
+   "checksum": "390083573c00e46d60586ff7665fbb18",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5075,7 +5075,7 @@
                "date_added": "13295106504521565",
                "guid": "256e3c88-3bce-43c3-b1d3-6d217cf87fbc",
                "id": "986",
-               "name": "Build a simple component | Storybook Tutorials",
+               "name": "Storybook Tutorial",
                "type": "url",
                "url": "https://storybook.js.org/tutorials/intro-to-storybook/vue/en/simple-component/"
             } ],
