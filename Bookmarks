@@ -1,5 +1,5 @@
 {
-   "checksum": "7d9e73f061391a95ff70773f3f9e1209",
+   "checksum": "4aedbd2ce31fda5f1f9e040f53d71608",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5047,7 +5047,7 @@
                "date_added": "13295101467434318",
                "guid": "d7d6e9c8-3b8f-431e-9aef-0f47c0be4550",
                "id": "982",
-               "name": "Chromatic: Storybook deployment, review, and test",
+               "name": "Chromatic",
                "type": "url",
                "url": "https://www.chromatic.com/"
             } ],
