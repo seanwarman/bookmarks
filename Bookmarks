@@ -1,5 +1,5 @@
 {
-   "checksum": "5f80524511390c843d6521752e10b187",
+   "checksum": "506959aa7ad99f8d1efb9684b3d31855",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5054,7 +5054,7 @@
                "date_added": "13295104650526862",
                "guid": "57c06eec-8b9a-4273-b9ed-82c0f4848834",
                "id": "983",
-               "name": "Tredz grid – Figma",
+               "name": "Figma - grid",
                "type": "url",
                "url": "https://www.figma.com/file/ah0hV5Vgeaf8AKp66g4MO4/Tredz-grid?node-id=0%3A1"
             } ],
