@@ -1,5 +1,5 @@
 {
-   "checksum": "54995ef971d74a2ca37eeb03f1b30b52",
+   "checksum": "d6e4ddfc68359ad9527eaad261f61349",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5068,7 +5068,7 @@
                "date_added": "13295104831805930",
                "guid": "9e379f89-55c5-42bf-882b-e17078cbc85d",
                "id": "985",
-               "name": "Component Encyclopedia | Storybook",
+               "name": "Storybook",
                "type": "url",
                "url": "https://storybook.js.org/showcase/"
             } ],
