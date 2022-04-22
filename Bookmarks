@@ -1,5 +1,5 @@
 {
-   "checksum": "712ec76ad74b55fa09dd08d3b90bb6ec",
+   "checksum": "5a1f18f03f9eac48bfc86d3638e1327e",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3261,7 +3261,7 @@
                   "date_added": "13295135977192649",
                   "guid": "1073d65b-4534-440c-a382-9ec5fef89cad",
                   "id": "998",
-                  "name": "What is Peer to Peer Network, and How does it work? -",
+                  "name": "What is Peer to Peer Network",
                   "type": "url",
                   "url": "https://www.blockchain-council.org/blockchain/peer-to-peer-network/"
                } ],
