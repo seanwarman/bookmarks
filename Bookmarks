@@ -1,5 +1,5 @@
 {
-   "checksum": "19c3af7a573884d37b7caf805a57d10c",
+   "checksum": "16a94b793f60a777b8b34bd9b7afbc58",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3236,9 +3236,16 @@
                   "name": "ipfs companion - browser extension",
                   "type": "url",
                   "url": "https://github.com/ipfs/ipfs-companion"
+               }, {
+                  "date_added": "13295135718921135",
+                  "guid": "0b38a876-c4ad-436b-b6e5-2a18381df028",
+                  "id": "995",
+                  "name": "JS IPFS",
+                  "type": "url",
+                  "url": "https://js.ipfs.io/"
                } ],
                "date_added": "13295135711582549",
-               "date_modified": "13295135711582642",
+               "date_modified": "13295135718921135",
                "guid": "405cf133-e1ce-45fe-becb-643164e46366",
                "id": "994",
                "name": "Peer to peer",
