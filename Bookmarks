@@ -1,5 +1,5 @@
 {
-   "checksum": "b994dd3ebd3474870f69263e7719a079",
+   "checksum": "b2f91f3c6073926fa9811b4ca40851a5",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3250,9 +3250,16 @@
                   "name": "IPFS Powers the Distributed Web",
                   "type": "url",
                   "url": "https://ipfs.io/"
+               }, {
+                  "date_added": "13295135729330339",
+                  "guid": "1a69cf66-3a49-4b55-a1bc-23cf2d72594b",
+                  "id": "997",
+                  "name": "Distributed Hash Tables with Kademlia — Stanford Code the Change Guides documentation",
+                  "type": "url",
+                  "url": "https://codethechange.stanford.edu/guides/guide_kademlia.html"
                } ],
                "date_added": "13295135711582549",
-               "date_modified": "13295135724928729",
+               "date_modified": "13295135729330339",
                "guid": "405cf133-e1ce-45fe-becb-643164e46366",
                "id": "994",
                "name": "Peer to peer",
