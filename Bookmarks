@@ -1,5 +1,5 @@
 {
-   "checksum": "6764fc0f2c06a47729961c77efcb6336",
+   "checksum": "5b5ecb27af07693ce17539f6790232da",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5043,13 +5043,6 @@
                "name": "Notes",
                "type": "url",
                "url": "https://nomensa-my.sharepoint.com/personal/swarman_nomensa_com/_layouts/15/doc.aspx?sourcedoc={b6af623e-978b-48d2-a9a8-23f5465733ec}&action=edit"
-            }, {
-               "date_added": "13295101454601730",
-               "guid": "dda78d9c-73e8-493c-b3a0-f7d434c262c6",
-               "id": "981",
-               "name": "Storybook",
-               "type": "url",
-               "url": "https://storybook.js.org/"
             }, {
                "date_added": "13295101467434318",
                "guid": "d7d6e9c8-3b8f-431e-9aef-0f47c0be4550",
