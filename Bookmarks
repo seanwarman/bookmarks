@@ -1,5 +1,5 @@
 {
-   "checksum": "a9f0c9aa69521ebc0e71be4cd6676c16",
+   "checksum": "7d9e73f061391a95ff70773f3f9e1209",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5040,12 +5040,19 @@
                "date_added": "13295101454601730",
                "guid": "dda78d9c-73e8-493c-b3a0-f7d434c262c6",
                "id": "981",
-               "name": "Storybook: UI component explorer for frontend developers",
+               "name": "Storybook",
                "type": "url",
                "url": "https://storybook.js.org/"
+            }, {
+               "date_added": "13295101467434318",
+               "guid": "d7d6e9c8-3b8f-431e-9aef-0f47c0be4550",
+               "id": "982",
+               "name": "Chromatic: Storybook deployment, review, and test",
+               "type": "url",
+               "url": "https://www.chromatic.com/"
             } ],
             "date_added": "13295010279012681",
-            "date_modified": "13295101454601730",
+            "date_modified": "13295101467434318",
             "guid": "7dd5d895-6782-4ed8-9063-2b8990eecb6a",
             "id": "975",
             "name": "TRD-002",
