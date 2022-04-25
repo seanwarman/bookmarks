@@ -1,5 +1,5 @@
 {
-   "checksum": "01c26c0b4a2627ee75d644fd3554b80c",
+   "checksum": "77ef29a49a13a272976b15e23633d852",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5066,6 +5066,13 @@
             "type": "folder"
          }, {
             "children": [ {
+               "date_added": "13295352575508854",
+               "guid": "a7080116-9a01-4b41-87f8-d92b67c632af",
+               "id": "1002",
+               "name": "Slack",
+               "type": "url",
+               "url": "https://app.slack.com/client/T02LSU5UU2H/C02LY4Y5C92"
+            }, {
                "date_added": "13295104650526862",
                "guid": "57c06eec-8b9a-4273-b9ed-82c0f4848834",
                "id": "983",
@@ -5177,16 +5184,9 @@
                "name": "CRXDE Lite",
                "type": "url",
                "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/help-support/jcr%3Acontent"
-            }, {
-               "date_added": "13295352575508854",
-               "guid": "a7080116-9a01-4b41-87f8-d92b67c632af",
-               "id": "1002",
-               "name": "Slack",
-               "type": "url",
-               "url": "https://app.slack.com/client/T02LSU5UU2H/C02LY4Y5C92"
             } ],
             "date_added": "13295010279012681",
-            "date_modified": "13295352575508854",
+            "date_modified": "13295352586437044",
             "guid": "7dd5d895-6782-4ed8-9063-2b8990eecb6a",
             "id": "975",
             "name": "TRD-002",
