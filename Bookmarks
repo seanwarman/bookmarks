@@ -1,5 +1,5 @@
 {
-   "checksum": "54b2bf22fa2e043ad3cf2b76357d4aca",
+   "checksum": "fc3398e3956dda54feba25774a5cc071",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5177,9 +5177,16 @@
                "name": "CRXDE Lite",
                "type": "url",
                "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/help-support/jcr%3Acontent"
+            }, {
+               "date_added": "13295352575508854",
+               "guid": "a7080116-9a01-4b41-87f8-d92b67c632af",
+               "id": "1002",
+               "name": "Slack | general | Velodrome",
+               "type": "url",
+               "url": "https://app.slack.com/client/T02LSU5UU2H/C02LY4Y5C92"
             } ],
             "date_added": "13295010279012681",
-            "date_modified": "13295347927531223",
+            "date_modified": "13295352575508854",
             "guid": "7dd5d895-6782-4ed8-9063-2b8990eecb6a",
             "id": "975",
             "name": "TRD-002",
