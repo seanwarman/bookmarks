@@ -1,5 +1,5 @@
 {
-   "checksum": "5a1f18f03f9eac48bfc86d3638e1327e",
+   "checksum": "f8860ab8e96e916f9de5c773c727b794",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5163,27 +5163,6 @@
             "id": "975",
             "name": "TRD-002",
             "type": "folder"
-         }, {
-            "date_added": "13293120527020770",
-            "guid": "91d2132d-c307-4e0d-978b-fa4bf55b4a8b",
-            "id": "921",
-            "name": "CRXDE Lite",
-            "type": "url",
-            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/voom-collection/jcr%3Acontent/background_fullwidth/templatesection_1793140671/section_content/recursivereference"
-         }, {
-            "date_added": "13294917396501408",
-            "guid": "61a8b941-8629-472f-96c4-217242d8752e",
-            "id": "969",
-            "name": "template data",
-            "type": "url",
-            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/content-fragment-test/jcr%3Acontent/background_fullwidth/templated/data"
-         }, {
-            "date_added": "13294918729028128",
-            "guid": "ccb90f82-6953-404c-a832-37892bc0f011",
-            "id": "970",
-            "name": "templated",
-            "type": "url",
-            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/templated/testingonly"
          }, {
             "date_added": "13295088609873794",
             "guid": "1e8b6c86-c398-42bc-8b07-1d0a323d1d58",
