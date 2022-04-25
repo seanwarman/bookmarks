@@ -1,5 +1,5 @@
 {
-   "checksum": "fc3398e3956dda54feba25774a5cc071",
+   "checksum": "01c26c0b4a2627ee75d644fd3554b80c",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5181,7 +5181,7 @@
                "date_added": "13295352575508854",
                "guid": "a7080116-9a01-4b41-87f8-d92b67c632af",
                "id": "1002",
-               "name": "Slack | general | Velodrome",
+               "name": "Slack",
                "type": "url",
                "url": "https://app.slack.com/client/T02LSU5UU2H/C02LY4Y5C92"
             } ],
