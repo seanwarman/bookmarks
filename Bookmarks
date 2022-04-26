@@ -1,5 +1,5 @@
 {
-   "checksum": "89178591acfca98a04f19a1ec0dbcb92",
+   "checksum": "f2be9cbc995aee28a3c82f4aed0eb105",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5168,7 +5168,7 @@
                "date_added": "13295434198817206",
                "guid": "f92601be-6120-4d8e-9d9f-b5fbc17453d8",
                "id": "1007",
-               "name": "wheeliesdirect / tredz-storybook — Bitbucket",
+               "name": "Bitbucket Repo",
                "type": "url",
                "url": "https://bitbucket.org/wheeliesdirect/tredz-storybook/src"
             } ],
