@@ -1,5 +1,5 @@
 {
-   "checksum": "34ac5c6d899c5d23aef7c65c5926953c",
+   "checksum": "9502a0a79f45eb2a994b84a319ffb0c9",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5188,7 +5188,7 @@
                "date_added": "13295418837359723",
                "guid": "8fcd3d1c-726c-4921-b6b6-fd4f0801a43c",
                "id": "1003",
-               "name": "Tredz Component Breakdown, Online Whiteboard for Visual Collaboration",
+               "name": "Tredz Component Breakdown",
                "type": "url",
                "url": "https://miro.com/app/board/uXjVO6tr_mg=/"
             } ],
