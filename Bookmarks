@@ -1,5 +1,5 @@
 {
-   "checksum": "4b671527f65ee65e385c29537f30a51b",
+   "checksum": "d18f60a9761f3eece6cc5f94b396a9ae",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5079,13 +5079,6 @@
                "name": "Storybook",
                "type": "url",
                "url": "https://storybook.js.org/showcase/"
-            }, {
-               "date_added": "13295106504521565",
-               "guid": "256e3c88-3bce-43c3-b1d3-6d217cf87fbc",
-               "id": "986",
-               "name": "Storybook Tutorial",
-               "type": "url",
-               "url": "https://storybook.js.org/tutorials/intro-to-storybook/vue/en/simple-component/"
             }, {
                "date_added": "13295101467434318",
                "guid": "d7d6e9c8-3b8f-431e-9aef-0f47c0be4550",
