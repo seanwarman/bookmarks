@@ -1,5 +1,5 @@
 {
-   "checksum": "aa7a4da046af84e8913a9d882029be30",
+   "checksum": "4b671527f65ee65e385c29537f30a51b",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5093,13 +5093,6 @@
                "name": "Chromatic",
                "type": "url",
                "url": "https://www.chromatic.com/"
-            }, {
-               "date_added": "13295010191866255",
-               "guid": "5a31633e-1e1c-4387-ab2b-7bf5166cd50c",
-               "id": "974",
-               "name": "Microsoft Teams Chat Files - OneDrive",
-               "type": "url",
-               "url": "https://nomensa-my.sharepoint.com/personal/krogers_nomensa_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fkrogers_nomensa_com%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files%2FTRD-002%20-%20Tech-Solution-Evaluation_revised_2022-02-15%2Epdf&parent=%2Fpersonal%2Fkrogers_nomensa_com%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files&ga=1"
             }, {
                "date_added": "13295010281193571",
                "guid": "db916321-f23c-4a48-94a7-f8ca265730a1",
