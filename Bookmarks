@@ -1,5 +1,5 @@
 {
-   "checksum": "ba8729b2cd9cd8540b74f244b10f44c5",
+   "checksum": "c146ddd4b9bfba5c2ea6e0ab06aecfb5",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3279,9 +3279,37 @@
                   "name": "ul/kak-tree: Structural selections for Kakoune",
                   "type": "url",
                   "url": "https://github.com/ul/kak-tree"
+               }, {
+                  "date_added": "13295447538789690",
+                  "guid": "5e3581a9-dcbe-4540-a86f-9d7c0e6a606e",
+                  "id": "1011",
+                  "name": "mawww/kakoune: mawww's experiment for a better code editor",
+                  "type": "url",
+                  "url": "https://github.com/mawww/kakoune#3-basic-interaction"
+               }, {
+                  "date_added": "13295447540469838",
+                  "guid": "0c3b9a05-8ea7-4e1b-bcf2-2a420316f4cb",
+                  "id": "1012",
+                  "name": "andreyorst/fzf.kak: FZF for Kakoune",
+                  "type": "url",
+                  "url": "https://github.com/andreyorst/fzf.kak"
+               }, {
+                  "date_added": "13295447541998860",
+                  "guid": "9f54ef4c-3860-4ce9-a37e-6a4761380e12",
+                  "id": "1013",
+                  "name": "lePerdu/kakboard: Clipboard integration for Kakoune",
+                  "type": "url",
+                  "url": "https://github.com/lePerdu/kakboard"
+               }, {
+                  "date_added": "13295447543214341",
+                  "guid": "20e190f6-2aa1-49b6-b58a-46ecbe9e9792",
+                  "id": "1014",
+                  "name": "andreyorst/plug.kak: Plugin manager for Kakoune",
+                  "type": "url",
+                  "url": "https://github.com/andreyorst/plug.kak"
                } ],
                "date_added": "13295447535712340",
-               "date_modified": "13295447535712440",
+               "date_modified": "13295447543214341",
                "guid": "7937a125-9a0d-437a-a482-da5090f55da0",
                "id": "1010",
                "name": "Kakoune",
