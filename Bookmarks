@@ -1,5 +1,5 @@
 {
-   "checksum": "aa5e343e572ee3d5ae69ec7ebe2b6bee",
+   "checksum": "5117ce2b18ccf2c02459dfbac9c3ea48",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4731,13 +4731,6 @@
                "name": "Timesheets",
                "type": "url",
                "url": "https://nomensa.my.workfront.com/timesheets/own"
-            }, {
-               "date_added": "13283372740936593",
-               "guid": "4d0348f1-482d-485d-bcfe-f59295bba019",
-               "id": "721",
-               "name": "Clear Review",
-               "type": "url",
-               "url": "https://app.clearreview.com/accounts/login/?next=/webapp/"
             } ],
             "date_added": "13277391252046200",
             "date_modified": "13295419069918491",
