@@ -1,5 +1,5 @@
 {
-   "checksum": "d18f60a9761f3eece6cc5f94b396a9ae",
+   "checksum": "aa9bd4bd3ae85662e69e63b9c8a31e82",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5059,6 +5059,14 @@
                "type": "url",
                "url": "https://app.slack.com/client/T02LSU5UU2H/C02LY4Y5C92"
             }, {
+               "children": [  ],
+               "date_added": "13295433534409013",
+               "date_modified": "13295433534409013",
+               "guid": "293629a9-fa01-43b7-9eeb-03b6810a7855",
+               "id": "1006",
+               "name": "Design Inspiration",
+               "type": "folder"
+            }, {
                "date_added": "13295104650526862",
                "guid": "57c06eec-8b9a-4273-b9ed-82c0f4848834",
                "id": "983",
@@ -5158,7 +5166,7 @@
                "url": "https://dev.azure.com/tredz/"
             } ],
             "date_added": "13295010279012681",
-            "date_modified": "13295433155286380",
+            "date_modified": "13295433534409075",
             "guid": "7dd5d895-6782-4ed8-9063-2b8990eecb6a",
             "id": "975",
             "name": "TRD-002",
