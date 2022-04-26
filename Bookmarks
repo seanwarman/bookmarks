@@ -1,5 +1,5 @@
 {
-   "checksum": "037992f772c4a346430b23c77af54699",
+   "checksum": "227879536df50cc0e420805b87a22264",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5188,7 +5188,7 @@
                "date_added": "13295433155286380",
                "guid": "fa814ad2-4651-471d-a2a2-1883c9a811a3",
                "id": "1005",
-               "name": "Projects - Home",
+               "name": "Azure",
                "type": "url",
                "url": "https://dev.azure.com/tredz/"
             } ],
