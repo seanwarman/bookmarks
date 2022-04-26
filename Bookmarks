@@ -1,5 +1,5 @@
 {
-   "checksum": "c99a1ad48cf8cc23073d536a861a5156",
+   "checksum": "ba8729b2cd9cd8540b74f244b10f44c5",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3271,6 +3271,21 @@
                "id": "994",
                "name": "Peer to peer",
                "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13295447518337119",
+                  "guid": "c69b13fd-308a-4309-a8a2-5477985587f0",
+                  "id": "1009",
+                  "name": "ul/kak-tree: Structural selections for Kakoune",
+                  "type": "url",
+                  "url": "https://github.com/ul/kak-tree"
+               } ],
+               "date_added": "13295447535712340",
+               "date_modified": "13295447535712440",
+               "guid": "7937a125-9a0d-437a-a482-da5090f55da0",
+               "id": "1010",
+               "name": "Kakoune",
+               "type": "folder"
             } ],
             "date_added": "13277233018935107",
             "date_modified": "13293635829659491",
@@ -5164,13 +5179,6 @@
                "id": "1006",
                "name": "Design Inspiration",
                "type": "folder"
-            }, {
-               "date_added": "13295447518337119",
-               "guid": "c69b13fd-308a-4309-a8a2-5477985587f0",
-               "id": "1009",
-               "name": "ul/kak-tree: Structural selections for Kakoune",
-               "type": "url",
-               "url": "https://github.com/ul/kak-tree"
             } ],
             "date_added": "13295010279012681",
             "date_modified": "13295447518337119",
