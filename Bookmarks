@@ -1,5 +1,5 @@
 {
-   "checksum": "227879536df50cc0e420805b87a22264",
+   "checksum": "7b30f00b5875b41390f6a069fda4b358",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5156,13 +5156,6 @@
                "name": "Bikes | Mountain Bikes | Road Bikes | Cycle Clothing | Online Bike Shop | Tredz Bikes",
                "type": "url",
                "url": "https://www.tredz.co.uk/"
-            }, {
-               "date_added": "13295347152373605",
-               "guid": "b1ebabd1-775b-4cc6-a3a2-0222b9aee67b",
-               "id": "1000",
-               "name": "CRXDE Lite",
-               "type": "url",
-               "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/enterprise-business/sectors/education-training/jcr%3Acontent"
             }, {
                "date_added": "13295347927531223",
                "guid": "9370ab5e-60f0-4cd4-aed5-158fcb161e6e",
