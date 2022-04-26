@@ -1,5 +1,5 @@
 {
-   "checksum": "37194e0e47d42e2fca7de3d06d8da5bd",
+   "checksum": "aa5e343e572ee3d5ae69ec7ebe2b6bee",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4738,13 +4738,6 @@
                "name": "Clear Review",
                "type": "url",
                "url": "https://app.clearreview.com/accounts/login/?next=/webapp/"
-            }, {
-               "date_added": "13292430975865092",
-               "guid": "97e9253f-22b3-41b4-865a-2016bea13fcd",
-               "id": "895",
-               "name": "Desk Planner",
-               "type": "url",
-               "url": "https://miro.com/app/board/uXjVODzW0vE=/"
             } ],
             "date_added": "13277391252046200",
             "date_modified": "13295419069918491",
