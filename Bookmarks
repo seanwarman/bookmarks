@@ -1,5 +1,5 @@
 {
-   "checksum": "f588bc0a49549327f831397c78d3e1c1",
+   "checksum": "1a445484fd927ebd6a40ecf3ac71beb6",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4686,9 +4686,16 @@
                "name": "SMS",
                "type": "url",
                "url": "https://receive-smss.com/"
+            }, {
+               "date_added": "13295712717463258",
+               "guid": "43c8925c-c6e6-4512-8d40-7b42e4f6ccf7",
+               "id": "1016",
+               "name": "Caret (^) and Tilde (~) in package.json | by Hardeep Singh | Medium",
+               "type": "url",
+               "url": "https://indianceo.medium.com/caret-and-tilde-in-package-json-57f1cbbe347b"
             } ],
             "date_added": "13286366775444484",
-            "date_modified": "13295447748904964",
+            "date_modified": "13295712717463258",
             "guid": "e3e8d46f-da21-4a9c-b5ef-9d8dbd748676",
             "id": "804",
             "name": "General",
