@@ -1,5 +1,5 @@
 {
-   "checksum": "6d56c83971dedc189fc1c536ffe1aab0",
+   "checksum": "98ee01b508946527193d0fbb21268300",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5246,7 +5246,7 @@
             "date_added": "13296040470121297",
             "guid": "d6a7bc05-ff2a-4be4-8795-6cda020c7836",
             "id": "1021",
-            "name": "CRXDE Lite",
+            "name": "iframe-templated",
             "type": "url",
             "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/templated/testingonly/iframe-template/jcr%3Acontent"
          } ],
