@@ -1,5 +1,5 @@
 {
-   "checksum": "f588bc0a49549327f831397c78d3e1c1",
+   "checksum": "10e9791d79600faa1c8086970a64088b",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2447,9 +2447,16 @@
                   "name": "node.js - Is there a way to erase the last line of output? - Stack Overflow",
                   "type": "url",
                   "url": "https://stackoverflow.com/questions/32938213/is-there-a-way-to-erase-the-last-line-of-output"
+               }, {
+                  "date_added": "13295712717463258",
+                  "guid": "43c8925c-c6e6-4512-8d40-7b42e4f6ccf7",
+                  "id": "1016",
+                  "name": "Caret (^) and Tilde (~) in package.json | by Hardeep Singh | Medium",
+                  "type": "url",
+                  "url": "https://indianceo.medium.com/caret-and-tilde-in-package-json-57f1cbbe347b"
                } ],
                "date_added": "13277233018946010",
-               "date_modified": "0",
+               "date_modified": "13295712812258380",
                "guid": "5993555c-3bb7-4ced-811f-93d04162d034",
                "id": "334",
                "name": "Node",
@@ -4688,7 +4695,7 @@
                "url": "https://receive-smss.com/"
             } ],
             "date_added": "13286366775444484",
-            "date_modified": "13295447748904964",
+            "date_modified": "13295712717463258",
             "guid": "e3e8d46f-da21-4a9c-b5ef-9d8dbd748676",
             "id": "804",
             "name": "General",
@@ -5069,9 +5076,16 @@
                "id": "1006",
                "name": "Design Inspiration",
                "type": "folder"
+            }, {
+               "date_added": "13295712812258380",
+               "guid": "ce44791d-ab29-4ddb-842f-cdf4ec1d1a6c",
+               "id": "1017",
+               "name": "Things I’ve learned from writing a lot of unit tests | by bytedev | Medium",
+               "type": "url",
+               "url": "https://medium.com/@bytedev/things-ive-learned-from-writing-a-lot-of-unit-tests-2d234d0cfccf"
             } ],
             "date_added": "13295010279012681",
-            "date_modified": "13295447518337119",
+            "date_modified": "13295712815618197",
             "guid": "7dd5d895-6782-4ed8-9063-2b8990eecb6a",
             "id": "975",
             "name": "TRD-002",
