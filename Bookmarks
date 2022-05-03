@@ -1,5 +1,5 @@
 {
-   "checksum": "7726a9cc850596ff93b9e575a8368c53",
+   "checksum": "0460ec7cd71bb0b2479f8f4fdcab1c2c",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5235,9 +5235,16 @@
             "name": "endpoint page",
             "type": "url",
             "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/testingonly/headless-endpoint-test-nom"
+         }, {
+            "date_added": "13296038154958451",
+            "guid": "1d66a6a2-6fc6-4451-8805-c05f1ebf509e",
+            "id": "1020",
+            "name": "CRXDE Lite",
+            "type": "url",
+            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/templated/testingonly/json-template"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13296038116089326",
+         "date_modified": "13296038154958451",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
