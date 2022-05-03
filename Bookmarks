@@ -1,5 +1,5 @@
 {
-   "checksum": "b35555ac979e3b3e8f2a3b26a583390b",
+   "checksum": "7726a9cc850596ff93b9e575a8368c53",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5083,13 +5083,6 @@
                "name": "Things I’ve learned from writing a lot of unit tests | by bytedev | Medium",
                "type": "url",
                "url": "https://medium.com/@bytedev/things-ive-learned-from-writing-a-lot-of-unit-tests-2d234d0cfccf"
-            }, {
-               "date_added": "13296038106725570",
-               "guid": "50dc2747-b9ce-4475-83de-ecfcdf999f9c",
-               "id": "1019",
-               "name": "CRXDE Lite",
-               "type": "url",
-               "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/testingonly/headless-endpoint-test-nom"
             } ],
             "date_added": "13295010279012681",
             "date_modified": "13296038106725570",
@@ -5235,9 +5228,16 @@
             "id": "471",
             "name": "DBW",
             "type": "folder"
+         }, {
+            "date_added": "13296038106725570",
+            "guid": "50dc2747-b9ce-4475-83de-ecfcdf999f9c",
+            "id": "1019",
+            "name": "endpoint page",
+            "type": "url",
+            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/testingonly/headless-endpoint-test-nom"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13295447595527071",
+         "date_modified": "13296038116089326",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
