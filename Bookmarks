@@ -1,5 +1,5 @@
 {
-   "checksum": "300b7ea16c660881129d9dc4de48dac4",
+   "checksum": "6d56c83971dedc189fc1c536ffe1aab0",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5242,9 +5242,16 @@
             "name": "json templated section",
             "type": "url",
             "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/templated/testingonly/json-template"
+         }, {
+            "date_added": "13296040470121297",
+            "guid": "d6a7bc05-ff2a-4be4-8795-6cda020c7836",
+            "id": "1021",
+            "name": "CRXDE Lite",
+            "type": "url",
+            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/templated/testingonly/iframe-template/jcr%3Acontent"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13296038154958451",
+         "date_modified": "13296040470121297",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
