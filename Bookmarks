@@ -1,5 +1,5 @@
 {
-   "checksum": "98ee01b508946527193d0fbb21268300",
+   "checksum": "39485eb4037c9f16c15a4ab90ed6a60b",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5243,15 +5243,23 @@
             "type": "url",
             "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/templated/testingonly/json-template"
          }, {
-            "date_added": "13296040470121297",
-            "guid": "d6a7bc05-ff2a-4be4-8795-6cda020c7836",
-            "id": "1021",
-            "name": "iframe-templated",
-            "type": "url",
-            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/templated/testingonly/iframe-template/jcr%3Acontent"
+            "children": [ {
+               "date_added": "13296040470121297",
+               "guid": "d6a7bc05-ff2a-4be4-8795-6cda020c7836",
+               "id": "1021",
+               "name": "iframe-templated",
+               "type": "url",
+               "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/templated/testingonly/iframe-template/jcr%3Acontent"
+            } ],
+            "date_added": "13296047549910712",
+            "date_modified": "13296047552037871",
+            "guid": "afe28877-87af-487c-b567-0bc3ac242be1",
+            "id": "1022",
+            "name": "AEM Headless",
+            "type": "folder"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13296040470121297",
+         "date_modified": "13296047549911114",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
