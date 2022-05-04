@@ -1,5 +1,5 @@
 {
-   "checksum": "8c40e2cca09f952cc61936ed6d3fb88b",
+   "checksum": "d69f66648d2690f2d982d4fdaeb84e1a",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5257,13 +5257,6 @@
                "name": "endpoint",
                "type": "url",
                "url": "http://172.16.45.2:4502/content/www-virginmedia-ie/en/testingonly/headless-endpoint-test-nom/jcr%3Acontent/background_fullwidth/templated/data.json"
-            }, {
-               "date_added": "13296047563781127",
-               "guid": "b92c9758-941b-42fa-a982-1e50250c5bcb",
-               "id": "1024",
-               "name": "image",
-               "type": "url",
-               "url": "http://172.16.45.2:4502/content/www-virginmedia-ie/en/_jcr_content/background_fullwidth/nested_columns_212978099/parsys-0/nested_columns_1235060101/parsys-0/templatesection/section_content/nested_columns/parsys-1/grouping_1101441184/grouped/imageresponsive.img.620.high.png/1650368060070.png"
             }, {
                "date_added": "13296047578636104",
                "guid": "867fee42-1a23-44fd-99c2-78e68fd0a099",
