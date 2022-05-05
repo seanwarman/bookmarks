@@ -1,5 +1,5 @@
 {
-   "checksum": "4723c7af798c7d4493f35bc72eee0ef1",
+   "checksum": "0eb566033a70f33c400e18e0405376b5",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5104,9 +5104,16 @@
                "name": "Reactivity Fundamentals | Vue.js",
                "type": "url",
                "url": "https://vuejs.org/guide/essentials/reactivity-fundamentals.html"
+            }, {
+               "date_added": "13296216437798523",
+               "guid": "eca44188-a413-40cc-ad1c-f0b13ccfd77b",
+               "id": "1031",
+               "name": "CRXDE Lite",
+               "type": "url",
+               "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/nomensa/nomensa-business-dev/business_backup"
             } ],
             "date_added": "13295010279012681",
-            "date_modified": "13296198335574566",
+            "date_modified": "13296216437798523",
             "guid": "7dd5d895-6782-4ed8-9063-2b8990eecb6a",
             "id": "975",
             "name": "TRD-002",
