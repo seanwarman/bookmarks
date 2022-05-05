@@ -1,5 +1,5 @@
 {
-   "checksum": "fc311dd308872abbffa12a4a901ae854",
+   "checksum": "583134312e46cef4c52231462544d49e",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5324,7 +5324,7 @@
             "date_added": "13296216547258185",
             "guid": "8b446d8a-e39d-47a0-8fae-d47ac22f84ab",
             "id": "1034",
-            "name": "CRXDE Lite",
+            "name": "nested backup",
             "type": "url",
             "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev"
          } ],
