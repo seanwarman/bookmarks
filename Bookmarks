@@ -1,5 +1,5 @@
 {
-   "checksum": "dd62684bbce9dbe443f6a733205f4ef8",
+   "checksum": "fc311dd308872abbffa12a4a901ae854",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5320,9 +5320,16 @@
             "name": "unnested backup",
             "type": "url",
             "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/nomensa"
+         }, {
+            "date_added": "13296216547258185",
+            "guid": "8b446d8a-e39d-47a0-8fae-d47ac22f84ab",
+            "id": "1034",
+            "name": "CRXDE Lite",
+            "type": "url",
+            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13296216501536718",
+         "date_modified": "13296216547258185",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
