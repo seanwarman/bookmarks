@@ -1,5 +1,5 @@
 {
-   "checksum": "64462d8b21e86632477ef59865574a92",
+   "checksum": "425b0b1cd77c495a8a9daa0219b78b67",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5090,9 +5090,16 @@
                "name": "Vue Store Front",
                "type": "url",
                "url": "https://www.vuestorefront.io/"
+            }, {
+               "date_added": "13296198320209465",
+               "guid": "8151e73b-4827-43d4-994c-b0a21ecb1e3d",
+               "id": "1029",
+               "name": "TypeScript with Composition API | Vue.js",
+               "type": "url",
+               "url": "https://vuejs.org/guide/typescript/composition-api.html"
             } ],
             "date_added": "13295010279012681",
-            "date_modified": "13296126339727577",
+            "date_modified": "13296198320209465",
             "guid": "7dd5d895-6782-4ed8-9063-2b8990eecb6a",
             "id": "975",
             "name": "TRD-002",
