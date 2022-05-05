@@ -1,5 +1,5 @@
 {
-   "checksum": "74a920e4601c9c71677b15528531d2c5",
+   "checksum": "fc98f93a276d4ebec715f6e4374741b7",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5320,9 +5320,16 @@
             "name": "business_dev_2",
             "type": "url",
             "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business_dev_2"
+         }, {
+            "date_added": "13296216501536718",
+            "guid": "a8392e88-37d3-474d-83c4-8ac63cca7826",
+            "id": "1033",
+            "name": "CRXDE Lite",
+            "type": "url",
+            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/nomensa"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13296216466082419",
+         "date_modified": "13296216501536718",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
