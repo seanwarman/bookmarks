@@ -1,5 +1,5 @@
 {
-   "checksum": "13807da07c8e334b966faf5ce77a9f1a",
+   "checksum": "0840a0c20026951271c3491a215479c8",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5307,6 +5307,13 @@
             "type": "url",
             "url": "https://nomensa.my.workfront.com/issue/626aab66002c88550a8fb03c91fed5d9/overview"
          }, {
+            "date_added": "13296240424248238",
+            "guid": "f41b834d-f9f2-4089-88c2-6e06abb735c9",
+            "id": "1045",
+            "name": "CRXDE Lite",
+            "type": "url",
+            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/small-business/retail/_jcr_content/background_fullwidth/templatesection_1950528921/section_content/nested_columns_1890912690/parsys-1/header_306260652"
+         }, {
             "date_added": "13296223873310958",
             "guid": "246b4945-a55e-4a3b-9103-fe87b81aa4b5",
             "id": "1042",
@@ -5329,7 +5336,7 @@
             "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/voom-high-street/jcr%3Acontent/background_fullwidth/grey-carousel/section_content/extendedslider/slider-aspot-items-1/nested_columns/parsys-0/nested_columns_1193629019/parsys-0/button"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13296232836839546",
+         "date_modified": "13296240424248238",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
