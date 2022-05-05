@@ -1,5 +1,5 @@
 {
-   "checksum": "de703c643186e617abcc3c2583c1da20",
+   "checksum": "4723c7af798c7d4493f35bc72eee0ef1",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5097,9 +5097,16 @@
                "name": "TypeScript with Composition API",
                "type": "url",
                "url": "https://vuejs.org/guide/typescript/composition-api.html"
+            }, {
+               "date_added": "13296198335574566",
+               "guid": "1eae8c13-32dc-40f4-9cd2-b3a02f7e179b",
+               "id": "1030",
+               "name": "Reactivity Fundamentals | Vue.js",
+               "type": "url",
+               "url": "https://vuejs.org/guide/essentials/reactivity-fundamentals.html"
             } ],
             "date_added": "13295010279012681",
-            "date_modified": "13296198320209465",
+            "date_modified": "13296198335574566",
             "guid": "7dd5d895-6782-4ed8-9063-2b8990eecb6a",
             "id": "975",
             "name": "TRD-002",
