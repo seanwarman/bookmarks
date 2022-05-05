@@ -1,5 +1,5 @@
 {
-   "checksum": "fc98f93a276d4ebec715f6e4374741b7",
+   "checksum": "794919d9b6e5e56580f4a751799acbf2",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5324,7 +5324,7 @@
             "date_added": "13296216501536718",
             "guid": "a8392e88-37d3-474d-83c4-8ac63cca7826",
             "id": "1033",
-            "name": "CRXDE Lite",
+            "name": "unnested backup",
             "type": "url",
             "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/nomensa"
          } ],
