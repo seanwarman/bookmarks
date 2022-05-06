@@ -1,5 +1,5 @@
 {
-   "checksum": "ca901f7fb0c42f225a6a877a4dc7964d",
+   "checksum": "866e8f763a1e75110b2b9340a06509d8",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5313,13 +5313,6 @@
             "name": "updateSvg.js",
             "type": "url",
             "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/dam/www-virginmedia-ie/js/business/updateSvg.js"
-         }, {
-            "date_added": "13296295181586379",
-            "guid": "adb22e73-c932-4759-a86d-64ce30b30f6b",
-            "id": "1048",
-            "name": "CQ5 WCM | home",
-            "type": "url",
-            "url": "http://172.16.45.2:4502/siteadmin#/content/www-virginmedia-ie/en"
          }, {
             "date_added": "13296295188797404",
             "guid": "90e09735-9de3-4efc-9987-b0c139a74a69",
