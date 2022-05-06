@@ -1,5 +1,5 @@
 {
-   "checksum": "674063fccce19d90f6957920e862d148",
+   "checksum": "e1e136412b1786148e32788a0634ff33",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4927,7 +4927,7 @@
                "date_added": "13296294332550283",
                "guid": "6fd36e92-a547-46f5-9a13-86302fa9ca63",
                "id": "1047",
-               "name": "CRXDE Lite",
+               "name": "updateSvg.js",
                "type": "url",
                "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/dam/www-virginmedia-ie/js/business/updateSvg.js"
             } ],
