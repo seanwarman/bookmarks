@@ -1,5 +1,5 @@
 {
-   "checksum": "80b4f5da33865aae93b6138aabcca6ad",
+   "checksum": "674063fccce19d90f6957920e862d148",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4923,9 +4923,16 @@
                "id": "975",
                "name": "TRD-002",
                "type": "folder"
+            }, {
+               "date_added": "13296294332550283",
+               "guid": "6fd36e92-a547-46f5-9a13-86302fa9ca63",
+               "id": "1047",
+               "name": "CRXDE Lite",
+               "type": "url",
+               "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/dam/www-virginmedia-ie/js/business/updateSvg.js"
             } ],
             "date_added": "13283944001594182",
-            "date_modified": "13296294301442558",
+            "date_modified": "13296294332550283",
             "guid": "7df3fb9e-1a64-4253-a2c4-d80b0d0ab5a8",
             "id": "769",
             "name": "Projects",
