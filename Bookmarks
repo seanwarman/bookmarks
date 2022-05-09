@@ -1,5 +1,5 @@
 {
-   "checksum": "5534fe77fdc98a9571ab0e8439066433",
+   "checksum": "40e843da9d286257d7bec9e33a415901",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5299,34 +5299,6 @@
             "id": "838",
             "name": "VIE-079a",
             "type": "folder"
-         }, {
-            "date_added": "13296294282752805",
-            "guid": "03997b5b-c03d-41c2-8a12-48b37f27bacd",
-            "id": "1046",
-            "name": "business",
-            "type": "url",
-            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business"
-         }, {
-            "date_added": "13296294332550283",
-            "guid": "6fd36e92-a547-46f5-9a13-86302fa9ca63",
-            "id": "1047",
-            "name": "updateSvg.js",
-            "type": "url",
-            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/dam/www-virginmedia-ie/js/business/updateSvg.js"
-         }, {
-            "date_added": "13296295188797404",
-            "guid": "90e09735-9de3-4efc-9987-b0c139a74a69",
-            "id": "1049",
-            "name": "business",
-            "type": "url",
-            "url": "http://172.16.45.2:4502/siteadmin#/content/www-virginmedia-ie/en/business"
-         }, {
-            "date_added": "13296295371008699",
-            "guid": "8e430cdb-f624-43a9-a0e2-7c5903dd9935",
-            "id": "1050",
-            "name": "updateSvg.js",
-            "type": "url",
-            "url": "http://172.16.45.2:4502/siteadmin#/content/dam/www-virginmedia-ie/js/business"
          } ],
          "date_added": "13277229767710742",
          "date_modified": "13296316452245103",
