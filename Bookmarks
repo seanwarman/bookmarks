@@ -1,5 +1,5 @@
 {
-   "checksum": "c27fd10878c99bfa8d05de62effd00fc",
+   "checksum": "9ba1e726885c177a36a5eee1b3f8caef",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5337,9 +5337,16 @@
             "name": "XXXX-32829",
             "type": "url",
             "url": "https://receive-smss.com/sms/447548032829/"
+         }, {
+            "date_added": "13296668231386747",
+            "guid": "2521387d-4b18-4de5-b022-348da630b507",
+            "id": "1066",
+            "name": "javascript - Center a popup window on screen? - Stack Overflow",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/4068373/center-a-popup-window-on-screen"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13296662261584991",
+         "date_modified": "13296668231386747",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
