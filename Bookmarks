@@ -1,5 +1,5 @@
 {
-   "checksum": "a4b8a2042792fb48b157f620a868f97d",
+   "checksum": "d1c55efb72f45dce784b1b2ad718e2ff",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5174,26 +5174,12 @@
                "type": "url",
                "url": "http://172.16.42.14:4502/siteadmin#/content/www-virginmedia-ie/en/business"
             }, {
-               "date_added": "13288191257608466",
-               "guid": "0db811ed-a801-4141-bf4c-f9a9b53f9cef",
-               "id": "840",
-               "name": "CRXDE Lite -- Business",
-               "type": "url",
-               "url": "http://172.16.42.14:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business"
-            }, {
                "date_added": "13288273233199591",
                "guid": "43f40caa-692e-462d-a3ab-e513690ce9d1",
                "id": "841",
                "name": "Lonie Handover VIE",
                "type": "url",
                "url": "https://nomensa-my.sharepoint.com/:w:/r/personal/lbenney_nomensa_com/_layouts/15/Doc.aspx?sourcedoc=%7B05A2BEAC-621F-4E9E-A35D-A5715BB9E773%7D&file=VIE%20AEM.docx&action=default&mobileredirect=true"
-            }, {
-               "date_added": "13288289189348155",
-               "guid": "8e3c3006-303a-45ed-b93c-43164804d6eb",
-               "id": "847",
-               "name": "nomensa-template-test-business4",
-               "type": "url",
-               "url": "http://172.16.42.14:4502/cf#/content/www-virginmedia-ie/en/business/testingonly/nomensa-template-test-business4.html"
             }, {
                "date_added": "13288356101135703",
                "guid": "4574010b-b3d8-40a4-b9ef-eb4ee86bf5f1",
