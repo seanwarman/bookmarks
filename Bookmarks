@@ -5313,13 +5313,6 @@
                "name": "VIE-79 Deployment",
                "type": "url",
                "url": "https://nomensa-my.sharepoint.com/personal/swarman_nomensa_com/_layouts/15/doc.aspx?sourcedoc={646f2361-ee93-424f-bd84-eed4c08208b4}&action=edit"
-            }, {
-               "date_added": "13296650758577777",
-               "guid": "605701f4-469b-4465-8681-9ab21496c669",
-               "id": "1057",
-               "name": "business-insights",
-               "type": "url",
-               "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/the-hub/business-insights"
             } ],
             "date_added": "13288191241122479",
             "date_modified": "13296650768440936",
@@ -5327,9 +5320,16 @@
             "id": "838",
             "name": "VIE-079a",
             "type": "folder"
+         }, {
+            "date_added": "13296650758577777",
+            "guid": "605701f4-469b-4465-8681-9ab21496c669",
+            "id": "1057",
+            "name": "business-insights",
+            "type": "url",
+            "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/the-hub/business-insights"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13296556256264817",
+         "date_modified": "13296650772872335",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
