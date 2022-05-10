@@ -1,5 +1,5 @@
 {
-   "checksum": "d1c55efb72f45dce784b1b2ad718e2ff",
+   "checksum": "ed6a8fd553e634822d701fb744ef3826",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5250,13 +5250,6 @@
                "name": "Gitlab",
                "type": "url",
                "url": "https://gitlab.nomensa.com/swarman/virgin-media-ireland"
-            }, {
-               "date_added": "13289302602665541",
-               "guid": "08f499a8-8d81-48a2-92a5-3c430cc154fd",
-               "id": "869",
-               "name": "VIE-079 Search List",
-               "type": "url",
-               "url": "https://nomensa.atlassian.net/issues/?filter=10058&jql=project%20%3D%20%22VIE-079a%20Business%20Site%20optimisation%22%20AND%20status%20!%3D%20Done%20ORDER%20BY%20cf%5B10014%5D%20ASC%2C%20key%20DESC"
             }, {
                "date_added": "13289573107735962",
                "guid": "6484c9c6-442e-4e28-900c-8dc88a961899",
