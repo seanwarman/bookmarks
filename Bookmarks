@@ -1,5 +1,5 @@
 {
-   "checksum": "f90164f6ddf9205cb09c4ff962b96121",
+   "checksum": "08b463849eee5d424fc4396dd40330b6",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4845,9 +4845,16 @@
                   "name": "TypeScript Sandbox",
                   "type": "url",
                   "url": "https://www.typescriptlang.org/dev/sandbox/"
+               }, {
+                  "date_added": "13296650758577777",
+                  "guid": "605701f4-469b-4465-8681-9ab21496c669",
+                  "id": "1057",
+                  "name": "CRXDE Lite",
+                  "type": "url",
+                  "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/the-hub/business-insights"
                } ],
                "date_added": "13295010279012681",
-               "date_modified": "13296650442046221",
+               "date_modified": "13296650758577777",
                "guid": "7dd5d895-6782-4ed8-9063-2b8990eecb6a",
                "id": "975",
                "name": "TRD-002",
