@@ -1,5 +1,5 @@
 {
-   "checksum": "1f9382560549a9a39f04365e32965361",
+   "checksum": "d88d42b1de0a16edf0a1663677c9d9b4",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5338,7 +5338,7 @@
             "date_added": "13296650960567544",
             "guid": "5525933b-a732-4051-b735-32eb517d22a8",
             "id": "1059",
-            "name": "CRXDE Lite",
+            "name": "socialLinks.js",
             "type": "url",
             "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/dam/www-virginmedia-ie/js/business/socialLinks.js"
          } ],
