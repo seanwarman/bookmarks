@@ -1,5 +1,5 @@
 {
-   "checksum": "08b463849eee5d424fc4396dd40330b6",
+   "checksum": "2cda27c81a53bfef85f79961e323d3de",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4845,13 +4845,6 @@
                   "name": "TypeScript Sandbox",
                   "type": "url",
                   "url": "https://www.typescriptlang.org/dev/sandbox/"
-               }, {
-                  "date_added": "13296650758577777",
-                  "guid": "605701f4-469b-4465-8681-9ab21496c669",
-                  "id": "1057",
-                  "name": "CRXDE Lite",
-                  "type": "url",
-                  "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/the-hub/business-insights"
                } ],
                "date_added": "13295010279012681",
                "date_modified": "13296650758577777",
@@ -5320,9 +5313,16 @@
                "name": "VIE-79 Deployment",
                "type": "url",
                "url": "https://nomensa-my.sharepoint.com/personal/swarman_nomensa_com/_layouts/15/doc.aspx?sourcedoc={646f2361-ee93-424f-bd84-eed4c08208b4}&action=edit"
+            }, {
+               "date_added": "13296650758577777",
+               "guid": "605701f4-469b-4465-8681-9ab21496c669",
+               "id": "1057",
+               "name": "business-insights",
+               "type": "url",
+               "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/the-hub/business-insights"
             } ],
             "date_added": "13288191241122479",
-            "date_modified": "13296579427395257",
+            "date_modified": "13296650768440936",
             "guid": "9b3f4914-b517-4bc0-999a-86f3a735266c",
             "id": "838",
             "name": "VIE-079a",
