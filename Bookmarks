@@ -1,5 +1,5 @@
 {
-   "checksum": "40325e44ff8fd34b8cca3523b2aff6f4",
+   "checksum": "9f5aad4aa96344a379effc566660626e",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5185,7 +5185,7 @@
                "date_added": "13296750591524416",
                "guid": "8a95c31f-443e-4d30-8436-af5747fa2755",
                "id": "1068",
-               "name": "[DBW-1266] Endpoints timing out - Nomensa Jira",
+               "name": "[DBW-1266] Endpoints timing out",
                "type": "url",
                "url": "https://nomensa.atlassian.net/browse/DBW-1266"
             } ],
