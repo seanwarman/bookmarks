@@ -1,5 +1,5 @@
 {
-   "checksum": "e44713d0165d8941af6609a6a8cae338",
+   "checksum": "b6f2fc9d6d5744884ce2eec9055ca923",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4981,9 +4981,16 @@
                   "name": "Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.",
                   "type": "url",
                   "url": "https://tailwindcss.com/"
+               }, {
+                  "date_added": "13296973083673942",
+                  "guid": "65220bd3-e3e5-4d74-90ed-85e3ec3fe262",
+                  "id": "1073",
+                  "name": "Installation: Tailwind CLI - Tailwind CSS",
+                  "type": "url",
+                  "url": "https://tailwindcss.com/docs/installation"
                } ],
                "date_added": "13290702618683634",
-               "date_modified": "13296926014988615",
+               "date_modified": "13296973083673942",
                "guid": "bf9788c1-3da7-4cbc-b8ca-728183549178",
                "id": "883",
                "name": "VIE-079 AEM",
