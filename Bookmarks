@@ -1,5 +1,5 @@
 {
-   "checksum": "b6f2fc9d6d5744884ce2eec9055ca923",
+   "checksum": "fc7f70b4277c02d2c72866a4a814271e",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4981,13 +4981,6 @@
                   "name": "Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.",
                   "type": "url",
                   "url": "https://tailwindcss.com/"
-               }, {
-                  "date_added": "13296973083673942",
-                  "guid": "65220bd3-e3e5-4d74-90ed-85e3ec3fe262",
-                  "id": "1073",
-                  "name": "Installation: Tailwind CLI - Tailwind CSS",
-                  "type": "url",
-                  "url": "https://tailwindcss.com/docs/installation"
                } ],
                "date_added": "13290702618683634",
                "date_modified": "13296973083673942",
@@ -5372,9 +5365,16 @@
                "name": "TypeScript Sandbox",
                "type": "url",
                "url": "https://www.typescriptlang.org/dev/sandbox/"
+            }, {
+               "date_added": "13296973083673942",
+               "guid": "65220bd3-e3e5-4d74-90ed-85e3ec3fe262",
+               "id": "1073",
+               "name": "Tailwind CSS",
+               "type": "url",
+               "url": "https://tailwindcss.com/docs/installation"
             } ],
             "date_added": "13295010279012681",
-            "date_modified": "13296650758577777",
+            "date_modified": "13296973104924998",
             "guid": "7dd5d895-6782-4ed8-9063-2b8990eecb6a",
             "id": "975",
             "name": "TRD-002",
