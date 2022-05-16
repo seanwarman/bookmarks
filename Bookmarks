@@ -1,5 +1,5 @@
 {
-   "checksum": "8a416ec2e8191a73144fdb1bb5724528",
+   "checksum": "9bd3c244dd759a57beb76377a81edb07",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5400,9 +5400,16 @@
             "name": "Timesheet",
             "type": "url",
             "url": "https://nomensa.my.workfront.com/timesheet/626f1f5e00c37809a7c91aebaba9aff0/own"
+         }, {
+            "date_added": "13297179511633830",
+            "guid": "854633dc-fe70-4cea-ac07-bdfe088b5990",
+            "id": "1077",
+            "name": "Web sign in with OpenID Connect - Azure Active Directory B2C | Microsoft Docs",
+            "type": "url",
+            "url": "https://docs.microsoft.com/en-gb/azure/active-directory-b2c/openid-connect#get-a-token"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13297175244449792",
+         "date_modified": "13297179511633830",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
