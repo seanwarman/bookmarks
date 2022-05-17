@@ -1,5 +1,5 @@
 {
-   "checksum": "df9e11b7aac9ab5b15f780d4ee3b6032",
+   "checksum": "7f51038bddb3e91ea690b7e5e48b875f",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2305,9 +2305,16 @@
                   "name": "tmux shortcuts & cheatsheet",
                   "type": "url",
                   "url": "https://gist.github.com/MohamedAlaa/2961058"
+               }, {
+                  "date_added": "13297247302236000",
+                  "guid": "27489a10-dd28-46cd-af4c-48fefdb619d7",
+                  "id": "1079",
+                  "name": "Change tmux working directory while in session - Today I Learned",
+                  "type": "url",
+                  "url": "https://til.hashrocket.com/posts/ebvekqrzvx-change-tmux-working-directory-while-in-session"
                } ],
                "date_added": "13277233018945009",
-               "date_modified": "0",
+               "date_modified": "13297247313885666",
                "guid": "681c83a4-6f39-4539-834f-e7cf3a015eed",
                "id": "319",
                "name": "tmux",
@@ -3328,13 +3335,6 @@
                "name": "Advent of Code 2021",
                "type": "url",
                "url": "https://adventofcode.com/"
-            }, {
-               "date_added": "13297247302236000",
-               "guid": "27489a10-dd28-46cd-af4c-48fefdb619d7",
-               "id": "1079",
-               "name": "Change tmux working directory while in session - Today I Learned",
-               "type": "url",
-               "url": "https://til.hashrocket.com/posts/ebvekqrzvx-change-tmux-working-directory-while-in-session"
             } ],
             "date_added": "13277233018935107",
             "date_modified": "13297247302236000",
