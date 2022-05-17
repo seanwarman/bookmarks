@@ -1,5 +1,5 @@
 {
-   "checksum": "af690979ba8e2c4992d9401a0994a2c5",
+   "checksum": "dbf333eb7b078b131c1dccc9452f117a",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5421,9 +5421,16 @@
             "name": "Timesheet",
             "type": "url",
             "url": "https://nomensa.my.workfront.com/timesheet/627859f7007d98863d48c3fb2f03e632/own"
+         }, {
+            "date_added": "13297258930718008",
+            "guid": "be4f10d3-e0cf-4ea5-9a9f-c69f1df8c627",
+            "id": "1081",
+            "name": "Overview of tokens - Azure Active Directory B2C | Microsoft Docs",
+            "type": "url",
+            "url": "https://docs.microsoft.com/en-gb/azure/active-directory-b2c/tokens-overview"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13297249653277227",
+         "date_modified": "13297258930718008",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
