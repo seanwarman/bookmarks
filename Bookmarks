@@ -1,5 +1,5 @@
 {
-   "checksum": "ac3007eddc24e2b3f41fa29926e92ba2",
+   "checksum": "af690979ba8e2c4992d9401a0994a2c5",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5414,13 +5414,6 @@
             "id": "1022",
             "name": "AEM Headless",
             "type": "folder"
-         }, {
-            "date_added": "13297165077550231",
-            "guid": "d9152c84-3a07-407d-ba70-d69fe39aa87f",
-            "id": "1074",
-            "name": "Timesheet",
-            "type": "url",
-            "url": "https://nomensa.my.workfront.com/timesheet/626f1f5e00c37809a7c91aebaba9aff0/own"
          }, {
             "date_added": "13297249645174799",
             "guid": "455bfbec-32f1-454d-bbae-8ff8a9e12e70",
