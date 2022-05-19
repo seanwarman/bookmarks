@@ -1,5 +1,5 @@
 {
-   "checksum": "f6065ef990caa9af18f9b23b808432a8",
+   "checksum": "0356173aebf242589ade7e20d57ad670",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5368,7 +5368,7 @@
                "date_added": "13297440472132264",
                "guid": "aa355215-252c-4be2-9435-7061090c3eeb",
                "id": "1082",
-               "name": "SBW Cases Dashboard - Dynamics 365",
+               "name": "Dynamics (qa)",
                "type": "url",
                "url": "https://dbowcmsqa.crm11.dynamics.com/main.aspx?appid=b19a77eb-a388-eb11-b1ac-000d3a7ec1ce&pagetype=dashboard&type=system&_canOverride=true"
             } ],
