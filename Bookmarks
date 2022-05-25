@@ -1,5 +1,5 @@
 {
-   "checksum": "0356173aebf242589ade7e20d57ad670",
+   "checksum": "405bb4b61143ca22c8297dd0a4b81892",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5371,9 +5371,16 @@
                "name": "Dynamics (qa)",
                "type": "url",
                "url": "https://dbowcmsqa.crm11.dynamics.com/main.aspx?appid=b19a77eb-a388-eb11-b1ac-000d3a7ec1ce&pagetype=dashboard&type=system&_canOverride=true"
+            }, {
+               "date_added": "13297954869103885",
+               "guid": "0a1e4465-e938-4b0b-8ded-9e5242259057",
+               "id": "1083",
+               "name": "Default values for props with script setup and TypeScript - Get Help - Vue Forum",
+               "type": "url",
+               "url": "https://forum.vuejs.org/t/default-values-for-props-with-script-setup-and-typescript/106643/6"
             } ],
             "date_added": "13278523099009541",
-            "date_modified": "13297440472132264",
+            "date_modified": "13297954869103885",
             "guid": "66944d1e-0cb0-48a1-99ce-575ad338b9f4",
             "id": "471",
             "name": "DBW",
