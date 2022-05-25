@@ -1,5 +1,5 @@
 {
-   "checksum": "405bb4b61143ca22c8297dd0a4b81892",
+   "checksum": "dcd45f39c15411e7bd9c9f2b7de1e5f3",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5198,9 +5198,16 @@
                "name": "Tailwind CSS",
                "type": "url",
                "url": "https://tailwindcss.com/docs/installation"
+            }, {
+               "date_added": "13297954869103885",
+               "guid": "0a1e4465-e938-4b0b-8ded-9e5242259057",
+               "id": "1083",
+               "name": "Default values for props",
+               "type": "url",
+               "url": "https://forum.vuejs.org/t/default-values-for-props-with-script-setup-and-typescript/106643/6"
             } ],
             "date_added": "13295010279012681",
-            "date_modified": "13296973104924998",
+            "date_modified": "13297954880767802",
             "guid": "7dd5d895-6782-4ed8-9063-2b8990eecb6a",
             "id": "975",
             "name": "TRD-002",
@@ -5371,13 +5378,6 @@
                "name": "Dynamics (qa)",
                "type": "url",
                "url": "https://dbowcmsqa.crm11.dynamics.com/main.aspx?appid=b19a77eb-a388-eb11-b1ac-000d3a7ec1ce&pagetype=dashboard&type=system&_canOverride=true"
-            }, {
-               "date_added": "13297954869103885",
-               "guid": "0a1e4465-e938-4b0b-8ded-9e5242259057",
-               "id": "1083",
-               "name": "Default values for props with script setup and TypeScript - Get Help - Vue Forum",
-               "type": "url",
-               "url": "https://forum.vuejs.org/t/default-values-for-props-with-script-setup-and-typescript/106643/6"
             } ],
             "date_added": "13278523099009541",
             "date_modified": "13297954869103885",
