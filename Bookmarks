@@ -1,5 +1,5 @@
 {
-   "checksum": "dcd45f39c15411e7bd9c9f2b7de1e5f3",
+   "checksum": "5500447015fb2b30758345ba109b9251",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5205,9 +5205,16 @@
                "name": "Default values for props",
                "type": "url",
                "url": "https://forum.vuejs.org/t/default-values-for-props-with-script-setup-and-typescript/106643/6"
+            }, {
+               "date_added": "13298351029116685",
+               "guid": "10944748-d027-4f19-b3fe-0fb81a59d924",
+               "id": "1085",
+               "name": "Tutorials | ProtoSchool",
+               "type": "url",
+               "url": "https://proto.school/tutorials"
             } ],
             "date_added": "13295010279012681",
-            "date_modified": "13297954880767802",
+            "date_modified": "13298351029116685",
             "guid": "7dd5d895-6782-4ed8-9063-2b8990eecb6a",
             "id": "975",
             "name": "TRD-002",
