@@ -1,5 +1,5 @@
 {
-   "checksum": "5500447015fb2b30758345ba109b9251",
+   "checksum": "c01d84e11244fa928311890afcd8c4f1",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3335,9 +3335,16 @@
                "name": "Advent of Code 2021",
                "type": "url",
                "url": "https://adventofcode.com/"
+            }, {
+               "date_added": "13298351029116685",
+               "guid": "10944748-d027-4f19-b3fe-0fb81a59d924",
+               "id": "1085",
+               "name": "Tutorials | ProtoSchool",
+               "type": "url",
+               "url": "https://proto.school/tutorials"
             } ],
             "date_added": "13277233018935107",
-            "date_modified": "13297247302236000",
+            "date_modified": "13298351033543417",
             "guid": "460e0d6f-fc4c-459a-9e3a-7fe9169d4a93",
             "id": "176",
             "name": "Personal",
@@ -5205,13 +5212,6 @@
                "name": "Default values for props",
                "type": "url",
                "url": "https://forum.vuejs.org/t/default-values-for-props-with-script-setup-and-typescript/106643/6"
-            }, {
-               "date_added": "13298351029116685",
-               "guid": "10944748-d027-4f19-b3fe-0fb81a59d924",
-               "id": "1085",
-               "name": "Tutorials | ProtoSchool",
-               "type": "url",
-               "url": "https://proto.school/tutorials"
             } ],
             "date_added": "13295010279012681",
             "date_modified": "13298351029116685",
