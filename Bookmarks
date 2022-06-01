@@ -1,5 +1,5 @@
 {
-   "checksum": "fcb0880c722b5a2bf90f75636b77892d",
+   "checksum": "68316a3ec02ff2a3015a008095a3174a",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3306,9 +3306,16 @@
                   "name": "Dat Ecosystem",
                   "type": "url",
                   "url": "https://dat-ecosystem.org/"
+               }, {
+                  "date_added": "13298581092406209",
+                  "guid": "50d5dd9e-92f4-41f5-9160-518eb5fc3870",
+                  "id": "1094",
+                  "name": "kappa-db/kappa-core at d189280e719da49e6a6e83f85dca3fa7cd0745e4",
+                  "type": "url",
+                  "url": "https://github.com/kappa-db/kappa-core/tree/d189280e719da49e6a6e83f85dca3fa7cd0745e4"
                } ],
                "date_added": "13295135711582549",
-               "date_modified": "13298557048762178",
+               "date_modified": "13298581092406209",
                "guid": "405cf133-e1ce-45fe-becb-643164e46366",
                "id": "994",
                "name": "Peer to peer",
