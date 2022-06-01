@@ -1,5 +1,5 @@
 {
-   "checksum": "96156cea619ac55bce5095aabdfff71e",
+   "checksum": "8a76adb3392d6bb4d6e636a475e8b828",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5463,13 +5463,6 @@
             "id": "471",
             "name": "DBW",
             "type": "folder"
-         }, {
-            "date_added": "13297249645174799",
-            "guid": "455bfbec-32f1-454d-bbae-8ff8a9e12e70",
-            "id": "1080",
-            "name": "Timesheet",
-            "type": "url",
-            "url": "https://nomensa.my.workfront.com/timesheet/627859f7007d98863d48c3fb2f03e632/own"
          }, {
             "date_added": "13298548045499516",
             "guid": "e3b49d6a-ef33-4b20-88d1-ecf1f9c438fd",
