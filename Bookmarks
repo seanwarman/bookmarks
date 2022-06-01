@@ -1,5 +1,5 @@
 {
-   "checksum": "68316a3ec02ff2a3015a008095a3174a",
+   "checksum": "397ecabf2a8ac5516d8a01a6b3d07aab",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3310,7 +3310,7 @@
                   "date_added": "13298581092406209",
                   "guid": "50d5dd9e-92f4-41f5-9160-518eb5fc3870",
                   "id": "1094",
-                  "name": "kappa-db/kappa-core at d189280e719da49e6a6e83f85dca3fa7cd0745e4",
+                  "name": "kappa-db - merkle tree db",
                   "type": "url",
                   "url": "https://github.com/kappa-db/kappa-core/tree/d189280e719da49e6a6e83f85dca3fa7cd0745e4"
                } ],
