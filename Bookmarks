@@ -1,5 +1,5 @@
 {
-   "checksum": "d905c63f9de5303eff8874f97a0027fa",
+   "checksum": "d708e6b2621fa6441a389fa3565320d4",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5505,13 +5505,6 @@
             "id": "838",
             "name": "VIE-079a",
             "type": "folder"
-         }, {
-            "date_added": "13298548045499516",
-            "guid": "e3b49d6a-ef33-4b20-88d1-ecf1f9c438fd",
-            "id": "1091",
-            "name": "Timesheets",
-            "type": "url",
-            "url": "https://nomensa.my.workfront.com/timesheets"
          }, {
             "date_added": "13299237237736220",
             "guid": "4c25ff3d-4b0d-47f8-abcd-fc7de0a9cc3c",
