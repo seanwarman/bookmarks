@@ -1,5 +1,5 @@
 {
-   "checksum": "08081da8e56ce12981dac72b0b49a12a",
+   "checksum": "6b20b1774b0eca8a5eefb8e799d58663",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5320,9 +5320,16 @@
                   "name": "facebook pixel template",
                   "type": "url",
                   "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/templated/facebook-pixel"
+               }, {
+                  "date_added": "13299251523951578",
+                  "guid": "54b66e58-a7ed-4253-b3c4-4398cc9ae06c",
+                  "id": "1103",
+                  "name": "Events Manager",
+                  "type": "url",
+                  "url": "https://www.facebook.com/events_manager2/list/pixel/697140714727112/overview?act=438045338165042"
                } ],
                "date_added": "13290702628461546",
-               "date_modified": "13299241031552798",
+               "date_modified": "13299251523951578",
                "guid": "d26eb654-7db1-4388-86b0-a5e9c8514a51",
                "id": "884",
                "name": "VIE-079 CRXDE",
