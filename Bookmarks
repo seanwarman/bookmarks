@@ -1,5 +1,5 @@
 {
-   "checksum": "21eded81fb27a67563b04a4dcea3a7c3",
+   "checksum": "8ceaa3019d60e103e1ecfe65178ac9a1",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5509,7 +5509,7 @@
                "date_added": "13299251523951578",
                "guid": "54b66e58-a7ed-4253-b3c4-4398cc9ae06c",
                "id": "1103",
-               "name": "Events Manager (F",
+               "name": "Events Manager (FB Pixel)",
                "type": "url",
                "url": "https://www.facebook.com/events_manager2/list/pixel/697140714727112/overview?act=438045338165042"
             } ],
