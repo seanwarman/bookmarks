@@ -1,5 +1,5 @@
 {
-   "checksum": "157d9a9093912f60ebf2b581ff6f11b5",
+   "checksum": "55fab7c8e42242ffa75330cd83682b57",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5478,13 +5478,6 @@
                "name": "[DBW-1266] Endpoints timing out",
                "type": "url",
                "url": "https://nomensa.atlassian.net/browse/DBW-1266"
-            }, {
-               "date_added": "13296757430247953",
-               "guid": "b574410e-0265-4f9c-88a5-6d202e419e33",
-               "id": "1069",
-               "name": "Modules | Vuex",
-               "type": "url",
-               "url": "https://vuex.vuejs.org/guide/modules.html#namespacing"
             }, {
                "date_added": "13297179511633830",
                "guid": "854633dc-fe70-4cea-ac07-bdfe088b5990",
