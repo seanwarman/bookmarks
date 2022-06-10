@@ -1,5 +1,5 @@
 {
-   "checksum": "8ceaa3019d60e103e1ecfe65178ac9a1",
+   "checksum": "b74add5c7ab49f11de1daab50e650417",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4885,187 +4885,349 @@
                "type": "folder"
             }, {
                "children": [ {
-                  "date_added": "13281613168758048",
-                  "guid": "8f0c1458-fc88-4d69-ae55-8794f022d182",
-                  "id": "602",
-                  "name": "Standup",
-                  "type": "url",
-                  "url": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_ZGMxYjI4OGYtNzAwOC00ZTFmLWFkYTQtM2E4MmExMzgyZjYx%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522ebea4ad6-fbbf-43bd-8449-c56e26692c35%2522%252c%2522Oid%2522%253a%252251a4bccb-f13d-4152-aa08-0812f422e279%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=6a7ef85e-035d-446a-8a4b-11fd4ca4861f&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true"
-               }, {
-                  "date_added": "13282068803042920",
-                  "guid": "9ca5a96a-4166-4be1-ac99-88f87435406a",
-                  "id": "659",
-                  "name": "Afternoon Standup",
-                  "type": "url",
-                  "url": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_YTFkM2RhZDQtN2FjNy00MzlmLWJmN2ItZTk1ZjI3NWRhMmJl%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522ebea4ad6-fbbf-43bd-8449-c56e26692c35%2522%252c%2522Oid%2522%253a%25220ae01af5-4c97-4787-b89f-7794acc3159a%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=db50b671-de86-4eb5-b7c0-7890c2794334&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true"
-               }, {
                   "children": [ {
-                     "date_added": "13281103989048990",
-                     "guid": "89d7b9fd-8af4-4988-a649-e268bb45f692",
-                     "id": "581",
-                     "name": "dev",
+                     "date_added": "13293898867350138",
+                     "guid": "3076a0f2-edd5-4634-9219-8a710b0674c6",
+                     "id": "953",
+                     "name": "Dam icons",
                      "type": "url",
-                     "url": "https://web-app-sbwportal-dev.azurewebsites.net/"
+                     "url": "http://172.16.45.2:4502/damadmin#/content/dam/www-virginmedia-ie/img/Business/icons"
                   }, {
-                     "date_added": "13281104001378677",
-                     "guid": "c202f396-f86c-4870-9346-6c8a6c7c87f8",
-                     "id": "582",
-                     "name": "qa",
+                     "date_added": "13290702318728545",
+                     "guid": "6df88ad2-82c4-4b35-9410-fe85a9b3ac7b",
+                     "id": "880",
+                     "name": "Templates",
                      "type": "url",
-                     "url": "https://web-app-sbwportal-qa.azurewebsites.net/"
+                     "url": "http://172.16.45.2:4502/siteadmin#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/templates"
                   }, {
-                     "date_added": "13281104166572136",
-                     "guid": "2ba270b1-53f6-446a-8dce-115375f50a30",
-                     "id": "583",
-                     "name": "uat",
+                     "date_added": "13290702350432479",
+                     "guid": "3e4fdc85-d029-41ef-a04d-16aaff0ca309",
+                     "id": "881",
+                     "name": "Templated",
                      "type": "url",
-                     "url": "https://web-app-sbwportal-test.azurewebsites.net/"
+                     "url": "http://172.16.45.2:4502/siteadmin#/content/www-virginmedia-ie/templated/business/Nomensa"
+                  }, {
+                     "date_added": "13290702371017428",
+                     "guid": "7b0c021b-0a94-4a3f-b0b5-91024229b316",
+                     "id": "882",
+                     "name": "Template Sections",
+                     "type": "url",
+                     "url": "http://172.16.45.2:4502/siteadmin#/content/www-virginmedia-ie/en/business/template-sections"
+                  }, {
+                     "date_added": "13294838211918995",
+                     "guid": "8375eb9f-2021-4255-96e5-6ca6f8bd84ca",
+                     "id": "968",
+                     "name": "template-sections -- dev",
+                     "type": "url",
+                     "url": "http://172.16.45.2:4502/siteadmin#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/template-sections"
+                  }, {
+                     "date_added": "13293795625629994",
+                     "guid": "ed81ce20-ce2d-406f-a717-bf28c3aa3d4c",
+                     "id": "942",
+                     "name": "Blog Dir",
+                     "type": "url",
+                     "url": "http://172.16.45.2:4502/siteadmin#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/the-hub/business-insights"
+                  }, {
+                     "date_added": "13296656387605723",
+                     "guid": "2d9c79d6-30d0-4470-b43d-20935c02d3af",
+                     "id": "1060",
+                     "name": "socialLinks.js",
+                     "type": "url",
+                     "url": "http://172.16.45.2:4502/siteadmin#/content/dam/www-virginmedia-ie/js/business"
+                  }, {
+                     "date_added": "13296656400575430",
+                     "guid": "66ba5c17-e605-4e6b-93f3-3f078b8475c0",
+                     "id": "1061",
+                     "name": "business-insights",
+                     "type": "url",
+                     "url": "http://172.16.45.2:4502/siteadmin#/content/www-virginmedia-ie/en/business/the-hub/business-insights"
+                  }, {
+                     "date_added": "13299064520090622",
+                     "guid": "2f8689b1-af78-41bd-baf2-2ab09b812f96",
+                     "id": "1096",
+                     "name": "NOMbusinessSiteOptimisation.css",
+                     "type": "url",
+                     "url": "http://172.16.45.2:4502/siteadmin#/content/dam/www-virginmedia-ie/css/business"
                   } ],
-                  "date_added": "13281103986595176",
-                  "date_modified": "13281104752884869",
-                  "guid": "ccd52352-6d47-45dd-8686-15a5e0abebe5",
-                  "id": "580",
-                  "name": "Environments",
+                  "date_added": "13290702618683634",
+                  "date_modified": "13299174330594643",
+                  "guid": "bf9788c1-3da7-4cbc-b8ca-728183549178",
+                  "id": "883",
+                  "name": "VIE-079 AEM",
                   "type": "folder"
                }, {
                   "children": [ {
-                     "date_added": "13278676776708733",
-                     "guid": "b1a771eb-19e1-4022-b841-e3bc9341efd2",
-                     "id": "477",
-                     "name": "B2C Tenants",
+                     "date_added": "13290702702310580",
+                     "guid": "76dc767e-91e1-422e-aed4-2ffc7a1491d5",
+                     "id": "886",
+                     "name": "Templates",
                      "type": "url",
-                     "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.AzureActiveDirectory%2Fb2cDirectories"
+                     "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/templates"
                   }, {
-                     "date_added": "13281104752884869",
-                     "guid": "4c4a0647-c1cb-4dca-abac-00ee73154b8a",
-                     "id": "584",
-                     "name": "Resource groups",
+                     "date_added": "13290702730526512",
+                     "guid": "058452df-fbff-4a5c-8c97-4d5069536886",
+                     "id": "887",
+                     "name": "Templated",
                      "type": "url",
-                     "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceGroups"
+                     "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/templated/business/Nomensa"
                   }, {
-                     "date_added": "13281112101009299",
-                     "guid": "794bcd5c-658b-4f03-9a15-cdea4e9d3503",
-                     "id": "586",
-                     "name": "My Issues Filter",
+                     "date_added": "13290702655420910",
+                     "guid": "4f903f79-ab54-45cc-8d37-03589222b404",
+                     "id": "885",
+                     "name": "Template Sections",
                      "type": "url",
-                     "url": "https://nomensa.atlassian.net/browse/DBW-1082?jql=project%20%3D%20DBW%20AND%20status%20in%20(Blocked%2C%20%22In%20Development%22%2C%20Open%2C%20%22Ready%20for%20peer%20review%22)%20AND%20assignee%20in%20(currentUser())%20ORDER%20BY%20status%20DESC%2C%20created%20DESC"
+                     "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/template-sections"
+                  }, {
+                     "date_added": "13291130465028996",
+                     "guid": "36c23e51-f6a0-4168-a4b4-4e0e5a14cfd4",
+                     "id": "892",
+                     "name": "NOMbusinessSiteOptimisation",
+                     "type": "url",
+                     "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/dam/www-virginmedia-ie/css/business/NOMbusinessSiteOptimisation.css"
+                  }, {
+                     "date_added": "13294336015696099",
+                     "guid": "662cb3e3-d33d-4064-8062-49751a7e598d",
+                     "id": "961",
+                     "name": "Downloads",
+                     "type": "url",
+                     "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/downloads/business-growth-with-facebook-downloads"
+                  }, {
+                     "date_added": "13294403899265435",
+                     "guid": "68ca762a-c60f-41dc-ae1c-2bd6ca526389",
+                     "id": "964",
+                     "name": "Business Cards",
+                     "type": "url",
+                     "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/template-sections/grey-carousel-with-content/jcr%3Acontent/background_fullwidth/grey-carousel/section_content/extendedslider"
+                  }, {
+                     "date_added": "13296650758577777",
+                     "guid": "605701f4-469b-4465-8681-9ab21496c669",
+                     "id": "1057",
+                     "name": "business-insights",
+                     "type": "url",
+                     "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/the-hub/business-insights"
+                  }, {
+                     "date_added": "13296650801842774",
+                     "guid": "0580e100-7a91-46e2-a13c-5857704304f6",
+                     "id": "1058",
+                     "name": "t14",
+                     "type": "url",
+                     "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/nomensa/business/templates/template-14/jcr%3Acontent"
+                  }, {
+                     "date_added": "13296650960567544",
+                     "guid": "5525933b-a732-4051-b735-32eb517d22a8",
+                     "id": "1059",
+                     "name": "socialLinks.js",
+                     "type": "url",
+                     "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/dam/www-virginmedia-ie/js/business/socialLinks.js"
+                  }, {
+                     "date_added": "13299241012823732",
+                     "guid": "253e1c0c-edf2-474c-a6cd-60b2d8d3552d",
+                     "id": "1102",
+                     "name": "facebook pixel template",
+                     "type": "url",
+                     "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/templated/facebook-pixel"
                   } ],
-                  "date_added": "13278156700052525",
-                  "date_modified": "13281177593770441",
-                  "guid": "1ea18671-8cd1-44a8-83fe-beaaa937c566",
-                  "id": "458",
-                  "name": "Azure (DBW)",
+                  "date_added": "13290702628461546",
+                  "date_modified": "13299251523951578",
+                  "guid": "d26eb654-7db1-4388-86b0-a5e9c8514a51",
+                  "id": "884",
+                  "name": "VIE-079 CRXDE",
                   "type": "folder"
                }, {
                   "children": [ {
-                     "date_added": "13278159933826981",
-                     "guid": "75e6f4ae-8606-4b66-aede-d3fca5ca3568",
-                     "id": "462",
-                     "name": "SbwPortalDeploy",
+                     "date_added": "13293876872683790",
+                     "guid": "b118fa89-ed59-4114-9e0a-65fd35678f39",
+                     "id": "948",
+                     "name": "Clients File Share - Content Loading - All Documents",
                      "type": "url",
-                     "url": "https://dev.azure.com/DBoW/Nomensa/_git/SbwPortalDeploy"
+                     "url": "https://nomensa.sharepoint.com/sites/File-Share-Clients/Shared%20Documents/Forms/AllItems.aspx?newTargetListUrl=%2Fsites%2FFile%2DShare%2DClients%2FShared%20Documents&viewpath=%2Fsites%2FFile%2DShare%2DClients%2FShared%20Documents%2FForms%2FAllItems%2Easpx&id=%2Fsites%2FFile%2DShare%2DClients%2FShared%20Documents%2F02%5FCurrent%2DClients%2FVirgin%2DMedia%2DIreland%2FVIE%2D079a%5FBusiness%2Dsite%2Doptimisation%5F2021%2D07%2F04%5FContent%2FContent%20Loading&viewid=ba62b45d%2D1c11%2D431d%2Dbcd2%2Dba5d2d50c0a5&OR=Teams%2DHL&CT=1649321080390&params=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyOC8yMjAzMDcwMTYxMCJ9"
+                  }, {
+                     "date_added": "13294335871828373",
+                     "guid": "c14d8ca6-9446-4301-a054-01eb81797ef2",
+                     "id": "960",
+                     "name": "VIE-79 Deployment",
+                     "type": "url",
+                     "url": "https://nomensa-my.sharepoint.com/personal/swarman_nomensa_com/_layouts/15/doc.aspx?sourcedoc={646f2361-ee93-424f-bd84-eed4c08208b4}&action=edit"
+                  }, {
+                     "date_added": "13288273233199591",
+                     "guid": "43f40caa-692e-462d-a3ab-e513690ce9d1",
+                     "id": "841",
+                     "name": "Lonie Handover VIE",
+                     "type": "url",
+                     "url": "https://nomensa-my.sharepoint.com/:w:/r/personal/lbenney_nomensa_com/_layouts/15/Doc.aspx?sourcedoc=%7B05A2BEAC-621F-4E9E-A35D-A5715BB9E773%7D&file=VIE%20AEM.docx&action=default&mobileredirect=true"
+                  }, {
+                     "date_added": "13293708596090911",
+                     "guid": "8ec8b450-c8fa-4997-a46d-207c0c0bd006",
+                     "id": "927",
+                     "name": "Content Load Spreadsheet",
+                     "type": "url",
+                     "url": "https://nomensa.sharepoint.com/:x:/r/sites/File-Share-Clients/_layouts/15/Doc.aspx?sourcedoc=%7B3C514F18-4245-413E-8995-8CD0C93FE746%7D&file=Content%20Load%20Spreadsheet.xlsx&wdOrigin=OFFICECOM-WEB.START.REC&ct=1649234985146&action=default&mobileredirect=true"
+                  }, {
+                     "date_added": "13296579408936921",
+                     "guid": "fff1e18f-9474-4543-bc90-a1b573e8026c",
+                     "id": "1055",
+                     "name": "VIE Business - new site deployment - Google Sheets",
+                     "type": "url",
+                     "url": "https://docs.google.com/spreadsheets/d/1YG2pNKQQnflJ1EYxjwy6Kd6jJ3WaduMYvnDSGxyYFZk/edit#gid=0"
                   } ],
-                  "date_added": "13281103865477609",
-                  "date_modified": "13281103874016602",
-                  "guid": "2fb6d8e5-47e3-4722-9d8c-4c2ec6283f95",
-                  "id": "579",
-                  "name": "Repo",
+                  "date_added": "13296658053565858",
+                  "date_modified": "13296658076044848",
+                  "guid": "532bb8ff-ce84-4571-9f1f-eb6a6c5f981c",
+                  "id": "1062",
+                  "name": "Sharepoint",
                   "type": "folder"
                }, {
                   "children": [ {
-                     "date_added": "13281199523197996",
-                     "guid": "494a7c29-c4c9-414a-914b-82bb795df532",
-                     "id": "589",
-                     "name": "Parsley - The ultimate documentation",
+                     "date_added": "13288356101135703",
+                     "guid": "4574010b-b3d8-40a4-b9ef-eb4ee86bf5f1",
+                     "id": "848",
+                     "name": "Miro Designs",
                      "type": "url",
-                     "url": "https://parsleyjs.org/doc/index.html#validators"
+                     "url": "https://miro.com/app/board/uXjVOd_fOz0=/?invite_link_id=548902899814"
                   }, {
-                     "date_added": "13281621947684349",
-                     "guid": "e275dd19-57c0-47aa-aa40-bb166499746b",
-                     "id": "604",
-                     "name": "List of Emoji Flags",
+                     "date_added": "13288956655451354",
+                     "guid": "13c256aa-6fe2-4ffc-a054-33cb17fef738",
+                     "id": "866",
+                     "name": "VIE Business - Zeplin",
                      "type": "url",
-                     "url": "https://emojipedia.org/flags/"
+                     "url": "https://app.zeplin.io/project/62013cf8844996a2272bdec3/dashboard?sid=62029ee18ac4630c68ea4858"
+                  }, {
+                     "date_added": "13288783070102066",
+                     "guid": "aa1ccce6-8e66-4df5-ba4f-f27a39ab3985",
+                     "id": "863",
+                     "name": "Fancy Border Radius Generator",
+                     "type": "url",
+                     "url": "https://9elements.github.io/fancy-border-radius/#71.73.100.100--."
                   } ],
-                  "date_added": "13281613366137148",
-                  "date_modified": "13281697892133481",
-                  "guid": "be068676-0e0b-4df0-8815-e064c9a9529b",
-                  "id": "603",
-                  "name": "Docs",
+                  "date_added": "13296658083961197",
+                  "date_modified": "13296658145668251",
+                  "guid": "2a484d06-f4d1-46aa-a54c-32678574575a",
+                  "id": "1063",
+                  "name": "Designs",
                   "type": "folder"
                }, {
-                  "date_added": "13283943963328796",
-                  "guid": "d4dccfc9-cc85-49c1-9469-da25310cdf75",
-                  "id": "768",
-                  "name": "Self Build Dev",
-                  "type": "url",
-                  "url": "https://selfbuild-dev.stimulize.co.uk/"
+                  "children": [ {
+                     "date_added": "13288708535589582",
+                     "guid": "972a0131-e4a7-4d60-9334-af6d4b9d3ca2",
+                     "id": "862",
+                     "name": "Canonical Tags",
+                     "type": "url",
+                     "url": "https://ahrefs.com/blog/canonical-tags/"
+                  }, {
+                     "date_added": "13288702372139212",
+                     "guid": "f087fa45-ae19-49c7-b573-c7f34f5de36c",
+                     "id": "861",
+                     "name": "Deepcrawl",
+                     "type": "url",
+                     "url": "https://analyze.deepcrawl.com/accounts/40192/projects/376668/crawls/4200910?type=dashboard"
+                  } ],
+                  "date_added": "13296658128097036",
+                  "date_modified": "13296658135792140",
+                  "guid": "31973a5b-1063-4cb8-a31f-9e8943657598",
+                  "id": "1064",
+                  "name": "SEO",
+                  "type": "folder"
                }, {
-                  "date_added": "13278174515659905",
-                  "guid": "4dd2d9c3-b64b-4dc6-a162-de46b720f75f",
-                  "id": "464",
-                  "name": "Jira (DBW)",
+                  "date_added": "13286633022814262",
+                  "guid": "5e5f43b2-a1de-4a3f-9069-3e742bf1a382",
+                  "id": "819",
+                  "name": "AEM UAT",
                   "type": "url",
-                  "url": "https://nomensa.atlassian.net/secure/RapidBoard.jspa?rapidView=23"
+                  "url": "http://172.16.42.14:4502/libs/granite/core/content/login.html?resource=%2Fsiteadmin&%24%24login%24%24=%24%24login%24%24&j_reason=unknown&j_reason_code=unknown#/content/www-virginmedia-ie"
                }, {
-                  "date_added": "13296750591524416",
-                  "guid": "8a95c31f-443e-4d30-8436-af5747fa2755",
-                  "id": "1068",
-                  "name": "[DBW-1266] Endpoints timing out",
+                  "date_added": "13282844493796298",
+                  "guid": "4c6f0e3d-952c-4bbc-b0cb-ea36d769dba5",
+                  "id": "703",
+                  "name": "AEM Live",
                   "type": "url",
-                  "url": "https://nomensa.atlassian.net/browse/DBW-1266"
+                  "url": "http://172.16.45.2:4502/libs/granite/core/content/login.html?resource=%2F&$$login$$=%24%24login%24%24&j_reason=unknown&j_reason_code=unknown"
                }, {
-                  "date_added": "13296757430247953",
-                  "guid": "b574410e-0265-4f9c-88a5-6d202e419e33",
-                  "id": "1069",
-                  "name": "Modules | Vuex",
+                  "date_added": "13291219421420232",
+                  "guid": "da35f4ad-feee-44c7-bd00-0d8e71361bfe",
+                  "id": "893",
+                  "name": "Task planning",
                   "type": "url",
-                  "url": "https://vuex.vuejs.org/guide/modules.html#namespacing"
+                  "url": "https://miro.com/app/board/uXjVOM8J-Pg=/"
                }, {
-                  "date_added": "13278182732210528",
-                  "guid": "38730227-ce59-4546-9211-29046eda3e19",
-                  "id": "465",
-                  "name": "Dynamics 365",
+                  "date_added": "13288812370099906",
+                  "guid": "08d8befe-3129-465c-9e43-9f4904efecd8",
+                  "id": "864",
+                  "name": "[VBO-54] Content - Nomensa Jira",
                   "type": "url",
-                  "url": "https://dbowcmsdev.crm11.dynamics.com/main.aspx?appid=fb1420ee-7a06-41b0-9f22-db6b86337786&cmdbar=true&forceUCI=1&pagetype=entitylist&etn=incident&viewid=d3118a3a-72bd-eb11-bacc-0022481a9da7&viewType=1039"
+                  "url": "https://nomensa.atlassian.net/browse/VBO-54"
                }, {
-                  "date_added": "13297179511633830",
-                  "guid": "854633dc-fe70-4cea-ac07-bdfe088b5990",
-                  "id": "1077",
-                  "name": "Auth Tokens",
+                  "date_added": "13289069955931316",
+                  "guid": "869313a5-dae9-4dbc-ad7d-5476721bafbf",
+                  "id": "867",
+                  "name": "Gitlab",
                   "type": "url",
-                  "url": "https://docs.microsoft.com/en-gb/azure/active-directory-b2c/openid-connect#get-a-token"
+                  "url": "https://gitlab.nomensa.com/swarman/virgin-media-ireland"
                }, {
-                  "date_added": "13297258930718008",
-                  "guid": "be4f10d3-e0cf-4ea5-9a9f-c69f1df8c627",
-                  "id": "1081",
-                  "name": "Overview of tokens - Azure Active Directory B2C | Microsoft Docs",
+                  "date_added": "13289573107735962",
+                  "guid": "6484c9c6-442e-4e28-900c-8dc88a961899",
+                  "id": "874",
+                  "name": "SVG Path Editor · aydos.com",
                   "type": "url",
-                  "url": "https://docs.microsoft.com/en-gb/azure/active-directory-b2c/tokens-overview"
+                  "url": "https://aydos.com/svgedit/"
                }, {
-                  "date_added": "13297440472132264",
-                  "guid": "aa355215-252c-4be2-9435-7061090c3eeb",
-                  "id": "1082",
-                  "name": "Dynamics (qa)",
+                  "date_added": "13296668231386747",
+                  "guid": "2521387d-4b18-4de5-b022-348da630b507",
+                  "id": "1066",
+                  "name": "javascript - Center a popup window on screen? - Stack Overflow",
                   "type": "url",
-                  "url": "https://dbowcmsqa.crm11.dynamics.com/main.aspx?appid=b19a77eb-a388-eb11-b1ac-000d3a7ec1ce&pagetype=dashboard&type=system&_canOverride=true"
+                  "url": "https://stackoverflow.com/questions/4068373/center-a-popup-window-on-screen"
                }, {
-                  "date_added": "13298395272569764",
-                  "guid": "5d6f7105-4da4-4a81-9283-132fac1ab38f",
-                  "id": "1087",
-                  "name": "reCAPTCHA",
+                  "date_added": "13296668240816666",
+                  "guid": "e329411d-33f6-434c-a1bd-c883948bc29e",
+                  "id": "1067",
+                  "name": "Open Popup window using javascript - Stack Overflow",
                   "type": "url",
-                  "url": "https://www.google.com/recaptcha/admin/site/539151080/settings"
+                  "url": "https://stackoverflow.com/questions/14351771/open-popup-window-using-javascript"
+               }, {
+                  "date_added": "13296924145632055",
+                  "guid": "b00766ac-87ce-433f-97c3-37e18c9cdd39",
+                  "id": "1071",
+                  "name": "VIE-079_TechnicalAudit_NomensaIssues.xlsx",
+                  "type": "url",
+                  "url": "https://nomensa.sharepoint.com/:x:/s/File-Share-Clients/Ec3qQ29u7OtPlUPgBWaA4FMBDT-wSary91xt0nA5xCa9Fw"
+               }, {
+                  "date_added": "13297173603432527",
+                  "guid": "8bd75387-1f27-436c-ac16-6d9e9334f39f",
+                  "id": "1076",
+                  "name": "Robots Meta Tags Specifications | Google Search Central  |  Documentation  |  Google Developers",
+                  "type": "url",
+                  "url": "https://developers.google.com/search/docs/advanced/robots/robots_meta_tag"
+               }, {
+                  "date_added": "13299174321885547",
+                  "guid": "ade517bb-628d-402a-92bb-8b4b99a1e51e",
+                  "id": "1098",
+                  "name": "Get Started - Meta Pixel",
+                  "type": "url",
+                  "url": "https://developers.facebook.com/docs/meta-pixel/get-started#installing-the-pixel"
+               }, {
+                  "date_added": "13299236644173460",
+                  "guid": "9e139ba4-1843-4054-830e-c36b6deb3971",
+                  "id": "1099",
+                  "name": "Retro Battlestations",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/retrobattlestations/"
+               }, {
+                  "date_added": "13299251523951578",
+                  "guid": "54b66e58-a7ed-4253-b3c4-4398cc9ae06c",
+                  "id": "1103",
+                  "name": "Events Manager (FB Pixel)",
+                  "type": "url",
+                  "url": "https://www.facebook.com/events_manager2/list/pixel/697140714727112/overview?act=438045338165042"
                } ],
-               "date_added": "13278523099009541",
-               "date_modified": "13298548045499516",
-               "guid": "66944d1e-0cb0-48a1-99ce-575ad338b9f4",
-               "id": "471",
-               "name": "DBW",
+               "date_added": "13288191241122479",
+               "date_modified": "13299251533018166",
+               "guid": "9b3f4914-b517-4bc0-999a-86f3a735266c",
+               "id": "838",
+               "name": "VIE-079a",
                "type": "folder"
             } ],
             "date_added": "13283944001594182",
-            "date_modified": "13299064520090622",
+            "date_modified": "13299323504596390",
             "guid": "7df3fb9e-1a64-4253-a2c4-d80b0d0ab5a8",
             "id": "769",
             "name": "Projects",
@@ -5179,345 +5341,183 @@
             "type": "folder"
          }, {
             "children": [ {
+               "date_added": "13281613168758048",
+               "guid": "8f0c1458-fc88-4d69-ae55-8794f022d182",
+               "id": "602",
+               "name": "Standup",
+               "type": "url",
+               "url": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_ZGMxYjI4OGYtNzAwOC00ZTFmLWFkYTQtM2E4MmExMzgyZjYx%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522ebea4ad6-fbbf-43bd-8449-c56e26692c35%2522%252c%2522Oid%2522%253a%252251a4bccb-f13d-4152-aa08-0812f422e279%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=6a7ef85e-035d-446a-8a4b-11fd4ca4861f&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true"
+            }, {
+               "date_added": "13282068803042920",
+               "guid": "9ca5a96a-4166-4be1-ac99-88f87435406a",
+               "id": "659",
+               "name": "Afternoon Standup",
+               "type": "url",
+               "url": "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_YTFkM2RhZDQtN2FjNy00MzlmLWJmN2ItZTk1ZjI3NWRhMmJl%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522ebea4ad6-fbbf-43bd-8449-c56e26692c35%2522%252c%2522Oid%2522%253a%25220ae01af5-4c97-4787-b89f-7794acc3159a%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=db50b671-de86-4eb5-b7c0-7890c2794334&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true"
+            }, {
                "children": [ {
-                  "date_added": "13293898867350138",
-                  "guid": "3076a0f2-edd5-4634-9219-8a710b0674c6",
-                  "id": "953",
-                  "name": "Dam icons",
+                  "date_added": "13281103989048990",
+                  "guid": "89d7b9fd-8af4-4988-a649-e268bb45f692",
+                  "id": "581",
+                  "name": "dev",
                   "type": "url",
-                  "url": "http://172.16.45.2:4502/damadmin#/content/dam/www-virginmedia-ie/img/Business/icons"
+                  "url": "https://web-app-sbwportal-dev.azurewebsites.net/"
                }, {
-                  "date_added": "13290702318728545",
-                  "guid": "6df88ad2-82c4-4b35-9410-fe85a9b3ac7b",
-                  "id": "880",
-                  "name": "Templates",
+                  "date_added": "13281104001378677",
+                  "guid": "c202f396-f86c-4870-9346-6c8a6c7c87f8",
+                  "id": "582",
+                  "name": "qa",
                   "type": "url",
-                  "url": "http://172.16.45.2:4502/siteadmin#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/templates"
+                  "url": "https://web-app-sbwportal-qa.azurewebsites.net/"
                }, {
-                  "date_added": "13290702350432479",
-                  "guid": "3e4fdc85-d029-41ef-a04d-16aaff0ca309",
-                  "id": "881",
-                  "name": "Templated",
+                  "date_added": "13281104166572136",
+                  "guid": "2ba270b1-53f6-446a-8dce-115375f50a30",
+                  "id": "583",
+                  "name": "uat",
                   "type": "url",
-                  "url": "http://172.16.45.2:4502/siteadmin#/content/www-virginmedia-ie/templated/business/Nomensa"
-               }, {
-                  "date_added": "13290702371017428",
-                  "guid": "7b0c021b-0a94-4a3f-b0b5-91024229b316",
-                  "id": "882",
-                  "name": "Template Sections",
-                  "type": "url",
-                  "url": "http://172.16.45.2:4502/siteadmin#/content/www-virginmedia-ie/en/business/template-sections"
-               }, {
-                  "date_added": "13294838211918995",
-                  "guid": "8375eb9f-2021-4255-96e5-6ca6f8bd84ca",
-                  "id": "968",
-                  "name": "template-sections -- dev",
-                  "type": "url",
-                  "url": "http://172.16.45.2:4502/siteadmin#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/template-sections"
-               }, {
-                  "date_added": "13293795625629994",
-                  "guid": "ed81ce20-ce2d-406f-a717-bf28c3aa3d4c",
-                  "id": "942",
-                  "name": "Blog Dir",
-                  "type": "url",
-                  "url": "http://172.16.45.2:4502/siteadmin#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/the-hub/business-insights"
-               }, {
-                  "date_added": "13296656387605723",
-                  "guid": "2d9c79d6-30d0-4470-b43d-20935c02d3af",
-                  "id": "1060",
-                  "name": "socialLinks.js",
-                  "type": "url",
-                  "url": "http://172.16.45.2:4502/siteadmin#/content/dam/www-virginmedia-ie/js/business"
-               }, {
-                  "date_added": "13296656400575430",
-                  "guid": "66ba5c17-e605-4e6b-93f3-3f078b8475c0",
-                  "id": "1061",
-                  "name": "business-insights",
-                  "type": "url",
-                  "url": "http://172.16.45.2:4502/siteadmin#/content/www-virginmedia-ie/en/business/the-hub/business-insights"
-               }, {
-                  "date_added": "13299064520090622",
-                  "guid": "2f8689b1-af78-41bd-baf2-2ab09b812f96",
-                  "id": "1096",
-                  "name": "NOMbusinessSiteOptimisation.css",
-                  "type": "url",
-                  "url": "http://172.16.45.2:4502/siteadmin#/content/dam/www-virginmedia-ie/css/business"
+                  "url": "https://web-app-sbwportal-test.azurewebsites.net/"
                } ],
-               "date_added": "13290702618683634",
-               "date_modified": "13299174330594643",
-               "guid": "bf9788c1-3da7-4cbc-b8ca-728183549178",
-               "id": "883",
-               "name": "VIE-079 AEM",
+               "date_added": "13281103986595176",
+               "date_modified": "13281104752884869",
+               "guid": "ccd52352-6d47-45dd-8686-15a5e0abebe5",
+               "id": "580",
+               "name": "Environments",
                "type": "folder"
             }, {
                "children": [ {
-                  "date_added": "13290702702310580",
-                  "guid": "76dc767e-91e1-422e-aed4-2ffc7a1491d5",
-                  "id": "886",
-                  "name": "Templates",
+                  "date_added": "13278676776708733",
+                  "guid": "b1a771eb-19e1-4022-b841-e3bc9341efd2",
+                  "id": "477",
+                  "name": "B2C Tenants",
                   "type": "url",
-                  "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/business/templates"
+                  "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.AzureActiveDirectory%2Fb2cDirectories"
                }, {
-                  "date_added": "13290702730526512",
-                  "guid": "058452df-fbff-4a5c-8c97-4d5069536886",
-                  "id": "887",
-                  "name": "Templated",
+                  "date_added": "13281104752884869",
+                  "guid": "4c4a0647-c1cb-4dca-abac-00ee73154b8a",
+                  "id": "584",
+                  "name": "Resource groups",
                   "type": "url",
-                  "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/templated/business/Nomensa"
+                  "url": "https://portal.azure.com/#blade/HubsExtension/BrowseResourceGroups"
                }, {
-                  "date_added": "13290702655420910",
-                  "guid": "4f903f79-ab54-45cc-8d37-03589222b404",
-                  "id": "885",
-                  "name": "Template Sections",
+                  "date_added": "13281112101009299",
+                  "guid": "794bcd5c-658b-4f03-9a15-cdea4e9d3503",
+                  "id": "586",
+                  "name": "My Issues Filter",
                   "type": "url",
-                  "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/template-sections"
-               }, {
-                  "date_added": "13291130465028996",
-                  "guid": "36c23e51-f6a0-4168-a4b4-4e0e5a14cfd4",
-                  "id": "892",
-                  "name": "NOMbusinessSiteOptimisation",
-                  "type": "url",
-                  "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/dam/www-virginmedia-ie/css/business/NOMbusinessSiteOptimisation.css"
-               }, {
-                  "date_added": "13294336015696099",
-                  "guid": "662cb3e3-d33d-4064-8062-49751a7e598d",
-                  "id": "961",
-                  "name": "Downloads",
-                  "type": "url",
-                  "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/testingonly/nomensa/nomensa-business-dev/business/downloads/business-growth-with-facebook-downloads"
-               }, {
-                  "date_added": "13294403899265435",
-                  "guid": "68ca762a-c60f-41dc-ae1c-2bd6ca526389",
-                  "id": "964",
-                  "name": "Business Cards",
-                  "type": "url",
-                  "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/template-sections/grey-carousel-with-content/jcr%3Acontent/background_fullwidth/grey-carousel/section_content/extendedslider"
-               }, {
-                  "date_added": "13296650758577777",
-                  "guid": "605701f4-469b-4465-8681-9ab21496c669",
-                  "id": "1057",
-                  "name": "business-insights",
-                  "type": "url",
-                  "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/business/the-hub/business-insights"
-               }, {
-                  "date_added": "13296650801842774",
-                  "guid": "0580e100-7a91-46e2-a13c-5857704304f6",
-                  "id": "1058",
-                  "name": "t14",
-                  "type": "url",
-                  "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/en/nomensa/business/templates/template-14/jcr%3Acontent"
-               }, {
-                  "date_added": "13296650960567544",
-                  "guid": "5525933b-a732-4051-b735-32eb517d22a8",
-                  "id": "1059",
-                  "name": "socialLinks.js",
-                  "type": "url",
-                  "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/dam/www-virginmedia-ie/js/business/socialLinks.js"
-               }, {
-                  "date_added": "13299241012823732",
-                  "guid": "253e1c0c-edf2-474c-a6cd-60b2d8d3552d",
-                  "id": "1102",
-                  "name": "facebook pixel template",
-                  "type": "url",
-                  "url": "http://172.16.45.2:4502/crx/de/index.jsp#/content/www-virginmedia-ie/templated/facebook-pixel"
+                  "url": "https://nomensa.atlassian.net/browse/DBW-1082?jql=project%20%3D%20DBW%20AND%20status%20in%20(Blocked%2C%20%22In%20Development%22%2C%20Open%2C%20%22Ready%20for%20peer%20review%22)%20AND%20assignee%20in%20(currentUser())%20ORDER%20BY%20status%20DESC%2C%20created%20DESC"
                } ],
-               "date_added": "13290702628461546",
-               "date_modified": "13299251523951578",
-               "guid": "d26eb654-7db1-4388-86b0-a5e9c8514a51",
-               "id": "884",
-               "name": "VIE-079 CRXDE",
+               "date_added": "13278156700052525",
+               "date_modified": "13281177593770441",
+               "guid": "1ea18671-8cd1-44a8-83fe-beaaa937c566",
+               "id": "458",
+               "name": "Azure (DBW)",
                "type": "folder"
             }, {
                "children": [ {
-                  "date_added": "13293876872683790",
-                  "guid": "b118fa89-ed59-4114-9e0a-65fd35678f39",
-                  "id": "948",
-                  "name": "Clients File Share - Content Loading - All Documents",
+                  "date_added": "13278159933826981",
+                  "guid": "75e6f4ae-8606-4b66-aede-d3fca5ca3568",
+                  "id": "462",
+                  "name": "SbwPortalDeploy",
                   "type": "url",
-                  "url": "https://nomensa.sharepoint.com/sites/File-Share-Clients/Shared%20Documents/Forms/AllItems.aspx?newTargetListUrl=%2Fsites%2FFile%2DShare%2DClients%2FShared%20Documents&viewpath=%2Fsites%2FFile%2DShare%2DClients%2FShared%20Documents%2FForms%2FAllItems%2Easpx&id=%2Fsites%2FFile%2DShare%2DClients%2FShared%20Documents%2F02%5FCurrent%2DClients%2FVirgin%2DMedia%2DIreland%2FVIE%2D079a%5FBusiness%2Dsite%2Doptimisation%5F2021%2D07%2F04%5FContent%2FContent%20Loading&viewid=ba62b45d%2D1c11%2D431d%2Dbcd2%2Dba5d2d50c0a5&OR=Teams%2DHL&CT=1649321080390&params=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyOC8yMjAzMDcwMTYxMCJ9"
-               }, {
-                  "date_added": "13294335871828373",
-                  "guid": "c14d8ca6-9446-4301-a054-01eb81797ef2",
-                  "id": "960",
-                  "name": "VIE-79 Deployment",
-                  "type": "url",
-                  "url": "https://nomensa-my.sharepoint.com/personal/swarman_nomensa_com/_layouts/15/doc.aspx?sourcedoc={646f2361-ee93-424f-bd84-eed4c08208b4}&action=edit"
-               }, {
-                  "date_added": "13288273233199591",
-                  "guid": "43f40caa-692e-462d-a3ab-e513690ce9d1",
-                  "id": "841",
-                  "name": "Lonie Handover VIE",
-                  "type": "url",
-                  "url": "https://nomensa-my.sharepoint.com/:w:/r/personal/lbenney_nomensa_com/_layouts/15/Doc.aspx?sourcedoc=%7B05A2BEAC-621F-4E9E-A35D-A5715BB9E773%7D&file=VIE%20AEM.docx&action=default&mobileredirect=true"
-               }, {
-                  "date_added": "13293708596090911",
-                  "guid": "8ec8b450-c8fa-4997-a46d-207c0c0bd006",
-                  "id": "927",
-                  "name": "Content Load Spreadsheet",
-                  "type": "url",
-                  "url": "https://nomensa.sharepoint.com/:x:/r/sites/File-Share-Clients/_layouts/15/Doc.aspx?sourcedoc=%7B3C514F18-4245-413E-8995-8CD0C93FE746%7D&file=Content%20Load%20Spreadsheet.xlsx&wdOrigin=OFFICECOM-WEB.START.REC&ct=1649234985146&action=default&mobileredirect=true"
-               }, {
-                  "date_added": "13296579408936921",
-                  "guid": "fff1e18f-9474-4543-bc90-a1b573e8026c",
-                  "id": "1055",
-                  "name": "VIE Business - new site deployment - Google Sheets",
-                  "type": "url",
-                  "url": "https://docs.google.com/spreadsheets/d/1YG2pNKQQnflJ1EYxjwy6Kd6jJ3WaduMYvnDSGxyYFZk/edit#gid=0"
+                  "url": "https://dev.azure.com/DBoW/Nomensa/_git/SbwPortalDeploy"
                } ],
-               "date_added": "13296658053565858",
-               "date_modified": "13296658076044848",
-               "guid": "532bb8ff-ce84-4571-9f1f-eb6a6c5f981c",
-               "id": "1062",
-               "name": "Sharepoint",
+               "date_added": "13281103865477609",
+               "date_modified": "13281103874016602",
+               "guid": "2fb6d8e5-47e3-4722-9d8c-4c2ec6283f95",
+               "id": "579",
+               "name": "Repo",
                "type": "folder"
             }, {
                "children": [ {
-                  "date_added": "13288356101135703",
-                  "guid": "4574010b-b3d8-40a4-b9ef-eb4ee86bf5f1",
-                  "id": "848",
-                  "name": "Miro Designs",
+                  "date_added": "13281199523197996",
+                  "guid": "494a7c29-c4c9-414a-914b-82bb795df532",
+                  "id": "589",
+                  "name": "Parsley - The ultimate documentation",
                   "type": "url",
-                  "url": "https://miro.com/app/board/uXjVOd_fOz0=/?invite_link_id=548902899814"
+                  "url": "https://parsleyjs.org/doc/index.html#validators"
                }, {
-                  "date_added": "13288956655451354",
-                  "guid": "13c256aa-6fe2-4ffc-a054-33cb17fef738",
-                  "id": "866",
-                  "name": "VIE Business - Zeplin",
+                  "date_added": "13281621947684349",
+                  "guid": "e275dd19-57c0-47aa-aa40-bb166499746b",
+                  "id": "604",
+                  "name": "List of Emoji Flags",
                   "type": "url",
-                  "url": "https://app.zeplin.io/project/62013cf8844996a2272bdec3/dashboard?sid=62029ee18ac4630c68ea4858"
-               }, {
-                  "date_added": "13288783070102066",
-                  "guid": "aa1ccce6-8e66-4df5-ba4f-f27a39ab3985",
-                  "id": "863",
-                  "name": "Fancy Border Radius Generator",
-                  "type": "url",
-                  "url": "https://9elements.github.io/fancy-border-radius/#71.73.100.100--."
+                  "url": "https://emojipedia.org/flags/"
                } ],
-               "date_added": "13296658083961197",
-               "date_modified": "13296658145668251",
-               "guid": "2a484d06-f4d1-46aa-a54c-32678574575a",
-               "id": "1063",
-               "name": "Designs",
+               "date_added": "13281613366137148",
+               "date_modified": "13281697892133481",
+               "guid": "be068676-0e0b-4df0-8815-e064c9a9529b",
+               "id": "603",
+               "name": "Docs",
                "type": "folder"
             }, {
-               "children": [ {
-                  "date_added": "13288708535589582",
-                  "guid": "972a0131-e4a7-4d60-9334-af6d4b9d3ca2",
-                  "id": "862",
-                  "name": "Canonical Tags",
-                  "type": "url",
-                  "url": "https://ahrefs.com/blog/canonical-tags/"
-               }, {
-                  "date_added": "13288702372139212",
-                  "guid": "f087fa45-ae19-49c7-b573-c7f34f5de36c",
-                  "id": "861",
-                  "name": "Deepcrawl",
-                  "type": "url",
-                  "url": "https://analyze.deepcrawl.com/accounts/40192/projects/376668/crawls/4200910?type=dashboard"
-               } ],
-               "date_added": "13296658128097036",
-               "date_modified": "13296658135792140",
-               "guid": "31973a5b-1063-4cb8-a31f-9e8943657598",
-               "id": "1064",
-               "name": "SEO",
-               "type": "folder"
-            }, {
-               "date_added": "13286633022814262",
-               "guid": "5e5f43b2-a1de-4a3f-9069-3e742bf1a382",
-               "id": "819",
-               "name": "AEM UAT",
+               "date_added": "13283943963328796",
+               "guid": "d4dccfc9-cc85-49c1-9469-da25310cdf75",
+               "id": "768",
+               "name": "Self Build Dev",
                "type": "url",
-               "url": "http://172.16.42.14:4502/libs/granite/core/content/login.html?resource=%2Fsiteadmin&%24%24login%24%24=%24%24login%24%24&j_reason=unknown&j_reason_code=unknown#/content/www-virginmedia-ie"
+               "url": "https://selfbuild-dev.stimulize.co.uk/"
             }, {
-               "date_added": "13282844493796298",
-               "guid": "4c6f0e3d-952c-4bbc-b0cb-ea36d769dba5",
-               "id": "703",
-               "name": "AEM Live",
+               "date_added": "13278174515659905",
+               "guid": "4dd2d9c3-b64b-4dc6-a162-de46b720f75f",
+               "id": "464",
+               "name": "Jira (DBW)",
                "type": "url",
-               "url": "http://172.16.45.2:4502/libs/granite/core/content/login.html?resource=%2F&$$login$$=%24%24login%24%24&j_reason=unknown&j_reason_code=unknown"
+               "url": "https://nomensa.atlassian.net/secure/RapidBoard.jspa?rapidView=23"
             }, {
-               "date_added": "13291219421420232",
-               "guid": "da35f4ad-feee-44c7-bd00-0d8e71361bfe",
-               "id": "893",
-               "name": "Task planning",
+               "date_added": "13296750591524416",
+               "guid": "8a95c31f-443e-4d30-8436-af5747fa2755",
+               "id": "1068",
+               "name": "[DBW-1266] Endpoints timing out",
                "type": "url",
-               "url": "https://miro.com/app/board/uXjVOM8J-Pg=/"
+               "url": "https://nomensa.atlassian.net/browse/DBW-1266"
             }, {
-               "date_added": "13288812370099906",
-               "guid": "08d8befe-3129-465c-9e43-9f4904efecd8",
-               "id": "864",
-               "name": "[VBO-54] Content - Nomensa Jira",
+               "date_added": "13296757430247953",
+               "guid": "b574410e-0265-4f9c-88a5-6d202e419e33",
+               "id": "1069",
+               "name": "Modules | Vuex",
                "type": "url",
-               "url": "https://nomensa.atlassian.net/browse/VBO-54"
+               "url": "https://vuex.vuejs.org/guide/modules.html#namespacing"
             }, {
-               "date_added": "13289069955931316",
-               "guid": "869313a5-dae9-4dbc-ad7d-5476721bafbf",
-               "id": "867",
-               "name": "Gitlab",
+               "date_added": "13278182732210528",
+               "guid": "38730227-ce59-4546-9211-29046eda3e19",
+               "id": "465",
+               "name": "Dynamics 365",
                "type": "url",
-               "url": "https://gitlab.nomensa.com/swarman/virgin-media-ireland"
+               "url": "https://dbowcmsdev.crm11.dynamics.com/main.aspx?appid=fb1420ee-7a06-41b0-9f22-db6b86337786&cmdbar=true&forceUCI=1&pagetype=entitylist&etn=incident&viewid=d3118a3a-72bd-eb11-bacc-0022481a9da7&viewType=1039"
             }, {
-               "date_added": "13289573107735962",
-               "guid": "6484c9c6-442e-4e28-900c-8dc88a961899",
-               "id": "874",
-               "name": "SVG Path Editor · aydos.com",
+               "date_added": "13297179511633830",
+               "guid": "854633dc-fe70-4cea-ac07-bdfe088b5990",
+               "id": "1077",
+               "name": "Auth Tokens",
                "type": "url",
-               "url": "https://aydos.com/svgedit/"
+               "url": "https://docs.microsoft.com/en-gb/azure/active-directory-b2c/openid-connect#get-a-token"
             }, {
-               "date_added": "13296668231386747",
-               "guid": "2521387d-4b18-4de5-b022-348da630b507",
-               "id": "1066",
-               "name": "javascript - Center a popup window on screen? - Stack Overflow",
+               "date_added": "13297258930718008",
+               "guid": "be4f10d3-e0cf-4ea5-9a9f-c69f1df8c627",
+               "id": "1081",
+               "name": "Overview of tokens - Azure Active Directory B2C | Microsoft Docs",
                "type": "url",
-               "url": "https://stackoverflow.com/questions/4068373/center-a-popup-window-on-screen"
+               "url": "https://docs.microsoft.com/en-gb/azure/active-directory-b2c/tokens-overview"
             }, {
-               "date_added": "13296668240816666",
-               "guid": "e329411d-33f6-434c-a1bd-c883948bc29e",
-               "id": "1067",
-               "name": "Open Popup window using javascript - Stack Overflow",
+               "date_added": "13297440472132264",
+               "guid": "aa355215-252c-4be2-9435-7061090c3eeb",
+               "id": "1082",
+               "name": "Dynamics (qa)",
                "type": "url",
-               "url": "https://stackoverflow.com/questions/14351771/open-popup-window-using-javascript"
+               "url": "https://dbowcmsqa.crm11.dynamics.com/main.aspx?appid=b19a77eb-a388-eb11-b1ac-000d3a7ec1ce&pagetype=dashboard&type=system&_canOverride=true"
             }, {
-               "date_added": "13296924145632055",
-               "guid": "b00766ac-87ce-433f-97c3-37e18c9cdd39",
-               "id": "1071",
-               "name": "VIE-079_TechnicalAudit_NomensaIssues.xlsx",
+               "date_added": "13298395272569764",
+               "guid": "5d6f7105-4da4-4a81-9283-132fac1ab38f",
+               "id": "1087",
+               "name": "reCAPTCHA",
                "type": "url",
-               "url": "https://nomensa.sharepoint.com/:x:/s/File-Share-Clients/Ec3qQ29u7OtPlUPgBWaA4FMBDT-wSary91xt0nA5xCa9Fw"
-            }, {
-               "date_added": "13297173603432527",
-               "guid": "8bd75387-1f27-436c-ac16-6d9e9334f39f",
-               "id": "1076",
-               "name": "Robots Meta Tags Specifications | Google Search Central  |  Documentation  |  Google Developers",
-               "type": "url",
-               "url": "https://developers.google.com/search/docs/advanced/robots/robots_meta_tag"
-            }, {
-               "date_added": "13299174321885547",
-               "guid": "ade517bb-628d-402a-92bb-8b4b99a1e51e",
-               "id": "1098",
-               "name": "Get Started - Meta Pixel",
-               "type": "url",
-               "url": "https://developers.facebook.com/docs/meta-pixel/get-started#installing-the-pixel"
-            }, {
-               "date_added": "13299236644173460",
-               "guid": "9e139ba4-1843-4054-830e-c36b6deb3971",
-               "id": "1099",
-               "name": "Retro Battlestations",
-               "type": "url",
-               "url": "https://www.reddit.com/r/retrobattlestations/"
-            }, {
-               "date_added": "13299251523951578",
-               "guid": "54b66e58-a7ed-4253-b3c4-4398cc9ae06c",
-               "id": "1103",
-               "name": "Events Manager (FB Pixel)",
-               "type": "url",
-               "url": "https://www.facebook.com/events_manager2/list/pixel/697140714727112/overview?act=438045338165042"
+               "url": "https://www.google.com/recaptcha/admin/site/539151080/settings"
             } ],
-            "date_added": "13288191241122479",
-            "date_modified": "13299251533018166",
-            "guid": "9b3f4914-b517-4bc0-999a-86f3a735266c",
-            "id": "838",
-            "name": "VIE-079a",
+            "date_added": "13278523099009541",
+            "date_modified": "13298548045499516",
+            "guid": "66944d1e-0cb0-48a1-99ce-575ad338b9f4",
+            "id": "471",
+            "name": "DBW",
             "type": "folder"
          }, {
             "date_added": "13299237237736220",
@@ -5528,7 +5528,7 @@
             "url": "https://nomensa.my.workfront.com/timesheet/629409f300001d17f3425803f0c5451e/own"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13299241012823732",
+         "date_modified": "13299323502656168",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
