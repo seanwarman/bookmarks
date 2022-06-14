@@ -1,5 +1,5 @@
 {
-   "checksum": "48e46ac9c88def9d6347e40eda812be2",
+   "checksum": "924d33c0df1f293b63732cb2d9a93ea9",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1591,7 +1591,7 @@
                   "date_added": "13299672048625717",
                   "guid": "36ccbd82-d6e8-4a0c-ac78-05670c3de9e0",
                   "id": "1107",
-                  "name": "vim - vimrc make comments italic - Stack Overflow",
+                  "name": "vim italics and bash escape seqs",
                   "type": "url",
                   "url": "https://stackoverflow.com/questions/3494435/vimrc-make-comments-italic"
                } ],
