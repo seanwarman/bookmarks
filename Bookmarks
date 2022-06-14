@@ -1,5 +1,5 @@
 {
-   "checksum": "d0c4bd20ff70fcc230e1c3b97ec2f2a9",
+   "checksum": "48e46ac9c88def9d6347e40eda812be2",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1587,9 +1587,16 @@
                   "name": "arrowtype/recursive: Recursive Mono & Sans is a variable font family for code & UI",
                   "type": "url",
                   "url": "https://github.com/arrowtype/recursive"
+               }, {
+                  "date_added": "13299672048625717",
+                  "guid": "36ccbd82-d6e8-4a0c-ac78-05670c3de9e0",
+                  "id": "1107",
+                  "name": "vim - vimrc make comments italic - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/3494435/vimrc-make-comments-italic"
                } ],
                "date_added": "13277233018935639",
-               "date_modified": "13299669145494349",
+               "date_modified": "13299672048625717",
                "guid": "e45d99a2-dae9-4915-9ab5-e39d2e688211",
                "id": "181",
                "name": "VIM",
