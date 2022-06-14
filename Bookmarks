@@ -1,5 +1,5 @@
 {
-   "checksum": "924d33c0df1f293b63732cb2d9a93ea9",
+   "checksum": "d48a6ef105d4b2edcfb26a50577c8d73",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1594,9 +1594,16 @@
                   "name": "vim italics and bash escape seqs",
                   "type": "url",
                   "url": "https://stackoverflow.com/questions/3494435/vimrc-make-comments-italic"
+               }, {
+                  "date_added": "13299688754495753",
+                  "guid": "44d3d43c-a3f3-45d5-bd0b-01120d813ccb",
+                  "id": "1108",
+                  "name": "Install from Docker - Strapi Developer Docs",
+                  "type": "url",
+                  "url": "https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/installation/docker.html#creating-a-strapi-project"
                } ],
                "date_added": "13277233018935639",
-               "date_modified": "13299672048625717",
+               "date_modified": "13299688754495753",
                "guid": "e45d99a2-dae9-4915-9ab5-e39d2e688211",
                "id": "181",
                "name": "VIM",
