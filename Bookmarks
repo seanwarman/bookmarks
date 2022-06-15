@@ -1,5 +1,5 @@
 {
-   "checksum": "ffb325a66255ac5c1f6997249b7f6a51",
+   "checksum": "293428bd07f76f0c48055d91a97e638c",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5556,9 +5556,16 @@
             "name": "Timesheets",
             "type": "url",
             "url": "https://nomensa.my.workfront.com/timesheet/629409f300001d17f3425803f0c5451e/own"
+         }, {
+            "date_added": "13299754275054139",
+            "guid": "140ae504-b0bc-4936-9a55-e65eb61c92f2",
+            "id": "1111",
+            "name": "mostafatouny/awesome-theoretical-computer-science: The interdicplinary of Mathematics and Computer Science, Distinguisehed by its emphasis on mathemtical technique and rigour.",
+            "type": "url",
+            "url": "https://github.com/mostafatouny/awesome-theoretical-computer-science#broad_intros"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13299690042665978",
+         "date_modified": "13299754275054139",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
