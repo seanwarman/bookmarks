@@ -1,5 +1,5 @@
 {
-   "checksum": "7dd2e6afff080540bc64a023af743ffc",
+   "checksum": "ba83b762e13699ef881399ca8158e28b",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5568,7 +5568,7 @@
             "date_modified": "13300199802008329",
             "guid": "7f6f0d5e-45d6-472a-b726-87a2f5dbab5c",
             "id": "1109",
-            "name": "HIE",
+            "name": "HIE-023",
             "type": "folder"
          }, {
             "date_added": "13299237237736220",
