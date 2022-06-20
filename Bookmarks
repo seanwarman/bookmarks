@@ -1,5 +1,5 @@
 {
-   "checksum": "8dacdc781afe853331c5c72341a5db1a",
+   "checksum": "0e0784072763a566a0127e117a92e0f9",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3402,7 +3402,7 @@
                "date_added": "13300183654875400",
                "guid": "be67b680-6b55-4bba-bd64-ed3b1b668168",
                "id": "1112",
-               "name": "Linear – The issue tracking tool you'll enjoy using",
+               "name": "Linear – Jira replacement",
                "type": "url",
                "url": "https://linear.app/"
             } ],
