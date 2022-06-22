@@ -1,5 +1,5 @@
 {
-   "checksum": "1b6cfac58be950d3a77558a448311bb9",
+   "checksum": "2e1148c0eccc33a90bbd5e0f692e40a8",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5595,7 +5595,7 @@
                "date_added": "13300375654472246",
                "guid": "356c3108-423b-486b-83b1-5e548d771596",
                "id": "1119",
-               "name": "Traffic Systems and Signing Plans Registry: how to access documents - GOV.UK",
+               "name": "TSS Plans Registry (gov.uk)",
                "type": "url",
                "url": "https://www.gov.uk/guidance/traffic-systems-and-signing-plans-registry-how-to-access-documents"
             } ],
