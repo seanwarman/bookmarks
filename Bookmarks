@@ -1,5 +1,5 @@
 {
-   "checksum": "55a2b372337556350ba5af58683b132f",
+   "checksum": "9cbea074a4fded998540f660c99b902f",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5609,7 +5609,7 @@
                "date_added": "13300449955036772",
                "guid": "1aee4a11-594c-4e7d-bdc3-a5816f413551",
                "id": "1122",
-               "name": "davidjbradshaw/iframe-resizer: Keep same and cross domain iFrames sized to their content with support for window/content resizing, in page links, nesting and multiple iFrames",
+               "name": "Nesting and multiple iFrames Library",
                "type": "url",
                "url": "https://github.com/davidjbradshaw/iframe-resizer"
             } ],
