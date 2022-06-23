@@ -1,5 +1,5 @@
 {
-   "checksum": "9cbea074a4fded998540f660c99b902f",
+   "checksum": "9bcf1965d6eb1606170a0af19f535d43",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5612,9 +5612,16 @@
                "name": "Nesting and multiple iFrames Library",
                "type": "url",
                "url": "https://github.com/davidjbradshaw/iframe-resizer"
+            }, {
+               "date_added": "13300450056734171",
+               "guid": "f68c6d29-6598-4c48-a589-b23bd2e7b38f",
+               "id": "1123",
+               "name": "WebAIM: Creating Accessible Frames and Iframes",
+               "type": "url",
+               "url": "https://webaim.org/techniques/frames/"
             } ],
             "date_added": "13299688768234670",
-            "date_modified": "13300449955036772",
+            "date_modified": "13300450056734171",
             "guid": "7f6f0d5e-45d6-472a-b726-87a2f5dbab5c",
             "id": "1109",
             "name": "HIE-023",
