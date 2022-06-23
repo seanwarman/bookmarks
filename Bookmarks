@@ -1,5 +1,5 @@
 {
-   "checksum": "15c5043063350fb62a72d96a1d5058b5",
+   "checksum": "55a2b372337556350ba5af58683b132f",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5605,9 +5605,16 @@
                "name": "Define Workshop, Online Whiteboard for Visual Collaboration",
                "type": "url",
                "url": "https://miro.com/app/board/uXjVOzkyz6E=/"
+            }, {
+               "date_added": "13300449955036772",
+               "guid": "1aee4a11-594c-4e7d-bdc3-a5816f413551",
+               "id": "1122",
+               "name": "davidjbradshaw/iframe-resizer: Keep same and cross domain iFrames sized to their content with support for window/content resizing, in page links, nesting and multiple iFrames",
+               "type": "url",
+               "url": "https://github.com/davidjbradshaw/iframe-resizer"
             } ],
             "date_added": "13299688768234670",
-            "date_modified": "13300379499208253",
+            "date_modified": "13300449955036772",
             "guid": "7f6f0d5e-45d6-472a-b726-87a2f5dbab5c",
             "id": "1109",
             "name": "HIE-023",
