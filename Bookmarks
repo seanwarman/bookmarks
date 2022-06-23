@@ -1,5 +1,5 @@
 {
-   "checksum": "14ee6a845df4afebc723584d41e39e49",
+   "checksum": "0a62077f08f41f00fc2ae00128b90b90",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5581,7 +5581,7 @@
                "date_added": "13300205878387318",
                "guid": "f370a074-0516-4276-ae3b-44297a55fbec",
                "id": "1117",
-               "name": "Zeplin - ",
+               "name": "Zeplin",
                "type": "url",
                "url": "https://app.zeplin.io/project/5e4fff2a131b4464e0734418"
             }, {
