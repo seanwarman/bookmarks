@@ -1,5 +1,5 @@
 {
-   "checksum": "0fb5ae82dd2780ebd2072047cbc87349",
+   "checksum": "88ae36a2dd684bfa7c246bcea417bdc3",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3419,9 +3419,16 @@
                "name": "JSON:API — A specification for building APIs in JSON",
                "type": "url",
                "url": "https://jsonapi.org/"
+            }, {
+               "date_added": "13300554368189310",
+               "guid": "4152fe38-d4ec-4361-a69d-601b9c716ef3",
+               "id": "1128",
+               "name": "Swagger UI",
+               "type": "url",
+               "url": "https://as-uks-sapi-indexpublicationapi.azurewebsites.net/swagger-ui/index.html?configUrl=/api-docs/swagger-config#/"
             } ],
             "date_added": "13277233018935107",
-            "date_modified": "13300543401319876",
+            "date_modified": "13300554368189310",
             "guid": "460e0d6f-fc4c-459a-9e3a-7fe9169d4a93",
             "id": "176",
             "name": "Personal",
