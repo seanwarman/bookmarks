@@ -1,5 +1,5 @@
 {
-   "checksum": "c11a5c9ad97229439891fd60c619813b",
+   "checksum": "0fb5ae82dd2780ebd2072047cbc87349",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3412,9 +3412,16 @@
                "name": "OpenAPI Specification",
                "type": "url",
                "url": "https://spec.openapis.org/oas/latest.html"
+            }, {
+               "date_added": "13300543401319876",
+               "guid": "e5bd7dc3-ac58-4ecc-aed2-5b3e667e5743",
+               "id": "1127",
+               "name": "JSON:API — A specification for building APIs in JSON",
+               "type": "url",
+               "url": "https://jsonapi.org/"
             } ],
             "date_added": "13277233018935107",
-            "date_modified": "13300543384556336",
+            "date_modified": "13300543401319876",
             "guid": "460e0d6f-fc4c-459a-9e3a-7fe9169d4a93",
             "id": "176",
             "name": "Personal",
