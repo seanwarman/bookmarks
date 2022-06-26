@@ -1,5 +1,5 @@
 {
-   "checksum": "537d003904ee3d2d9130cbafae779864",
+   "checksum": "341563fd78719dfc887a8ed6db577064",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5676,9 +5676,16 @@
             "name": "The Barge Inn – Honeystreet",
             "type": "url",
             "url": "https://thebargeinnhoneystreet.uk/camping/"
+         }, {
+            "date_added": "13300731299002884",
+            "guid": "42af5454-d638-4d3c-a0ba-4802cabae88a",
+            "id": "1131",
+            "name": "Chapter 08: Tupperware - mostly-adequate-guide",
+            "type": "url",
+            "url": "https://mostly-adequate.gitbook.io/mostly-adequate-guide/ch08"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13300558439454033",
+         "date_modified": "13300731299002884",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
