@@ -1,5 +1,5 @@
 {
-   "checksum": "341563fd78719dfc887a8ed6db577064",
+   "checksum": "ba5d024a37b9daa72a8daa9af0de1921",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5683,9 +5683,16 @@
             "name": "Chapter 08: Tupperware - mostly-adequate-guide",
             "type": "url",
             "url": "https://mostly-adequate.gitbook.io/mostly-adequate-guide/ch08"
+         }, {
+            "date_added": "13300795824530501",
+            "guid": "954f363a-1de5-489c-9fe5-8d7b5ae12308",
+            "id": "1132",
+            "name": "Importing data from Excel | Administering Jira applications Data Center and Server 9.0 | Atlassian Documentation",
+            "type": "url",
+            "url": "https://confluence.atlassian.com/adminjiraserver/importing-data-from-excel-938847541.html"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13300731299002884",
+         "date_modified": "13300795824530501",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
