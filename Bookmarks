@@ -1,5 +1,5 @@
 {
-   "checksum": "c056063c64d148619680bb6e951a84d9",
+   "checksum": "c4270b31b26106d7476ae1bc1f115295",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5669,9 +5669,16 @@
                "name": "HIE-023-08_RequirementsDocument.xlsx",
                "type": "url",
                "url": "https://nomensa.sharepoint.com/:x:/r/sites/File-Share-Clients/_layouts/15/Doc.aspx?sourcedoc=%7B35B35DE9-BC7C-4F92-B442-B6092EA653F0%7D&file=HIE-023-08_RequirementsDocument.xlsx&action=default&mobileredirect=true"
+            }, {
+               "date_added": "13300807488166065",
+               "guid": "ec98cd6a-9799-415b-8647-70eb5442b4a4",
+               "id": "1135",
+               "name": "UML Diagram Cheat Sheet and Reference Guide",
+               "type": "url",
+               "url": "https://www.guru99.com/uml-cheatsheet-reference-guide.html#9"
             } ],
             "date_added": "13299688768234670",
-            "date_modified": "13300795885586755",
+            "date_modified": "13300807488166065",
             "guid": "7f6f0d5e-45d6-472a-b726-87a2f5dbab5c",
             "id": "1109",
             "name": "HIE-023",
