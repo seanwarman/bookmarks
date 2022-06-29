@@ -1,5 +1,5 @@
 {
-   "checksum": "06c8c08ec65a4280a2de8a53a70caf3f",
+   "checksum": "29123326916bacd4c97b0dbe5ef7da80",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5709,7 +5709,7 @@
                "date_added": "13300965487682928",
                "guid": "07bfd6c1-2210-4fe2-b19c-3f86c2e0a5f4",
                "id": "1141",
-               "name": "Index of /Users/swarman/Documents/HIE/",
+               "name": "Useful Diagrams",
                "type": "url",
                "url": "file:///Users/swarman/Documents/HIE/"
             } ],
