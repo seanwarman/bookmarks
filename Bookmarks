@@ -1,5 +1,5 @@
 {
-   "checksum": "b35df9cfe578878d5a92f9828eb3c45a",
+   "checksum": "06c8c08ec65a4280a2de8a53a70caf3f",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5705,9 +5705,16 @@
                "name": "working html endpoint",
                "type": "url",
                "url": "https://as-uks-sapi-indexpublicationapi.azurewebsites.net/attachments/html/5c8467e4-dfbd-42d7-863e-e4119c1f3545?inline=true#90abd652-28d2-4f0e-a43f-9f5aba14df86"
+            }, {
+               "date_added": "13300965487682928",
+               "guid": "07bfd6c1-2210-4fe2-b19c-3f86c2e0a5f4",
+               "id": "1141",
+               "name": "Index of /Users/swarman/Documents/HIE/",
+               "type": "url",
+               "url": "file:///Users/swarman/Documents/HIE/"
             } ],
             "date_added": "13299688768234670",
-            "date_modified": "13300965407161038",
+            "date_modified": "13300965487682928",
             "guid": "7f6f0d5e-45d6-472a-b726-87a2f5dbab5c",
             "id": "1109",
             "name": "HIE-023",
