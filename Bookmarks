@@ -1,5 +1,5 @@
 {
-   "checksum": "88289a8fa681f47d3cd67baf92b7b063",
+   "checksum": "e21ddadf0d5475b4ac1df14cb42a075e",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3450,7 +3450,7 @@
                "url": "https://mostly-adequate.gitbook.io/mostly-adequate-guide/ch08"
             } ],
             "date_added": "13277233018935107",
-            "date_modified": "13300965943036631",
+            "date_modified": "13301135186073052",
             "guid": "460e0d6f-fc4c-459a-9e3a-7fe9169d4a93",
             "id": "176",
             "name": "Personal",
@@ -5726,9 +5726,16 @@
                "name": "Useful Diagrams",
                "type": "url",
                "url": "file:///Users/swarman/Documents/HIE/"
+            }, {
+               "date_added": "13301135186073052",
+               "guid": "a2ca5300-7394-494d-8f07-1c169a61f6b9",
+               "id": "1142",
+               "name": "sendmail - npm",
+               "type": "url",
+               "url": "https://www.npmjs.com/package/sendmail"
             } ],
             "date_added": "13299688768234670",
-            "date_modified": "13300965487682928",
+            "date_modified": "13301135189040535",
             "guid": "7f6f0d5e-45d6-472a-b726-87a2f5dbab5c",
             "id": "1109",
             "name": "HIE-023",
