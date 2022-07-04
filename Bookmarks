@@ -1,5 +1,5 @@
 {
-   "checksum": "5bc19fe912b4aafa158802cb370e8a72",
+   "checksum": "db25915c66a6c200127ed8371798af33",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5648,7 +5648,7 @@
                "date_modified": "13301160853864673",
                "guid": "784b050e-4f7a-45f7-b01a-266a5f268d7c",
                "id": "1146",
-               "name": "Strapi Servers",
+               "name": "Strapi Envs",
                "type": "folder"
             }, {
                "children": [ {
