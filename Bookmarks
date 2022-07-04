@@ -1,5 +1,5 @@
 {
-   "checksum": "86ce29e845cdd232c4be81ebb96f3175",
+   "checksum": "244985374e6b1a4e9e7f32dcd57feb4e",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3448,9 +3448,16 @@
                "name": "Chapter 08: Tupperware - mostly-adequate-guide",
                "type": "url",
                "url": "https://mostly-adequate.gitbook.io/mostly-adequate-guide/ch08"
+            }, {
+               "date_added": "13300807488166065",
+               "guid": "ec98cd6a-9799-415b-8647-70eb5442b4a4",
+               "id": "1135",
+               "name": "UML Diagram Cheat Sheet and Reference Guide",
+               "type": "url",
+               "url": "https://www.guru99.com/uml-cheatsheet-reference-guide.html#9"
             } ],
             "date_added": "13277233018935107",
-            "date_modified": "13301135186073052",
+            "date_modified": "13301409575769740",
             "guid": "460e0d6f-fc4c-459a-9e3a-7fe9169d4a93",
             "id": "176",
             "name": "Personal",
@@ -5793,13 +5800,6 @@
                "name": "Define Workshop, Online Whiteboard for Visual Collaboration",
                "type": "url",
                "url": "https://miro.com/app/board/uXjVOzkyz6E=/"
-            }, {
-               "date_added": "13300807488166065",
-               "guid": "ec98cd6a-9799-415b-8647-70eb5442b4a4",
-               "id": "1135",
-               "name": "UML Diagram Cheat Sheet and Reference Guide",
-               "type": "url",
-               "url": "https://www.guru99.com/uml-cheatsheet-reference-guide.html#9"
             } ],
             "date_added": "13299688768234670",
             "date_modified": "13301409551835631",
