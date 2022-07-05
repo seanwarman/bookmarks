@@ -1,5 +1,5 @@
 {
-   "checksum": "7fce1cc530397cd2a3f5260e610490da",
+   "checksum": "f59d71384e2dcc68b511298ce4682bf4",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5843,9 +5843,16 @@
                   "name": "bibleapi-bibles-json/kjv.json at master · bibleapi/bibleapi-bibles-json",
                   "type": "url",
                   "url": "https://github.com/bibleapi/bibleapi-bibles-json/blob/master/kjv.json"
+               }, {
+                  "date_added": "13301505301966200",
+                  "guid": "6f41f698-a88e-4bde-962d-9a8a7dec794e",
+                  "id": "1160",
+                  "name": "Pricing Calculator | Microsoft Azure",
+                  "type": "url",
+                  "url": "https://azure.microsoft.com/en-gb/pricing/calculator/"
                } ],
                "date_added": "13301493028524637",
-               "date_modified": "13301505154080340",
+               "date_modified": "13301505301966200",
                "guid": "f9808adc-d83a-4272-a1af-e023d8de28e0",
                "id": "1155",
                "name": "Search",
