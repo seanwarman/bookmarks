@@ -1,5 +1,5 @@
 {
-   "checksum": "f59d71384e2dcc68b511298ce4682bf4",
+   "checksum": "263ce004fe924bbe971e11c0112744a5",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5850,9 +5850,16 @@
                   "name": "Pricing Calculator | Microsoft Azure",
                   "type": "url",
                   "url": "https://azure.microsoft.com/en-gb/pricing/calculator/"
+               }, {
+                  "date_added": "13301506807189640",
+                  "guid": "a8f3d9e0-fa52-42fe-a5f0-d6213013caf3",
+                  "id": "1161",
+                  "name": "Oxford Dictionaries API",
+                  "type": "url",
+                  "url": "https://developer.oxforddictionaries.com/"
                } ],
                "date_added": "13301493028524637",
-               "date_modified": "13301505301966200",
+               "date_modified": "13301506807189640",
                "guid": "f9808adc-d83a-4272-a1af-e023d8de28e0",
                "id": "1155",
                "name": "Search",
