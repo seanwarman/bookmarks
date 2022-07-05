@@ -1,5 +1,5 @@
 {
-   "checksum": "5ca8971989b160c67f3dfd3c26fa67da",
+   "checksum": "71e3db32da9692ca5172ab3675dc44a8",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5808,12 +5808,27 @@
                "type": "url",
                "url": "https://datastudio.google.com/u/0/reporting/b77fbcf0-7103-4074-9b63-1023512d7017/page/zzgMB"
             }, {
-               "date_added": "13301493014963500",
-               "guid": "b69324fb-6c26-4530-96c4-be5e12933a91",
-               "id": "1154",
-               "name": "opensearchproject/opensearch - Docker Image | Docker Hub",
-               "type": "url",
-               "url": "https://hub.docker.com/r/opensearchproject/opensearch"
+               "children": [ {
+                  "date_added": "13301493014963500",
+                  "guid": "b69324fb-6c26-4530-96c4-be5e12933a91",
+                  "id": "1154",
+                  "name": "opensearchproject/opensearch - Docker Image | Docker Hub",
+                  "type": "url",
+                  "url": "https://hub.docker.com/r/opensearchproject/opensearch"
+               }, {
+                  "date_added": "13301493030250983",
+                  "guid": "6f9015c7-f9e8-4f64-89ac-5505c9226584",
+                  "id": "1156",
+                  "name": "@opensearch-project/opensearch - npm",
+                  "type": "url",
+                  "url": "https://www.npmjs.com/package/@opensearch-project/opensearch"
+               } ],
+               "date_added": "13301493028524637",
+               "date_modified": "13301493030250983",
+               "guid": "f9808adc-d83a-4272-a1af-e023d8de28e0",
+               "id": "1155",
+               "name": "Search",
+               "type": "folder"
             } ],
             "date_added": "13299688768234670",
             "date_modified": "13301493014963500",
