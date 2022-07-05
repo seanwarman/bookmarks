@@ -1,5 +1,5 @@
 {
-   "checksum": "71e3db32da9692ca5172ab3675dc44a8",
+   "checksum": "387e995891e2a135fe8eba76a3b30e54",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5822,9 +5822,16 @@
                   "name": "@opensearch-project/opensearch - npm",
                   "type": "url",
                   "url": "https://www.npmjs.com/package/@opensearch-project/opensearch"
+               }, {
+                  "date_added": "13301504169571406",
+                  "guid": "f8532d34-a4b4-4d34-b2c8-a724670cdfb5",
+                  "id": "1157",
+                  "name": "Server specs | Algolia",
+                  "type": "url",
+                  "url": "https://www.algolia.com/doc/guides/scaling/servers-clusters/in-depth/servers-specs/"
                } ],
                "date_added": "13301493028524637",
-               "date_modified": "13301493030250983",
+               "date_modified": "13301504169571406",
                "guid": "f9808adc-d83a-4272-a1af-e023d8de28e0",
                "id": "1155",
                "name": "Search",
