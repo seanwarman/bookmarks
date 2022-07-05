@@ -1,5 +1,5 @@
 {
-   "checksum": "387e995891e2a135fe8eba76a3b30e54",
+   "checksum": "5ec9f84bc7278f0c7a8e9262710da287",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5829,9 +5829,16 @@
                   "name": "Server specs | Algolia",
                   "type": "url",
                   "url": "https://www.algolia.com/doc/guides/scaling/servers-clusters/in-depth/servers-specs/"
+               }, {
+                  "date_added": "13301504471730521",
+                  "guid": "0e7b3edd-59e9-4f37-a76d-471d130a4905",
+                  "id": "1158",
+                  "name": "VM sizes - Azure Virtual Machines | Microsoft Docs",
+                  "type": "url",
+                  "url": "https://docs.microsoft.com/en-gb/azure/virtual-machines/sizes"
                } ],
                "date_added": "13301493028524637",
-               "date_modified": "13301504169571406",
+               "date_modified": "13301504471730521",
                "guid": "f9808adc-d83a-4272-a1af-e023d8de28e0",
                "id": "1155",
                "name": "Search",
