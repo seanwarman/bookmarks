@@ -3477,13 +3477,6 @@
                   "name": "Sanctuary",
                   "type": "url",
                   "url": "https://sanctuary.js.org/"
-               }, {
-                  "date_added": "13301610983776586",
-                  "guid": "29dc12b2-7e8c-446d-98b2-0545e0ee7d24",
-                  "id": "1170",
-                  "name": "Spectacle",
-                  "type": "url",
-                  "url": "https://www.spectacleapp.com/"
                } ],
                "date_added": "13301567671261714",
                "date_modified": "13301610983776586",
@@ -3491,9 +3484,16 @@
                "id": "1167",
                "name": "Functional Programming",
                "type": "folder"
+            }, {
+               "date_added": "13301610983776586",
+               "guid": "29dc12b2-7e8c-446d-98b2-0545e0ee7d24",
+               "id": "1170",
+               "name": "Spectacle",
+               "type": "url",
+               "url": "https://www.spectacleapp.com/"
             } ],
             "date_added": "13277233018935107",
-            "date_modified": "13301567648177965",
+            "date_modified": "13301610988921762",
             "guid": "460e0d6f-fc4c-459a-9e3a-7fe9169d4a93",
             "id": "176",
             "name": "Personal",
