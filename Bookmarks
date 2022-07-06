@@ -1,5 +1,5 @@
 {
-   "checksum": "5806999bea5227a951952e8c37926c6c",
+   "checksum": "e87a4ea4bb4f37bc2e1a013c50425877",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3477,9 +3477,16 @@
                   "name": "Sanctuary",
                   "type": "url",
                   "url": "https://sanctuary.js.org/"
+               }, {
+                  "date_added": "13301610983776586",
+                  "guid": "29dc12b2-7e8c-446d-98b2-0545e0ee7d24",
+                  "id": "1170",
+                  "name": "Spectacle",
+                  "type": "url",
+                  "url": "https://www.spectacleapp.com/"
                } ],
                "date_added": "13301567671261714",
-               "date_modified": "13301609603598055",
+               "date_modified": "13301610983776586",
                "guid": "c9451023-c5de-44e5-83a8-e0e9acf36cc6",
                "id": "1167",
                "name": "Functional Programming",
