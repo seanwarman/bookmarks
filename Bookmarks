@@ -1,5 +1,5 @@
 {
-   "checksum": "6f850f09b414435caf5f1cf6a17a0160",
+   "checksum": "5806999bea5227a951952e8c37926c6c",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3470,9 +3470,16 @@
                   "name": "Sanctuary",
                   "type": "url",
                   "url": "https://sanctuary.js.org/#compose"
+               }, {
+                  "date_added": "13301609603598055",
+                  "guid": "0aae79e2-06da-4a9c-a6a4-6574071957d2",
+                  "id": "1169",
+                  "name": "Sanctuary",
+                  "type": "url",
+                  "url": "https://sanctuary.js.org/"
                } ],
                "date_added": "13301567671261714",
-               "date_modified": "13301567671261767",
+               "date_modified": "13301609603598055",
                "guid": "c9451023-c5de-44e5-83a8-e0e9acf36cc6",
                "id": "1167",
                "name": "Functional Programming",
