@@ -1,0 +1,9 @@
+*
+*/
+!.gitignore
+!Bookmarks
+!bookmarks-daemon.js
+!package.json
+!README.md
+!yarn.lock
+!Bookmarks.bak
