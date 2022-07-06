@@ -1,5 +1,5 @@
 {
-   "checksum": "bfe1c8fe771ae218482e8850517c2898",
+   "checksum": "6f850f09b414435caf5f1cf6a17a0160",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3463,12 +3463,20 @@
                "type": "url",
                "url": "https://www.randomlists.com/"
             }, {
-               "date_added": "13301567648177965",
-               "guid": "5c7c7b36-0f9a-4ad9-bdad-4f116a76575c",
-               "id": "1166",
-               "name": "Sanctuary",
-               "type": "url",
-               "url": "https://sanctuary.js.org/#compose"
+               "children": [ {
+                  "date_added": "13301567648177965",
+                  "guid": "5c7c7b36-0f9a-4ad9-bdad-4f116a76575c",
+                  "id": "1166",
+                  "name": "Sanctuary",
+                  "type": "url",
+                  "url": "https://sanctuary.js.org/#compose"
+               } ],
+               "date_added": "13301567671261714",
+               "date_modified": "13301567671261767",
+               "guid": "c9451023-c5de-44e5-83a8-e0e9acf36cc6",
+               "id": "1167",
+               "name": "Functional Programming",
+               "type": "folder"
             } ],
             "date_added": "13277233018935107",
             "date_modified": "13301567648177965",
