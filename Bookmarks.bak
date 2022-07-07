@@ -1,5 +1,5 @@
 {
-   "checksum": "6f850f09b414435caf5f1cf6a17a0160",
+   "checksum": "e87a4ea4bb4f37bc2e1a013c50425877",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3470,16 +3470,30 @@
                   "name": "Sanctuary",
                   "type": "url",
                   "url": "https://sanctuary.js.org/#compose"
+               }, {
+                  "date_added": "13301609603598055",
+                  "guid": "0aae79e2-06da-4a9c-a6a4-6574071957d2",
+                  "id": "1169",
+                  "name": "Sanctuary",
+                  "type": "url",
+                  "url": "https://sanctuary.js.org/"
                } ],
                "date_added": "13301567671261714",
-               "date_modified": "13301567671261767",
+               "date_modified": "13301610983776586",
                "guid": "c9451023-c5de-44e5-83a8-e0e9acf36cc6",
                "id": "1167",
                "name": "Functional Programming",
                "type": "folder"
+            }, {
+               "date_added": "13301610983776586",
+               "guid": "29dc12b2-7e8c-446d-98b2-0545e0ee7d24",
+               "id": "1170",
+               "name": "Spectacle",
+               "type": "url",
+               "url": "https://www.spectacleapp.com/"
             } ],
             "date_added": "13277233018935107",
-            "date_modified": "13301567648177965",
+            "date_modified": "13301610988921762",
             "guid": "460e0d6f-fc4c-459a-9e3a-7fe9169d4a93",
             "id": "176",
             "name": "Personal",
