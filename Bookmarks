@@ -1,5 +1,5 @@
 {
-   "checksum": "7a48488e5cc5b0fdd5f94305e737e9fc",
+   "checksum": "183364d7407a4f734df67ff05a2d7698",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5950,9 +5950,16 @@
                   "name": "Implications of Using SMTP Server when Sending Emails with Node.js - Stack Overflow",
                   "type": "url",
                   "url": "https://stackoverflow.com/questions/14927212/implications-of-using-smtp-server-when-sending-emails-with-node-js"
+               }, {
+                  "date_added": "13301677903116922",
+                  "guid": "dbf6c6dc-623e-497b-9c06-3989f3e00bdf",
+                  "id": "1181",
+                  "name": "Free and Open Search: The Creators of Elasticsearch, ELK & Kibana | Elastic",
+                  "type": "url",
+                  "url": "https://www.elastic.co/"
                } ],
                "date_added": "13301663473490024",
-               "date_modified": "13301669533898174",
+               "date_modified": "13301677903116922",
                "guid": "a5205344-b202-4f13-b4b9-a4c190959298",
                "id": "1176",
                "name": "Email",
