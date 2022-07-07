@@ -1,5 +1,5 @@
 {
-   "checksum": "289d99124944a908c33c92c916986702",
+   "checksum": "b49ce9278f8e217c406cc485b85e5c83",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5936,9 +5936,16 @@
                   "name": "Linux sendmail command help and examples",
                   "type": "url",
                   "url": "https://www.computerhope.com/unix/usendmai.htm"
+               }, {
+                  "date_added": "13301669529027422",
+                  "guid": "45759c1f-f06a-4e2b-baf8-ec1bfa523f54",
+                  "id": "1178",
+                  "name": "How to get sendmail working in Alpine Docker container? - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/45497512/how-to-get-sendmail-working-in-alpine-docker-container"
                } ],
                "date_added": "13301663473490024",
-               "date_modified": "13301663476854171",
+               "date_modified": "13301669529027422",
                "guid": "a5205344-b202-4f13-b4b9-a4c190959298",
                "id": "1176",
                "name": "Email",
