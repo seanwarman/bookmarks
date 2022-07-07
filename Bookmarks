@@ -1,5 +1,5 @@
 {
-   "checksum": "0e51c366f5be8c5cac338bf298743237",
+   "checksum": "083689735626a2f9d0bec4801c5f263b",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5921,9 +5921,16 @@
                   "name": "Elastic",
                   "type": "url",
                   "url": "https://www.elastic.co/"
+               }, {
+                  "date_added": "13301700877960789",
+                  "guid": "2c77329f-6de4-4166-b79e-c7567f114cd1",
+                  "id": "1183",
+                  "name": "How to Script macOS Keyboard Shortcuts – RPLabs – Rightpoint Labs",
+                  "type": "url",
+                  "url": "https://www.rightpoint.com/rplabs/script-keyboard-os-x-shortcuts"
                } ],
                "date_added": "13301493028524637",
-               "date_modified": "13301677912668741",
+               "date_modified": "13301700877960789",
                "guid": "f9808adc-d83a-4272-a1af-e023d8de28e0",
                "id": "1155",
                "name": "Search",
