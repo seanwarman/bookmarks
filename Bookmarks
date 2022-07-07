@@ -1,5 +1,5 @@
 {
-   "checksum": "e87a4ea4bb4f37bc2e1a013c50425877",
+   "checksum": "78baea15874ea8393c6c4fbfd2f2f4b7",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3491,9 +3491,16 @@
                "name": "Spectacle",
                "type": "url",
                "url": "https://www.spectacleapp.com/"
+            }, {
+               "date_added": "13301663417380862",
+               "guid": "ada324c4-ba9d-4b0c-91d9-50d357bea6a6",
+               "id": "1175",
+               "name": "SMTP? Say what? :: Nodemailer",
+               "type": "url",
+               "url": "https://nodemailer.com/usage/why-smtp/"
             } ],
             "date_added": "13277233018935107",
-            "date_modified": "13301655081946287",
+            "date_modified": "13301663417380862",
             "guid": "460e0d6f-fc4c-459a-9e3a-7fe9169d4a93",
             "id": "176",
             "name": "Personal",
