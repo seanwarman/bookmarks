@@ -1,5 +1,5 @@
 {
-   "checksum": "e87a4ea4bb4f37bc2e1a013c50425877",
+   "checksum": "7a48488e5cc5b0fdd5f94305e737e9fc",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3493,7 +3493,7 @@
                "url": "https://www.spectacleapp.com/"
             } ],
             "date_added": "13277233018935107",
-            "date_modified": "13301610988921762",
+            "date_modified": "13301663417380862",
             "guid": "460e0d6f-fc4c-459a-9e3a-7fe9169d4a93",
             "id": "176",
             "name": "Personal",
@@ -5920,6 +5920,42 @@
                "guid": "f9808adc-d83a-4272-a1af-e023d8de28e0",
                "id": "1155",
                "name": "Search",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13301663417380862",
+                  "guid": "ada324c4-ba9d-4b0c-91d9-50d357bea6a6",
+                  "id": "1175",
+                  "name": "SMTP? Say what? :: Nodemailer",
+                  "type": "url",
+                  "url": "https://nodemailer.com/usage/why-smtp/"
+               }, {
+                  "date_added": "13301663476854171",
+                  "guid": "84b2d40c-d09c-47f1-8c17-d2721b3f399b",
+                  "id": "1177",
+                  "name": "Linux sendmail command help and examples",
+                  "type": "url",
+                  "url": "https://www.computerhope.com/unix/usendmai.htm"
+               }, {
+                  "date_added": "13301669529027422",
+                  "guid": "45759c1f-f06a-4e2b-baf8-ec1bfa523f54",
+                  "id": "1178",
+                  "name": "How to get sendmail working in Alpine Docker container? - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/45497512/how-to-get-sendmail-working-in-alpine-docker-container"
+               }, {
+                  "date_added": "13301669533898174",
+                  "guid": "1828e9e4-786b-4006-b905-59e9b7c6af03",
+                  "id": "1179",
+                  "name": "Implications of Using SMTP Server when Sending Emails with Node.js - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/14927212/implications-of-using-smtp-server-when-sending-emails-with-node-js"
+               } ],
+               "date_added": "13301663473490024",
+               "date_modified": "13301669533898174",
+               "guid": "a5205344-b202-4f13-b4b9-a4c190959298",
+               "id": "1176",
+               "name": "Email",
                "type": "folder"
             } ],
             "date_added": "13299688768234670",
