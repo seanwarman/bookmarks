@@ -1,5 +1,5 @@
 {
-   "checksum": "e87a4ea4bb4f37bc2e1a013c50425877",
+   "checksum": "4540863bef006095478f308858afd14e",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3491,9 +3491,16 @@
                "name": "Spectacle",
                "type": "url",
                "url": "https://www.spectacleapp.com/"
+            }, {
+               "date_added": "13301655081946287",
+               "guid": "49d97511-ed93-45b5-b9df-2e6896378be0",
+               "id": "1172",
+               "name": "Vue Formulate ⚡️ The easiest way to build forms with Vue.js",
+               "type": "url",
+               "url": "https://vueformulate.com/"
             } ],
             "date_added": "13277233018935107",
-            "date_modified": "13301610988921762",
+            "date_modified": "13301655081946287",
             "guid": "460e0d6f-fc4c-459a-9e3a-7fe9169d4a93",
             "id": "176",
             "name": "Personal",
