@@ -1,5 +1,5 @@
 {
-   "checksum": "78baea15874ea8393c6c4fbfd2f2f4b7",
+   "checksum": "289d99124944a908c33c92c916986702",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3491,13 +3491,6 @@
                "name": "Spectacle",
                "type": "url",
                "url": "https://www.spectacleapp.com/"
-            }, {
-               "date_added": "13301663417380862",
-               "guid": "ada324c4-ba9d-4b0c-91d9-50d357bea6a6",
-               "id": "1175",
-               "name": "SMTP? Say what? :: Nodemailer",
-               "type": "url",
-               "url": "https://nodemailer.com/usage/why-smtp/"
             } ],
             "date_added": "13277233018935107",
             "date_modified": "13301663417380862",
@@ -5927,6 +5920,28 @@
                "guid": "f9808adc-d83a-4272-a1af-e023d8de28e0",
                "id": "1155",
                "name": "Search",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13301663417380862",
+                  "guid": "ada324c4-ba9d-4b0c-91d9-50d357bea6a6",
+                  "id": "1175",
+                  "name": "SMTP? Say what? :: Nodemailer",
+                  "type": "url",
+                  "url": "https://nodemailer.com/usage/why-smtp/"
+               }, {
+                  "date_added": "13301663476854171",
+                  "guid": "84b2d40c-d09c-47f1-8c17-d2721b3f399b",
+                  "id": "1177",
+                  "name": "Linux sendmail command help and examples",
+                  "type": "url",
+                  "url": "https://www.computerhope.com/unix/usendmai.htm"
+               } ],
+               "date_added": "13301663473490024",
+               "date_modified": "13301663476854171",
+               "guid": "a5205344-b202-4f13-b4b9-a4c190959298",
+               "id": "1176",
+               "name": "Email",
                "type": "folder"
             } ],
             "date_added": "13299688768234670",
