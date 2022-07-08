@@ -1,5 +1,5 @@
 {
-   "checksum": "96de4724a202ef9ea6bdb32b28a71349",
+   "checksum": "3d0d9abdc3824148e0f8a62017d4b344",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -102,9 +102,192 @@
                   "name": "Langserver.org",
                   "type": "url",
                   "url": "https://langserver.org/"
+               }, {
+                  "children": [ {
+                     "date_added": "13256218502000000",
+                     "guid": "08f0091c-7a56-4f04-b812-c8fb9ef172a6",
+                     "id": "294",
+                     "name": "[if statements] - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/33090357/too-many-arguments-if-statements"
+                  }, {
+                     "date_added": "13256218530000000",
+                     "guid": "c75dc2b1-3ed9-4718-9571-276a4d356bb0",
+                     "id": "295",
+                     "name": "linux - Using bg and fg with a given PID - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/60476078/using-bg-and-fg-with-a-given-pid"
+                  }, {
+                     "date_added": "13256218537000000",
+                     "guid": "b74b182a-a71d-4644-914a-1561e2a95f00",
+                     "id": "296",
+                     "name": "Bash Background Process Management - LinuxConfig.org",
+                     "type": "url",
+                     "url": "https://linuxconfig.org/bash-background-process-management"
+                  }, {
+                     "date_added": "13256218561000000",
+                     "guid": "10b83cb8-dd6f-4571-8c08-374e9e015985",
+                     "id": "297",
+                     "name": "bash - How can I assign the output of a command to a shell variable? - Unix & Linux Stack Exchange",
+                     "type": "url",
+                     "url": "https://unix.stackexchange.com/questions/16024/how-can-i-assign-the-output-of-a-command-to-a-shell-variable"
+                  }, {
+                     "date_added": "13256221222000000",
+                     "guid": "3968c075-83e8-4955-90d8-8deb34d3f134",
+                     "id": "298",
+                     "name": "linux - Getting pids from ps -ef |grep keyword - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/8120304/getting-pids-from-ps-ef-grep-keyword"
+                  }, {
+                     "date_added": "13256221232000000",
+                     "guid": "9926dd0e-2711-4294-9efa-8cf4be03b796",
+                     "id": "299",
+                     "name": "Five ways to use redirect operators in bash | Enable Sysadmin",
+                     "type": "url",
+                     "url": "https://www.redhat.com/sysadmin/redirect-operators-bash"
+                  }, {
+                     "date_added": "13256221835000000",
+                     "guid": "fb895143-4a50-4bb0-9d7f-75011ffcbd41",
+                     "id": "300",
+                     "name": "bash - Consecutive commands - Unix & Linux Stack Exchange",
+                     "type": "url",
+                     "url": "https://unix.stackexchange.com/questions/184493/consecutive-commands"
+                  }, {
+                     "date_added": "13256247837000000",
+                     "guid": "601c8d4b-e4ba-43ab-bd10-e993108671ba",
+                     "id": "301",
+                     "name": "wait command",
+                     "type": "url",
+                     "url": "https://unix.stackexchange.com/questions/76717/launch-a-background-process-and-check-when-it-ends"
+                  }, {
+                     "date_added": "13256247858000000",
+                     "guid": "dbce4b85-b91e-44b7-9fa3-1582cb8b37d9",
+                     "id": "302",
+                     "name": "How to Symlink a File in Linux",
+                     "type": "url",
+                     "url": "https://www.linuxshelltips.com/symlink-file-in-linux/"
+                  }, {
+                     "date_added": "13256369791000000",
+                     "guid": "be154939-87a7-480f-90f4-0ef2630f8177",
+                     "id": "303",
+                     "name": "How to view the output of a running process in another bash session? - Unix & Linux Stack Exchange",
+                     "type": "url",
+                     "url": "https://unix.stackexchange.com/questions/58550/how-to-view-the-output-of-a-running-process-in-another-bash-session"
+                  }, {
+                     "date_added": "13256369798000000",
+                     "guid": "4ef434d2-8b56-43fb-9d2e-54945e533261",
+                     "id": "304",
+                     "name": "bash - Testing if a variable is an integer - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/3623662/testing-if-a-variable-is-an-integer"
+                  }, {
+                     "date_added": "13256375084000000",
+                     "guid": "d0669e5d-0ccf-44c6-a151-647ac7fde74b",
+                     "id": "305",
+                     "name": "Detach from screen session inside bash script - Unix & Linux Stack Exchange",
+                     "type": "url",
+                     "url": "https://unix.stackexchange.com/questions/382137/detach-from-screen-session-inside-bash-script"
+                  }, {
+                     "date_added": "13256377791000000",
+                     "guid": "92b13a3b-9780-4c91-b767-2411de4d49a5",
+                     "id": "306",
+                     "name": "How to Pass Arguments to a Bash Shell Script",
+                     "type": "url",
+                     "url": "https://linuxhandbook.com/bash-arguments/"
+                  }, {
+                     "date_added": "13256414997000000",
+                     "guid": "d5c0c57f-a546-4abc-967e-52c597482efc",
+                     "id": "307",
+                     "name": "io redirection - Combine the output of two commands in bash - Unix & Linux Stack Exchange",
+                     "type": "url",
+                     "url": "https://unix.stackexchange.com/questions/64736/combine-the-output-of-two-commands-in-bash#64739"
+                  }, {
+                     "date_added": "13256415006000000",
+                     "guid": "f7212722-660e-40ef-8ad3-ab7007d7fa53",
+                     "id": "308",
+                     "name": "How to silence output in a Bash script? - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/2292847/how-to-silence-output-in-a-bash-script"
+                  }, {
+                     "date_added": "13256717922000000",
+                     "guid": "71e1dbf3-d703-4714-94eb-f879810bf527",
+                     "id": "309",
+                     "name": "BASH command output to the variable – Linux Hint",
+                     "type": "url",
+                     "url": "https://linuxhint.com/bash_command_output_variable/"
+                  }, {
+                     "date_added": "13256720427000000",
+                     "guid": "0a93227f-f48c-463c-b1e9-75739ea0efe6",
+                     "id": "310",
+                     "name": "Regex matching in a Bash if statement - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/18709962/regex-matching-in-a-bash-if-statement"
+                  }, {
+                     "date_added": "13256803988000000",
+                     "guid": "ab8e8a8a-e710-4d51-bc89-04187e8f51d3",
+                     "id": "311",
+                     "name": "How to pass multiple arguments in shell script with examples | GoLinuxCloud",
+                     "type": "url",
+                     "url": "https://www.golinuxcloud.com/bash-script-multiple-arguments/"
+                  }, {
+                     "date_added": "13257015536000000",
+                     "guid": "52d2b5ca-5c54-45a6-98ec-3f703af3cfca",
+                     "id": "312",
+                     "name": "How to delete and replace last line in the terminal using bash? - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/2388090/how-to-delete-and-replace-last-line-in-the-terminal-using-bash"
+                  }, {
+                     "date_added": "13257018943000000",
+                     "guid": "5f774272-a3b3-4b06-8135-374f7bd436c6",
+                     "id": "313",
+                     "name": "replace - Deleting echo line in bash - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/10321230/deleting-echo-line-in-bash"
+                  }, {
+                     "date_added": "13257018967000000",
+                     "guid": "0c221af3-4a9a-4a3d-895a-e391fe1b8073",
+                     "id": "314",
+                     "name": "animation - How to make an animated bash shell prompt for the terminal? - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/29448625/how-to-make-an-animated-bash-shell-prompt-for-the-terminal"
+                  }, {
+                     "date_added": "13257018974000000",
+                     "guid": "66526aec-3998-456e-9d0c-8d86775c8010",
+                     "id": "315",
+                     "name": "bash - How to change the output color of echo in Linux - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/5947742/how-to-change-the-output-color-of-echo-in-linux"
+                  }, {
+                     "date_added": "13257324688000000",
+                     "guid": "508a7c98-a502-4c61-b7fd-ae7afb15e3d2",
+                     "id": "316",
+                     "name": "Bash split string into array using 4 simple methods | GoLinuxCloud",
+                     "type": "url",
+                     "url": "https://www.golinuxcloud.com/bash-split-string-into-array-linux/#Method_1_Bash_split_string_into_array_using_parenthesis"
+                  }, {
+                     "date_added": "13257327566000000",
+                     "guid": "e6d76109-df0f-42be-b1b7-dfc8aa41af63",
+                     "id": "317",
+                     "name": "Returning Values from Bash Functions | Linux Journal",
+                     "type": "url",
+                     "url": "https://www.linuxjournal.com/content/return-values-bash-functions"
+                  }, {
+                     "date_added": "13257952068000000",
+                     "guid": "de0d5344-1a03-4990-8f26-b11522b54b2b",
+                     "id": "318",
+                     "name": "Always use double quotes for vars",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/29378566/i-just-assigned-a-variable-but-echo-variable-shows-something-else"
+                  } ],
+                  "date_added": "13277233018943179",
+                  "date_modified": "0",
+                  "guid": "9eaa7c53-5cfd-4bc5-a85f-e6ddd22d000c",
+                  "id": "293",
+                  "name": "Bash",
+                  "type": "folder"
                } ],
                "date_added": "13279626394881991",
-               "date_modified": "13280317416923024",
+               "date_modified": "13301762421396297",
                "guid": "68fd089e-8e22-44b6-aff4-c6688001ed38",
                "id": "534",
                "name": "Abstract Syntax Trees",
@@ -1594,9 +1777,16 @@
                   "name": "vim italics and bash escape seqs",
                   "type": "url",
                   "url": "https://stackoverflow.com/questions/3494435/vimrc-make-comments-italic"
+               }, {
+                  "date_added": "13301742621228598",
+                  "guid": "3ee79a89-1381-475b-bb9d-0f0fb57882b6",
+                  "id": "1185",
+                  "name": "Patch Fonts with Cursive Italic Styles - sainnhe's blog",
+                  "type": "url",
+                  "url": "https://www.sainnhe.dev/post/patch-fonts-with-cursive-italic-styles/"
                } ],
                "date_added": "13277233018935639",
-               "date_modified": "13299688754495753",
+               "date_modified": "13301756928300556",
                "guid": "e45d99a2-dae9-4915-9ab5-e39d2e688211",
                "id": "181",
                "name": "VIM",
@@ -2079,189 +2269,6 @@
                "name": "Basic Syntax | Markdown Guide",
                "type": "url",
                "url": "https://www.markdownguide.org/basic-syntax/"
-            }, {
-               "children": [ {
-                  "date_added": "13256218502000000",
-                  "guid": "08f0091c-7a56-4f04-b812-c8fb9ef172a6",
-                  "id": "294",
-                  "name": "[if statements] - Stack Overflow",
-                  "type": "url",
-                  "url": "https://stackoverflow.com/questions/33090357/too-many-arguments-if-statements"
-               }, {
-                  "date_added": "13256218530000000",
-                  "guid": "c75dc2b1-3ed9-4718-9571-276a4d356bb0",
-                  "id": "295",
-                  "name": "linux - Using bg and fg with a given PID - Stack Overflow",
-                  "type": "url",
-                  "url": "https://stackoverflow.com/questions/60476078/using-bg-and-fg-with-a-given-pid"
-               }, {
-                  "date_added": "13256218537000000",
-                  "guid": "b74b182a-a71d-4644-914a-1561e2a95f00",
-                  "id": "296",
-                  "name": "Bash Background Process Management - LinuxConfig.org",
-                  "type": "url",
-                  "url": "https://linuxconfig.org/bash-background-process-management"
-               }, {
-                  "date_added": "13256218561000000",
-                  "guid": "10b83cb8-dd6f-4571-8c08-374e9e015985",
-                  "id": "297",
-                  "name": "bash - How can I assign the output of a command to a shell variable? - Unix & Linux Stack Exchange",
-                  "type": "url",
-                  "url": "https://unix.stackexchange.com/questions/16024/how-can-i-assign-the-output-of-a-command-to-a-shell-variable"
-               }, {
-                  "date_added": "13256221222000000",
-                  "guid": "3968c075-83e8-4955-90d8-8deb34d3f134",
-                  "id": "298",
-                  "name": "linux - Getting pids from ps -ef |grep keyword - Stack Overflow",
-                  "type": "url",
-                  "url": "https://stackoverflow.com/questions/8120304/getting-pids-from-ps-ef-grep-keyword"
-               }, {
-                  "date_added": "13256221232000000",
-                  "guid": "9926dd0e-2711-4294-9efa-8cf4be03b796",
-                  "id": "299",
-                  "name": "Five ways to use redirect operators in bash | Enable Sysadmin",
-                  "type": "url",
-                  "url": "https://www.redhat.com/sysadmin/redirect-operators-bash"
-               }, {
-                  "date_added": "13256221835000000",
-                  "guid": "fb895143-4a50-4bb0-9d7f-75011ffcbd41",
-                  "id": "300",
-                  "name": "bash - Consecutive commands - Unix & Linux Stack Exchange",
-                  "type": "url",
-                  "url": "https://unix.stackexchange.com/questions/184493/consecutive-commands"
-               }, {
-                  "date_added": "13256247837000000",
-                  "guid": "601c8d4b-e4ba-43ab-bd10-e993108671ba",
-                  "id": "301",
-                  "name": "wait command",
-                  "type": "url",
-                  "url": "https://unix.stackexchange.com/questions/76717/launch-a-background-process-and-check-when-it-ends"
-               }, {
-                  "date_added": "13256247858000000",
-                  "guid": "dbce4b85-b91e-44b7-9fa3-1582cb8b37d9",
-                  "id": "302",
-                  "name": "How to Symlink a File in Linux",
-                  "type": "url",
-                  "url": "https://www.linuxshelltips.com/symlink-file-in-linux/"
-               }, {
-                  "date_added": "13256369791000000",
-                  "guid": "be154939-87a7-480f-90f4-0ef2630f8177",
-                  "id": "303",
-                  "name": "How to view the output of a running process in another bash session? - Unix & Linux Stack Exchange",
-                  "type": "url",
-                  "url": "https://unix.stackexchange.com/questions/58550/how-to-view-the-output-of-a-running-process-in-another-bash-session"
-               }, {
-                  "date_added": "13256369798000000",
-                  "guid": "4ef434d2-8b56-43fb-9d2e-54945e533261",
-                  "id": "304",
-                  "name": "bash - Testing if a variable is an integer - Stack Overflow",
-                  "type": "url",
-                  "url": "https://stackoverflow.com/questions/3623662/testing-if-a-variable-is-an-integer"
-               }, {
-                  "date_added": "13256375084000000",
-                  "guid": "d0669e5d-0ccf-44c6-a151-647ac7fde74b",
-                  "id": "305",
-                  "name": "Detach from screen session inside bash script - Unix & Linux Stack Exchange",
-                  "type": "url",
-                  "url": "https://unix.stackexchange.com/questions/382137/detach-from-screen-session-inside-bash-script"
-               }, {
-                  "date_added": "13256377791000000",
-                  "guid": "92b13a3b-9780-4c91-b767-2411de4d49a5",
-                  "id": "306",
-                  "name": "How to Pass Arguments to a Bash Shell Script",
-                  "type": "url",
-                  "url": "https://linuxhandbook.com/bash-arguments/"
-               }, {
-                  "date_added": "13256414997000000",
-                  "guid": "d5c0c57f-a546-4abc-967e-52c597482efc",
-                  "id": "307",
-                  "name": "io redirection - Combine the output of two commands in bash - Unix & Linux Stack Exchange",
-                  "type": "url",
-                  "url": "https://unix.stackexchange.com/questions/64736/combine-the-output-of-two-commands-in-bash#64739"
-               }, {
-                  "date_added": "13256415006000000",
-                  "guid": "f7212722-660e-40ef-8ad3-ab7007d7fa53",
-                  "id": "308",
-                  "name": "How to silence output in a Bash script? - Stack Overflow",
-                  "type": "url",
-                  "url": "https://stackoverflow.com/questions/2292847/how-to-silence-output-in-a-bash-script"
-               }, {
-                  "date_added": "13256717922000000",
-                  "guid": "71e1dbf3-d703-4714-94eb-f879810bf527",
-                  "id": "309",
-                  "name": "BASH command output to the variable – Linux Hint",
-                  "type": "url",
-                  "url": "https://linuxhint.com/bash_command_output_variable/"
-               }, {
-                  "date_added": "13256720427000000",
-                  "guid": "0a93227f-f48c-463c-b1e9-75739ea0efe6",
-                  "id": "310",
-                  "name": "Regex matching in a Bash if statement - Stack Overflow",
-                  "type": "url",
-                  "url": "https://stackoverflow.com/questions/18709962/regex-matching-in-a-bash-if-statement"
-               }, {
-                  "date_added": "13256803988000000",
-                  "guid": "ab8e8a8a-e710-4d51-bc89-04187e8f51d3",
-                  "id": "311",
-                  "name": "How to pass multiple arguments in shell script with examples | GoLinuxCloud",
-                  "type": "url",
-                  "url": "https://www.golinuxcloud.com/bash-script-multiple-arguments/"
-               }, {
-                  "date_added": "13257015536000000",
-                  "guid": "52d2b5ca-5c54-45a6-98ec-3f703af3cfca",
-                  "id": "312",
-                  "name": "How to delete and replace last line in the terminal using bash? - Stack Overflow",
-                  "type": "url",
-                  "url": "https://stackoverflow.com/questions/2388090/how-to-delete-and-replace-last-line-in-the-terminal-using-bash"
-               }, {
-                  "date_added": "13257018943000000",
-                  "guid": "5f774272-a3b3-4b06-8135-374f7bd436c6",
-                  "id": "313",
-                  "name": "replace - Deleting echo line in bash - Stack Overflow",
-                  "type": "url",
-                  "url": "https://stackoverflow.com/questions/10321230/deleting-echo-line-in-bash"
-               }, {
-                  "date_added": "13257018967000000",
-                  "guid": "0c221af3-4a9a-4a3d-895a-e391fe1b8073",
-                  "id": "314",
-                  "name": "animation - How to make an animated bash shell prompt for the terminal? - Stack Overflow",
-                  "type": "url",
-                  "url": "https://stackoverflow.com/questions/29448625/how-to-make-an-animated-bash-shell-prompt-for-the-terminal"
-               }, {
-                  "date_added": "13257018974000000",
-                  "guid": "66526aec-3998-456e-9d0c-8d86775c8010",
-                  "id": "315",
-                  "name": "bash - How to change the output color of echo in Linux - Stack Overflow",
-                  "type": "url",
-                  "url": "https://stackoverflow.com/questions/5947742/how-to-change-the-output-color-of-echo-in-linux"
-               }, {
-                  "date_added": "13257324688000000",
-                  "guid": "508a7c98-a502-4c61-b7fd-ae7afb15e3d2",
-                  "id": "316",
-                  "name": "Bash split string into array using 4 simple methods | GoLinuxCloud",
-                  "type": "url",
-                  "url": "https://www.golinuxcloud.com/bash-split-string-into-array-linux/#Method_1_Bash_split_string_into_array_using_parenthesis"
-               }, {
-                  "date_added": "13257327566000000",
-                  "guid": "e6d76109-df0f-42be-b1b7-dfc8aa41af63",
-                  "id": "317",
-                  "name": "Returning Values from Bash Functions | Linux Journal",
-                  "type": "url",
-                  "url": "https://www.linuxjournal.com/content/return-values-bash-functions"
-               }, {
-                  "date_added": "13257952068000000",
-                  "guid": "de0d5344-1a03-4990-8f26-b11522b54b2b",
-                  "id": "318",
-                  "name": "Always use double quotes for vars",
-                  "type": "url",
-                  "url": "https://stackoverflow.com/questions/29378566/i-just-assigned-a-variable-but-echo-variable-shows-something-else"
-               } ],
-               "date_added": "13277233018943179",
-               "date_modified": "0",
-               "guid": "9eaa7c53-5cfd-4bc5-a85f-e6ddd22d000c",
-               "id": "293",
-               "name": "Bash",
-               "type": "folder"
             }, {
                "children": [ {
                   "date_added": "13257114740000000",
@@ -3477,9 +3484,16 @@
                   "name": "Sanctuary",
                   "type": "url",
                   "url": "https://sanctuary.js.org/"
+               }, {
+                  "date_added": "13301756928300556",
+                  "guid": "b26e1a2f-5c55-4d51-a5f1-ea87546fc347",
+                  "id": "1186",
+                  "name": "hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!",
+                  "type": "url",
+                  "url": "https://github.com/hemanth/functional-programming-jargon?utm_source=hackernewsletter&utm_medium=email&utm_term=code"
                } ],
                "date_added": "13301567671261714",
-               "date_modified": "13301610983776586",
+               "date_modified": "13301756937061946",
                "guid": "c9451023-c5de-44e5-83a8-e0e9acf36cc6",
                "id": "1167",
                "name": "Functional Programming",
@@ -3500,7 +3514,7 @@
                "url": "https://www.rightpoint.com/rplabs/script-keyboard-os-x-shortcuts"
             } ],
             "date_added": "13277233018935107",
-            "date_modified": "13301700890549532",
+            "date_modified": "13301742621228598",
             "guid": "460e0d6f-fc4c-459a-9e3a-7fe9169d4a93",
             "id": "176",
             "name": "Personal",
