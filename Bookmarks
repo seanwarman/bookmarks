@@ -1,5 +1,5 @@
 {
-   "checksum": "5d3f4a6197361f90a037bd28dfc64cfb",
+   "checksum": "058d3d51c35fca29c8abb03108a27261",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1601,13 +1601,6 @@
                   "name": "Patch Fonts with Cursive Italic Styles - sainnhe's blog",
                   "type": "url",
                   "url": "https://www.sainnhe.dev/post/patch-fonts-with-cursive-italic-styles/"
-               }, {
-                  "date_added": "13301756928300556",
-                  "guid": "b26e1a2f-5c55-4d51-a5f1-ea87546fc347",
-                  "id": "1186",
-                  "name": "hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!",
-                  "type": "url",
-                  "url": "https://github.com/hemanth/functional-programming-jargon?utm_source=hackernewsletter&utm_medium=email&utm_term=code"
                } ],
                "date_added": "13277233018935639",
                "date_modified": "13301756928300556",
@@ -3491,9 +3484,16 @@
                   "name": "Sanctuary",
                   "type": "url",
                   "url": "https://sanctuary.js.org/"
+               }, {
+                  "date_added": "13301756928300556",
+                  "guid": "b26e1a2f-5c55-4d51-a5f1-ea87546fc347",
+                  "id": "1186",
+                  "name": "hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!",
+                  "type": "url",
+                  "url": "https://github.com/hemanth/functional-programming-jargon?utm_source=hackernewsletter&utm_medium=email&utm_term=code"
                } ],
                "date_added": "13301567671261714",
-               "date_modified": "13301610983776586",
+               "date_modified": "13301756937061946",
                "guid": "c9451023-c5de-44e5-83a8-e0e9acf36cc6",
                "id": "1167",
                "name": "Functional Programming",
