@@ -1,5 +1,5 @@
 {
-   "checksum": "15c27fc0d473c357bcee6f67bcd86c2f",
+   "checksum": "5d3f4a6197361f90a037bd28dfc64cfb",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -1601,9 +1601,16 @@
                   "name": "Patch Fonts with Cursive Italic Styles - sainnhe's blog",
                   "type": "url",
                   "url": "https://www.sainnhe.dev/post/patch-fonts-with-cursive-italic-styles/"
+               }, {
+                  "date_added": "13301756928300556",
+                  "guid": "b26e1a2f-5c55-4d51-a5f1-ea87546fc347",
+                  "id": "1186",
+                  "name": "hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!",
+                  "type": "url",
+                  "url": "https://github.com/hemanth/functional-programming-jargon?utm_source=hackernewsletter&utm_medium=email&utm_term=code"
                } ],
                "date_added": "13277233018935639",
-               "date_modified": "13301742630600002",
+               "date_modified": "13301756928300556",
                "guid": "e45d99a2-dae9-4915-9ab5-e39d2e688211",
                "id": "181",
                "name": "VIM",
