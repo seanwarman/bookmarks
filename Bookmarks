@@ -1,5 +1,5 @@
 {
-   "checksum": "96de4724a202ef9ea6bdb32b28a71349",
+   "checksum": "ff20da8aa36fdab3014c0f7f10cfc214",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3498,9 +3498,16 @@
                "name": "Global shortcuts for macos",
                "type": "url",
                "url": "https://www.rightpoint.com/rplabs/script-keyboard-os-x-shortcuts"
+            }, {
+               "date_added": "13301742621228598",
+               "guid": "3ee79a89-1381-475b-bb9d-0f0fb57882b6",
+               "id": "1185",
+               "name": "Patch Fonts with Cursive Italic Styles - sainnhe's blog",
+               "type": "url",
+               "url": "https://www.sainnhe.dev/post/patch-fonts-with-cursive-italic-styles/"
             } ],
             "date_added": "13277233018935107",
-            "date_modified": "13301700890549532",
+            "date_modified": "13301742621228598",
             "guid": "460e0d6f-fc4c-459a-9e3a-7fe9169d4a93",
             "id": "176",
             "name": "Personal",
