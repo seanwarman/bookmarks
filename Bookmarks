@@ -1,5 +1,5 @@
 {
-   "checksum": "3d0d9abdc3824148e0f8a62017d4b344",
+   "checksum": "bc52f109f6d3f3db3cef290058849b2e",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -287,7 +287,7 @@
                   "type": "folder"
                } ],
                "date_added": "13279626394881991",
-               "date_modified": "13301762421396297",
+               "date_modified": "13301765312686766",
                "guid": "68fd089e-8e22-44b6-aff4-c6688001ed38",
                "id": "534",
                "name": "Abstract Syntax Trees",
@@ -3512,9 +3512,16 @@
                "name": "Global shortcuts for macos",
                "type": "url",
                "url": "https://www.rightpoint.com/rplabs/script-keyboard-os-x-shortcuts"
+            }, {
+               "date_added": "13301765312686766",
+               "guid": "cece6f9a-e9e0-4f90-a697-5e8d95a870d6",
+               "id": "1188",
+               "name": "How to disable spotlight indexing on Mac OSX | The Electric Toolbox Blog",
+               "type": "url",
+               "url": "https://electrictoolbox.com/disable-spotlight-indexing-mac-osx/"
             } ],
             "date_added": "13277233018935107",
-            "date_modified": "13301742621228598",
+            "date_modified": "13301765316859925",
             "guid": "460e0d6f-fc4c-459a-9e3a-7fe9169d4a93",
             "id": "176",
             "name": "Personal",
