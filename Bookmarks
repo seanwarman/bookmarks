@@ -1,5 +1,5 @@
 {
-   "checksum": "fce6976c64f477dfc8b8dd1b09d53ce9",
+   "checksum": "ad95a32dfe01a9c970301ccf760d5a50",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6006,9 +6006,16 @@
             "name": "Advent of Code 2021",
             "type": "url",
             "url": "https://adventofcode.com/"
+         }, {
+            "date_added": "13302175825725663",
+            "guid": "eeea5ddb-ae55-49e0-9bd0-f2795d19ea7a",
+            "id": "1189",
+            "name": "laravel - E: Package 'mysql-client' has no installation candidate in php-fpm image build using docker compose - Stack Overflow",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/57048428/e-package-mysql-client-has-no-installation-candidate-in-php-fpm-image-build-u"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13302017120794865",
+         "date_modified": "13302175825725663",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
