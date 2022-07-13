@@ -1,5 +1,5 @@
 {
-   "checksum": "50ae6abc4f8f17b5c56a45ca57fb4a71",
+   "checksum": "4cf7755b3050d8cb213d2400f61bb155",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5993,9 +5993,16 @@
                   "name": "laravel - E: Package 'mysql-client' has no installation candidate in php-fpm image build using docker compose - Stack Overflow",
                   "type": "url",
                   "url": "https://stackoverflow.com/questions/57048428/e-package-mysql-client-has-no-installation-candidate-in-php-fpm-image-build-u"
+               }, {
+                  "date_added": "13302184672401921",
+                  "guid": "3916bd7e-c201-4251-ba0b-742d735805a3",
+                  "id": "1191",
+                  "name": "register-task-definition — AWS CLI 1.25.27 Command Reference",
+                  "type": "url",
+                  "url": "https://docs.aws.amazon.com/cli/latest/reference/ecs/register-task-definition.html"
                } ],
                "date_added": "13302175840926935",
-               "date_modified": "13302175840927073",
+               "date_modified": "13302184672401921",
                "guid": "f9296b3c-8ec2-4c5e-b694-c7669dc476b0",
                "id": "1190",
                "name": "Update",
