@@ -1,5 +1,5 @@
 {
-   "checksum": "3ce91e5d66d8e653ac565fb15e8d148f",
+   "checksum": "09f7cbc2ecc55a192ee92bbc9a185312",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6000,9 +6000,16 @@
                   "name": "register-task-definition — AWS CLI 1.25.27 Command Reference",
                   "type": "url",
                   "url": "https://docs.aws.amazon.com/cli/latest/reference/ecs/register-task-definition.html"
+               }, {
+                  "date_added": "13302264977854354",
+                  "guid": "befa826d-fec0-49e5-b94b-11abe1902c0c",
+                  "id": "1192",
+                  "name": "javascript - Point-free style capitalize function with Ramda - STACKOOM",
+                  "type": "url",
+                  "url": "https://stackoom.com/en/question/2hssP"
                } ],
                "date_added": "13302175840926935",
-               "date_modified": "13302184672401921",
+               "date_modified": "13302264977854354",
                "guid": "f9296b3c-8ec2-4c5e-b694-c7669dc476b0",
                "id": "1190",
                "name": "Update",
