@@ -1,5 +1,5 @@
 {
-   "checksum": "4cf7755b3050d8cb213d2400f61bb155",
+   "checksum": "3ce91e5d66d8e653ac565fb15e8d148f",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6021,13 +6021,6 @@
             "name": "Timesheets",
             "type": "url",
             "url": "https://nomensa.my.workfront.com/timesheets"
-         }, {
-            "date_added": "13297189125085547",
-            "guid": "0b502b34-c69c-456e-ba6f-3f6e87aa230a",
-            "id": "1078",
-            "name": "Advent of Code 2021",
-            "type": "url",
-            "url": "https://adventofcode.com/"
          } ],
          "date_added": "13277229767710742",
          "date_modified": "13302175825725663",
