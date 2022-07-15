@@ -1,5 +1,5 @@
 {
-   "checksum": "4feea5f5818d94bd3a016756f13416a4",
+   "checksum": "7a3283e57f55004619e54986039c971e",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6065,9 +6065,16 @@
                "name": "Nunjucks",
                "type": "url",
                "url": "https://mozilla.github.io/nunjucks/api.html"
+            }, {
+               "date_added": "13302349020508028",
+               "guid": "79a6fae7-56ad-4e73-90d6-242899e8cc9b",
+               "id": "1200",
+               "name": "Install with Node.js package manager (npm) - GOV.UK Frontend",
+               "type": "url",
+               "url": "https://frontend.design-system.service.gov.uk/installing-with-npm/#install-with-node-js-package-manager-npm"
             } ],
             "date_added": "13302280916589690",
-            "date_modified": "13302349009272804",
+            "date_modified": "13302349020508028",
             "guid": "944dac52-020f-436f-897d-fa0022a40786",
             "id": "1197",
             "name": "DWP",
