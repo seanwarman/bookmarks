@@ -1,5 +1,5 @@
 {
-   "checksum": "fe4253f4e965eea345db8e70fb6e9bf3",
+   "checksum": "6523d3a4955b6adc9981814f9bbadf55",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6079,13 +6079,6 @@
                "name": "Components – GOV.UK Design System",
                "type": "url",
                "url": "https://design-system.service.gov.uk/components/"
-            }, {
-               "date_added": "13302350490124237",
-               "guid": "e9397d78-540c-41ca-9ba7-c91aecf3f0e7",
-               "id": "1202",
-               "name": "Home - DWP Design System",
-               "type": "url",
-               "url": "https://cookies-consent.design-system.dwp.gov.uk/index"
             }, {
                "date_added": "13302351227969446",
                "guid": "f6fa7b9c-2398-4679-9fe7-019802cab4de",
