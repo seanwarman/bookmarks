@@ -1,5 +1,5 @@
 {
-   "checksum": "97c7bcd6b7c2545b82764f488ae058d0",
+   "checksum": "d448872a7690dfc2c1f5daf88e9b487b",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6050,9 +6050,16 @@
                "name": "docker-compose cheatsheet",
                "type": "url",
                "url": "https://devhints.io/docker-compose"
+            }, {
+               "date_added": "13302367435210913",
+               "guid": "44b9fdb8-00f8-44e4-8bc4-bef1145536d3",
+               "id": "1206",
+               "name": "node.js - MySQL 8.0 - Client does not support authentication protocol requested by server; consider upgrading MySQL client - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/50093144/mysql-8-0-client-does-not-support-authentication-protocol-requested-by-server/56509065#56509065"
             } ],
             "date_added": "13299688768234670",
-            "date_modified": "13302367362608216",
+            "date_modified": "13302367435210913",
             "guid": "7f6f0d5e-45d6-472a-b726-87a2f5dbab5c",
             "id": "1109",
             "name": "HIE-023",
