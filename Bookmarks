@@ -1,5 +1,5 @@
 {
-   "checksum": "4b76e50b44d89da4c786cfe4d78d6970",
+   "checksum": "fe4253f4e965eea345db8e70fb6e9bf3",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6086,9 +6086,16 @@
                "name": "Home - DWP Design System",
                "type": "url",
                "url": "https://cookies-consent.design-system.dwp.gov.uk/index"
+            }, {
+               "date_added": "13302351227969446",
+               "guid": "f6fa7b9c-2398-4679-9fe7-019802cab4de",
+               "id": "1203",
+               "name": "Get started - DWP Design System",
+               "type": "url",
+               "url": "https://cookies-consent.design-system.dwp.gov.uk/get-started"
             } ],
             "date_added": "13302280916589690",
-            "date_modified": "13302350490124237",
+            "date_modified": "13302351227969446",
             "guid": "944dac52-020f-436f-897d-fa0022a40786",
             "id": "1197",
             "name": "DWP",
