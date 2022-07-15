@@ -1,5 +1,5 @@
 {
-   "checksum": "7a3283e57f55004619e54986039c971e",
+   "checksum": "1ef56fb01e13126c15af48878a46e03d",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6072,9 +6072,16 @@
                "name": "Install with Node.js package manager (npm) - GOV.UK Frontend",
                "type": "url",
                "url": "https://frontend.design-system.service.gov.uk/installing-with-npm/#install-with-node-js-package-manager-npm"
+            }, {
+               "date_added": "13302349027806154",
+               "guid": "deecb7e4-8f34-4bf3-adc0-3dca23b06703",
+               "id": "1201",
+               "name": "Components – GOV.UK Design System",
+               "type": "url",
+               "url": "https://design-system.service.gov.uk/components/"
             } ],
             "date_added": "13302280916589690",
-            "date_modified": "13302349020508028",
+            "date_modified": "13302349027806154",
             "guid": "944dac52-020f-436f-897d-fa0022a40786",
             "id": "1197",
             "name": "DWP",
