@@ -1,5 +1,5 @@
 {
-   "checksum": "cd0eb5961d92624e80745a0ec61bee64",
+   "checksum": "b6b71651d15ecac9e0d72693de6076f4",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5563,9 +5563,16 @@
                   "name": "VIE-096-B2B site_Contact Form Enhancement-20220630.pptx",
                   "type": "url",
                   "url": "https://nomensa.sharepoint.com/:p:/s/File-Share-Sales/EYhG2rb647pFsZ1KOcByFsYB3QBoMaXikBie7AKi2AQfZw"
+               }, {
+                  "date_added": "13302367349397221",
+                  "guid": "d9af571b-af3a-4548-ad7e-723af701cd68",
+                  "id": "1205",
+                  "name": "docker-compose cheatsheet",
+                  "type": "url",
+                  "url": "https://devhints.io/docker-compose"
                } ],
                "date_added": "13302279093181229",
-               "date_modified": "13302351995762912",
+               "date_modified": "13302367349397221",
                "guid": "384da905-10a8-4987-8a80-423230e86956",
                "id": "1194",
                "name": "VIE-096/097",
