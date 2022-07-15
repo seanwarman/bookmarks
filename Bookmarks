@@ -1,5 +1,5 @@
 {
-   "checksum": "d448872a7690dfc2c1f5daf88e9b487b",
+   "checksum": "f2523b59b19011db9290cbdcdf99a818",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6054,7 +6054,7 @@
                "date_added": "13302367435210913",
                "guid": "44b9fdb8-00f8-44e4-8bc4-bef1145536d3",
                "id": "1206",
-               "name": "node.js - MySQL 8.0 - Client does not support authentication protocol requested by server; consider upgrading MySQL client - Stack Overflow",
+               "name": "ER_NOT_SUPPORTED_AUTH_MODE mysql 8",
                "type": "url",
                "url": "https://stackoverflow.com/questions/50093144/mysql-8-0-client-does-not-support-authentication-protocol-requested-by-server/56509065#56509065"
             } ],
