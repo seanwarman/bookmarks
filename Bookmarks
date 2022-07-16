@@ -1,5 +1,5 @@
 {
-   "checksum": "f2523b59b19011db9290cbdcdf99a818",
+   "checksum": "b260fa6fa92fc215de40851d7393a3c5",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3491,9 +3491,16 @@
                   "name": "javascript - Point-free style capitalize function with Ramda - STACKOOM",
                   "type": "url",
                   "url": "https://stackoom.com/en/question/2hssP"
+               }, {
+                  "date_added": "13302475061520214",
+                  "guid": "b3a9d6c9-dc4b-4484-901f-c0c678891c69",
+                  "id": "1207",
+                  "name": "module folktale/maybe",
+                  "type": "url",
+                  "url": "https://folktale.origamitower.com/api/v2.3.0/en/folktale.maybe.html"
                } ],
                "date_added": "13301567671261714",
-               "date_modified": "13302279064034727",
+               "date_modified": "13302475065562791",
                "guid": "c9451023-c5de-44e5-83a8-e0e9acf36cc6",
                "id": "1167",
                "name": "Functional Programming",
@@ -6059,7 +6066,7 @@
                "url": "https://stackoverflow.com/questions/50093144/mysql-8-0-client-does-not-support-authentication-protocol-requested-by-server/56509065#56509065"
             } ],
             "date_added": "13299688768234670",
-            "date_modified": "13302367435210913",
+            "date_modified": "13302475061520214",
             "guid": "7f6f0d5e-45d6-472a-b726-87a2f5dbab5c",
             "id": "1109",
             "name": "HIE-023",
