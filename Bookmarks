@@ -1,5 +1,5 @@
 {
-   "checksum": "36b13f893d04bf3cf621d2d3321f6e92",
+   "checksum": "4bbf070afabc72b0464f38f6e2bf2dcf",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3498,14 +3498,6 @@
                   "name": "module folktale/maybe",
                   "type": "url",
                   "url": "https://folktale.origamitower.com/api/v2.3.0/en/folktale.maybe.html"
-               }, {
-                  "children": [  ],
-                  "date_added": "13302610739363124",
-                  "date_modified": "13302610739363124",
-                  "guid": "9624bd54-efb8-4cd3-88e3-089ebb5ff5dd",
-                  "id": "1210",
-                  "name": "New folder",
-                  "type": "folder"
                } ],
                "date_added": "13301567671261714",
                "date_modified": "13302610701045731",
