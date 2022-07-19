@@ -1,5 +1,5 @@
 {
-   "checksum": "2ffd5493686ca05feb66545f0c3f14b0",
+   "checksum": "f3762f6739c126abdf3ae7614be61057",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6140,7 +6140,7 @@
                "date_added": "13302696161145300",
                "guid": "9954bb16-916a-4815-888e-ae258d56208e",
                "id": "1212",
-               "name": "Get Started | Pardot API | Salesforce Developers",
+               "name": "Pardot API",
                "type": "url",
                "url": "https://developer.salesforce.com/docs/marketing/pardot/guide/overview.html"
             } ],
