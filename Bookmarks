@@ -1,5 +1,5 @@
 {
-   "checksum": "f3762f6739c126abdf3ae7614be61057",
+   "checksum": "d7dc3b944cc0550b7b273878a4fe4e34",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6143,9 +6143,16 @@
                "name": "Pardot API",
                "type": "url",
                "url": "https://developer.salesforce.com/docs/marketing/pardot/guide/overview.html"
+            }, {
+               "date_added": "13302697033676295",
+               "guid": "8c2943b6-3008-444d-ae54-ce018027d2ac",
+               "id": "1213",
+               "name": "Pardot Content Regions 101",
+               "type": "url",
+               "url": "https://marcloudconsulting.com/development/pardot-content-regions-101#imageregion"
             } ],
             "date_added": "13302610739363299",
-            "date_modified": "13302696161145300",
+            "date_modified": "13302697033676295",
             "guid": "8224f695-59b8-4d6e-8360-aec47c0bc232",
             "id": "1211",
             "name": "Pardot Email Template",
