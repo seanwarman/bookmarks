@@ -1,5 +1,5 @@
 {
-   "checksum": "b31fb4281d8a77dda929d96388fdcac8",
+   "checksum": "63dc6fff77d857396bc3eb4144652fd0",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6140,7 +6140,7 @@
                "date_added": "13302697418962165",
                "guid": "bb5e1863-eb67-4a4f-97ec-d8e59ea2e906",
                "id": "1214",
-               "name": "A Collection of Incredibly Useful Pardot Snippets",
+               "name": "Pardot Snippets",
                "type": "url",
                "url": "https://jennamolby.com/a-collection-of-incredibly-useful-pardot-snippets/"
             } ],
