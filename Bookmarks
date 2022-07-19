@@ -1,5 +1,5 @@
 {
-   "checksum": "f3762f6739c126abdf3ae7614be61057",
+   "checksum": "b31fb4281d8a77dda929d96388fdcac8",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6137,15 +6137,15 @@
                "type": "url",
                "url": "https://nomensa-my.sharepoint.com/personal/ntaylor_nomensa_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fntaylor_nomensa_com%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files%2FINT-064_Nomensa-Brand-Cheat-Sheet-08-03-2022%20%283%29%20%282%29%2Epdf&parent=%2Fpersonal%2Fntaylor_nomensa_com%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files&ga=1"
             }, {
-               "date_added": "13302696161145300",
-               "guid": "9954bb16-916a-4815-888e-ae258d56208e",
-               "id": "1212",
-               "name": "Pardot API",
+               "date_added": "13302697418962165",
+               "guid": "bb5e1863-eb67-4a4f-97ec-d8e59ea2e906",
+               "id": "1214",
+               "name": "A Collection of Incredibly Useful Pardot Snippets",
                "type": "url",
-               "url": "https://developer.salesforce.com/docs/marketing/pardot/guide/overview.html"
+               "url": "https://jennamolby.com/a-collection-of-incredibly-useful-pardot-snippets/"
             } ],
             "date_added": "13302610739363299",
-            "date_modified": "13302697033676295",
+            "date_modified": "13302697418962165",
             "guid": "8224f695-59b8-4d6e-8360-aec47c0bc232",
             "id": "1211",
             "name": "Pardot Email Template",
