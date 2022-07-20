@@ -1,5 +1,5 @@
 {
-   "checksum": "a6717e4d23fe3a13a972641de5e2e49e",
+   "checksum": "e4216b20f2d9ef0b4e8100fb05a1f36b",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6128,9 +6128,16 @@
                "name": "Learn Java in One Video - 15-minute Crash Course - YouTube",
                "type": "url",
                "url": "https://www.youtube.com/watch?v=drQK8ciCAjY"
+            }, {
+               "date_added": "13302793941410384",
+               "guid": "92a9add8-2f5c-4249-9627-a0090b598769",
+               "id": "1217",
+               "name": "Java Programming Cheatsheet",
+               "type": "url",
+               "url": "https://introcs.cs.princeton.edu/java/11cheatsheet/"
             } ],
             "date_added": "13302280916589690",
-            "date_modified": "13302793937504679",
+            "date_modified": "13302793941410384",
             "guid": "944dac52-020f-436f-897d-fa0022a40786",
             "id": "1197",
             "name": "DWP",
