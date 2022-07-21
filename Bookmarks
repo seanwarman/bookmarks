@@ -1,5 +1,5 @@
 {
-   "checksum": "e4216b20f2d9ef0b4e8100fb05a1f36b",
+   "checksum": "20dd1b0d5f7756fa88f6e5c5321cef20",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6135,9 +6135,16 @@
                "name": "Java Programming Cheatsheet",
                "type": "url",
                "url": "https://introcs.cs.princeton.edu/java/11cheatsheet/"
+            }, {
+               "date_added": "13302881169684775",
+               "guid": "6f4fed0f-1cf3-40bf-8767-51ad1c6a847d",
+               "id": "1218",
+               "name": "Best Practices for Creating Email Templates",
+               "type": "url",
+               "url": "https://help.salesforce.com/s/articleView?id=sf.pardot_best_practices_for_creating_email_templates.htm&type=5"
             } ],
             "date_added": "13302280916589690",
-            "date_modified": "13302793941410384",
+            "date_modified": "13302881169684775",
             "guid": "944dac52-020f-436f-897d-fa0022a40786",
             "id": "1197",
             "name": "DWP",
