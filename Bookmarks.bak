@@ -1,5 +1,5 @@
 {
-   "checksum": "b260fa6fa92fc215de40851d7393a3c5",
+   "checksum": "06e271903deb795dad60e43483a39ccc",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3500,7 +3500,7 @@
                   "url": "https://folktale.origamitower.com/api/v2.3.0/en/folktale.maybe.html"
                } ],
                "date_added": "13301567671261714",
-               "date_modified": "13302475065562791",
+               "date_modified": "13302610701045731",
                "guid": "c9451023-c5de-44e5-83a8-e0e9acf36cc6",
                "id": "1167",
                "name": "Functional Programming",
@@ -5577,9 +5577,45 @@
                "id": "1194",
                "name": "VIE-096/097",
                "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13302610701045731",
+                  "guid": "001b5697-20d2-4754-a52f-9f69794d9f72",
+                  "id": "1209",
+                  "name": "nomensa brand",
+                  "type": "url",
+                  "url": "https://nomensa-my.sharepoint.com/personal/ntaylor_nomensa_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fntaylor_nomensa_com%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files%2FINT-064_Nomensa-Brand-Cheat-Sheet-08-03-2022%20%283%29%20%282%29%2Epdf&parent=%2Fpersonal%2Fntaylor_nomensa_com%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files&ga=1"
+               }, {
+                  "date_added": "13302697418962165",
+                  "guid": "bb5e1863-eb67-4a4f-97ec-d8e59ea2e906",
+                  "id": "1214",
+                  "name": "Pardot Snippets",
+                  "type": "url",
+                  "url": "https://jennamolby.com/a-collection-of-incredibly-useful-pardot-snippets/"
+               }, {
+                  "date_added": "13302881169684775",
+                  "guid": "6f4fed0f-1cf3-40bf-8767-51ad1c6a847d",
+                  "id": "1218",
+                  "name": "Best Practices for Creating Email Templates",
+                  "type": "url",
+                  "url": "https://help.salesforce.com/s/articleView?id=sf.pardot_best_practices_for_creating_email_templates.htm&type=5"
+               }, {
+                  "date_added": "13302881174265345",
+                  "guid": "a33bc40f-6d14-47fc-a7b7-c0a809cc42e4",
+                  "id": "1219",
+                  "name": "Know Your Pardot Tools: The Classic Email Template Library — Arkus, Inc.",
+                  "type": "url",
+                  "url": "https://www.arkusinc.com/archive/2022/know-your-pardot-tools-the-classic-email-template-library"
+               } ],
+               "date_added": "13302610739363299",
+               "date_modified": "13302881174265345",
+               "guid": "8224f695-59b8-4d6e-8360-aec47c0bc232",
+               "id": "1211",
+               "name": "Pardot Email Template",
+               "type": "folder"
             } ],
             "date_added": "13283944001594182",
-            "date_modified": "13302344010233703",
+            "date_modified": "13302892564500234",
             "guid": "7df3fb9e-1a64-4253-a2c4-d80b0d0ab5a8",
             "id": "769",
             "name": "Projects",
@@ -6114,9 +6150,30 @@
                "name": "Get started - DWP Design System",
                "type": "url",
                "url": "https://cookies-consent.design-system.dwp.gov.uk/get-started"
+            }, {
+               "date_added": "13302793926832949",
+               "guid": "488bc0df-4076-4a38-a722-76d889705fd9",
+               "id": "1215",
+               "name": "Java (main) | CodeHS",
+               "type": "url",
+               "url": "https://codehs.com/sandbox/id/java-main-fYJF87?filepath=MyProgram.java"
+            }, {
+               "date_added": "13302793937504679",
+               "guid": "4a1b1633-f867-48e6-ac73-91b953c66d66",
+               "id": "1216",
+               "name": "Learn Java in One Video - 15-minute Crash Course - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=drQK8ciCAjY"
+            }, {
+               "date_added": "13302793941410384",
+               "guid": "92a9add8-2f5c-4249-9627-a0090b598769",
+               "id": "1217",
+               "name": "Java Programming Cheatsheet",
+               "type": "url",
+               "url": "https://introcs.cs.princeton.edu/java/11cheatsheet/"
             } ],
             "date_added": "13302280916589690",
-            "date_modified": "13302351992035575",
+            "date_modified": "13302881169684775",
             "guid": "944dac52-020f-436f-897d-fa0022a40786",
             "id": "1197",
             "name": "DWP",
@@ -6130,7 +6187,7 @@
             "url": "https://nomensa.my.workfront.com/timesheets"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13302280922060738",
+         "date_modified": "13302881272014048",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
@@ -6151,7 +6208,7 @@
          "date_modified": "0",
          "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
          "id": "3",
-         "name": "Mobile bookmarks",
+         "name": "Mobile Bookmarks",
          "type": "folder"
       }
    },
