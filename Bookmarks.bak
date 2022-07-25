@@ -1,5 +1,5 @@
 {
-   "checksum": "06e271903deb795dad60e43483a39ccc",
+   "checksum": "1cc348a887f1fb68b7c995f6a58ee5f1",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3526,9 +3526,66 @@
                "name": "How to disable spotlight indexing on Mac OSX | The Electric Toolbox Blog",
                "type": "url",
                "url": "https://electrictoolbox.com/disable-spotlight-indexing-mac-osx/"
+            }, {
+               "children": [ {
+                  "date_added": "13303209151110286",
+                  "guid": "d2f97984-c1f8-45a7-aca0-9c431ca25441",
+                  "id": "1226",
+                  "name": "fantasyland/fantasy-land: Specification for interoperability of common algebraic structures in JavaScript",
+                  "type": "url",
+                  "url": "https://github.com/fantasyland/fantasy-land#setoid"
+               }, {
+                  "date_added": "13303209151110657",
+                  "guid": "fbd6455b-84cc-47fe-8f2b-1684fb808d6a",
+                  "id": "1227",
+                  "name": "Sanctuary",
+                  "type": "url",
+                  "url": "https://sanctuary.js.org/#section:types"
+               }, {
+                  "date_added": "13303209151110715",
+                  "guid": "5a88b446-f21b-4563-88d8-5af93d35f9f0",
+                  "id": "1228",
+                  "name": "SOLID - Wikipedia",
+                  "type": "url",
+                  "url": "https://en.wikipedia.org/wiki/SOLID"
+               }, {
+                  "date_added": "13303209151110769",
+                  "guid": "4ab21b26-4994-46b7-9440-942b7873723f",
+                  "id": "1229",
+                  "name": "Wayback Machine",
+                  "type": "url",
+                  "url": "https://web.archive.org/web/20150906155800/http://www.objectmentor.com/resources/articles/Principles_and_Patterns.pdf"
+               }, {
+                  "date_added": "13303209151111228",
+                  "guid": "964b62e4-28dc-4dac-b2cb-3cc3b21016b7",
+                  "id": "1230",
+                  "name": "Division.java — fitnesse [GitHub] — Visual Studio Code — GitHub",
+                  "type": "url",
+                  "url": "https://github.dev/unclebob/fitnesse"
+               }, {
+                  "date_added": "13303209151111309",
+                  "guid": "ee78f8f7-ceb4-4bfc-8a83-708fd1378e39",
+                  "id": "1231",
+                  "name": "Style Guide | Redux",
+                  "type": "url",
+                  "url": "https://redux.js.org/style-guide/#priority-a-rules-essential"
+               }, {
+                  "date_added": "13303209151111376",
+                  "guid": "41a938cf-7414-4a99-a3ea-e6a49a0ea40a",
+                  "id": "1232",
+                  "name": "Introduction | Pinia",
+                  "type": "url",
+                  "url": "https://pinia.vuejs.org/introduction.html"
+               } ],
+               "date_added": "13303209151110024",
+               "date_modified": "13303209151111376",
+               "guid": "8fefcc86-2500-49e2-8bbb-32fab1d48743",
+               "id": "1225",
+               "name": "25-July-22",
+               "type": "folder"
             } ],
             "date_added": "13277233018935107",
-            "date_modified": "13301765316859925",
+            "date_modified": "13303209151111429",
             "guid": "460e0d6f-fc4c-459a-9e3a-7fe9169d4a93",
             "id": "176",
             "name": "Personal",
@@ -5615,7 +5672,7 @@
                "type": "folder"
             } ],
             "date_added": "13283944001594182",
-            "date_modified": "13302892564500234",
+            "date_modified": "13302969436209652",
             "guid": "7df3fb9e-1a64-4253-a2c4-d80b0d0ab5a8",
             "id": "769",
             "name": "Projects",
@@ -6100,9 +6157,38 @@
                "name": "ER_NOT_SUPPORTED_AUTH_MODE mysql 8",
                "type": "url",
                "url": "https://stackoverflow.com/questions/50093144/mysql-8-0-client-does-not-support-authentication-protocol-requested-by-server/56509065#56509065"
+            }, {
+               "children": [ {
+                  "date_added": "13302969436209652",
+                  "guid": "68b0f9d6-e2bb-4716-bc52-e89858e47629",
+                  "id": "1221",
+                  "name": "Server error",
+                  "type": "url",
+                  "url": "https://test.hie.nomensa.xyz/dmrb/"
+               }, {
+                  "date_added": "13302969470112615",
+                  "guid": "5c2d5c52-8933-4b4f-be61-39e2b89126f3",
+                  "id": "1223",
+                  "name": "Standards For Highways | Design Manual for Roads and Bridges (DMRB)",
+                  "type": "url",
+                  "url": "https://test.standardsforhighways.co.uk/dmrb/"
+               }, {
+                  "date_added": "13302969473437910",
+                  "guid": "de5cf757-b129-4409-89bd-90983837996b",
+                  "id": "1224",
+                  "name": "Standards For Highways | Design Manual for Roads and Bridges (DMRB)",
+                  "type": "url",
+                  "url": "https://uat.hie.nomensa.xyz/dmrb/"
+               } ],
+               "date_added": "13302969463999377",
+               "date_modified": "13302969473437910",
+               "guid": "7f388bb0-f996-4649-9ca8-dbc62ae300a3",
+               "id": "1222",
+               "name": "FE envs",
+               "type": "folder"
             } ],
             "date_added": "13299688768234670",
-            "date_modified": "13302475061520214",
+            "date_modified": "13302969452393183",
             "guid": "7f6f0d5e-45d6-472a-b726-87a2f5dbab5c",
             "id": "1109",
             "name": "HIE-023",
