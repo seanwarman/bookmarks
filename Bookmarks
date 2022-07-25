@@ -1,5 +1,5 @@
 {
-   "checksum": "2331f8f3dc4aeac9b1bb070b23c17168",
+   "checksum": "8c1f189e7efec8a4331006d017bff2b9",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6297,7 +6297,7 @@
                "date_added": "13303223551276336",
                "guid": "29b788fa-560c-4c4d-b108-0626c211070c",
                "id": "1238",
-               "name": "Browse EEN / een-webapp - Bitbucket",
+               "name": "Bitbucket",
                "type": "url",
                "url": "https://devops.innovateuk.org/code-repository/projects/EEN/repos/een-webapp/browse"
             } ],
