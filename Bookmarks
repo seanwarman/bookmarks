@@ -1,5 +1,5 @@
 {
-   "checksum": "5e73b4cdd46a2861155e55c03c444ec5",
+   "checksum": "98a2351145cf702f8ffc663152248c7a",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6318,7 +6318,7 @@
             "date_added": "13303425265808189",
             "guid": "cf9ecdd9-ee10-402f-aaa9-fab4242747d3",
             "id": "1241",
-            "name": "[HIE-325] Strapi v4 Migration - Nomensa Jira",
+            "name": "Strapi v4 Migration",
             "type": "url",
             "url": "https://nomensa.atlassian.net/browse/HIE-325"
          } ],
