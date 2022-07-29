@@ -1,5 +1,5 @@
 {
-   "checksum": "2f5892781528a3605798fdce08414419",
+   "checksum": "4a3d6d2745bc6fcc779cd8addb6251e2",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6207,9 +6207,16 @@
                "name": "Strapi v4 Migration",
                "type": "url",
                "url": "https://nomensa.atlassian.net/browse/HIE-325"
+            }, {
+               "date_added": "13303599966416180",
+               "guid": "c2b4e98e-b67b-450a-937f-9c5aefeda30f",
+               "id": "1243",
+               "name": "Codebase Knowledge Graph: Code Analysis with Graphs",
+               "type": "url",
+               "url": "https://neo4j.com/developer-blog/codebase-knowledge-graph/"
             } ],
             "date_added": "13299688768234670",
-            "date_modified": "13303584085753403",
+            "date_modified": "13303599966416180",
             "guid": "7f6f0d5e-45d6-472a-b726-87a2f5dbab5c",
             "id": "1109",
             "name": "HIE-023",
