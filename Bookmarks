@@ -1,5 +1,5 @@
 {
-   "checksum": "4a3d6d2745bc6fcc779cd8addb6251e2",
+   "checksum": "60a4ca2d8d533db6614678355fcf35ba",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6211,7 +6211,7 @@
                "date_added": "13303599966416180",
                "guid": "c2b4e98e-b67b-450a-937f-9c5aefeda30f",
                "id": "1243",
-               "name": "Codebase Knowledge Graph: Code Analysis with Graphs",
+               "name": "Code Analysis with Graphs",
                "type": "url",
                "url": "https://neo4j.com/developer-blog/codebase-knowledge-graph/"
             } ],
