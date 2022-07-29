@@ -1,5 +1,5 @@
 {
-   "checksum": "638c4dc6aabfd286115d34be13cbafaa",
+   "checksum": "5b9caf35158a0e45849b4df67b79ac3b",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6204,7 +6204,7 @@
                "date_added": "13303561599739209",
                "guid": "9709a531-1f56-4d73-b2f7-33998b950391",
                "id": "1242",
-               "name": "Mind Map, Online Whiteboard for Visual Collaboration",
+               "name": "HIE-023 FE Map",
                "type": "url",
                "url": "https://miro.com/app/board/uXjVOi4kmHs=/"
             } ],
