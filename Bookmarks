@@ -1,5 +1,5 @@
 {
-   "checksum": "1e614a53b9d0c837b260390eb25cbc3e",
+   "checksum": "ccd2e993d50060c1b1e0c639e26e1046",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6284,7 +6284,7 @@
                   "date_added": "13303832642886941",
                   "guid": "5eb57153-dcc9-49d0-9e7d-5ce28256ff0d",
                   "id": "1251",
-                  "name": "simov/grant: OAuth Proxy",
+                  "name": "simov/grant: OAuth Proxy (Strapi OAuth lib)",
                   "type": "url",
                   "url": "https://github.com/simov/grant"
                } ],
