@@ -1,5 +1,5 @@
 {
-   "checksum": "3cccf9d8dcabc450b4b31c5f1c978cb6",
+   "checksum": "f79261e92e233d9422a8977ea321e24f",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6291,7 +6291,7 @@
                   "date_added": "13303832670114394",
                   "guid": "d82f8d36-fb47-4c11-bc80-02ea2c04bd50",
                   "id": "1252",
-                  "name": "Roles & Permissions - Strapi Developer Docs",
+                  "name": "Roles & Permissions - Providers",
                   "type": "url",
                   "url": "https://docs.strapi.io/developer-docs/latest/plugins/users-permissions.html#login"
                } ],
