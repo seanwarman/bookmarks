@@ -1,5 +1,5 @@
 {
-   "checksum": "85d56c7071a40b24b16dbc2297671abf",
+   "checksum": "9aad8f6a5dd110351a399b7351f51096",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6259,12 +6259,27 @@
                "type": "url",
                "url": "https://neo4j.com/developer-blog/codebase-knowledge-graph/"
             }, {
-               "date_added": "13303832605301598",
-               "guid": "d916cb64-a5ef-4bf0-83e6-7e7551350d45",
-               "id": "1247",
-               "name": "Keycloak Admin REST API",
-               "type": "url",
-               "url": "https://www.keycloak.org/docs-api/19.0.1/rest-api/#_overview"
+               "children": [ {
+                  "date_added": "13303832605301598",
+                  "guid": "d916cb64-a5ef-4bf0-83e6-7e7551350d45",
+                  "id": "1247",
+                  "name": "Keycloak Admin REST API",
+                  "type": "url",
+                  "url": "https://www.keycloak.org/docs-api/19.0.1/rest-api/#_overview"
+               }, {
+                  "date_added": "13303832622368780",
+                  "guid": "0b859bb2-c8e4-417f-8293-96967af1ba54",
+                  "id": "1249",
+                  "name": "Documentation - Keycloak",
+                  "type": "url",
+                  "url": "https://www.keycloak.org/documentation"
+               } ],
+               "date_added": "13303832619701638",
+               "date_modified": "13303832622368780",
+               "guid": "bf527c6a-031d-4355-807c-6b68f39f750e",
+               "id": "1248",
+               "name": "Keycloak",
+               "type": "folder"
             } ],
             "date_added": "13299688768234670",
             "date_modified": "13303832608405181",
