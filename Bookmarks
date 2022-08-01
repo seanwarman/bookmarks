@@ -1,5 +1,5 @@
 {
-   "checksum": "ccd2e993d50060c1b1e0c639e26e1046",
+   "checksum": "3cccf9d8dcabc450b4b31c5f1c978cb6",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6287,9 +6287,16 @@
                   "name": "simov/grant: OAuth Proxy (Strapi OAuth lib)",
                   "type": "url",
                   "url": "https://github.com/simov/grant"
+               }, {
+                  "date_added": "13303832670114394",
+                  "guid": "d82f8d36-fb47-4c11-bc80-02ea2c04bd50",
+                  "id": "1252",
+                  "name": "Roles & Permissions - Strapi Developer Docs",
+                  "type": "url",
+                  "url": "https://docs.strapi.io/developer-docs/latest/plugins/users-permissions.html#login"
                } ],
                "date_added": "13303832619701638",
-               "date_modified": "13303832642886941",
+               "date_modified": "13303832670114394",
                "guid": "bf527c6a-031d-4355-807c-6b68f39f750e",
                "id": "1248",
                "name": "Keycloak",
