@@ -1,5 +1,5 @@
 {
-   "checksum": "eb78aa0da25a05941bebb7b4736f54a3",
+   "checksum": "87f87e2a0f8903054c40c28e331382d1",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6277,7 +6277,7 @@
                   "date_added": "13303832625768429",
                   "guid": "9778a970-c13c-4d28-a73d-7931569e9dad",
                   "id": "1250",
-                  "name": "grant / keycloak",
+                  "name": "Keycloak sandbox",
                   "type": "url",
                   "url": "https://grant.outofindex.com/keycloak"
                } ],
