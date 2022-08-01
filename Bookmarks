@@ -1,5 +1,5 @@
 {
-   "checksum": "87f87e2a0f8903054c40c28e331382d1",
+   "checksum": "1e614a53b9d0c837b260390eb25cbc3e",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6280,9 +6280,16 @@
                   "name": "Keycloak sandbox",
                   "type": "url",
                   "url": "https://grant.outofindex.com/keycloak"
+               }, {
+                  "date_added": "13303832642886941",
+                  "guid": "5eb57153-dcc9-49d0-9e7d-5ce28256ff0d",
+                  "id": "1251",
+                  "name": "simov/grant: OAuth Proxy",
+                  "type": "url",
+                  "url": "https://github.com/simov/grant"
                } ],
                "date_added": "13303832619701638",
-               "date_modified": "13303832625768429",
+               "date_modified": "13303832642886941",
                "guid": "bf527c6a-031d-4355-807c-6b68f39f750e",
                "id": "1248",
                "name": "Keycloak",
