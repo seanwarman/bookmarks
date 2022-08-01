@@ -1,5 +1,5 @@
 {
-   "checksum": "ee889486a5222aa04b93e3ed46af9bca",
+   "checksum": "ea5f7d5335a67995a7a24a7ac0480b6d",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6298,7 +6298,7 @@
                   "date_added": "13303832793907682",
                   "guid": "44412d0b-bb86-4e13-baa6-98def000947f",
                   "id": "1253",
-                  "name": "Nuxt - Named Middleware",
+                  "name": "Nuxt - Named Middleware (auth example)",
                   "type": "url",
                   "url": "https://nuxtjs.org/examples/middlewares/named#named-middleware"
                } ],
