@@ -1,5 +1,5 @@
 {
-   "checksum": "f79261e92e233d9422a8977ea321e24f",
+   "checksum": "ee889486a5222aa04b93e3ed46af9bca",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6294,9 +6294,16 @@
                   "name": "Roles & Permissions - Providers",
                   "type": "url",
                   "url": "https://docs.strapi.io/developer-docs/latest/plugins/users-permissions.html#login"
+               }, {
+                  "date_added": "13303832793907682",
+                  "guid": "44412d0b-bb86-4e13-baa6-98def000947f",
+                  "id": "1253",
+                  "name": "Nuxt - Named Middleware",
+                  "type": "url",
+                  "url": "https://nuxtjs.org/examples/middlewares/named#named-middleware"
                } ],
                "date_added": "13303832619701638",
-               "date_modified": "13303832670114394",
+               "date_modified": "13303832793907682",
                "guid": "bf527c6a-031d-4355-807c-6b68f39f750e",
                "id": "1248",
                "name": "Keycloak",
