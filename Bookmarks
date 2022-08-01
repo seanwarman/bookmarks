@@ -1,9 +1,16 @@
 {
-   "checksum": "693cd3fe8ce1674ca009286ab3599d72",
+   "checksum": "ce5cd62550fcbac6fae44627ef33f813",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "children": [ {
+               "date_added": "13302367349397221",
+               "guid": "d9af571b-af3a-4548-ad7e-723af701cd68",
+               "id": "1205",
+               "name": "docker-compose cheatsheet",
+               "type": "url",
+               "url": "https://devhints.io/docker-compose"
+            }, {
                "date_added": "13283466922507986",
                "guid": "f5aad8cc-6b75-480e-8abb-e77472067de5",
                "id": "750",
@@ -3585,7 +3592,7 @@
                "type": "folder"
             } ],
             "date_added": "13277233018935107",
-            "date_modified": "13303210622654993",
+            "date_modified": "13303816139133809",
             "guid": "460e0d6f-fc4c-459a-9e3a-7fe9169d4a93",
             "id": "176",
             "name": "Personal",
@@ -6201,13 +6208,6 @@
                "id": "1190",
                "name": "Update",
                "type": "folder"
-            }, {
-               "date_added": "13302367349397221",
-               "guid": "d9af571b-af3a-4548-ad7e-723af701cd68",
-               "id": "1205",
-               "name": "docker-compose cheatsheet",
-               "type": "url",
-               "url": "https://devhints.io/docker-compose"
             }, {
                "date_added": "13302367435210913",
                "guid": "44b9fdb8-00f8-44e4-8bc4-bef1145536d3",
