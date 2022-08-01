@@ -1,5 +1,5 @@
 {
-   "checksum": "ea5f7d5335a67995a7a24a7ac0480b6d",
+   "checksum": "fa9b5af738471e5d2177e62564126286",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6306,7 +6306,7 @@
                "date_modified": "13303832793907682",
                "guid": "bf527c6a-031d-4355-807c-6b68f39f750e",
                "id": "1248",
-               "name": "Keycloak",
+               "name": "Auth",
                "type": "folder"
             } ],
             "date_added": "13299688768234670",
