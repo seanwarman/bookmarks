@@ -1,5 +1,5 @@
 {
-   "checksum": "f4eb6eed9149ee4f3303cfd8d8caa34e",
+   "checksum": "271240fb87b9b106f77f3294dd7313dd",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5720,13 +5720,6 @@
                "id": "471",
                "name": "DBW",
                "type": "folder"
-            }, {
-               "date_added": "13303928935083515",
-               "guid": "f806170e-78db-4417-997a-58ac8e33b400",
-               "id": "1260",
-               "name": "RFC 5322 - Internet Message Format",
-               "type": "url",
-               "url": "https://datatracker.ietf.org/doc/html/rfc5322"
             } ],
             "date_added": "13283944001594182",
             "date_modified": "13303928935083515",
@@ -6351,9 +6344,16 @@
                   "name": "How to Prevent Your Emails From Going to Spam: 6 Tips",
                   "type": "url",
                   "url": "https://www.makeuseof.com/how-to-prevent-emails-going-to-spam/"
+               }, {
+                  "date_added": "13303928935083515",
+                  "guid": "f806170e-78db-4417-997a-58ac8e33b400",
+                  "id": "1260",
+                  "name": "RFC 5322 - Internet Message Format",
+                  "type": "url",
+                  "url": "https://datatracker.ietf.org/doc/html/rfc5322"
                } ],
                "date_added": "13303897610168047",
-               "date_modified": "13303897610168778",
+               "date_modified": "13303928939589120",
                "guid": "b95c0e0d-a5d0-4d1f-b5d4-c7ba4ffe0f4d",
                "id": "1255",
                "name": "Emails",
