@@ -1,5 +1,5 @@
 {
-   "checksum": "0f61946337fba2167af0cb463d0c1578",
+   "checksum": "f4eb6eed9149ee4f3303cfd8d8caa34e",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5720,9 +5720,16 @@
                "id": "471",
                "name": "DBW",
                "type": "folder"
+            }, {
+               "date_added": "13303928935083515",
+               "guid": "f806170e-78db-4417-997a-58ac8e33b400",
+               "id": "1260",
+               "name": "RFC 5322 - Internet Message Format",
+               "type": "url",
+               "url": "https://datatracker.ietf.org/doc/html/rfc5322"
             } ],
             "date_added": "13283944001594182",
-            "date_modified": "13303926448530930",
+            "date_modified": "13303928935083515",
             "guid": "7df3fb9e-1a64-4253-a2c4-d80b0d0ab5a8",
             "id": "769",
             "name": "Projects",
