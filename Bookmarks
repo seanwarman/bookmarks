@@ -1,5 +1,5 @@
 {
-   "checksum": "fa9b5af738471e5d2177e62564126286",
+   "checksum": "7290a5ca4be1e099190cac3049b19ad3",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6301,9 +6301,16 @@
                   "name": "Nuxt - Named Middleware (auth example)",
                   "type": "url",
                   "url": "https://nuxtjs.org/examples/middlewares/named#named-middleware"
+               }, {
+                  "date_added": "13303892926062468",
+                  "guid": "040e12df-9656-47c8-b37f-40885efbefc6",
+                  "id": "1254",
+                  "name": "mostly-adequate-guide/ch10.md at master · MostlyAdequate/mostly-adequate-guide",
+                  "type": "url",
+                  "url": "https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch10.md#coordination-motivation"
                } ],
                "date_added": "13303832619701638",
-               "date_modified": "13303832793907682",
+               "date_modified": "13303892926062468",
                "guid": "bf527c6a-031d-4355-807c-6b68f39f750e",
                "id": "1248",
                "name": "Auth",
