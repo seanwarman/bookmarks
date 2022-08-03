@@ -1,5 +1,5 @@
 {
-   "checksum": "53b58a7d5ae480f1525bef7fdbd62182",
+   "checksum": "3563e82204dd972a371bf9e546f15924",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3519,9 +3519,16 @@
                   "name": "sanctuary-js/sanctuary-type-classes at v12.1.0",
                   "type": "url",
                   "url": "https://github.com/sanctuary-js/sanctuary-type-classes/tree/v12.1.0#Apply"
+               }, {
+                  "date_added": "13304033628901476",
+                  "guid": "da425fb1-1b7f-4bf8-9346-ae9e9673a814",
+                  "id": "1265",
+                  "name": "mostly-adequate-guide/ch11.md at master · MostlyAdequate/mostly-adequate-guide",
+                  "type": "url",
+                  "url": "https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch11.md"
                } ],
                "date_added": "13301567671261714",
-               "date_modified": "13303986593367152",
+               "date_modified": "13304033634485085",
                "guid": "c9451023-c5de-44e5-83a8-e0e9acf36cc6",
                "id": "1167",
                "name": "Functional Programming",
@@ -6379,13 +6386,6 @@
                   "name": "Azure SendGrid SMTP Email Hosting Service Microsoft",
                   "type": "url",
                   "url": "https://www.technologytobusiness.com/microsoft-azure/azure-sendgrid-smtp-email-service"
-               }, {
-                  "date_added": "13304033628901476",
-                  "guid": "da425fb1-1b7f-4bf8-9346-ae9e9673a814",
-                  "id": "1265",
-                  "name": "mostly-adequate-guide/ch11.md at master · MostlyAdequate/mostly-adequate-guide",
-                  "type": "url",
-                  "url": "https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch11.md"
                } ],
                "date_added": "13303897610168047",
                "date_modified": "13304033628901476",
