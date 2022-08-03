@@ -1,5 +1,5 @@
 {
-   "checksum": "b22c0593035a7004fd8128d38105fe2f",
+   "checksum": "53b58a7d5ae480f1525bef7fdbd62182",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6379,9 +6379,16 @@
                   "name": "Azure SendGrid SMTP Email Hosting Service Microsoft",
                   "type": "url",
                   "url": "https://www.technologytobusiness.com/microsoft-azure/azure-sendgrid-smtp-email-service"
+               }, {
+                  "date_added": "13304033628901476",
+                  "guid": "da425fb1-1b7f-4bf8-9346-ae9e9673a814",
+                  "id": "1265",
+                  "name": "mostly-adequate-guide/ch11.md at master · MostlyAdequate/mostly-adequate-guide",
+                  "type": "url",
+                  "url": "https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch11.md"
                } ],
                "date_added": "13303897610168047",
-               "date_modified": "13303986606174392",
+               "date_modified": "13304033628901476",
                "guid": "b95c0e0d-a5d0-4d1f-b5d4-c7ba4ffe0f4d",
                "id": "1255",
                "name": "Emails",
