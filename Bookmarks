@@ -1,5 +1,5 @@
 {
-   "checksum": "c110161de3a42184ce76c24c464d8925",
+   "checksum": "a88c43deb4ba611b5ee436b22982b4e6",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3512,9 +3512,16 @@
                   "name": "Bookmark - Mostly Adequate Guide",
                   "type": "url",
                   "url": "https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch10.md#coordination-motivation"
+               }, {
+                  "date_added": "13303978879990212",
+                  "guid": "14c0ce77-9f16-4623-bc41-9f1846b6d3a4",
+                  "id": "1262",
+                  "name": "sanctuary-js/sanctuary-type-classes at v12.1.0",
+                  "type": "url",
+                  "url": "https://github.com/sanctuary-js/sanctuary-type-classes/tree/v12.1.0#Apply"
                } ],
                "date_added": "13301567671261714",
-               "date_modified": "13303892960771678",
+               "date_modified": "13303978890706967",
                "guid": "c9451023-c5de-44e5-83a8-e0e9acf36cc6",
                "id": "1167",
                "name": "Functional Programming",
@@ -6358,13 +6365,6 @@
                   "name": "Prevent mail to Gmail users from being blocked or sent to spam - Gmail Help",
                   "type": "url",
                   "url": "https://support.google.com/mail/answer/81126?hl=en"
-               }, {
-                  "date_added": "13303978879990212",
-                  "guid": "14c0ce77-9f16-4623-bc41-9f1846b6d3a4",
-                  "id": "1262",
-                  "name": "sanctuary-js/sanctuary-type-classes at v12.1.0",
-                  "type": "url",
-                  "url": "https://github.com/sanctuary-js/sanctuary-type-classes/tree/v12.1.0#Apply"
                } ],
                "date_added": "13303897610168047",
                "date_modified": "13303978879990212",
