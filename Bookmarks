@@ -1,5 +1,5 @@
 {
-   "checksum": "c62832d3a5a4e36313feb3f6c1301ef5",
+   "checksum": "c110161de3a42184ce76c24c464d8925",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6358,9 +6358,16 @@
                   "name": "Prevent mail to Gmail users from being blocked or sent to spam - Gmail Help",
                   "type": "url",
                   "url": "https://support.google.com/mail/answer/81126?hl=en"
+               }, {
+                  "date_added": "13303978879990212",
+                  "guid": "14c0ce77-9f16-4623-bc41-9f1846b6d3a4",
+                  "id": "1262",
+                  "name": "sanctuary-js/sanctuary-type-classes at v12.1.0",
+                  "type": "url",
+                  "url": "https://github.com/sanctuary-js/sanctuary-type-classes/tree/v12.1.0#Apply"
                } ],
                "date_added": "13303897610168047",
-               "date_modified": "13303929015232655",
+               "date_modified": "13303978879990212",
                "guid": "b95c0e0d-a5d0-4d1f-b5d4-c7ba4ffe0f4d",
                "id": "1255",
                "name": "Emails",
