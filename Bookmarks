@@ -1,5 +1,5 @@
 {
-   "checksum": "162d74acda7788f0f129332e4dcf4df2",
+   "checksum": "b22c0593035a7004fd8128d38105fe2f",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3519,13 +3519,6 @@
                   "name": "sanctuary-js/sanctuary-type-classes at v12.1.0",
                   "type": "url",
                   "url": "https://github.com/sanctuary-js/sanctuary-type-classes/tree/v12.1.0#Apply"
-               }, {
-                  "date_added": "13303986593367152",
-                  "guid": "06ba6b53-fa56-498b-9206-f3c756d67674",
-                  "id": "1263",
-                  "name": "SendGrid | Strapi Market",
-                  "type": "url",
-                  "url": "https://market.strapi.io/providers/@strapi-provider-email-sendgrid"
                } ],
                "date_added": "13301567671261714",
                "date_modified": "13303986593367152",
@@ -6372,9 +6365,23 @@
                   "name": "Prevent mail to Gmail users from being blocked or sent to spam - Gmail Help",
                   "type": "url",
                   "url": "https://support.google.com/mail/answer/81126?hl=en"
+               }, {
+                  "date_added": "13303986593367152",
+                  "guid": "06ba6b53-fa56-498b-9206-f3c756d67674",
+                  "id": "1263",
+                  "name": "SendGrid | Strapi Market",
+                  "type": "url",
+                  "url": "https://market.strapi.io/providers/@strapi-provider-email-sendgrid"
+               }, {
+                  "date_added": "13303986606174392",
+                  "guid": "c119276f-94a7-4af7-9068-9ce4c0bdb275",
+                  "id": "1264",
+                  "name": "Azure SendGrid SMTP Email Hosting Service Microsoft",
+                  "type": "url",
+                  "url": "https://www.technologytobusiness.com/microsoft-azure/azure-sendgrid-smtp-email-service"
                } ],
                "date_added": "13303897610168047",
-               "date_modified": "13303978879990212",
+               "date_modified": "13303986606174392",
                "guid": "b95c0e0d-a5d0-4d1f-b5d4-c7ba4ffe0f4d",
                "id": "1255",
                "name": "Emails",
