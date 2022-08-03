@@ -1,5 +1,5 @@
 {
-   "checksum": "3563e82204dd972a371bf9e546f15924",
+   "checksum": "e67660eed40de0ac3b81100c0461b87f",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3513,6 +3513,13 @@
                   "type": "url",
                   "url": "https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch10.md#coordination-motivation"
                }, {
+                  "date_added": "13304033680932050",
+                  "guid": "870d1cd6-2d8f-4cbb-be6e-bfee06b59d27",
+                  "id": "1266",
+                  "name": "Bookmark - Mostly Adequate",
+                  "type": "url",
+                  "url": "https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch11.md"
+               }, {
                   "date_added": "13303978879990212",
                   "guid": "14c0ce77-9f16-4623-bc41-9f1846b6d3a4",
                   "id": "1262",
@@ -3528,7 +3535,7 @@
                   "url": "https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch11.md"
                } ],
                "date_added": "13301567671261714",
-               "date_modified": "13304033634485085",
+               "date_modified": "13304033680932050",
                "guid": "c9451023-c5de-44e5-83a8-e0e9acf36cc6",
                "id": "1167",
                "name": "Functional Programming",
