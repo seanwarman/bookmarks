@@ -1,5 +1,5 @@
 {
-   "checksum": "a88c43deb4ba611b5ee436b22982b4e6",
+   "checksum": "162d74acda7788f0f129332e4dcf4df2",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3519,9 +3519,16 @@
                   "name": "sanctuary-js/sanctuary-type-classes at v12.1.0",
                   "type": "url",
                   "url": "https://github.com/sanctuary-js/sanctuary-type-classes/tree/v12.1.0#Apply"
+               }, {
+                  "date_added": "13303986593367152",
+                  "guid": "06ba6b53-fa56-498b-9206-f3c756d67674",
+                  "id": "1263",
+                  "name": "SendGrid | Strapi Market",
+                  "type": "url",
+                  "url": "https://market.strapi.io/providers/@strapi-provider-email-sendgrid"
                } ],
                "date_added": "13301567671261714",
-               "date_modified": "13303978890706967",
+               "date_modified": "13303986593367152",
                "guid": "c9451023-c5de-44e5-83a8-e0e9acf36cc6",
                "id": "1167",
                "name": "Functional Programming",
