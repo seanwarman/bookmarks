@@ -1,5 +1,5 @@
 {
-   "checksum": "ba39d9857b4879a09bab9307ef68e660",
+   "checksum": "513b390655c43a9506b0475e747e9fa9",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3526,9 +3526,16 @@
                   "name": "mostly-adequate-guide/ch11.md at master · MostlyAdequate/mostly-adequate-guide",
                   "type": "url",
                   "url": "https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch11.md"
+               }, {
+                  "date_added": "13304074100854544",
+                  "guid": "89936c3d-a6c4-4b63-9621-c93cd5cecac8",
+                  "id": "1267",
+                  "name": "mostly-adequate-guide/ch11.md at master · MostlyAdequate/mostly-adequate-guide",
+                  "type": "url",
+                  "url": "https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch11.md#all-natural"
                } ],
                "date_added": "13301567671261714",
-               "date_modified": "13304033680932050",
+               "date_modified": "13304074100854544",
                "guid": "c9451023-c5de-44e5-83a8-e0e9acf36cc6",
                "id": "1167",
                "name": "Functional Programming",
