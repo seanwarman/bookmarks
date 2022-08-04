@@ -1,5 +1,5 @@
 {
-   "checksum": "7400e439b0ea2cb4fbe926d6efebda3f",
+   "checksum": "d4203932abab2bfc24537650c81a0da0",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3505,13 +3505,6 @@
                   "name": "module folktale/maybe",
                   "type": "url",
                   "url": "https://folktale.origamitower.com/api/v2.3.0/en/folktale.maybe.html"
-               }, {
-                  "date_added": "13304033680932050",
-                  "guid": "870d1cd6-2d8f-4cbb-be6e-bfee06b59d27",
-                  "id": "1266",
-                  "name": "Bookmark - Mostly Adequate",
-                  "type": "url",
-                  "url": "https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch11.md"
                }, {
                   "date_added": "13303978879990212",
                   "guid": "14c0ce77-9f16-4623-bc41-9f1846b6d3a4",
