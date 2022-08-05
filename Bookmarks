@@ -1,5 +1,5 @@
 {
-   "checksum": "9b6dc703719a37046c53768549dd1038",
+   "checksum": "a5aaebb28fe81c1ec22a07e9fbcaebdb",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3477,13 +3477,6 @@
                   "name": "Sanctuary",
                   "type": "url",
                   "url": "https://sanctuary.js.org/#compose"
-               }, {
-                  "date_added": "13301609603598055",
-                  "guid": "0aae79e2-06da-4a9c-a6a4-6574071957d2",
-                  "id": "1169",
-                  "name": "Sanctuary",
-                  "type": "url",
-                  "url": "https://sanctuary.js.org/"
                }, {
                   "date_added": "13301756928300556",
                   "guid": "b26e1a2f-5c55-4d51-a5f1-ea87546fc347",
