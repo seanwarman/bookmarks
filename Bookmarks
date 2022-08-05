@@ -1,5 +1,5 @@
 {
-   "checksum": "05c666a78dff97af84917ace81357052",
+   "checksum": "9b6dc703719a37046c53768549dd1038",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3530,7 +3530,7 @@
                   "date_added": "13304150041415577",
                   "guid": "0012ff7a-91fc-42d1-ad53-06e108b37f8a",
                   "id": "1268",
-                  "name": "free.dvi",
+                  "name": "Free theorems",
                   "type": "url",
                   "url": "https://home.ttic.edu/~dreyer/course/papers/wadler.pdf"
                } ],
