@@ -1,5 +1,5 @@
 {
-   "checksum": "a5aaebb28fe81c1ec22a07e9fbcaebdb",
+   "checksum": "90e028735e40ad544b92eaf302122847",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3526,9 +3526,16 @@
                   "name": "Free theorems",
                   "type": "url",
                   "url": "https://home.ttic.edu/~dreyer/course/papers/wadler.pdf"
+               }, {
+                  "date_added": "13304152049459749",
+                  "guid": "ab60f9d5-8447-43da-8b9b-9169fc0e0fab",
+                  "id": "1269",
+                  "name": "Bookmark Mostly Adequate",
+                  "type": "url",
+                  "url": "https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch12.md"
                } ],
                "date_added": "13301567671261714",
-               "date_modified": "13304150041415577",
+               "date_modified": "13304152049459749",
                "guid": "c9451023-c5de-44e5-83a8-e0e9acf36cc6",
                "id": "1167",
                "name": "Functional Programming",
