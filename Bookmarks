@@ -1,5 +1,5 @@
 {
-   "checksum": "d8eaf58fdb900cdab26ea5d37e4380d8",
+   "checksum": "bb96ea68d43f4981654ed21b6579d11f",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3523,7 +3523,7 @@
                   "date_added": "13304152075466041",
                   "guid": "89b0e7be-f826-440f-9155-2380b178a9d5",
                   "id": "1270",
-                  "name": "mostly-adequate-guide/ch12.md at master · MostlyAdequate/mostly-adequate-guide",
+                  "name": "Bookmark Mostly Adequate",
                   "type": "url",
                   "url": "https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch12.md"
                } ],
