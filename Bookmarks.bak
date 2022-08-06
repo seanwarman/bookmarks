@@ -1,9 +1,16 @@
 {
-   "checksum": "693cd3fe8ce1674ca009286ab3599d72",
+   "checksum": "bb96ea68d43f4981654ed21b6579d11f",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "children": [ {
+               "date_added": "13302367349397221",
+               "guid": "d9af571b-af3a-4548-ad7e-723af701cd68",
+               "id": "1205",
+               "name": "docker-compose cheatsheet",
+               "type": "url",
+               "url": "https://devhints.io/docker-compose"
+            }, {
                "date_added": "13283466922507986",
                "guid": "f5aad8cc-6b75-480e-8abb-e77472067de5",
                "id": "750",
@@ -3471,13 +3478,6 @@
                   "type": "url",
                   "url": "https://sanctuary.js.org/#compose"
                }, {
-                  "date_added": "13301609603598055",
-                  "guid": "0aae79e2-06da-4a9c-a6a4-6574071957d2",
-                  "id": "1169",
-                  "name": "Sanctuary",
-                  "type": "url",
-                  "url": "https://sanctuary.js.org/"
-               }, {
                   "date_added": "13301756928300556",
                   "guid": "b26e1a2f-5c55-4d51-a5f1-ea87546fc347",
                   "id": "1186",
@@ -3498,9 +3498,37 @@
                   "name": "module folktale/maybe",
                   "type": "url",
                   "url": "https://folktale.origamitower.com/api/v2.3.0/en/folktale.maybe.html"
+               }, {
+                  "date_added": "13303978879990212",
+                  "guid": "14c0ce77-9f16-4623-bc41-9f1846b6d3a4",
+                  "id": "1262",
+                  "name": "sanctuary-js/sanctuary-type-classes at v12.1.0",
+                  "type": "url",
+                  "url": "https://github.com/sanctuary-js/sanctuary-type-classes/tree/v12.1.0#Apply"
+               }, {
+                  "date_added": "13304033628901476",
+                  "guid": "da425fb1-1b7f-4bf8-9346-ae9e9673a814",
+                  "id": "1265",
+                  "name": "mostly-adequate-guide/ch11.md at master · MostlyAdequate/mostly-adequate-guide",
+                  "type": "url",
+                  "url": "https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch11.md"
+               }, {
+                  "date_added": "13304150041415577",
+                  "guid": "0012ff7a-91fc-42d1-ad53-06e108b37f8a",
+                  "id": "1268",
+                  "name": "Free theorems",
+                  "type": "url",
+                  "url": "https://home.ttic.edu/~dreyer/course/papers/wadler.pdf"
+               }, {
+                  "date_added": "13304152075466041",
+                  "guid": "89b0e7be-f826-440f-9155-2380b178a9d5",
+                  "id": "1270",
+                  "name": "Bookmark Mostly Adequate",
+                  "type": "url",
+                  "url": "https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch12.md"
                } ],
                "date_added": "13301567671261714",
-               "date_modified": "13302610701045731",
+               "date_modified": "13304152075466041",
                "guid": "c9451023-c5de-44e5-83a8-e0e9acf36cc6",
                "id": "1167",
                "name": "Functional Programming",
@@ -3585,7 +3613,7 @@
                "type": "folder"
             } ],
             "date_added": "13277233018935107",
-            "date_modified": "13303210622654993",
+            "date_modified": "13303832605301598",
             "guid": "460e0d6f-fc4c-459a-9e3a-7fe9169d4a93",
             "id": "176",
             "name": "Personal",
@@ -5433,6 +5461,107 @@
                "type": "folder"
             }, {
                "children": [ {
+                  "date_added": "13302279064034727",
+                  "guid": "71577e44-aeee-423c-8e2d-21fde2c27816",
+                  "id": "1193",
+                  "name": "API Reference - Ideal Postcodes | Ideal Postcodes",
+                  "type": "url",
+                  "url": "https://docs.ideal-postcodes.co.uk/api"
+               }, {
+                  "date_added": "13302279332855177",
+                  "guid": "e4ff1ea1-079a-497f-a94b-41a2aff4e89d",
+                  "id": "1195",
+                  "name": "getAddress() - Simple APIs for UK Addresses",
+                  "type": "url",
+                  "url": "https://getaddress.io/"
+               }, {
+                  "date_added": "13302351992035575",
+                  "guid": "ef5dcb01-2496-4885-bbcb-b56684b6402a",
+                  "id": "1204",
+                  "name": "VIE-096-B2B site_Contact Form Enhancement-20220630.pptx",
+                  "type": "url",
+                  "url": "https://nomensa.sharepoint.com/:p:/s/File-Share-Sales/EYhG2rb647pFsZ1KOcByFsYB3QBoMaXikBie7AKi2AQfZw"
+               } ],
+               "date_added": "13302279093181229",
+               "date_modified": "13302367349397221",
+               "guid": "384da905-10a8-4987-8a80-423230e86956",
+               "id": "1194",
+               "name": "VIE-096/097",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13302610701045731",
+                  "guid": "001b5697-20d2-4754-a52f-9f69794d9f72",
+                  "id": "1209",
+                  "name": "nomensa brand",
+                  "type": "url",
+                  "url": "https://nomensa-my.sharepoint.com/personal/ntaylor_nomensa_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fntaylor_nomensa_com%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files%2FINT-064_Nomensa-Brand-Cheat-Sheet-08-03-2022%20%283%29%20%282%29%2Epdf&parent=%2Fpersonal%2Fntaylor_nomensa_com%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files&ga=1"
+               }, {
+                  "date_added": "13302697418962165",
+                  "guid": "bb5e1863-eb67-4a4f-97ec-d8e59ea2e906",
+                  "id": "1214",
+                  "name": "Pardot Snippets",
+                  "type": "url",
+                  "url": "https://jennamolby.com/a-collection-of-incredibly-useful-pardot-snippets/"
+               }, {
+                  "date_added": "13302881169684775",
+                  "guid": "6f4fed0f-1cf3-40bf-8767-51ad1c6a847d",
+                  "id": "1218",
+                  "name": "Best Practices for Creating Email Templates",
+                  "type": "url",
+                  "url": "https://help.salesforce.com/s/articleView?id=sf.pardot_best_practices_for_creating_email_templates.htm&type=5"
+               }, {
+                  "date_added": "13302881174265345",
+                  "guid": "a33bc40f-6d14-47fc-a7b7-c0a809cc42e4",
+                  "id": "1219",
+                  "name": "Know Your Pardot Tools: The Classic Email Template Library — Arkus, Inc.",
+                  "type": "url",
+                  "url": "https://www.arkusinc.com/archive/2022/know-your-pardot-tools-the-classic-email-template-library"
+               }, {
+                  "date_added": "13303210622654993",
+                  "guid": "4c3985b8-bd80-408c-ad6b-51afc33f3e87",
+                  "id": "1234",
+                  "name": "Sign In - Pardot",
+                  "type": "url",
+                  "url": "https://pi.pardot.com/email/template/draft/test/id/37459"
+               } ],
+               "date_added": "13302610739363299",
+               "date_modified": "13303212305540372",
+               "guid": "8224f695-59b8-4d6e-8360-aec47c0bc232",
+               "id": "1211",
+               "name": "Pardot Email Template",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13303212305540372",
+                  "guid": "6a49d612-f19a-4f0d-abe5-3eda4fdd5137",
+                  "id": "1235",
+                  "name": "Jira",
+                  "type": "url",
+                  "url": "https://nomensa.atlassian.net/jira/software/c/projects/UKR/boards/43"
+               }, {
+                  "date_added": "13303223544075954",
+                  "guid": "837445d4-ba20-4dc2-8e01-675003a1cd10",
+                  "id": "1237",
+                  "name": "Figma",
+                  "type": "url",
+                  "url": "https://www.figma.com/file/RrE8WLJI2dDLjgL7jeCtpR/Concept-pages-UKR-022-Innovate-UK-EDGE-Public-Beta?node-id=231%3A238"
+               }, {
+                  "date_added": "13303223551276336",
+                  "guid": "29b788fa-560c-4c4d-b108-0626c211070c",
+                  "id": "1238",
+                  "name": "Bitbucket",
+                  "type": "url",
+                  "url": "https://devops.innovateuk.org/code-repository/projects/EEN/repos/een-webapp/browse"
+               } ],
+               "date_added": "13303212340578391",
+               "date_modified": "13303234952696763",
+               "guid": "3273b228-da5d-4b05-ac13-8b339798c5df",
+               "id": "1236",
+               "name": "UKR",
+               "type": "folder"
+            }, {
+               "children": [ {
                   "children": [ {
                      "date_added": "13278182732210528",
                      "guid": "38730227-ce59-4546-9211-29046eda3e19",
@@ -5605,110 +5734,9 @@
                "id": "471",
                "name": "DBW",
                "type": "folder"
-            }, {
-               "children": [ {
-                  "date_added": "13302279064034727",
-                  "guid": "71577e44-aeee-423c-8e2d-21fde2c27816",
-                  "id": "1193",
-                  "name": "API Reference - Ideal Postcodes | Ideal Postcodes",
-                  "type": "url",
-                  "url": "https://docs.ideal-postcodes.co.uk/api"
-               }, {
-                  "date_added": "13302279332855177",
-                  "guid": "e4ff1ea1-079a-497f-a94b-41a2aff4e89d",
-                  "id": "1195",
-                  "name": "getAddress() - Simple APIs for UK Addresses",
-                  "type": "url",
-                  "url": "https://getaddress.io/"
-               }, {
-                  "date_added": "13302351992035575",
-                  "guid": "ef5dcb01-2496-4885-bbcb-b56684b6402a",
-                  "id": "1204",
-                  "name": "VIE-096-B2B site_Contact Form Enhancement-20220630.pptx",
-                  "type": "url",
-                  "url": "https://nomensa.sharepoint.com/:p:/s/File-Share-Sales/EYhG2rb647pFsZ1KOcByFsYB3QBoMaXikBie7AKi2AQfZw"
-               } ],
-               "date_added": "13302279093181229",
-               "date_modified": "13302367349397221",
-               "guid": "384da905-10a8-4987-8a80-423230e86956",
-               "id": "1194",
-               "name": "VIE-096/097",
-               "type": "folder"
-            }, {
-               "children": [ {
-                  "date_added": "13302610701045731",
-                  "guid": "001b5697-20d2-4754-a52f-9f69794d9f72",
-                  "id": "1209",
-                  "name": "nomensa brand",
-                  "type": "url",
-                  "url": "https://nomensa-my.sharepoint.com/personal/ntaylor_nomensa_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fntaylor_nomensa_com%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files%2FINT-064_Nomensa-Brand-Cheat-Sheet-08-03-2022%20%283%29%20%282%29%2Epdf&parent=%2Fpersonal%2Fntaylor_nomensa_com%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files&ga=1"
-               }, {
-                  "date_added": "13302697418962165",
-                  "guid": "bb5e1863-eb67-4a4f-97ec-d8e59ea2e906",
-                  "id": "1214",
-                  "name": "Pardot Snippets",
-                  "type": "url",
-                  "url": "https://jennamolby.com/a-collection-of-incredibly-useful-pardot-snippets/"
-               }, {
-                  "date_added": "13302881169684775",
-                  "guid": "6f4fed0f-1cf3-40bf-8767-51ad1c6a847d",
-                  "id": "1218",
-                  "name": "Best Practices for Creating Email Templates",
-                  "type": "url",
-                  "url": "https://help.salesforce.com/s/articleView?id=sf.pardot_best_practices_for_creating_email_templates.htm&type=5"
-               }, {
-                  "date_added": "13302881174265345",
-                  "guid": "a33bc40f-6d14-47fc-a7b7-c0a809cc42e4",
-                  "id": "1219",
-                  "name": "Know Your Pardot Tools: The Classic Email Template Library — Arkus, Inc.",
-                  "type": "url",
-                  "url": "https://www.arkusinc.com/archive/2022/know-your-pardot-tools-the-classic-email-template-library"
-               }, {
-                  "date_added": "13303210622654993",
-                  "guid": "4c3985b8-bd80-408c-ad6b-51afc33f3e87",
-                  "id": "1234",
-                  "name": "Sign In - Pardot",
-                  "type": "url",
-                  "url": "https://pi.pardot.com/email/template/draft/test/id/37459"
-               } ],
-               "date_added": "13302610739363299",
-               "date_modified": "13303212305540372",
-               "guid": "8224f695-59b8-4d6e-8360-aec47c0bc232",
-               "id": "1211",
-               "name": "Pardot Email Template",
-               "type": "folder"
-            }, {
-               "children": [ {
-                  "date_added": "13303212305540372",
-                  "guid": "6a49d612-f19a-4f0d-abe5-3eda4fdd5137",
-                  "id": "1235",
-                  "name": "Jira",
-                  "type": "url",
-                  "url": "https://nomensa.atlassian.net/jira/software/c/projects/UKR/boards/43"
-               }, {
-                  "date_added": "13303223544075954",
-                  "guid": "837445d4-ba20-4dc2-8e01-675003a1cd10",
-                  "id": "1237",
-                  "name": "Figma",
-                  "type": "url",
-                  "url": "https://www.figma.com/file/RrE8WLJI2dDLjgL7jeCtpR/Concept-pages-UKR-022-Innovate-UK-EDGE-Public-Beta?node-id=231%3A238"
-               }, {
-                  "date_added": "13303223551276336",
-                  "guid": "29b788fa-560c-4c4d-b108-0626c211070c",
-                  "id": "1238",
-                  "name": "Bitbucket",
-                  "type": "url",
-                  "url": "https://devops.innovateuk.org/code-repository/projects/EEN/repos/een-webapp/browse"
-               } ],
-               "date_added": "13303212340578391",
-               "date_modified": "13303234952696763",
-               "guid": "3273b228-da5d-4b05-ac13-8b339798c5df",
-               "id": "1236",
-               "name": "UKR",
-               "type": "folder"
             } ],
             "date_added": "13283944001594182",
-            "date_modified": "13303633100535965",
+            "date_modified": "13303928935083515",
             "guid": "7df3fb9e-1a64-4253-a2c4-d80b0d0ab5a8",
             "id": "769",
             "name": "Projects",
@@ -6202,13 +6230,6 @@
                "name": "Update",
                "type": "folder"
             }, {
-               "date_added": "13302367349397221",
-               "guid": "d9af571b-af3a-4548-ad7e-723af701cd68",
-               "id": "1205",
-               "name": "docker-compose cheatsheet",
-               "type": "url",
-               "url": "https://devhints.io/docker-compose"
-            }, {
                "date_added": "13302367435210913",
                "guid": "44b9fdb8-00f8-44e4-8bc4-bef1145536d3",
                "id": "1206",
@@ -6258,9 +6279,123 @@
                "name": "Code Analysis with Graphs",
                "type": "url",
                "url": "https://neo4j.com/developer-blog/codebase-knowledge-graph/"
+            }, {
+               "children": [ {
+                  "date_added": "13303832605301598",
+                  "guid": "d916cb64-a5ef-4bf0-83e6-7e7551350d45",
+                  "id": "1247",
+                  "name": "Keycloak Admin REST API",
+                  "type": "url",
+                  "url": "https://www.keycloak.org/docs-api/19.0.1/rest-api/#_overview"
+               }, {
+                  "date_added": "13303832622368780",
+                  "guid": "0b859bb2-c8e4-417f-8293-96967af1ba54",
+                  "id": "1249",
+                  "name": "Documentation - Keycloak",
+                  "type": "url",
+                  "url": "https://www.keycloak.org/documentation"
+               }, {
+                  "date_added": "13303832625768429",
+                  "guid": "9778a970-c13c-4d28-a73d-7931569e9dad",
+                  "id": "1250",
+                  "name": "Keycloak sandbox",
+                  "type": "url",
+                  "url": "https://grant.outofindex.com/keycloak"
+               }, {
+                  "date_added": "13303832642886941",
+                  "guid": "5eb57153-dcc9-49d0-9e7d-5ce28256ff0d",
+                  "id": "1251",
+                  "name": "simov/grant: OAuth Proxy (Strapi OAuth lib)",
+                  "type": "url",
+                  "url": "https://github.com/simov/grant"
+               }, {
+                  "date_added": "13303832670114394",
+                  "guid": "d82f8d36-fb47-4c11-bc80-02ea2c04bd50",
+                  "id": "1252",
+                  "name": "Roles & Permissions - Providers",
+                  "type": "url",
+                  "url": "https://docs.strapi.io/developer-docs/latest/plugins/users-permissions.html#login"
+               }, {
+                  "date_added": "13303832793907682",
+                  "guid": "44412d0b-bb86-4e13-baa6-98def000947f",
+                  "id": "1253",
+                  "name": "Nuxt - Named Middleware (auth example)",
+                  "type": "url",
+                  "url": "https://nuxtjs.org/examples/middlewares/named#named-middleware"
+               } ],
+               "date_added": "13303832619701638",
+               "date_modified": "13303892926062468",
+               "guid": "bf527c6a-031d-4355-807c-6b68f39f750e",
+               "id": "1248",
+               "name": "Auth",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13303897610168234",
+                  "guid": "d3fa5794-264b-4510-8f5d-667ae7d1b1fa",
+                  "id": "1256",
+                  "name": "Authentication | Next.js",
+                  "type": "url",
+                  "url": "https://nextjs.org/docs/authentication"
+               }, {
+                  "date_added": "13303897610168590",
+                  "guid": "bc884938-8383-4843-840b-bab5d4ca8c46",
+                  "id": "1257",
+                  "name": "Nuxt - Named Middleware",
+                  "type": "url",
+                  "url": "https://nuxtjs.org/examples/middlewares/named#named-middleware"
+               }, {
+                  "date_added": "13303897610168674",
+                  "guid": "dfc3e04f-35d3-4103-93ea-a41d644605dc",
+                  "id": "1258",
+                  "name": "Standards For Highways | Design Manual for Roads and Bridges (DMRB)",
+                  "type": "url",
+                  "url": "http://localhost:3000/dmrb/"
+               }, {
+                  "date_added": "13303897610168778",
+                  "guid": "5000b5dd-76a6-4ebd-baa6-21a61e5eb27c",
+                  "id": "1259",
+                  "name": "How to Prevent Your Emails From Going to Spam: 6 Tips",
+                  "type": "url",
+                  "url": "https://www.makeuseof.com/how-to-prevent-emails-going-to-spam/"
+               }, {
+                  "date_added": "13303928935083515",
+                  "guid": "f806170e-78db-4417-997a-58ac8e33b400",
+                  "id": "1260",
+                  "name": "RFC 5322 - Internet Message Format",
+                  "type": "url",
+                  "url": "https://datatracker.ietf.org/doc/html/rfc5322"
+               }, {
+                  "date_added": "13303929015232655",
+                  "guid": "bca0b073-3fcc-435f-8707-197e15408e98",
+                  "id": "1261",
+                  "name": "Prevent mail to Gmail users from being blocked or sent to spam - Gmail Help",
+                  "type": "url",
+                  "url": "https://support.google.com/mail/answer/81126?hl=en"
+               }, {
+                  "date_added": "13303986593367152",
+                  "guid": "06ba6b53-fa56-498b-9206-f3c756d67674",
+                  "id": "1263",
+                  "name": "SendGrid | Strapi Market",
+                  "type": "url",
+                  "url": "https://market.strapi.io/providers/@strapi-provider-email-sendgrid"
+               }, {
+                  "date_added": "13303986606174392",
+                  "guid": "c119276f-94a7-4af7-9068-9ce4c0bdb275",
+                  "id": "1264",
+                  "name": "Azure SendGrid SMTP Email Hosting Service Microsoft",
+                  "type": "url",
+                  "url": "https://www.technologytobusiness.com/microsoft-azure/azure-sendgrid-smtp-email-service"
+               } ],
+               "date_added": "13303897610168047",
+               "date_modified": "13304033628901476",
+               "guid": "b95c0e0d-a5d0-4d1f-b5d4-c7ba4ffe0f4d",
+               "id": "1255",
+               "name": "Emails",
+               "type": "folder"
             } ],
             "date_added": "13299688768234670",
-            "date_modified": "13303599966416180",
+            "date_modified": "13303897610169170",
             "guid": "7f6f0d5e-45d6-472a-b726-87a2f5dbab5c",
             "id": "1109",
             "name": "HIE-023",
@@ -6345,7 +6480,7 @@
             "url": "https://nomensa.my.workfront.com/timesheets"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13303633098279834",
+         "date_modified": "13303924703900951",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
