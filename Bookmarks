@@ -1,5 +1,5 @@
 {
-   "checksum": "bb96ea68d43f4981654ed21b6579d11f",
+   "checksum": "e592512376c8242a86618774a2404fc7",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3520,15 +3520,15 @@
                   "type": "url",
                   "url": "https://home.ttic.edu/~dreyer/course/papers/wadler.pdf"
                }, {
-                  "date_added": "13304152075466041",
-                  "guid": "89b0e7be-f826-440f-9155-2380b178a9d5",
-                  "id": "1270",
-                  "name": "Bookmark Mostly Adequate",
+                  "date_added": "13304292342071544",
+                  "guid": "bd5cb34f-1cc3-4b67-a5a2-6389a7522e64",
+                  "id": "1272",
+                  "name": "mostly-adequate-guide/ch12.md at master · MostlyAdequate/mostly-adequate-guide",
                   "type": "url",
-                  "url": "https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch12.md"
+                  "url": "https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch12.md#effect-assortment"
                } ],
                "date_added": "13301567671261714",
-               "date_modified": "13304152075466041",
+               "date_modified": "13304292342071544",
                "guid": "c9451023-c5de-44e5-83a8-e0e9acf36cc6",
                "id": "1167",
                "name": "Functional Programming",
