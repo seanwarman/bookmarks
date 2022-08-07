@@ -1,5 +1,5 @@
 {
-   "checksum": "3c6a8a8dc4be38625f798e47bf800efa",
+   "checksum": "c3215f86fede7b16a1aae6e12a00d52b",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2918,13 +2918,6 @@
                   "name": "The Spotify Model",
                   "type": "url",
                   "url": "https://www.atlassian.com/agile/agile-at-scale/spotify"
-               }, {
-                  "date_added": "13276271192000000",
-                  "guid": "b665fdfa-f049-454b-ad65-87930a0e36d7",
-                  "id": "415",
-                  "name": "The Spotify Model",
-                  "type": "url",
-                  "url": "https://agilescrumgroup.co.uk/the-spotify-model/"
                } ],
                "date_added": "13277233018952818",
                "date_modified": "0",
