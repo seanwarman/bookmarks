@@ -1,5 +1,5 @@
 {
-   "checksum": "bb96ea68d43f4981654ed21b6579d11f",
+   "checksum": "c3215f86fede7b16a1aae6e12a00d52b",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2918,13 +2918,6 @@
                   "name": "The Spotify Model",
                   "type": "url",
                   "url": "https://www.atlassian.com/agile/agile-at-scale/spotify"
-               }, {
-                  "date_added": "13276271192000000",
-                  "guid": "b665fdfa-f049-454b-ad65-87930a0e36d7",
-                  "id": "415",
-                  "name": "The Spotify Model",
-                  "type": "url",
-                  "url": "https://agilescrumgroup.co.uk/the-spotify-model/"
                } ],
                "date_added": "13277233018952818",
                "date_modified": "0",
@@ -3520,15 +3513,15 @@
                   "type": "url",
                   "url": "https://home.ttic.edu/~dreyer/course/papers/wadler.pdf"
                }, {
-                  "date_added": "13304152075466041",
-                  "guid": "89b0e7be-f826-440f-9155-2380b178a9d5",
-                  "id": "1270",
+                  "date_added": "13304292342071544",
+                  "guid": "bd5cb34f-1cc3-4b67-a5a2-6389a7522e64",
+                  "id": "1272",
                   "name": "Bookmark Mostly Adequate",
                   "type": "url",
-                  "url": "https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch12.md"
+                  "url": "https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch12.md#effect-assortment"
                } ],
                "date_added": "13301567671261714",
-               "date_modified": "13304152075466041",
+               "date_modified": "13304292342071544",
                "guid": "c9451023-c5de-44e5-83a8-e0e9acf36cc6",
                "id": "1167",
                "name": "Functional Programming",
