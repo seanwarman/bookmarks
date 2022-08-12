@@ -1,5 +1,5 @@
 {
-   "checksum": "c3215f86fede7b16a1aae6e12a00d52b",
+   "checksum": "e2b30fae4400bca244214a0bd47bb8a6",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3519,9 +3519,16 @@
                   "name": "Bookmark Mostly Adequate",
                   "type": "url",
                   "url": "https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch12.md#effect-assortment"
+               }, {
+                  "date_added": "13304794698798949",
+                  "guid": "869148b4-2b6a-47a5-a800-bd5766ba4ccd",
+                  "id": "1274",
+                  "name": "Presentation.pptx",
+                  "type": "url",
+                  "url": "https://nomensa-my.sharepoint.com/:p:/r/personal/swarman_nomensa_com/_layouts/15/Doc.aspx?sourcedoc=%7BA1335C94-70D5-45FC-B817-8EE95289033D%7D&file=Presentation.pptx&wdOrigin=OFFICECOM-WEB.START.REC&ct=1660317302578&action=edit&mobileredirect=true&cid=15eaba1f-5991-4c59-938c-08c35352813e"
                } ],
                "date_added": "13301567671261714",
-               "date_modified": "13304292342071544",
+               "date_modified": "13304794698798949",
                "guid": "c9451023-c5de-44e5-83a8-e0e9acf36cc6",
                "id": "1167",
                "name": "Functional Programming",
