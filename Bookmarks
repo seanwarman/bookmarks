@@ -1,5 +1,5 @@
 {
-   "checksum": "c9a25332ef81c79563289ebdf3fc5292",
+   "checksum": "6e4cd2809aebfac8b40591025a1d570c",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3519,13 +3519,6 @@
                   "name": "Bookmark Mostly Adequate",
                   "type": "url",
                   "url": "https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/ch12.md#effect-assortment"
-               }, {
-                  "date_added": "13304794698798949",
-                  "guid": "869148b4-2b6a-47a5-a800-bd5766ba4ccd",
-                  "id": "1274",
-                  "name": "Eerie-skeletons.pptx",
-                  "type": "url",
-                  "url": "https://nomensa-my.sharepoint.com/:p:/r/personal/swarman_nomensa_com/_layouts/15/Doc.aspx?sourcedoc=%7BA1335C94-70D5-45FC-B817-8EE95289033D%7D&file=Presentation.pptx&wdOrigin=OFFICECOM-WEB.START.REC&ct=1660317302578&action=edit&mobileredirect=true&cid=15eaba1f-5991-4c59-938c-08c35352813e"
                } ],
                "date_added": "13301567671261714",
                "date_modified": "13304794698798949",
@@ -5828,9 +5821,16 @@
                   "name": "VIE",
                   "type": "url",
                   "url": "https://nomensa-my.sharepoint.com/:p:/p/mwilkes/EZLZGGX4uxtPoMVOQwgK1RMBZ_hoJUau08otsaGewXroNw?e=NnuoWg&ovuser=ebea4ad6-fbbf-43bd-8449-c56e26692c35%2Cswarman%40nomensa.com&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyOC8yMjA3MDMwMDgxNCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D&PreviousSessionID=afbc59dd-fd67-7d49-af4d-f5b0fbffe697"
+               }, {
+                  "date_added": "13304794698798949",
+                  "guid": "869148b4-2b6a-47a5-a800-bd5766ba4ccd",
+                  "id": "1274",
+                  "name": "Eerie-skeletons.pptx",
+                  "type": "url",
+                  "url": "https://nomensa-my.sharepoint.com/:p:/r/personal/swarman_nomensa_com/_layouts/15/Doc.aspx?sourcedoc=%7BA1335C94-70D5-45FC-B817-8EE95289033D%7D&file=Presentation.pptx&wdOrigin=OFFICECOM-WEB.START.REC&ct=1660317302578&action=edit&mobileredirect=true&cid=15eaba1f-5991-4c59-938c-08c35352813e"
                } ],
                "date_added": "13303633174347231",
-               "date_modified": "13303633188165685",
+               "date_modified": "13304794726814710",
                "guid": "ad4d6526-9f2f-4658-9bbc-c13dae3be3cb",
                "id": "1245",
                "name": "Presentations",
