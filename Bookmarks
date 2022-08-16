@@ -1,5 +1,5 @@
 {
-   "checksum": "bd5e31775530033c0ca5e0ee215dc4d1",
+   "checksum": "827cb6cffcdfee88ba566fafc1f7628a",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3637,7 +3637,7 @@
                   "date_added": "13305155060141757",
                   "guid": "5846992d-abf3-44d0-9d3f-2480a86addb1",
                   "id": "1281",
-                  "name": "mudcube/MIDI.js: Making life easy to create a MIDI-app on the web. Includes a library to program synesthesia into your app for memory recognition or for creating trippy effects. Convert soundfonts for Guitar, Bass, Drums, ect. into code that can be read by the browser. Supports multiple simultaneous instruments and perfect timing.",
+                  "name": "mudcube/MIDI.js (perfect timing)",
                   "type": "url",
                   "url": "https://github.com/mudcube/MIDI.js"
                } ],
