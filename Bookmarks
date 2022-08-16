@@ -1,5 +1,5 @@
 {
-   "checksum": "4c65f1159fd8a4c9512805e831de5b68",
+   "checksum": "1181656f6a550bd8c4e5f461ce8d165c",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3682,9 +3682,16 @@
                   "name": "jshanley/blip: Sweet, sugary goodness for looping and sampling with the Web Audio API",
                   "type": "url",
                   "url": "https://github.com/jshanley/blip"
+               }, {
+                  "date_added": "13305157642361316",
+                  "guid": "3eb241e3-fe9b-4855-9bf5-1936c12bc049",
+                  "id": "1288",
+                  "name": "bbc/peaks.js: JavaScript UI component for interacting with audio waveforms",
+                  "type": "url",
+                  "url": "https://github.com/bbc/peaks.js"
                } ],
                "date_added": "13305153881917074",
-               "date_modified": "13305157589110678",
+               "date_modified": "13305157642361316",
                "guid": "a084fd22-43eb-46bb-8a45-f2e7e7d7810d",
                "id": "1277",
                "name": "Audio JS",
