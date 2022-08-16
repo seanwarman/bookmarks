@@ -1,5 +1,5 @@
 {
-   "checksum": "8f8bf0b5c816bf33c8a1361d3072ff75",
+   "checksum": "4c65f1159fd8a4c9512805e831de5b68",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3675,9 +3675,16 @@
                   "name": "rserota/wad: Web Audio DAW. Use the Web Audio API for dynamic sound synthesis. It's like jQuery for your ears.",
                   "type": "url",
                   "url": "https://github.com/rserota/wad"
+               }, {
+                  "date_added": "13305157589110678",
+                  "guid": "5ab3ccc9-f03b-4007-8be1-8b37570be1c0",
+                  "id": "1287",
+                  "name": "jshanley/blip: Sweet, sugary goodness for looping and sampling with the Web Audio API",
+                  "type": "url",
+                  "url": "https://github.com/jshanley/blip"
                } ],
                "date_added": "13305153881917074",
-               "date_modified": "13305157541701007",
+               "date_modified": "13305157589110678",
                "guid": "a084fd22-43eb-46bb-8a45-f2e7e7d7810d",
                "id": "1277",
                "name": "Audio JS",
