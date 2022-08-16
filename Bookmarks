@@ -1,5 +1,5 @@
 {
-   "checksum": "3bca08a251822047f127558b0fd35a8e",
+   "checksum": "47d1c40c4abb7a5b016643a21c04a435",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3661,9 +3661,16 @@
                   "name": "Pizzicato.js: (FX)",
                   "type": "url",
                   "url": "https://alemangui.github.io/pizzicato/#distortion"
+               }, {
+                  "date_added": "13305157465650931",
+                  "guid": "ef998dc1-035b-4ffb-9dd4-c5642ece56c3",
+                  "id": "1285",
+                  "name": "katspaugh/wavesurfer.js: Navigable waveform built on Web Audio and Canvas",
+                  "type": "url",
+                  "url": "https://github.com/katspaugh/wavesurfer.js"
                } ],
                "date_added": "13305153881917074",
-               "date_modified": "13305157380079768",
+               "date_modified": "13305157465650931",
                "guid": "a084fd22-43eb-46bb-8a45-f2e7e7d7810d",
                "id": "1277",
                "name": "Audio JS",
