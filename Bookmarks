@@ -1,5 +1,5 @@
 {
-   "checksum": "713a178783393e73f5766f0816655962",
+   "checksum": "9131cb9a200a4d161cd77d080a398bf8",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3647,9 +3647,16 @@
                   "name": "WebSynths : Browser-based musical instruments",
                   "type": "url",
                   "url": "https://www.websynths.com/"
+               }, {
+                  "date_added": "13305156023605596",
+                  "guid": "dfc24d67-7293-4f59-8c14-2be1d84d998a",
+                  "id": "1283",
+                  "name": "Acid Machine 2",
+                  "type": "url",
+                  "url": "https://errozero.co.uk/acid-machine/"
                } ],
                "date_added": "13305153881917074",
-               "date_modified": "13305155800080186",
+               "date_modified": "13305156023605596",
                "guid": "a084fd22-43eb-46bb-8a45-f2e7e7d7810d",
                "id": "1277",
                "name": "Audio JS",
