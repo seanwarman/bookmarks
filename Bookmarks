@@ -1,5 +1,5 @@
 {
-   "checksum": "47d1c40c4abb7a5b016643a21c04a435",
+   "checksum": "8f8bf0b5c816bf33c8a1361d3072ff75",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3668,9 +3668,16 @@
                   "name": "katspaugh/wavesurfer.js: Navigable waveform built on Web Audio and Canvas",
                   "type": "url",
                   "url": "https://github.com/katspaugh/wavesurfer.js"
+               }, {
+                  "date_added": "13305157541701007",
+                  "guid": "35a9a9ff-cd02-4f28-9d8c-96de55531e69",
+                  "id": "1286",
+                  "name": "rserota/wad: Web Audio DAW. Use the Web Audio API for dynamic sound synthesis. It's like jQuery for your ears.",
+                  "type": "url",
+                  "url": "https://github.com/rserota/wad"
                } ],
                "date_added": "13305153881917074",
-               "date_modified": "13305157465650931",
+               "date_modified": "13305157541701007",
                "guid": "a084fd22-43eb-46bb-8a45-f2e7e7d7810d",
                "id": "1277",
                "name": "Audio JS",
