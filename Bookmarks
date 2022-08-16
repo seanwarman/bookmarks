@@ -1,5 +1,5 @@
 {
-   "checksum": "e659184c87bc2dc251796839157aee26",
+   "checksum": "bd5e31775530033c0ca5e0ee215dc4d1",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3633,9 +3633,16 @@
                   "name": "Rythm.js",
                   "type": "url",
                   "url": "https://okazari.github.io/Rythm.js/"
+               }, {
+                  "date_added": "13305155060141757",
+                  "guid": "5846992d-abf3-44d0-9d3f-2480a86addb1",
+                  "id": "1281",
+                  "name": "mudcube/MIDI.js: Making life easy to create a MIDI-app on the web. Includes a library to program synesthesia into your app for memory recognition or for creating trippy effects. Convert soundfonts for Guitar, Bass, Drums, ect. into code that can be read by the browser. Supports multiple simultaneous instruments and perfect timing.",
+                  "type": "url",
+                  "url": "https://github.com/mudcube/MIDI.js"
                } ],
                "date_added": "13305153881917074",
-               "date_modified": "13305155025665463",
+               "date_modified": "13305155060141757",
                "guid": "a084fd22-43eb-46bb-8a45-f2e7e7d7810d",
                "id": "1277",
                "name": "Audio JS",
