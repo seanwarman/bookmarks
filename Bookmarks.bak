@@ -1,5 +1,5 @@
 {
-   "checksum": "6e4cd2809aebfac8b40591025a1d570c",
+   "checksum": "203bf5ab9c84a3016e6087ffe15d06bd",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3604,6 +3604,112 @@
                "id": "1225",
                "name": "25-July-22",
                "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13305153862793137",
+                  "guid": "9ef9b31e-c8f3-46d2-b70e-695062945dfb",
+                  "id": "1276",
+                  "name": "howler.js - JavaScript audio library for the modern web",
+                  "type": "url",
+                  "url": "https://howlerjs.com/"
+               }, {
+                  "date_added": "13305154106716760",
+                  "guid": "32b65d6b-53da-447b-88fd-919d6a981d53",
+                  "id": "1278",
+                  "name": "T(\"timbre.js\")",
+                  "type": "url",
+                  "url": "https://mohayonao.github.io/timbre.js/"
+               }, {
+                  "date_added": "13305154580450280",
+                  "guid": "4be9a9da-4e98-4f3e-ad27-b4153f4e0437",
+                  "id": "1279",
+                  "name": "Tone.js",
+                  "type": "url",
+                  "url": "https://tonejs.github.io/"
+               }, {
+                  "date_added": "13305155025665463",
+                  "guid": "6fbbfc23-d2cc-4261-a269-8d425c4c859a",
+                  "id": "1280",
+                  "name": "Rythm.js",
+                  "type": "url",
+                  "url": "https://okazari.github.io/Rythm.js/"
+               }, {
+                  "date_added": "13305155060141757",
+                  "guid": "5846992d-abf3-44d0-9d3f-2480a86addb1",
+                  "id": "1281",
+                  "name": "mudcube/MIDI.js (perfect timing)",
+                  "type": "url",
+                  "url": "https://github.com/mudcube/MIDI.js"
+               }, {
+                  "date_added": "13305155800080186",
+                  "guid": "0c4dfe07-daeb-4fb8-9673-9daf3db625b2",
+                  "id": "1282",
+                  "name": "WebSynths : Browser-based musical instruments",
+                  "type": "url",
+                  "url": "https://www.websynths.com/"
+               }, {
+                  "date_added": "13305156023605596",
+                  "guid": "dfc24d67-7293-4f59-8c14-2be1d84d998a",
+                  "id": "1283",
+                  "name": "Acid Machine 2",
+                  "type": "url",
+                  "url": "https://errozero.co.uk/acid-machine/"
+               }, {
+                  "date_added": "13305157380079768",
+                  "guid": "c91b1617-a8ac-4ccb-9f8e-2ab905e01856",
+                  "id": "1284",
+                  "name": "Pizzicato.js: (FX)",
+                  "type": "url",
+                  "url": "https://alemangui.github.io/pizzicato/#distortion"
+               }, {
+                  "date_added": "13305157465650931",
+                  "guid": "ef998dc1-035b-4ffb-9dd4-c5642ece56c3",
+                  "id": "1285",
+                  "name": "katspaugh/wavesurfer.js: Navigable waveform built on Web Audio and Canvas",
+                  "type": "url",
+                  "url": "https://github.com/katspaugh/wavesurfer.js"
+               }, {
+                  "date_added": "13305157541701007",
+                  "guid": "35a9a9ff-cd02-4f28-9d8c-96de55531e69",
+                  "id": "1286",
+                  "name": "rserota/wad: Web Audio DAW. Use the Web Audio API for dynamic sound synthesis. It's like jQuery for your ears.",
+                  "type": "url",
+                  "url": "https://github.com/rserota/wad"
+               }, {
+                  "date_added": "13305157589110678",
+                  "guid": "5ab3ccc9-f03b-4007-8be1-8b37570be1c0",
+                  "id": "1287",
+                  "name": "jshanley/blip: Sweet, sugary goodness for looping and sampling with the Web Audio API",
+                  "type": "url",
+                  "url": "https://github.com/jshanley/blip"
+               }, {
+                  "date_added": "13305157642361316",
+                  "guid": "3eb241e3-fe9b-4855-9bf5-1936c12bc049",
+                  "id": "1288",
+                  "name": "bbc/peaks.js: JavaScript UI component for interacting with audio waveforms",
+                  "type": "url",
+                  "url": "https://github.com/bbc/peaks.js"
+               }, {
+                  "date_added": "13305157672052676",
+                  "guid": "ce12949b-aa48-449a-ac12-63b8a7147dba",
+                  "id": "1289",
+                  "name": "20 Useful Web Audio Javascript Libraries – Bashooka",
+                  "type": "url",
+                  "url": "https://bashooka.com/coding/web-audio-javascript-libraries/"
+               }, {
+                  "date_added": "13305157941558690",
+                  "guid": "e65a256c-eb88-4ffd-9a28-bc0cbcdfe913",
+                  "id": "1290",
+                  "name": "mikolalysenko/pitch-shift: Variable speed pitch shifter written in JavaScript",
+                  "type": "url",
+                  "url": "https://github.com/mikolalysenko/pitch-shift"
+               } ],
+               "date_added": "13305153881917074",
+               "date_modified": "13305157941558690",
+               "guid": "a084fd22-43eb-46bb-8a45-f2e7e7d7810d",
+               "id": "1277",
+               "name": "Audio JS",
+               "type": "folder"
             } ],
             "date_added": "13277233018935107",
             "date_modified": "13303832605301598",
@@ -5830,7 +5936,7 @@
                   "url": "https://nomensa-my.sharepoint.com/:p:/r/personal/swarman_nomensa_com/_layouts/15/Doc.aspx?sourcedoc=%7BA1335C94-70D5-45FC-B817-8EE95289033D%7D&file=Presentation.pptx&wdOrigin=OFFICECOM-WEB.START.REC&ct=1660317302578&action=edit&mobileredirect=true&cid=15eaba1f-5991-4c59-938c-08c35352813e"
                } ],
                "date_added": "13303633174347231",
-               "date_modified": "13304794726814710",
+               "date_modified": "13305153862793137",
                "guid": "ad4d6526-9f2f-4658-9bbc-c13dae3be3cb",
                "id": "1245",
                "name": "Presentations",
