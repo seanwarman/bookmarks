@@ -1,5 +1,5 @@
 {
-   "checksum": "69d5c009f825f2749aa6869d529507ca",
+   "checksum": "b2b0c3c348da6990050caf580b22ff20",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -2489,9 +2489,16 @@
                   "name": "Caret (^) and Tilde (~) in package.json | by Hardeep Singh | Medium",
                   "type": "url",
                   "url": "https://indianceo.medium.com/caret-and-tilde-in-package-json-57f1cbbe347b"
+               }, {
+                  "date_added": "13305610943191161",
+                  "guid": "7fbf98e3-b583-4ad5-8389-fdf28303e736",
+                  "id": "1294",
+                  "name": "jsDelivr - A free, fast, and reliable CDN for open source",
+                  "type": "url",
+                  "url": "https://www.jsdelivr.com/"
                } ],
                "date_added": "13277233018946010",
-               "date_modified": "13295712812258380",
+               "date_modified": "13305610967679254",
                "guid": "5993555c-3bb7-4ced-811f-93d04162d034",
                "id": "334",
                "name": "Node",
@@ -6600,14 +6607,7 @@
          "type": "folder"
       },
       "other": {
-         "children": [ {
-            "date_added": "13305610943191161",
-            "guid": "7fbf98e3-b583-4ad5-8389-fdf28303e736",
-            "id": "1294",
-            "name": "jsDelivr - A free, fast, and reliable CDN for open source",
-            "type": "url",
-            "url": "https://www.jsdelivr.com/"
-         } ],
+         "children": [  ],
          "date_added": "13277229767710764",
          "date_modified": "13305610950241262",
          "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
