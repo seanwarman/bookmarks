@@ -1,5 +1,5 @@
 {
-   "checksum": "9d859553b356989b31ba1c399a14b5a1",
+   "checksum": "0f7c81b7c44f0c0b6cef09f3b0a560b2",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -3722,7 +3722,7 @@
                      "date_added": "13305614443696179",
                      "guid": "79e6a0fa-7d84-4b6c-8c8f-fc43f4ce031f",
                      "id": "1297",
-                     "name": "https://sample-server.s3.eu-west-2.amazonaws.com/WebSynths+Hexagonal/44.1Khz_16bit/09.SDS1000/WebSynths_Hexagonal_SDS1000_015.wav",
+                     "name": "kick",
                      "type": "url",
                      "url": "https://sample-server.s3.eu-west-2.amazonaws.com/WebSynths+Hexagonal/44.1Khz_16bit/09.SDS1000/WebSynths_Hexagonal_SDS1000_015.wav"
                   } ],
