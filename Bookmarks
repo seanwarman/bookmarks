@@ -1,5 +1,5 @@
 {
-   "checksum": "43256534a21495b84e73c06065fff738",
+   "checksum": "e1d8b66c28ae6f09244b03e23b9e818f",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6662,9 +6662,16 @@
             "name": "https://preview.pardot.com/email/template/draft/preview/id/38536?version=session",
             "type": "url",
             "url": "https://preview.pardot.com/email/template/draft/preview/id/38536?version=session"
+         }, {
+            "date_added": "13307466161313863",
+            "guid": "172a7a83-837e-4def-803a-25ea62a3d357",
+            "id": "1308",
+            "name": "linkedin_brands.svg.png (100×100)",
+            "type": "url",
+            "url": "https://storage.pardot.com/250462/1662987866YDDiw6B2/linkedin_brands.svg.png"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13307463467905497",
+         "date_modified": "13307466161313863",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
