@@ -1,5 +1,5 @@
 {
-   "checksum": "a24b769ba2fb6aedd671168ca435fa5b",
+   "checksum": "43614b77a49c31ac64e53ab3e7b33696",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6506,9 +6506,16 @@
                "name": "HIE-023-08_FDD.docx",
                "type": "url",
                "url": "https://nomensa.sharepoint.com/:w:/s/File-Share-Clients/ET2LkzFsdSpJvBW5A6Hg1X0Bu63mOnGx2-_ml8fIyEtnTA"
+            }, {
+               "date_added": "13307548431927419",
+               "guid": "609a03d3-96c9-4da7-9c3c-90aaea9ed684",
+               "id": "1310",
+               "name": "Bulletproof Pardot Email Button Generator",
+               "type": "url",
+               "url": "https://jennamolby.com/bulletproof-pardot-email-button-generator/"
             } ],
             "date_added": "13299688768234670",
-            "date_modified": "13307541423761791",
+            "date_modified": "13307548431927419",
             "guid": "7f6f0d5e-45d6-472a-b726-87a2f5dbab5c",
             "id": "1109",
             "name": "HIE-023",
