@@ -1,5 +1,5 @@
 {
-   "checksum": "366b1b2406a49a5cdbca953eac5cc12e",
+   "checksum": "8fd9b8bf62c07185fa48808c170f6791",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6655,20 +6655,6 @@
             "name": "Claim tax relief for your job expenses: Working from home - GOV.UK",
             "type": "url",
             "url": "https://www.gov.uk/tax-relief-for-employees/working-at-home"
-         }, {
-            "date_added": "13307463467905497",
-            "guid": "4b9eefcc-3fea-4feb-abe8-6a14732efbc4",
-            "id": "1307",
-            "name": "https://preview.pardot.com/email/template/draft/preview/id/38536?version=session",
-            "type": "url",
-            "url": "https://preview.pardot.com/email/template/draft/preview/id/38536?version=session"
-         }, {
-            "date_added": "13307466161313863",
-            "guid": "172a7a83-837e-4def-803a-25ea62a3d357",
-            "id": "1308",
-            "name": "linkedin_brands.svg.png (100×100)",
-            "type": "url",
-            "url": "https://storage.pardot.com/250462/1662987866YDDiw6B2/linkedin_brands.svg.png"
          } ],
          "date_added": "13277229767710742",
          "date_modified": "13307466161313863",
