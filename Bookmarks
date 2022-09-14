@@ -1,5 +1,5 @@
 {
-   "checksum": "f5d3237019af66a8e01edf13e6347211",
+   "checksum": "7671b0644bc42eaa215ab2ca3d408492",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6634,9 +6634,16 @@
                "name": "Jira",
                "type": "url",
                "url": "https://nomensa.atlassian.net/jira/software/c/projects/TRD/boards/59"
+            }, {
+               "date_added": "13307625839438905",
+               "guid": "d22d6c23-f8ae-41da-92bc-53ee240601d5",
+               "id": "1313",
+               "name": "Canyon Ultimate CFR | CANYON GB",
+               "type": "url",
+               "url": "https://www.canyon.com/en-gb/road-bikes/race-bikes/ultimate/cfr/#section-product-grid"
             } ],
             "date_added": "13295010279012681",
-            "date_modified": "13307616456386575",
+            "date_modified": "13307625839438905",
             "guid": "7dd5d895-6782-4ed8-9063-2b8990eecb6a",
             "id": "975",
             "name": "TRD-002",
