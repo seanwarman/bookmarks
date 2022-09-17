@@ -1,5 +1,5 @@
 {
-   "checksum": "80c6dcdb4eb9b0c3027ab9fe1ffda249",
+   "checksum": "f9ffaaa6452d57d693b6f5d33820b947",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6108,7 +6108,7 @@
                "date_added": "13307853703073110",
                "guid": "608d450c-7503-46a4-8a29-a91dd95b2984",
                "id": "1315",
-               "name": "Getting Started | Vue Test Utils",
+               "name": "Vue Test Utils",
                "type": "url",
                "url": "https://test-utils.vuejs.org/guide/"
             } ],
