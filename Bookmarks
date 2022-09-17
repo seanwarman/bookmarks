@@ -1,5 +1,5 @@
 {
-   "checksum": "4232fb3154fdb5bab70dfecdb51e8bbd",
+   "checksum": "80c6dcdb4eb9b0c3027ab9fe1ffda249",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6104,9 +6104,16 @@
                "name": "API Reference | Vitest",
                "type": "url",
                "url": "https://vitest.dev/api/"
+            }, {
+               "date_added": "13307853703073110",
+               "guid": "608d450c-7503-46a4-8a29-a91dd95b2984",
+               "id": "1315",
+               "name": "Getting Started | Vue Test Utils",
+               "type": "url",
+               "url": "https://test-utils.vuejs.org/guide/"
             } ],
             "date_added": "13295010279012681",
-            "date_modified": "13307816114818138",
+            "date_modified": "13307853703073110",
             "guid": "7dd5d895-6782-4ed8-9063-2b8990eecb6a",
             "id": "975",
             "name": "TRD-002",
