@@ -1,5 +1,5 @@
 {
-   "checksum": "f9ffaaa6452d57d693b6f5d33820b947",
+   "checksum": "b06e427055282be37ddd23039ff9cebe",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6111,9 +6111,16 @@
                "name": "Vue Test Utils",
                "type": "url",
                "url": "https://test-utils.vuejs.org/guide/"
+            }, {
+               "date_added": "13307859761938180",
+               "guid": "c85ba5ce-df25-4a71-aadd-3839e6e18e56",
+               "id": "1316",
+               "name": "Test keyboard navigation for accessibility · Issue #966 · vuejs/vue-test-utils",
+               "type": "url",
+               "url": "https://github.com/vuejs/vue-test-utils/issues/966"
             } ],
             "date_added": "13295010279012681",
-            "date_modified": "13307853703073110",
+            "date_modified": "13307859761938180",
             "guid": "7dd5d895-6782-4ed8-9063-2b8990eecb6a",
             "id": "975",
             "name": "TRD-002",
