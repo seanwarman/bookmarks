@@ -1,5 +1,5 @@
 {
-   "checksum": "80514dce8bb88fd2d1296adc5339fb08",
+   "checksum": "ce88b6cafbb7542be753686081710fcc",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6663,12 +6663,27 @@
                "type": "url",
                "url": "https://nomensa.sharepoint.com/:w:/s/File-Share-Clients/ET2LkzFsdSpJvBW5A6Hg1X0Bu63mOnGx2-_ml8fIyEtnTA"
             }, {
-               "date_added": "13308220366191901",
-               "guid": "b7167154-3b8a-41ee-b763-6d15b6c3089a",
-               "id": "1319",
-               "name": "Announcing Strapi v4 with a new UI, Plugin API, Query Engine and more",
-               "type": "url",
-               "url": "https://strapi.io/blog/announcing-strapi-v4"
+               "children": [ {
+                  "date_added": "13308220366191901",
+                  "guid": "b7167154-3b8a-41ee-b763-6d15b6c3089a",
+                  "id": "1319",
+                  "name": "Announcing Strapi v4 with a new UI, Plugin API, Query Engine and more",
+                  "type": "url",
+                  "url": "https://strapi.io/blog/announcing-strapi-v4"
+               }, {
+                  "date_added": "13308220388072970",
+                  "guid": "b1362044-9bf3-4fa5-8c36-3f423d1aefea",
+                  "id": "1321",
+                  "name": "Strapi Design System - design principles and guidelines",
+                  "type": "url",
+                  "url": "https://design-system.strapi.io/"
+               } ],
+               "date_added": "13308220386266926",
+               "date_modified": "13308220388072970",
+               "guid": "0f6b1d16-a4e3-4740-9554-7fc1553105f2",
+               "id": "1320",
+               "name": "New Strapi v4 Features",
+               "type": "folder"
             } ],
             "date_added": "13299688768234670",
             "date_modified": "13308220369737470",
