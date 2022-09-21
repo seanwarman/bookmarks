@@ -1,5 +1,5 @@
 {
-   "checksum": "1b8ab79b0e408921daecc85c8aa15b76",
+   "checksum": "e204fe2ab423c55cb1fe809955cf10ab",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6690,9 +6690,16 @@
             "name": "Popstar: Never Stop Never Stopping - Trailer #2 | IMDb",
             "type": "url",
             "url": "https://www.imdb.com/video/vi2277946393/?playlistId=tt3960412&ref_=tt_ov_vi"
+         }, {
+            "date_added": "13308220366191901",
+            "guid": "b7167154-3b8a-41ee-b763-6d15b6c3089a",
+            "id": "1319",
+            "name": "Announcing Strapi v4 with a new UI, Plugin API, Query Engine and more",
+            "type": "url",
+            "url": "https://strapi.io/blog/announcing-strapi-v4"
          } ],
          "date_added": "13277229767710742",
-         "date_modified": "13308142312347744",
+         "date_modified": "13308220366191901",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
