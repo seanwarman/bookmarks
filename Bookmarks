@@ -1,5 +1,5 @@
 {
-   "checksum": "ce88b6cafbb7542be753686081710fcc",
+   "checksum": "f206930ccbe39cd408f57afab4537d02",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6677,9 +6677,16 @@
                   "name": "Strapi Design System - design principles and guidelines",
                   "type": "url",
                   "url": "https://design-system.strapi.io/"
+               }, {
+                  "date_added": "13308220391052267",
+                  "guid": "8387ab36-743a-42f6-be52-ecc95ccb060c",
+                  "id": "1322",
+                  "name": "Introducing the Strapi UI Kit: an open design library of components",
+                  "type": "url",
+                  "url": "https://strapi.io/blog/introducing-strapi-ui-kit"
                } ],
                "date_added": "13308220386266926",
-               "date_modified": "13308220388072970",
+               "date_modified": "13308220391052267",
                "guid": "0f6b1d16-a4e3-4740-9554-7fc1553105f2",
                "id": "1320",
                "name": "New Strapi v4 Features",
