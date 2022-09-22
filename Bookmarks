@@ -1,5 +1,5 @@
 {
-   "checksum": "50851ec7b705bcf6522e8bee25d64516",
+   "checksum": "d542e088b14c817196dc41d5373f5f3a",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6021,9 +6021,16 @@
                   "name": "Vue Store Front",
                   "type": "url",
                   "url": "https://www.vuestorefront.io/"
+               }, {
+                  "date_added": "13296198335574566",
+                  "guid": "1eae8c13-32dc-40f4-9cd2-b3a02f7e179b",
+                  "id": "1030",
+                  "name": "Reactivity Fundamentals | Vue.js",
+                  "type": "url",
+                  "url": "https://vuejs.org/guide/essentials/reactivity-fundamentals.html"
                } ],
                "date_added": "13308327382276342",
-               "date_modified": "13308327473122450",
+               "date_modified": "13308327483905905",
                "guid": "1655ac6e-46b0-4a2d-8a25-e630bc930f34",
                "id": "1334",
                "name": "Libraries",
@@ -6128,13 +6135,6 @@
                "name": "Things I’ve learned from writing a lot of unit tests | by bytedev | Medium",
                "type": "url",
                "url": "https://medium.com/@bytedev/things-ive-learned-from-writing-a-lot-of-unit-tests-2d234d0cfccf"
-            }, {
-               "date_added": "13296198335574566",
-               "guid": "1eae8c13-32dc-40f4-9cd2-b3a02f7e179b",
-               "id": "1030",
-               "name": "Reactivity Fundamentals | Vue.js",
-               "type": "url",
-               "url": "https://vuejs.org/guide/essentials/reactivity-fundamentals.html"
             }, {
                "date_added": "13296650435374368",
                "guid": "e1b36c5c-7c1c-4476-8bb7-64988f03c237",
