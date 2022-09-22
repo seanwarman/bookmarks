@@ -1,5 +1,5 @@
 {
-   "checksum": "24376d1b19e89e7a9c5c47f38f8db465",
+   "checksum": "7531a33f5d560af2914e58635d6254af",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5964,6 +5964,14 @@
                "type": "url",
                "url": "https://www.chromatic.com/"
             }, {
+               "children": [  ],
+               "date_added": "13308327353104693",
+               "date_modified": "13308327353104693",
+               "guid": "4899f596-a554-43b5-8423-2ed12aab2e86",
+               "id": "1333",
+               "name": "Figma",
+               "type": "folder"
+            }, {
                "date_added": "13295010281193571",
                "guid": "db916321-f23c-4a48-94a7-f8ca265730a1",
                "id": "976",
@@ -6141,7 +6149,7 @@
                "url": "https://www.figma.com/file/TU7n3pEHWIV5rWZUcUboOP/Ready-for-dev?node-id=3576%3A14518"
             } ],
             "date_added": "13295010279012681",
-            "date_modified": "13308327328964719",
+            "date_modified": "13308327353104895",
             "guid": "7dd5d895-6782-4ed8-9063-2b8990eecb6a",
             "id": "975",
             "name": "TRD",
