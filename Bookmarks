@@ -1,5 +1,5 @@
 {
-   "checksum": "96c8038623dfd87fbccc4bdcebf8e729",
+   "checksum": "24376d1b19e89e7a9c5c47f38f8db465",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6144,7 +6144,7 @@
             "date_modified": "13308327328964719",
             "guid": "7dd5d895-6782-4ed8-9063-2b8990eecb6a",
             "id": "975",
-            "name": "TRD-002",
+            "name": "TRD",
             "type": "folder"
          }, {
             "children": [ {
