@@ -1,5 +1,5 @@
 {
-   "checksum": "acea2677195ec0be2fc5a00c380aabac",
+   "checksum": "aa98397c71a0798f0292cc8ebfdeb911",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4695,7 +4695,7 @@
                "date_modified": "13308395624301400",
                "guid": "73dca30c-53fb-4177-9e6d-25dcde21eee6",
                "id": "598",
-               "name": "VIE-088",
+               "name": "VIE",
                "type": "folder"
             }, {
                "children": [ {
