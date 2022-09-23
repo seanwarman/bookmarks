@@ -1,5 +1,5 @@
 {
-   "checksum": "8c4dc81f20dc36c9804b665cc9f3f9f0",
+   "checksum": "b9a8bf7d1327074f8d84b9f687e007bf",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5304,14 +5304,7 @@
                "name": "AEM",
                "type": "folder"
             }, {
-               "children": [ {
-                  "date_added": "13292956477701680",
-                  "guid": "50de58f2-93ec-4407-888d-1a18f77c28b8",
-                  "id": "897",
-                  "name": "Internal Training Topics",
-                  "type": "url",
-                  "url": "https://nomensa-my.sharepoint.com/personal/swarman_nomensa_com/Lists/Internal%20Training%20Topics/AllItems.aspx?env=WebViewList&origin=createList"
-               } ],
+               "children": [  ],
                "date_added": "13292956493090387",
                "date_modified": "13293101057801969",
                "guid": "008586c7-4c8d-4758-afe5-267641a71599",
@@ -5913,9 +5906,16 @@
                "name": "Research Services",
                "type": "url",
                "url": "https://nomensa.sharepoint.com/sites/Templates/SitePages/Research-Services.aspx"
+            }, {
+               "date_added": "13292956477701680",
+               "guid": "50de58f2-93ec-4407-888d-1a18f77c28b8",
+               "id": "897",
+               "name": "Internal Training Topics",
+               "type": "url",
+               "url": "https://nomensa-my.sharepoint.com/personal/swarman_nomensa_com/Lists/Internal%20Training%20Topics/AllItems.aspx?env=WebViewList&origin=createList"
             } ],
             "date_added": "13286366775444484",
-            "date_modified": "13307107415164407",
+            "date_modified": "13308395686352601",
             "guid": "e3e8d46f-da21-4a9c-b5ef-9d8dbd748676",
             "id": "804",
             "name": "General",
