@@ -1,5 +1,5 @@
 {
-   "checksum": "b9a8bf7d1327074f8d84b9f687e007bf",
+   "checksum": "57e6c9548d099ab6052fd8e9385f95f3",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5302,14 +5302,6 @@
                "guid": "5a7736bc-1238-494a-b0dc-d164b3ca0a01",
                "id": "673",
                "name": "AEM",
-               "type": "folder"
-            }, {
-               "children": [  ],
-               "date_added": "13292956493090387",
-               "date_modified": "13293101057801969",
-               "guid": "008586c7-4c8d-4758-afe5-267641a71599",
-               "id": "898",
-               "name": "Clear Review",
                "type": "folder"
             }, {
                "children": [ {
