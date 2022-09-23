@@ -1,5 +1,5 @@
 {
-   "checksum": "d08cffb1fdf00fd000e5f0f1786da36e",
+   "checksum": "8c4dc81f20dc36c9804b665cc9f3f9f0",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5775,7 +5775,7 @@
                "date_modified": "13307548448264736",
                "guid": "8224f695-59b8-4d6e-8360-aec47c0bc232",
                "id": "1211",
-               "name": "Pardot Email Template",
+               "name": "Sales",
                "type": "folder"
             } ],
             "date_added": "13283944001594182",
