@@ -1,5 +1,5 @@
 {
-   "checksum": "15bb75778468f3a69e09da0db2260123",
+   "checksum": "b91abcfa6f9031032577f3412dea1212",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6793,12 +6793,20 @@
                "type": "url",
                "url": "https://datastudio.google.com/reporting/b77fbcf0-7103-4074-9b63-1023512d7017/page/zzgMB"
             }, {
-               "date_added": "13308408042345551",
-               "guid": "9d3b0207-ada2-4ec2-8b3b-c963b05c4d74",
-               "id": "1339",
-               "name": "@nuxtjs/gtm - npm",
-               "type": "url",
-               "url": "https://www.npmjs.com/package/@nuxtjs/gtm"
+               "children": [ {
+                  "date_added": "13308408042345551",
+                  "guid": "9d3b0207-ada2-4ec2-8b3b-c963b05c4d74",
+                  "id": "1339",
+                  "name": "@nuxtjs/gtm - npm",
+                  "type": "url",
+                  "url": "https://www.npmjs.com/package/@nuxtjs/gtm"
+               } ],
+               "date_added": "13308408053240828",
+               "date_modified": "13308408053241057",
+               "guid": "a22ece78-e79c-4256-8b8d-988ae59aa64e",
+               "id": "1340",
+               "name": "SEO",
+               "type": "folder"
             } ],
             "date_added": "13299688768234670",
             "date_modified": "13308408042345551",
