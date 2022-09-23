@@ -1,5 +1,5 @@
 {
-   "checksum": "7cd5d815967af29864a197b336828489",
+   "checksum": "aa2a64bc765d20d8d747f6b7e97006c1",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5154,9 +5154,16 @@
                   "id": "1022",
                   "name": "AEM Headless",
                   "type": "folder"
+               }, {
+                  "date_added": "13308405925578574",
+                  "guid": "a6545f97-4a7e-4fc7-8fa0-f6162d0c5c9f",
+                  "id": "1338",
+                  "name": "Analytics, Online Whiteboard for Visual Collaboration",
+                  "type": "url",
+                  "url": "https://miro.com/app/board/uXjVPUX44IU=/"
                } ],
                "date_added": "13281554809024232",
-               "date_modified": "13308395835889828",
+               "date_modified": "13308405925578574",
                "guid": "73dca30c-53fb-4177-9e6d-25dcde21eee6",
                "id": "598",
                "name": "VIE",
