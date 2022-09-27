@@ -1,5 +1,5 @@
 {
-   "checksum": "a3ce59f661e781ae28a0b03b7f88e3ef",
+   "checksum": "eeffb7b3c453f056aaca0f84407eb645",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5353,9 +5353,16 @@
                   "id": "673",
                   "name": "AEM",
                   "type": "folder"
+               }, {
+                  "date_added": "13308765678050910",
+                  "guid": "f0b9b62a-6721-4b6b-8a02-7238d8c2ec39",
+                  "id": "1342",
+                  "name": "Alert - Default Alert ⋅ Storybook",
+                  "type": "url",
+                  "url": "http://localhost:9001/?path=/story/alert--default-alert"
                } ],
                "date_added": "13281554809024232",
-               "date_modified": "13308749580523808",
+               "date_modified": "13308765678050910",
                "guid": "73dca30c-53fb-4177-9e6d-25dcde21eee6",
                "id": "598",
                "name": "VIE",
