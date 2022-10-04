@@ -1,5 +1,5 @@
 {
-   "checksum": "5983e156817fe7d90f5c467031245ce0",
+   "checksum": "2baaf9d671750bf8a646ae4a33261cc3",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -5561,7 +5561,7 @@
                   "date_last_used": "13309347551276036",
                   "guid": "68b0f9d6-e2bb-4716-bc52-e89858e47629",
                   "id": "1221",
-                  "name": "Server error",
+                  "name": "Test",
                   "type": "url",
                   "url": "https://test.hie.nomensa.xyz/dmrb/"
                }, {
