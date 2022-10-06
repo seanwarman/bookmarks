@@ -1,5 +1,5 @@
 {
-   "checksum": "8e750cfda77b5f1373075a859ede10a9",
+   "checksum": "2b94b2d6879815dfa03008d241b1baa6",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -6134,10 +6134,18 @@
                   "name": "Google Tag Manager - Test",
                   "type": "url",
                   "url": "https://tagmanager.google.com/?authuser=1#/container/accounts/6000807719/containers/94285651/workspaces/2"
+               }, {
+                  "date_added": "13309535587269837",
+                  "date_last_used": "0",
+                  "guid": "d9b7624b-75be-4438-ad92-097753d70ad9",
+                  "id": "1348",
+                  "name": "Bitrise - Mobile DevOps automation, and mobile CI/CD",
+                  "type": "url",
+                  "url": "https://www.bitrise.io/"
                } ],
                "date_added": "13308408053240828",
                "date_last_used": "0",
-               "date_modified": "13309446951345146",
+               "date_modified": "13309535587269837",
                "guid": "a22ece78-e79c-4256-8b8d-988ae59aa64e",
                "id": "1340",
                "name": "SEO",
