@@ -1,5 +1,5 @@
 {
-   "checksum": "f8c6e5541393a1a78a7b5eebc87eb87c",
+   "checksum": "2b54c7b5ee332afc473e3037d8e8f06d",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4469,7 +4469,7 @@
                "meta_info": {
                   "power_bookmark_meta": ""
                },
-               "name": "Cron expression generator by Cronhub",
+               "name": "Cron expression generator",
                "type": "url",
                "url": "https://crontab.cronhub.io/"
             } ],
