@@ -1,5 +1,5 @@
 {
-   "checksum": "3b7549a6960782be3de96ed002e3b7c5",
+   "checksum": "f8c6e5541393a1a78a7b5eebc87eb87c",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -4461,10 +4461,21 @@
                "name": "AWK One Liners",
                "type": "url",
                "url": "https://www.pement.org/awk/awk1line.txt"
+            }, {
+               "date_added": "13314792146046550",
+               "date_last_used": "0",
+               "guid": "fa27ef15-dc8e-4035-a5ab-bf7aebdb50fb",
+               "id": "1407",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Cron expression generator by Cronhub",
+               "type": "url",
+               "url": "https://crontab.cronhub.io/"
             } ],
             "date_added": "13277233018935107",
             "date_last_used": "0",
-            "date_modified": "13314109773270869",
+            "date_modified": "13314792146046550",
             "guid": "460e0d6f-fc4c-459a-9e3a-7fe9169d4a93",
             "id": "176",
             "name": "Personal",
