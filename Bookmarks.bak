@@ -9441,7 +9441,7 @@
          }, {
             "children": [ {
                "date_added": "13319101615400354",
-               "date_last_used": "0",
+               "date_last_used": "13322301160189651",
                "guid": "27216c31-4e58-4327-b3b7-914cea267faf",
                "id": "1565",
                "meta_info": {
@@ -9452,7 +9452,7 @@
                "url": "https://www.coursera.org/learn/algorithmic-thinking-1"
             }, {
                "date_added": "13319101635035436",
-               "date_last_used": "0",
+               "date_last_used": "13322301176253009",
                "guid": "2e90c9b5-66a9-4492-99e6-1e4febc94c44",
                "id": "1567",
                "meta_info": {
@@ -9474,7 +9474,7 @@
                "url": "https://app.codility.com/demo/take-sample-test/"
             }, {
                "date_added": "13319101639454605",
-               "date_last_used": "0",
+               "date_last_used": "13322301191606598",
                "guid": "ed81cc4a-2a33-496b-8c43-74e1b9c28d2c",
                "id": "1569",
                "meta_info": {
